@@ -1,4 +1,5 @@
 <% @shelves = ["All books", "Read", "Unread", "My epic novels shelf"] %>
+<% @shelf_books = [0,1,2,3,4] %>
 
 
 
@@ -37,12 +38,25 @@
       </div>
     </div>
     <div class="mb-2">
-      <h2>Recommended Books</h2>
+      <h2>Your shelves</h2>
+      <% @shelves.each do |shelf| %>
+        <h3><%= shelf %></h3>
+        <div class="row">
+          <% @shelf_books.each do |book| %>
+            <div class="col-4 col-lg-2">
+              <div class="container">
+                <div class="shadow rounded-3">
+                  <p>A book</p>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
     </div>
 
 
 
-    </div>
   <% else %>
     <h1>You aren't logged in</h1>
     <div class="d-flex mx-2">
