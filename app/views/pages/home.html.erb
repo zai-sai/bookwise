@@ -18,7 +18,9 @@
           <div class="col-6 col-lg-3 mb-3">
             <div class="container">
               <div class="shadow rounded-3 px-4 py-3">
-                <p class="m-0"><%= shelf %></p>
+                <%= link_to shelf_path(shelf) do %>
+                  <p class="m-0"><%= shelf %></p>
+                <% end %>
               </div>
             </div>
           </div>
@@ -26,7 +28,9 @@
         <div class="col-6 col-lg-3 mb-3">
           <div class="container">
             <div class="shadow rounded-3 px-4 py-3">
-              <p class="m-0">Show all shelves...</p>
+              <%= link_to shelves_path do %>
+                <p class="m-0">Show all shelves...</p>
+              <% end %>
             </div>
           </div>
         </div>

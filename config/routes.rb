@@ -9,4 +9,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+  get "shelves/:id", to: "pages#home", as: :shelf
+  get "shelves", to: "pages#home", as: :shelves
 end
