@@ -1,4 +1,4 @@
-<% @shelves = [0,1,2,3] %>
+<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf"] %>
 
 
 
@@ -14,15 +14,22 @@
     <div class="mb-2">
       <h2>My library</h2>
       <div class="row">
-        <% @shelves.each do |shelf| %>
-          <div class="col-6 col-lg-3">
+        <% @shelves.first(4).each do |shelf| %>
+          <div class="col-6 col-lg-3 mb-3">
             <div class="container">
               <div class="shadow rounded-3 px-4 py-3">
-                <p class="m-0">Example shelf</p>
+                <p class="m-0"><%= shelf %></p>
               </div>
             </div>
           </div>
         <% end %>
+        <div class="col-6 col-lg-3 mb-3">
+          <div class="container">
+            <div class="shadow rounded-3 px-4 py-3">
+              <p class="m-0">Show all shelves...</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="mb-2">
