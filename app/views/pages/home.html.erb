@@ -41,7 +41,7 @@
       <h2>Your shelves</h2>
       <% @shelves.each do |shelf| %>
         <h3><%= shelf %></h3>
-        <div class="row flex-nowrap overflow-x-scroll" style="height: 150px;">
+        <div class="row flex-nowrap overflow-x-scroll scroll-hide" style="height: 200px;">
           <% @shelf_books.each do |book| %>
             <div class="col-4 col-lg-2 mb-3">
               <div class="container h-100">

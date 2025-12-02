@@ -1,1 +1,10 @@
 // Specific CSS for your home-page
+
+// Minimal custom css for scrollbar hiding
+.scroll-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+}
+.scroll-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
