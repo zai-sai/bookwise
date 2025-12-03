@@ -3,13 +3,8 @@ class User < ApplicationRecord
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
-<<<<<<< HEAD
-  has_many :user_books
   has_many :books, through: :user_books
-=======
-
   has_many :user_books, dependent: :destroy
-  has_many :books, through: :user_books
   has_many :shelves
 
   after_create :create_shelves
@@ -19,5 +14,4 @@ class User < ApplicationRecord
       shelf = Shelf.create!(user: self, name: shelf_name)
     end
   end
->>>>>>> 5fad6816e7750722a6f0feb6de70f23889eed567
 end
