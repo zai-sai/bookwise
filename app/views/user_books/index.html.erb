@@ -7,6 +7,8 @@
     Rating: <%= book.rating %><br>
 
     <%= link_to "Edit", edit_user_book_path(book) %>
+
+    <strong><%= book.user_books.where(user: current_user).first.status %></strong>
   </div>
   <hr>
 <% end %>

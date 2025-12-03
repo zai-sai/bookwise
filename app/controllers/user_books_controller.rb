@@ -7,7 +7,7 @@ class UserBooksController < ApplicationController
     @user_book = current_user.books.find(params[:id])
   end
 
-  def update
+  def update2
     @user_book = current_user.books.find(params[:id])
     if @user_book.update(user_book_params)
       redirect_to user_books_path
