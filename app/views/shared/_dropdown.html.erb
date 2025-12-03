@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-sm navbar-light">
+  <div class="container-fluid">
+
+    <div class="dropdown">
+      <button class="btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="fa-solid fa-bars fa-lg"></i>
+      </button>
+
+      <ul class="dropdown-menu">
+        <li><%= link_to home_path, class: "dropdown-item" do %>
+              <p><i class="fa-solid fa-folder-open me-2"></i>My library</p>
+          <% end %>
+        </li>
+        <li><%= link_to edit_user_registration_path, class: "dropdown-item" do %>
+              <p><i class="fa-solid fa-user me-2"></i>Edit account details</p>
+            <% end %>
+        </li>
+        <li><%= link_to destroy_user_session_path, data: {turbo_method: :delete}, class: "dropdown-item" do %>
+              <p><i class="fa-solid fa-right-from-bracket me-2"></i>Log out</p>
+            <% end %>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
