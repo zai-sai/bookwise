@@ -11,7 +11,7 @@
             <% if current_user %>
               <h1 class="modal-title fs-5" id="exampleModalLabel">Welcome, <%= current_user.username %></h1>
             <% else %>
-              <h1 class="modal-title fs-5 d-flex" id="exampleModalLabel">Welcome. You aren't logged in. <%= link_to "Log in", new_user_session_path, class: "btn btn-primary mx-2" %><%= link_to "Sign up", new_user_registration_path, class: "btn btn-secondary me-2" %></h1>
+              <h1 class="modal-title fs-5" id="exampleModalLabel">Welcome. <%= link_to "Log in", new_user_session_path, class: "btn btn-primary mx-2" %><%= link_to "Sign up", new_user_registration_path, class: "btn btn-secondary me-2" %></h1>
             <% end %>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
