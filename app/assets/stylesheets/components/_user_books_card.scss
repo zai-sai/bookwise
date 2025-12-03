@@ -1,0 +1,53 @@
+.books-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: space-around
+}
+
+.book-card {
+  display: flex;
+  background: peachpuff;
+  border-radius: 10px;
+  height: 210px;
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* Left side (book cover) */
+.book-left {
+  flex: 1;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-left-text {
+  text-align: center;
+  font-size: 14px;
+}
+
+/* Divider line */
+.book-divider {
+  width: 3px;
+  background: #b0b0b0;
+}
+
+/* Right side (book info) */
+.book-right {
+  flex: 1;
+  background: peachpuff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-right-text {
+  text-align: center;
+  font-size: 14px;
+  padding: 3px;
+}
