@@ -10,4 +10,8 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
   get "books/:id", to: "books#show", as: :book
+
+  # to make home page work for now
+  get "shelves/:id", to: "pages#home", as: :shelf
+  get "shelves", to: "pages#home", as: :shelves
 end
