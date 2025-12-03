@@ -1,5 +1,5 @@
 <%# to make home page work for now %>
-<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf"] %>
+<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf"] %>
 <% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
 
 
@@ -15,7 +15,7 @@
     </div>
     <div class="mb-2">
       <h2>My library</h2>
-      <div class="row">
+      <div class="row" data-controller="shelf-cards">
         <% @shelves.first(4).each do |shelf| %>
           <div class="col-6 col-lg-3 mb-3">
             <div class="container">
@@ -27,28 +27,42 @@
             </div>
           </div>
         <% end %>
+
+        <% @shelves[4..-1].each do |shelf| %>
+          <div class="col-6 col-lg-3 mb-3 d-none" data-shelf-cards-target="moreShelves">
+            <div class="container">
+              <div class="shadow rounded-3 px-4 py-3">
+                <%= link_to shelf_path(shelf) do %>
+                  <p class="m-0"><%= shelf %></p>
+                <% end %>
+              </div>
+            </div>
+          </div>
+        <% end %>
+
         <div class="col-6 col-lg-3 mb-3">
           <div class="container">
             <div class="shadow rounded-3 px-4 py-3">
-              <%= link_to shelves_path do %>
+              <%= link_to "#", data: { shelf_cards_target: "toggleLink", action: "click->shelf-cards#toggleShelves" } do %>
                 <p class="m-0">Show all shelves...</p>
               <% end %>
             </div>
           </div>
         </div>
+
+
+
       </div>
     </div>
     <div class="mb-2">
       <h2>Your shelves</h2>
       <% @shelves.each do |shelf| %>
         <h3><%= shelf %></h3>
-        <div class="row flex-nowrap overflow-x-scroll scroll-hide" style="height: 200px;">
+        <div class="row flex-nowrap overflow-x-scroll scroll-hide ps-5" style="height: 200px;">
           <% @shelf_books.each do |book| %>
-            <div class="col-4 col-lg-2 mb-3">
-              <div class="container h-100">
-                <div class="shadow rounded-3 h-100">
-                  <p>A book</p>
-                </div>
+            <div class="col-4 col-sm-4 col-md-3 col-lg-2 mb-3 me-2 flex-shrink-0">
+              <div class="shadow rounded-3 h-100">
+                <p>A book</p>
               </div>
             </div>
           <% end %>
