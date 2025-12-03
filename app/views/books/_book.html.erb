@@ -1,0 +1,35 @@
+<div class="bookcard col-6 col-sm-9">
+  <div class="book-cover">
+    <%= image_tag "sample_book_cover.jpg" %>
+    <%# TODO: Move this to be the close icon for the modal on popup and edit SCSS, and give clicking functionality %>
+    <i class="close-icon fa-solid fa-circle-xmark"></i>
+  </div>
+  <div class="info-under-cover">
+    <div class="rating">
+      <i class="fa-solid fa-star"></i>
+      <i class="fa-solid fa-star"></i>
+      <i class="fa-solid fa-star"></i>
+      <i class="fa-solid fa-star"></i>
+      <i class="fa-regular fa-star"></i>
+    </div>
+<%# TODO: add logic to calculate stars %>
+      <i class="fa-solid fa-circle-plus"></i>
+<%# TODO: add functionality to add book to shelf %>
+
+  </div>
+  <div class="book-title-buy">
+    <h2><%= @book.title %></h2>
+    <i class="fa-solid fa-bag-shopping"></i>
+<%# TODO: add functionality to click on basket to buy book %>
+
+  </div>
+<%# TODO: Add date-picker functionality %>
+  <div class="book-reading-dates">
+    <%= button_to "start date", {} %>
+    <%= button_to "end date", {} %>
+  </div>
+  <div class="book-author-description">
+    <p><strong>Author:</strong> <%= @book.author %></p>
+    <p><strong>Description:</strong>  <%= @book.description %></p>
+  </div>
+</div>

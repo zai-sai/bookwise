@@ -6,6 +6,7 @@
 
 <div class="container py-3">
   <% if current_user %>
+    <%= render "shared/search_bar" %>
     <div class="mb-2">
       <h2 class="mb-3">Your shelves</h2>
       <% @shelves.each do |shelf| %>
