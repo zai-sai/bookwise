@@ -1,0 +1,10 @@
+
+<%# Edit actions for my shelf %>
+
+<h3> <%= link_to 'Add to this bookshelf', add_to_shelf_path(@shelf) %></h3>
+
+
+<h3><%= link_to 'Edit this bookshelf', edit_shelf_path(@shelf) %></h3>
+
+
+<h3><%= link_to 'Delete this bookshelf', shelf_path(@shelf), method: :delete, data: { confirm: 'Are you sure?' } %></h3>
