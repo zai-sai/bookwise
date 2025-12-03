@@ -1,14 +1,24 @@
 <h1>My Books :)</h1>
 
-<% @user_books.each do |user_book| %>
-  <div>
-    <strong><%= user_book.title %></strong><br>
-    <%= user_book.author %><br>
-    Rating: <%# user_book.rating %><br>
+<div class="books-grid">
+  <% @user_books.each do |user_book| %>
+    <div class="book-card">
+      <div class="book-left">
+        <div class="book-left-text">
+          <p>Book<br>cover</p>
+        </div>
+      </div>
 
-    <%# link_to "Edit", edit_user_book_path(user_book) %>
+      <div class="book-divider"></div>
 
-    <strong><%= user_book.status %></strong>
-  </div>
-  <hr>
-<% end %>
+      <div class="book-right">
+        <div class="book-right-text">
+          <strong><%= user_book.title %></strong><br>
+          <%= user_book.author %><br>
+          <%= user_book.status %>
+          <%# link_to "Edit", edit_user_book_path(user_book) %>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>
