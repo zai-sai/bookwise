@@ -7,6 +7,13 @@
 <div class="container py-3">
   <% if current_user %>
     <div class="mb-2">
+      <div class="container">
+        <div class="shadow rounded-3 p-3">
+          <h4 class="m-0 text-center text-dark-emphasis">Search in your library...<i class="fa-solid fa-magnifying-glass ms-2 text-dark"></i></h4>
+        </div>
+      </div>
+    </div>
+    <div class="mb-2">
       <h2 class="mb-3">Your shelves</h2>
       <% @shelves.each do |shelf| %>
         <h3><%= shelf %></h3>
