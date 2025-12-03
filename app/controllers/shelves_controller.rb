@@ -13,6 +13,9 @@ class ShelvesController < ApplicationController
     end
   end
 
+  def edit
+  end
+
   private
 
   def shelf_params
