@@ -50,20 +50,6 @@ require "faker"
 #   end
 # end
 
-
-
-# Random Book Title
-Faker::Book.title #=> "The Odd Sister"
-
-# Random Author
-Faker::Book.author #=> "Alysha Olsen"
-
-# Random Publisher
-Faker::Book.publisher #=> "Opus Reader"
-
-# Random Genre
-Faker::Book.genre #=> "Mystery"
-
 image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder.png"
 100.times do
   Book.create!(
@@ -73,4 +59,16 @@ image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder
     description: "A great #{Faker::Book.genre} book",
     image_link:
   )
+end
+user = User.create!(username: "spongebob", email: "example@example.com", password: "password")
+
+
+["My Fantasy Shelf", "My Crime Shelf"].each do |shelf_name|
+  shelf = Shelf.create!(user: user, name: shelf_name)
+  (5..10).to_a.sample.times do
+    user_book = UserBook.create!(book: Book.all.sample, user: user, status: ["read", "unread"].sample)
+
+    ShelfBook.create!(shelf: shelf, user_book: user_book)
+
+  end
 end
