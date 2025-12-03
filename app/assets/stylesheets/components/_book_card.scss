@@ -1,0 +1,71 @@
+.bookcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+// <%# TODO: add right colors as per brand %>
+  border: solid;
+  padding: 10px;
+  border-radius: 7px;
+  background-color: white;
+  box-shadow: 2px 2px rgb(160, 160, 160);
+
+  .book-cover {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+  }
+
+  .book-cover img {
+    max-width: 100%;
+  }
+
+  .close-icon {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .close-icon::before {
+    font-size: 2rem;
+  }
+}
+
+.info-under-cover {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 6px;
+  width: 100%;
+}
+
+.book-title-buy {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 6px;
+}
+
+.book-author-description {
+  max-width: fit-content;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: smaller;
+}
+
+.book-reading-dates {
+// <%# TODO:add button styling %>
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 6px;
+  margin-top: 2px;
+  width: 100%;
+  gap: 8px;
+  font-size: smaller;
+}
