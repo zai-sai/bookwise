@@ -1,6 +1,6 @@
 class UserBooksController < ApplicationController
   def index
-  @user_books = current_user.books
+    @user_books = current_user.books
   end
 
   def edit
