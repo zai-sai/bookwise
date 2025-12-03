@@ -9,4 +9,13 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+
+  # index
+  get "/my_books", to: "user_books#index", as: "user_books"
+
+  # edit
+  get "/my_books/:id/edit", to: "user_books#edit", as: "edit_user_books"
+
+  # update
+  patch "/my_books/:id", to: "user_books#update", as: "user_book"
 end

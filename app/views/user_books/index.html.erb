@@ -1,0 +1,12 @@
+<h1>My Books :)</h1>
+
+<% @user_books.each do |book| %>
+  <div>
+    <strong><%= book.title %></strong><br>
+    <%= book.author %><br>
+    Rating: <%= book.rating %><br>
+
+    <%= link_to "Edit", edit_user_book_path(book) %>
+  </div>
+  <hr>
+<% end %>
