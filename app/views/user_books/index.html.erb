@@ -1,14 +1,15 @@
 <h1>My Books :)</h1>
 
-<% @user_books.each do |book| %>
+<% @user_books.each do |user_book| %>
+<% raise %>
   <div>
-    <strong><%= book.title %></strong><br>
-    <%= book.author %><br>
-    Rating: <%= book.rating %><br>
+    <strong><%= user_book.title %></strong><br>
+    <%= user_book.author %><br>
+    Rating: <%# user_book.rating %><br>
 
-    <%= link_to "Edit", edit_user_book_path(book) %>
+    <%# link_to "Edit", edit_user_book_path(user_book) %>
 
-    <strong><%= book.user_books.where(user: current_user).first.status %></strong>
+    <strong><%= user_book.status %></strong>
   </div>
   <hr>
 <% end %>
