@@ -18,4 +18,6 @@ Rails.application.routes.draw do
 
   # update
   patch "/my_books/:id", to: "user_books#update", as: "user_book"
+  resources :shelves, only: [:new, :create]
+  resources :books, only: [:show]
 end
