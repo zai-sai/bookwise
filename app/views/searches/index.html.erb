@@ -10,9 +10,14 @@
     <h5 class="text-center">SELECT ANY BOOK TO SAVE</h5>
   </div>
 
+
+
   <div class="mb-2 row">
     <% @results.each do |result| %>
-      <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px">
+
+
+    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px">
+      <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal">
         <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
           <div class="col-4 h-100">
             <div class="shadow rounded-3 h-100">
@@ -24,10 +29,66 @@
             <p>Book information</p>
           </div>
           <div class="col-2">
-            <i class="fa-solid fa-circle-plus fa-2xl"></i>
+            <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+
+    <div class="modal fade" id="bookCardModal" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="bookCardModalLabel">Modal title</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+
+            <%= render "books/book", book: result %>
+
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
       </div>
+    </div>
+
+
+    <div class="modal fade" id="addToShelfModal" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="addToShelfModalLabel">Which shelf do you want to add this book to?</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <% @shelves.each do |shelf| %>
+              <div class="shadow rounded-3 p-3 mb-3">
+                <h4 class="m-0 text-center text-dark-emphasis d-flex justify-content-between"><%= shelf %>
+                  <%= button_to shelf_books_path,
+                                method: :post,
+                                params: { shelf: shelf },
+                                class: "p-0 border-0 bg-transparent w-100" do %>
+                    <i class="fa-solid fa-circle-plus fa-2xl"></i>
+                  <% end %>
+                </h4>
+              </div>
+            <% end %>
+
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
     <% end %>
   </div>
 

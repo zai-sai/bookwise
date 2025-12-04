@@ -18,7 +18,7 @@
 
   </div>
   <div class="book-title-buy">
-    <h2><%= @book.title %></h2>
+    <h2><%= book.title %></h2>
     <i class="fa-solid fa-bag-shopping"></i>
 <%# TODO: add functionality to click on basket to buy book %>
 
@@ -29,7 +29,7 @@
     <%= button_to "end date", {} %>
   </div>
   <div class="book-author-description">
-    <p><strong>Author:</strong> <%= @book.author %></p>
-    <p><strong>Description:</strong>  <%= @book.description %></p>
+    <p><strong>Author:</strong> <%= book.author %></p>
+    <p><strong>Description:</strong>  <%= book.description %></p>
   </div>
 </div>
