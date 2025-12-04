@@ -1,0 +1,23 @@
+<h1>Search Results</h1>
+
+<% if @query.present? %>
+  <p>Results for "<%= @query %>":</p>
+
+  <% if @books.any? %>
+    <div class="#">
+      <% @books.each do |book| %>
+        <div class="book-card">
+          <h3><%= book.title %></h3>
+          <p><%= book.author%></p>
+          <p><%= book.author%></p>
+          <p><%= book.description%></p>
+        </div>
+      <% end %>
+    </div>
+  <% else %>
+    <p>No books found.</p>
+  <% end %>
+
+<% else %>
+  <p>Use the search bar to find books.</p>
+<% end %>
