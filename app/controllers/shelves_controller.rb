@@ -18,6 +18,20 @@ class ShelvesController < ApplicationController
     end
   end
 
+def add_to_collection
+  usersbooks = UserBook.where(user: current_user)
+  if usersbooks.include?(book: @book)
+    @user_book = usersbooks.find(book: @book)
+  else
+    @user_book = UserBook.new(@book, current_user)
+  end
+  @shelf = Shelf.find(params[:shelf_id])
+  @shelf_book = ShelfBook.new(@user_book, @shelf)
+  if @shelf_book.save
+    redirect_back fallback_location: root_path
+  end
+end
+
   def edit
     set_shelf
   end
@@ -30,6 +44,12 @@ class ShelvesController < ApplicationController
 
   def show
     set_shelf
+  end
+
+  def destroy
+    set_shelf
+    @shelf.destroy
+    redirect_to shelves_path, status: :see_other
   end
 
   private
