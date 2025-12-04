@@ -1,0 +1,34 @@
+<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf", "The Last Shelf"] %>
+<% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
+
+
+<div class="container py-3">
+  <%= render "shared/search_bar", placeholder: "What do you want to search for?" %>
+
+  <div class="mb-2 pt-3">
+    <h5 class="text-center"><%= @current_query.upcase %> SEARCH RESULTS</h5>
+    <h5 class="text-center">SELECT ANY BOOK TO SAVE</h5>
+  </div>
+
+  <div class="mb-2 row">
+    <% @results.each do |result| %>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px">
+        <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
+          <div class="col-4 h-100">
+            <div class="shadow rounded-3 h-100">
+              <p>Book cover</p>
+            </div>
+          </div>
+          <div class="col-6 h-100 py-3">
+            <h4>Book title</h4>
+            <p>Book information</p>
+          </div>
+          <div class="col-2">
+            <i class="fa-solid fa-circle-plus fa-2xl"></i>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
+
+</div>

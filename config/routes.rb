@@ -12,4 +12,5 @@ Rails.application.routes.draw do
   resources :shelves, only: [:new, :create, :edit]
   resources :books, only: [:show]
   resources :user_books, only: [:index, :edit, :update, :destroy], path: "my_books"
+  resources :searches, only: [:index]
 end
