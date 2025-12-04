@@ -11,7 +11,7 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
 
 
-  resources :shelves, only: [:new, :create, :edit, :show, :index] do
+  resources :shelves do
     collection do
       post :add_to_collection
     end
