@@ -1,9 +1,11 @@
 class SearchesController < ApplicationController
   def index
-    @query = params[:query]
+<<<<<<< HEAD
+    @current_query = params[:query]
+    @shelves = current_user.shelevs
 
     @books =
-    if @query.present?
+    if @current_query.present?
       Book.search_by_title_and_author(@query)
     else
       []
