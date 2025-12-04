@@ -2,8 +2,11 @@
   <%= render "shared/search_bar", placeholder: "What do you want to search for?" %>
 
   <div class="mb-2 pt-3">
-    <h5 class="text-center"><%= @current_query %> SEARCH RESULTS</h5>
-    <h5 class="text-center">SELECT ANY BOOK TO SAVE</h5>
+    <% if @current_query.blank? %>
+    <h5 class="text-left">No Results Found, search for a book dummy</h5>
+    <% else %>
+    <h5 class="text-left">Search Results - <strong><%= @current_query.capitalize %></strong></h5>
+    <% end %>
   </div>
 
 
