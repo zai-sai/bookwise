@@ -1,7 +1,6 @@
-<%= "Book show page" %>
-<ul>
-  <li><%= @book.title %></li>
-  <li><%= @book.author %></li>
-  <li><%= @book.description %></li>
-  <li><%= @book.image_link %></li>
-  </ul>
+<div class="bookcontainer">
+  <div class="row justify-content-center">
+  <%# TODO: pass in the instance variable of the book %>
+  <%= render "book" %>
+  </div>
+</div>

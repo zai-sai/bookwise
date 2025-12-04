@@ -1,2 +1,32 @@
-<h1>Pages#home</h1>
-<p>Find me in app/views/pages/home.html.erb</p>
+<%# to make home page work for now %>
+<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf", "The Last Shelf"] %>
+<% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
+
+
+
+<div class="container py-3">
+  <% if current_user %>
+    <%= render "shared/search_bar", placeholder: "Search in your library..." %>
+    <div class="mb-2">
+      <h2 class="mb-3">Your shelves</h2>
+      <% @shelves.each do |shelf| %>
+        <h3><%= shelf %></h3>
+        <div class="row flex-nowrap overflow-x-scroll scroll-hide mb-3" style="height: 200px;">
+          <% @shelf_books.each do |book| %>
+            <div class="col-4 col-sm-4 col-md-3 col-lg-2 mb-3 me-2 flex-shrink-0">
+              <div class="shadow rounded-3 h-100">
+                <p>A book</p>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  <% else %>
+    <h1>You aren't logged in</h1>
+    <div class="d-flex mx-2">
+      <%= link_to "Log in", new_user_session_path, class: "btn btn-primary me-2" %>
+      <%= link_to "Sign up", new_user_registration_path, class: "btn btn-secondary me-2" %>
+    </div>
+  <% end %>
+</div>

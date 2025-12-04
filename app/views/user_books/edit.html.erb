@@ -1,0 +1,9 @@
+<h1>Edit Book</h1>
+
+<%= simple_form_for @user_book, url: user_book_path(@user_book) do |f| %>
+  <%= f.input :title %>
+  <%= f.input :author %>
+  <%= f.input :rating %>
+
+  <%= f.button :submit, "Update Book" %>
+<% end %>
