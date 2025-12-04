@@ -14,6 +14,7 @@ class ShelvesController < ApplicationController
   end
 
   def edit
+    # Editing the name of one bookshelf
   end
 
   private
