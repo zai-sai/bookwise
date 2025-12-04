@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   devise_for :users
-  root to: "pages#home", as: :home
+  root to: "shelves#index", as: :home
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.
@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
 
 
-  resources :shelves, only: [:new, :create, :edit]
+  resources :shelves, only: [:new, :create, :edit, :show, :index]
   resources :books, only: [:show]
   resources :user_books, only: [:index, :edit, :update, :destroy], path: "my_books"
 end
