@@ -1,19 +1,15 @@
-<% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf", "The Last Shelf"] %>
-<% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
-
-
 <div class="container py-3">
   <%= render "shared/search_bar", placeholder: "What do you want to search for?" %>
 
   <div class="mb-2 pt-3">
-    <h5 class="text-center"><%= @current_query.upcase %> SEARCH RESULTS</h5>
+    <h5 class="text-center"><%= @current_query %> SEARCH RESULTS</h5>
     <h5 class="text-center">SELECT ANY BOOK TO SAVE</h5>
   </div>
 
 
 
   <div class="mb-2 row">
-    <% @results.each do |result| %>
+    <% @books.each do |book| %>
 
 
     <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px">
@@ -25,8 +21,9 @@
             </div>
           </div>
           <div class="col-6 h-100 py-3">
-            <h4>Book title</h4>
-            <p>Book information</p>
+            <h4><%= book.title %></h4>
+            <h4><%= book.author %></h4>
+            <p><%= book.description %></p>
           </div>
           <div class="col-2">
             <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal"></i>
@@ -45,7 +42,7 @@
           </div>
           <div class="modal-body">
 
-            <%= render "books/book", book: result %>
+            <%= render "books/book", book: book %>
 
 
           </div>
