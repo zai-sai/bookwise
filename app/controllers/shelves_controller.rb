@@ -1,4 +1,9 @@
 class ShelvesController < ApplicationController
+  def index
+    @shelves = Shelf.all
+    @shelf_books = current_user
+  end
+
   def new
     @shelf = Shelf.new
   end
@@ -14,11 +19,26 @@ class ShelvesController < ApplicationController
   end
 
   def edit
+    set_shelf
+  end
+
+  def update
+    set_shelf
+    @shelf.update(shelf_params)
+    redirect_to shelf_path(@shelf)
+  end
+
+  def show
+    set_shelf
   end
 
   private
 
   def shelf_params
-    params.require(:shelf).permit(:name)
+    params.require(:shelf).permit(:name, :id)
+  end
+
+  def set_shelf
+    @shelf = Shelf.find(params[:id])
   end
 end
