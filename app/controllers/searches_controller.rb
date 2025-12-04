@@ -1,8 +1,7 @@
 class SearchesController < ApplicationController
   def index
-<<<<<<< HEAD
     @current_query = params[:query]
-    @shelves = current_user.shelevs
+    @shelves = current_user.shelves
 
     @books =
     if @current_query.present?
