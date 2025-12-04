@@ -1,7 +1,20 @@
-<div class="mb-2">
-  <div class="container">
-    <div class="shadow rounded-3 p-3">
-      <h4 class="m-0 text-center text-dark-emphasis"><%= placeholder %><i class="fa-solid fa-magnifying-glass ms-2 text-dark"></i></h4>
+<%= form_with url: searches_path, method: :get do %>
+  <div class="mb-2">
+    <div class="container">
+      <div class="shadow rounded-pill p-3">
+        <h4>
+          <div class="m-0 text-center text-dark-emphasis d-flex">
+            <%= text_field_tag :query,
+                params[:query],
+                class: "form-control rounded-pill text-center",
+                placeholder: "Type a keyword"
+            %>
+            <button type="submit" class="btn btn-primary rounded-pill">
+              <i class="fa-solid fa-magnifying-glass  text-white"></i>
+            </button>
+          </div>
+        </h4>
+      </div>
     </div>
   </div>
-</div>
+<% end %>
