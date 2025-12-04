@@ -10,7 +10,6 @@
 require "open-uri"
 require "nokogiri"
 require "json"
-require "csv"
 require "faker"
 # books = []
 
