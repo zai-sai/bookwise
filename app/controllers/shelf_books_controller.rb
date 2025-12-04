@@ -6,7 +6,7 @@ class ShelfBooksController < ApplicationController
   def destroy
     # Removing a book from users shelf to this partcular shelf
     shelf_book = ShelfBook.find(params[:id])
-    shelf = shelf_book.shelf
+    @shelf = shelf_book.shelf
     shelf_book.destroy
     redirect_to edit_shelf_path(@shelf), status: :see_other
   end
