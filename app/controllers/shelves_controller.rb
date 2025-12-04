@@ -19,17 +19,26 @@ class ShelvesController < ApplicationController
   end
 
   def edit
-    # Editing the name of one bookshelf
+    set_shelf
+  end
+
+  def update
+    set_shelf
+    @shelf.update(shelf_params)
+    redirect_to shelf_path(@shelf)
   end
 
   def show
-    @shelf = Shelf.find(params[:id])
-    @shelf_books = @shelf.shelf_books
+    set_shelf
   end
 
   private
 
   def shelf_params
     params.require(:shelf).permit(:name, :id)
+  end
+
+  def set_shelf
+    @shelf = Shelf.find(params[:id])
   end
 end
