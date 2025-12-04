@@ -24,6 +24,7 @@ class ShelvesController < ApplicationController
 
   def show
     @shelf = Shelf.find(params[:id])
+    @shelf_books = @shelf.shelf_books
   end
 
   private
