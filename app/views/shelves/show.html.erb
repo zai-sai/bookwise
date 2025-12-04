@@ -1,9 +1,8 @@
 <div class="px-3">
-  <div class="d-flex align-items-center justify-content-between mb-3">
+  <div class="d-flex align-items-center justify-content-between m-4">
     <h1><%= @shelf.name %></h1>
     <%= render "shelf_actions", shelf: @shelf  %>
   </div>
-
 
   <div class="row row-cols-3 row-cols-lg-6 g-3">
     <% @shelf_books.each do |shelf_book| %>
