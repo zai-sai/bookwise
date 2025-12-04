@@ -8,7 +8,7 @@ class ShelfBooksController < ApplicationController
   end
 
   def destroy
-    # Removing a book from users shelf to this partcular shelf
+    # Removing a book from users shelf
     shelf_book = ShelfBook.find(params[:id])
     shelf = shelf_book.shelf
     shelf_book.destroy

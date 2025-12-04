@@ -30,6 +30,7 @@ class ShelvesController < ApplicationController
 
   def show
     set_shelf
+    @shelf_books = @shelf.shelf_books
   end
 
   private

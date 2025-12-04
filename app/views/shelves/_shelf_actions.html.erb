@@ -1,10 +1,27 @@
-
-<%# Edit actions for my shelf %>
-<%# To be continued once show page is created -----ignore for now %>
-<h3> <%= link_to 'Add to this bookshelf', add_to_shelf_path(@shelf) %></h3>
-
-
-<h3><%= link_to 'Edit this bookshelf', edit_shelf_path(@shelf) %></h3>
-
-
-<h3><%= link_to 'Delete this bookshelf', shelf_path(@shelf), method: :delete, data: { confirm: 'Are you sure?' } %></h3>
+<div class="shelf-action-dropdown">
+  <i class="fa-solid fa-ellipsis-vertical shelf-ellipsis-icon" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="10,20"></i>
+    <ul class="dropdown-menu shelf-dropdown-menu">
+      <li>
+        <%# TO BE DONE - ADD TO BOOKSHELF PATH ONCE SEARCH IS CREATED %>
+        <%= link_to '#', class: "dropdown-item d-flex gap-2 align-items-center" do %>
+          <i class="fa-solid fa-circle-plus"></i>
+          <p class="mb-0">Add to this bookshelf</p>
+          <% end %>
+      </li>
+      <li>
+        <%= link_to edit_shelf_path(shelf), class: "dropdown-item d-flex gap-2 align-items-center" do %>
+          <i class="fa-regular fa-pen-to-square"></i>
+          <p class="mb-0">Edit this bookshelf</p>
+          <% end %>
+      </li>
+      <li>
+        <%= link_to shelf_path(shelf),
+              data: { turbo_method: :delete,
+              turbo_confirm: "Are you sure you'd like to delete this bookshelf?"},
+              class: "dropdown-item d-flex gap-2 align-items-center" do %>
+          <i class="fa-solid fa-trash-can"></i>
+          <p class="mb-0">Delete this bookshelf</p>
+          <% end %>
+      </li>
+    </ul>
+  </div>
