@@ -2,7 +2,29 @@ import { Controller } from "@hotwired/stimulus"
 
 // Connects to data-controller="user-books-index"
 export default class extends Controller {
-  static targets = ["allBooks", "readBooks", "unreadBooks"];
+  static targets = ["allBooks", "readBooks", "unreadBooks", "book"];
+
+  showReadBooks() {
+    this.bookTargets.forEach((book) => {
+      const status = book.dataset.status;
+      if (status === "unread") {
+        book.classList.add("d-none");
+      } else {
+        book.classList.remove("d-none");
+      }
+    });
+  }
+
+  showUnreadBooks() {
+    this.bookTargets.forEach((book) => {
+      const status = book.dataset.status;
+      if (status === "read") {
+        book.classList.add("d-none");
+      } else {
+        book.classList.remove("d-none");
+      }
+    });
+  }
 
   showAllBooks() {
     this.allBooksTarget.classList.add("active");
@@ -13,6 +35,10 @@ export default class extends Controller {
 
     this.unreadBooksTarget.classList.remove("active");
     this.unreadBooksTarget.setAttribute("aria-pressed", "false");
+
+    this.bookTargets.forEach((book) => {
+      book.classList.remove("d-none");
+    });
   }
 
   toggleReadBooks() {
@@ -24,6 +50,7 @@ export default class extends Controller {
       this.readBooksTarget.classList.add("active");
       this.readBooksTarget.setAttribute("aria-pressed", "true");
 
+      this.showReadBooks();
     } else if (this.unreadBooksTarget.classList.contains("active")) {
       // => Unread Books -> Read Books
       this.unreadBooksTarget.classList.remove("active");
@@ -31,9 +58,11 @@ export default class extends Controller {
 
       this.readBooksTarget.classList.add("active");
       this.readBooksTarget.setAttribute("aria-pressed", "true");
+
+      this.showReadBooks();
     } else {
       // => Read Books -> All Books
-      this.showAllBooks()
+      this.showAllBooks();
     }
   }
 
@@ -45,6 +74,8 @@ export default class extends Controller {
 
       this.unreadBooksTarget.classList.add("active");
       this.unreadBooksTarget.setAttribute("aria-pressed", "true");
+
+      this.showUnreadBooks();
     } else if (this.readBooksTarget.classList.contains("active")) {
       // => Read Books -> Unread Books
       this.readBooksTarget.classList.remove("active");
@@ -52,9 +83,11 @@ export default class extends Controller {
 
       this.unreadBooksTarget.classList.add("active");
       this.unreadBooksTarget.setAttribute("aria-pressed", "true");
+
+      this.showUnreadBooks();
     } else {
       // => Unread Books -> All Books
-      this.showAllBooks()
+      this.showAllBooks();
     }
   }
 

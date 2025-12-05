@@ -1,11 +1,7 @@
 class UserBooksController < ApplicationController
   def index
-    @user_books = current_user.user_books
     @shelves = current_user.shelves
-
-    @all_books = @user_books.all
-    @read_books = @user_books.read
-    @unread_books = @user_books.unread
+    @user_books = current_user.user_books
   end
 
   def edit
