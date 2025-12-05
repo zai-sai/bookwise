@@ -4,11 +4,11 @@ class UserBooksController < ApplicationController
   end
 
   def edit
-    @user_book = current_user.books.find(params[:id])
+    @user_book = current_user.user_books.find(params[:id])
   end
 
   def update
-    @user_book = current_user.books.find(params[:id])
+    @user_book = current_user.user_books.find(params[:id])
     if @user_book.update(user_book_params)
       redirect_to user_books_path
     else

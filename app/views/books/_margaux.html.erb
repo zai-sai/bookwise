@@ -23,7 +23,7 @@
 <%# TODO: add functionality to click on basket to buy book %>
 
   </div>
-<%# TODO: Add date-picker functionality %>
+  <%# TODO: Add date-picker functionality %>
   <div class="book-reading-dates">
     <%= form_with model: UserBook.new, url: user_books_path, class: "w-100" do |f| %>
       <%= f.hidden_field :book_id, value: book.id %>
