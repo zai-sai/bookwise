@@ -31,7 +31,9 @@ def add_to_collection
   # end
   shelf_book = ShelfBook.new(user_book: user_book, shelf: shelf)
   if shelf_book.save
-    redirect_to home_path
+    render notice: "Book added successfully!"
+  else
+    render error: "Sorry, unable to add book."
   end
 end
 
