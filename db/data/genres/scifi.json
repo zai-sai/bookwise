@@ -423,34 +423,6 @@
       }
     },
     {
-      "key": "/works/OL20239852W",
-      "title": "Moppers Anonymous",
-      "edition_count": 2,
-      "cover_id": 8894502,
-      "cover_edition_key": "OL27434034M",
-      "subject": [
-        "dystopian",
-        "scifi",
-        "young adult"
-      ],
-      "ia_collection": [
-        ""
-      ],
-      "printdisabled": false,
-      "lending_edition": "",
-      "lending_identifier": "",
-      "authors": [
-        {
-          "key": "/authors/OL9872441A",
-          "name": "Jon Best"
-        }
-      ],
-      "first_publish_year": 2017,
-      "ia": null,
-      "public_scan": false,
-      "has_fulltext": false
-    },
-    {
       "key": "/works/OL21786570W",
       "title": "Petrovitch Trilogy",
       "edition_count": 2,
@@ -715,35 +687,6 @@
         "is_browseable": true,
         "__src__": "core.models.lending.get_availability"
       }
-    },
-    {
-      "key": "/works/OL24801206W",
-      "title": "Off Track",
-      "edition_count": 1,
-      "cover_id": 11566736,
-      "cover_edition_key": "OL32951832M",
-      "subject": [
-        "scifi",
-        "science fiction",
-        "speculative",
-        "metaphysical"
-      ],
-      "ia_collection": [
-        ""
-      ],
-      "printdisabled": false,
-      "lending_edition": "",
-      "lending_identifier": "",
-      "authors": [
-        {
-          "key": "/authors/OL9354472A",
-          "name": "Neil Bullock"
-        }
-      ],
-      "first_publish_year": 2021,
-      "ia": null,
-      "public_scan": false,
-      "has_fulltext": false
     },
     {
       "key": "/works/OL15344941W",

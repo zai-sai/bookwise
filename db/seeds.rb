@@ -100,7 +100,7 @@ def seed_from_apis
     firstitem = items[0]
     google_book = firstitem["volumeInfo"]
     book_title = google_book["title"]
-    book_author = google_book["authors"]
+    book_author = google_book["authors"][0]
     book_description = google_book["description"]
     book_links = google_book["imageLinks"]
     unless book_links.nil?
@@ -109,7 +109,7 @@ def seed_from_apis
       book_image_link = "no link found"
       # book_image_link = items[1]["volumeInfo"]["imageLinks"]["smallThumbnail"]
     end
-    Book.new(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
+    Book.create(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
   end
 end
 
