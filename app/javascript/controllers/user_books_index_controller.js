@@ -2,13 +2,14 @@ import { Controller } from "@hotwired/stimulus"
 
 // Connects to data-controller="user-books-index"
 export default class extends Controller {
-  static targets = ["allBooks", "readBooks", "unreadBooks", "book"];
+  static targets = ["allBooks", "readBooks", "unreadBooks", "book", "title123"];
 
   connect() {
     this.showAllBooks();
   }
 
   showReadBooks() {
+    this.title123Target.innerText="~ Read Books ~"
     this.bookTargets.forEach((book) => {
       const status = book.dataset.status;
       if (status === "unread") {
@@ -20,6 +21,7 @@ export default class extends Controller {
   }
 
   showUnreadBooks() {
+    this.title123Target.innerText="~ Unread Books ~"
     this.bookTargets.forEach((book) => {
       const status = book.dataset.status;
       if (status === "read") {
@@ -31,6 +33,7 @@ export default class extends Controller {
   }
 
   showAllBooks() {
+    this.title123Target.innerText="~ All Books ~"
     this.allBooksTarget.classList.add("active");
     this.allBooksTarget.setAttribute("aria-pressed", "true");
 
