@@ -4,14 +4,6 @@ import { Controller } from "@hotwired/stimulus"
 export default class extends Controller {
   static targets = ["allBooks", "readBooks", "unreadBooks"];
 
-  connect() {
-    console.log("Connected to userBooksIndexController");
-
-  }
-
-  toggleButtons() {
-  }
-
   showAllBooks() {
     this.allBooksTarget.classList.add("active");
     this.allBooksTarget.setAttribute("aria-pressed", "true");
@@ -21,8 +13,6 @@ export default class extends Controller {
 
     this.unreadBooksTarget.classList.remove("active");
     this.unreadBooksTarget.setAttribute("aria-pressed", "false");
-
-    console.log("All books");
   }
 
   toggleReadBooks() {
