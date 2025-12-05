@@ -13,7 +13,7 @@
           <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" height="300px" class="shadow-sm rounded-3">
         </button>
       </div>
-      <%= render "books/modal", book: shelf_book %>
+      <%= render "books/modal", book: shelf_book.book %>
     <% end %>
   <% else %>
     <p class="lead">This shelf is currently empty.</p>
