@@ -4,6 +4,10 @@ import { Controller } from "@hotwired/stimulus"
 export default class extends Controller {
   static targets = ["allBooks", "readBooks", "unreadBooks", "book"];
 
+  connect() {
+    this.showAllBooks();
+  }
+
   showReadBooks() {
     this.bookTargets.forEach((book) => {
       const status = book.dataset.status;
