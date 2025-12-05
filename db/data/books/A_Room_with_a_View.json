@@ -1,0 +1,762 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tEETAwAAQBAJ",
+      "etag": "1UEDi0I2258",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tEETAwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Room With A View (窗外有藍天)",
+        "authors": [
+          "E. M. Forster"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-02-25",
+        "description": "※ Google Play 圖書不支援多媒體播放 ※",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 989,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tEETAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tEETAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tEETAwAAQBAJ&printsec=frontcover&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tEETAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tEETAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tEETAwAAQBAJ&rdid=book-tEETAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_With_A_View_%E7%AA%97%E5%A4%96%E6%9C%89%E8%97%8D%E5%A4%A9-sample-epub.acsm?id=tEETAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_With_A_View_%E7%AA%97%E5%A4%96%E6%9C%89%E8%97%8D%E5%A4%A9-sample-pdf.acsm?id=tEETAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tEETAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "※ Google Play 圖書不支援多媒體播放 ※"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7cNaAAAAMAAJ",
+      "etag": "QpmdfZ0SVeE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7cNaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "A Room with a View",
+        "authors": [
+          "Edward Morgan Forster"
+        ],
+        "publishedDate": "1953",
+        "description": "A romantic story about an Englishwoman visiting Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015003675116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "British"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7cNaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7cNaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7cNaAAAAMAAJ&q=E.+M.+Forster+A+Room+with+a+View&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7cNaAAAAMAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_with_a_View.html?hl=&id=7cNaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7cNaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A romantic story about an Englishwoman visiting Italy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fJ0TDgAAQBAJ",
+      "etag": "uDNvJiQtrgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fJ0TDgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Room With A View",
+        "subtitle": "A Room with a View: E.M. Forster's Captivating Novel of Love, Identity, and Social Conventions",
+        "authors": [
+          "E. M. Forster"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "E. M. Forster's 1908 novel 'A Room with A View' narrates the story of a young woman in the restrained culture of Edwardian England. Set in Italy and England, the story is both a romance and a critique of English society at the beginning of the 20th century.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fJ0TDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fJ0TDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fJ0TDgAAQBAJ&printsec=frontcover&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fJ0TDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fJ0TDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fJ0TDgAAQBAJ&rdid=book-fJ0TDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_With_A_View-sample-epub.acsm?id=fJ0TDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_With_A_View-sample-pdf.acsm?id=fJ0TDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fJ0TDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "E. M. Forster&#39;s 1908 novel &#39;A Room with A View&#39; narrates the story of a young woman in the restrained culture of Edwardian England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gvgbzgEACAAJ",
+      "etag": "4rM7+58LQwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gvgbzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Room with a View by E. M. Forster",
+        "authors": [
+          "E M Forster"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-12-11",
+        "description": "Lucy Honeychurch, a young upper middle class woman, visits Italy under the charge of her older cousin Charlotte. At their pension, or guesthouse, in Florence, they are given rooms that look into the courtyard rather than out over the river Arno. Mr. Emerson, a fellow guest, generously offers them the rooms belonging to himself and his son George. Although Charlotte is offended by Mr. Emerson's lack of tact and propriety, she finally does agree to the switch. Lucy is an avid young pianist. Mr. Beebe, watches her passionate playing and predicts that someday she will live her life with as much gusto as she plays the piano.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798579991560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gvgbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gvgbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gvgbzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gvgbzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_with_a_View_by_E_M_Forster.html?hl=&id=gvgbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gvgbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lucy Honeychurch, a young upper middle class woman, visits Italy under the charge of her older cousin Charlotte."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y1UwzgEACAAJ",
+      "etag": "885nW//0cmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y1UwzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Room with a View Annotated Edition by E. M. Forster",
+        "authors": [
+          "E M Forster"
+        ],
+        "publishedDate": "2021-02-03",
+        "description": "Lucy Honeychurch, a young upper middle class woman, visits Italy under the charge of her older cousin Charlotte. At their pension, or guesthouse, in Florence, they are given rooms that look into the courtyard rather than out over the river Arno. Mr. Emerson, a fellow guest, generously offers them the rooms belonging to himself and his son George. Although Charlotte is offended by Mr. Emerson's lack of tact and propriety, she finally does agree to the switch. Lucy is an avid young pianist. Mr. Beebe, watches her passionate playing and predicts that someday she will live her life with as much gusto as she plays the piano.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798704127543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y1UwzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y1UwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y1UwzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y1UwzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_with_a_View_Annotated_Edition_by.html?hl=&id=y1UwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y1UwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lucy Honeychurch, a young upper middle class woman, visits Italy under the charge of her older cousin Charlotte."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z7I-EAAAQBAJ",
+      "etag": "QzIEpDXENa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z7I-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Room with a View (with Audio & Text)",
+        "authors": [
+          "E. M. Forster"
+        ],
+        "publisher": "East West Studio",
+        "publishedDate": "2021-08-20",
+        "description": "A Room with a View is a 1908 novel by English writer E. M. Forster, about a young woman in the restrained culture of Edwardian era England. Set in Italy and England, the story is both a romance and a humorous critique of English society at the beginning of the 20th century. Merchant Ivory produced an award-winning film adaptation in 1985. The Modern Library ranked A Room with a View 79th on its list of the 100 best English-language novels of the 20th century (1998).",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z7I-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z7I-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Z7I-EAAAQBAJ&printsec=frontcover&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Z7I-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Z7I-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.85,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.85,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Z7I-EAAAQBAJ&rdid=book-Z7I-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5850000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5850000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_with_a_View_with_Audio_Text-sample-epub.acsm?id=Z7I-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_with_a_View_with_Audio_Text-sample-pdf.acsm?id=Z7I-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z7I-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in Italy and England, the story is both a romance and a humorous critique of English society at the beginning of the 20th century. Merchant Ivory produced an award-winning film adaptation in 1985."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BiIvMQAACAAJ",
+      "etag": "qH9Zz4vSnMo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BiIvMQAACAAJ",
+      "volumeInfo": {
+        "title": "A Room with a View (English Edition)",
+        "authors": [
+          "E. M. Forster"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-21",
+        "description": "This Edwardian social comedy explores love and prim propriety among an eccentric cast of characters assembled in an Italian pensione and in a corner of Surrey, England.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541238532"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541238534"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BiIvMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BiIvMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BiIvMQAACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BiIvMQAACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_with_a_View_English_Edition.html?hl=&id=BiIvMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BiIvMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Edwardian social comedy explores love and prim propriety among an eccentric cast of characters assembled in an Italian pensione and in a corner of Surrey, England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OrwzEAAAQBAJ",
+      "etag": "edeFafzwe6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OrwzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Room with a View - E. M. Forster",
+        "authors": [
+          "E.M. Forster"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-06-30",
+        "description": "A Room with a View is a 1908 novel by English writer E. M. Forster, about a young woman in the restrained culture of Edwardian era England. Set in Italy and England, the story is both a romance and a humorous critique of English society at the beginning of the 20th century. Merchant Ivory produced an award-winning film adaptation in 1985.The Modern Library ranked A Room with a View 79th on its list of the 100 best English-language novels of the 20th century (1998).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985946310"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985946310"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OrwzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OrwzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OrwzEAAAQBAJ&printsec=frontcover&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OrwzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OrwzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OrwzEAAAQBAJ&rdid=book-OrwzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_with_a_View_E_M_Forster-sample-epub.acsm?id=OrwzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Room_with_a_View_E_M_Forster-sample-pdf.acsm?id=OrwzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OrwzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in Italy and England, the story is both a romance and a humorous critique of English society at the beginning of the 20th century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L9UKzgEACAAJ",
+      "etag": "yFREU3cZjok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L9UKzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Room With a View, By E.M. Forster",
+        "authors": [
+          "Edward Morgan Forster"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1087178817"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L9UKzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L9UKzgEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_With_a_View_By_E_M_Forster.html?hl=&id=L9UKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L9UKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k1XDzwEACAAJ",
+      "etag": "XGUHOxqz13k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k1XDzwEACAAJ",
+      "volumeInfo": {
+        "title": "A Room with a View (Translated)",
+        "subtitle": "English - French Bilingual Edition",
+        "authors": [
+          "E M Forster"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2023-03-19",
+        "description": "English: This fully translated edition of \"A Room with a View\" includes: Full translation of original text to French. Original language and translation presented together. \"A Room with a View\" is a charming novel by E. M. Forster that takes readers on a journey of self-discovery and romantic upheaval. Set in the early 20th century, the story follows Lucy Honeychurch, a young woman from an upper-class family who embarks on a trip to Florence with her chaperone. While there, Lucy meets the free-spirited George Emerson, and the two begin a flirtatious dance that challenges everything Lucy has been taught about love and social norms. The novel is a delightful exploration of love, identity, and the clash of cultures, all set against the stunning backdrop of Italy's lush countryside. With its memorable characters and timeless themes, \"A Room with a View\" remains a beloved classic to this day. This book is presented in English and French together, and is a great resource for those who are learning a new language. By reading the story in both languages, the reader can improve their language skills and build their vocabulary. Studies have shown that bilingualism can improve cognitive abilities such as problem-solving, critical thinking, and multitasking. Reading bilingual books can help to enhance these abilities. Overall, Lingo Libri books provide a range of benefits, from language learning to cultural awareness and cognitive development. They can be a valuable tool for anyone interested in improving their language skills. Français: Cette édition entièrement traduite de \"A Room with a View\" comprend: Traduction intégrale du texte original en français.. La langue originale et la traduction sont présentées ensemble. \"Une chambre avec vue\" est un charmant roman d'E. M. Forster qui entraîne les lecteurs dans un voyage de découverte de soi et de bouleversements amoureux. L'histoire, qui se déroule au début du XXe siècle, suit Lucy Honeychurch, une jeune femme issue d'une famille de la haute société, qui part en voyage à Florence avec son chaperon. Pendant son séjour, Lucy rencontre George Emerson, un homme à l'esprit libre, et tous deux entament une danse flirteuse qui remet en question tout ce que Lucy a appris sur l'amour et les normes sociales. Ce roman est une délicieuse exploration de l'amour, de l'identité et du choc des cultures, avec pour toile de fond la campagne luxuriante de l'Italie. Avec ses personnages mémorables et ses thèmes intemporels, \"Une chambre avec vue\" reste aujourd'hui encore un classique très apprécié. Ce livre est présenté à la fois en anglais et en français, et constitue une excellente ressource pour ceux qui apprennent une nouvelle langue. En lisant l'histoire dans les deux langues, le lecteur peut améliorer ses compétences linguistiques et enrichir son vocabulaire. Des études ont montré que le bilinguisme peut améliorer les capacités cognitives telles que la résolution de problèmes, la pensée critique et le travail multitâche. La lecture de livres bilingues peut contribuer à améliorer ces capacités. Dans l'ensemble, les livres de Lingo Libri offrent toute une série d'avantages, de l'apprentissage de la langue à la sensibilisation culturelle et au développement cognitif. Ils peuvent constituer un outil précieux pour toute personne désireuse d'améliorer ses compétences linguistiques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798387517860"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k1XDzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k1XDzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=k1XDzwEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=k1XDzwEACAAJ&dq=E.+M.+Forster+A+Room+with+a+View&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Room_with_a_View_Translated.html?hl=&id=k1XDzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k1XDzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is presented in English and French together, and is a great resource for those who are learning a new language. By reading the story in both languages, the reader can improve their language skills and build their vocabulary."
+      }
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "J04YAAAAYAAJ",
+      "etag": "HGo3nnq0XAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J04YAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Call of the Wild",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "1903",
+        "description": "The adventures of an unusual dog, part St. Bernard, part Scotch shepherd, that is forcibly taken to the Klondike gold fields where he eventually becomes the leader of a wolf pack.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN2P3T"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 249,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.10.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J04YAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J04YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=J04YAAAAYAAJ&printsec=frontcover&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J04YAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J04YAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=J04YAAAAYAAJ&rdid=book-J04YAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Call_of_the_Wild.epub?id=J04YAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Call_of_the_Wild.pdf?id=J04YAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1iLScbuJ7DpxljpYpfRQltsNH-xQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J04YAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The adventures of an unusual dog, part St. Bernard, part Scotch shepherd, that is forcibly taken to the Klondike gold fields where he eventually becomes the leader of a wolf pack."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CPJDAQAAMAAJ",
+      "etag": "AYpyneMtL8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CPJDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Call of the Wild",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435017709593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CPJDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CPJDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CPJDAQAAMAAJ&q=Jack+London+The+Call+of+the+Wild&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CPJDAQAAMAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild.html?hl=&id=CPJDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CPJDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0mPrEAAAQBAJ",
+      "etag": "S5OAo8qXH6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0mPrEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Call of the Wild",
+        "subtitle": "(Complete and Illustrated Unabridged Classic Edition)",
+        "authors": [
+          "Jack London"
+        ],
+        "publisher": "E-Kitap Projesi & Cheapest Books",
+        "publishedDate": "2024-01-02",
+        "description": "The Call of the Wild is a novel by American writer Jack London. The plot concerns a previously domesticated and even somewhat pampered dog named Buck, whose primordial instincts return after a series of events finds him serving as a sled dog in the treacherous, frigid Yukon during the days of the 19th century Klondike Gold Rushes. Published in 1903, The Call of the Wild is one of London's most-read books, and it is generally considered one of his best. Because the protagonist is a dog, it is sometimes classified as a juvenile novel, suitable for children, but it is dark in tone and contains numerous scenes of cruelty and violence. London followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from San Francisco named Weedon Scott.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786059496797"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6059496792"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0mPrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0mPrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0mPrEAAAQBAJ&printsec=frontcover&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0mPrEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0mPrEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0mPrEAAAQBAJ&rdid=book-0mPrEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Call_of_the_Wild-sample-epub.acsm?id=0mPrEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Call_of_the_Wild-sample-pdf.acsm?id=0mPrEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0mPrEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "London followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gYMstwEACAAJ",
+      "etag": "IkPeHBfIInw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gYMstwEACAAJ",
+      "volumeInfo": {
+        "title": "The Call of the Wild, by Jack London ...",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457555113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gYMstwEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gYMstwEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild_by_Jack_London.html?hl=&id=gYMstwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gYMstwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KjT-DwAAQBAJ",
+      "etag": "m8umutOY9dc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KjT-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Call of the Wild - Jack London (Stage-5)",
+        "authors": [
+          "Jack London"
+        ],
+        "publisher": "Maviçatı Yayınları",
+        "description": "Here is the ultimate dog story, one filled with emotion, adventure, and excitement. During the Gold Rush, Buck is snatched away from his peaceful home and brought to the harsh and bitter Yukon to become a sled dog. Will he adapt, and learn to trust men? Or will his newly awakened primitive instincts lead him to search for the freedom he has never known?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786052946060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6052946067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KjT-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KjT-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KjT-DwAAQBAJ&printsec=frontcover&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KjT-DwAAQBAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild_Jack_London_Stage_5.html?hl=&id=KjT-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Call_of_the_Wild_Jack_London_Stage_5-sample-pdf.acsm?id=KjT-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KjT-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here is the ultimate dog story, one filled with emotion, adventure, and excitement."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lAqT0QEACAAJ",
+      "etag": "akknWfleV8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lAqT0QEACAAJ",
+      "volumeInfo": {
+        "title": "CALL OF THE WILD",
+        "subtitle": "By Jack London",
+        "authors": [
+          "JACK. LONDON"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9798642732"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789798642739"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lAqT0QEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lAqT0QEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/CALL_OF_THE_WILD.html?hl=&id=lAqT0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lAqT0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2G0NzgEACAAJ",
+      "etag": "xCTp1oKkzwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2G0NzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Call of the Wild",
+        "authors": [
+          "Jack JACK LONDON"
+        ],
+        "publishedDate": "2020-06-20",
+        "description": "JACK LONDON",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798655615205"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2G0NzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2G0NzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild.html?hl=&id=2G0NzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2G0NzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "JACK LONDON"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U_FbzgEACAAJ",
+      "etag": "Wkwvszh/FK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U_FbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Call of The Wild (Annotated)",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-04",
+        "description": "The Call of The Wild - By Jack London The Call of the Wild is a novel by American writer Jack London. The plot concerns a previously domesticated and even somewhat pampered dog named Buck, whose primordial instincts return after a series of events finds him serving as a sled dog in the treacherous, frigid Yukon during the days of the 19th century Klondike Gold Rushes. Published in 1903, The Call of the Wild is one of London's most-read books, and it is generally considered one of his best. Because the protagonist is a dog, it is sometimes classified as a juvenile novel, suitable for children, but it is dark in tone and contains numerous scenes of cruelty and violence. London followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from San Francisco named Weedon Scott.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798731664813"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U_FbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U_FbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=U_FbzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U_FbzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_The_Wild_Annotated.html?hl=&id=U_FbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U_FbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "London followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GuSvzgEACAAJ",
+      "etag": "FgUrBwIyoV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GuSvzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Call of the Wild",
+        "subtitle": "The Call of the Wild by Jack London / Call of the Wild/ the Call of the Wild Kindle (Annotated)",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-08-25",
+        "description": "***************The Call of The Wild******************* The Call of the Wild is a short adventure novel by Jack London, published in 1903 and set in Yukon, Canada, during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. The central character of the novel is a dog named Buck. The story opens at a ranch in Santa Clara Valley, California, when Buck is stolen from his home and sold into service as a sled dog in Alaska.This classic book brings out the true spirit of the Gold Rush days at the turn of the last century and portrays the brutality, kindness, love, and folly that Jack London experienced during his time in the far north.The book has been adapted many times, most recently being the 2020 film starring Harrison Ford.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798464499256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GuSvzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GuSvzgEACAAJ&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild.html?hl=&id=GuSvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GuSvzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story opens at a ranch in Santa Clara Valley, California, when Buck is stolen from his home and sold into service as a sled dog in Alaska.This classic book brings out the true spirit of the Gold Rush days at the turn of the last century ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j6L-qusnoTUC",
+      "etag": "nJOH4O30HWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j6L-qusnoTUC",
+      "volumeInfo": {
+        "title": "The Call of the Wild",
+        "authors": [
+          "Jack London"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2000",
+        "description": "Stolen from his family, a dog named Buck must quickly learn the harsh law of survival among the men and dogs of the goldcrazed North. With an introduction by award-winning author, Avi.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0439227143"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780439227148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 29,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j6L-qusnoTUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j6L-qusnoTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j6L-qusnoTUC&printsec=frontcover&dq=Jack+London+The+Call+of+the+Wild&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j6L-qusnoTUC&dq=Jack+London+The+Call+of+the+Wild&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Call_of_the_Wild.html?hl=&id=j6L-qusnoTUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Call_of_the_Wild-sample-pdf.acsm?id=j6L-qusnoTUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j6L-qusnoTUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stolen from his family, a dog named Buck must quickly learn the harsh law of survival among the men and dogs of the goldcrazed North. With an introduction by award-winning author, Avi."
+      }
+    }
+  ]
+}

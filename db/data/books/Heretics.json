@@ -1,0 +1,743 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TrZzRPHz-F0C",
+      "etag": "rF8gouH4fXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TrZzRPHz-F0C",
+      "volumeInfo": {
+        "title": "Heretics",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2007-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781424507955"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1424507952"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TrZzRPHz-F0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TrZzRPHz-F0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TrZzRPHz-F0C&printsec=frontcover&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TrZzRPHz-F0C&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics.html?hl=&id=TrZzRPHz-F0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-epub.acsm?id=TrZzRPHz-F0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-pdf.acsm?id=TrZzRPHz-F0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TrZzRPHz-F0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "frvArQEACAAJ",
+      "etag": "i/QtjSBzgRc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/frvArQEACAAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "subtitle": "And Orthodoxy",
+        "authors": [
+          "G.k. Chesterton"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-09-09",
+        "description": "\"The human race, according to religion, fell once, and in falling gained knowledge of good and evil. Now we have fallen a second time, and only the knowledge of evil remains to us,\" G.K. Chesterton. Heretics Chesterton devotes each chapter of Heretics to a different writer or thinker. With his trademark elegance, he breaks down their ideas piece by piece. The chapter on H.G. Wells is as memorable as that of the British Chancellor of the Exchequer. Of Oscar Wilde, Chesterton pronounces: \"The same lesson [of the pessimistic pleasure seeker] was taught by the very powerful and very desolate philosophy of Oscar Wilde. It is the carpe diem religion, but the carpe diem religion is not the religion of happy people but of very unhappy people. Great joy does not gather the rosebuds while it may, its eyes are fixed on the immortal rose which Dante saw.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492386685"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492386681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=frvArQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=frvArQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=frvArQEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=frvArQEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics.html?hl=&id=frvArQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=frvArQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Heretics G.K. Chesterton &quot;The human race, according to religion, fell once, and in falling gained knowledge of good and evil. Now we have fallen a second time, and only the knowledge of evil remains to us,&quot; G.K. Chesterton."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "et9mDwAAQBAJ",
+      "etag": "7Q0cEm9ILgI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/et9mDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "subtitle": "eBook Edition",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publisher": "Jazzybee Verlag",
+        "publishedDate": "2017",
+        "description": "Mr. Gilbert Chesterton is quite on his own ground in writing essays about about Heretics. Such subjects as Kipling, Shaw, Whistler, H. G. Wells, the new paganism, and the importance of orthodoxy possess brilliancy enough in themselves to satisfy even this arch-priest of brilliancy in style.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783849650032"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3849650030"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=et9mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=et9mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=et9mDwAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=et9mDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=et9mDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.86,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.86,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=et9mDwAAQBAJ&rdid=book-et9mDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 860000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 860000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-epub.acsm?id=et9mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-pdf.acsm?id=et9mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=et9mDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr. Gilbert Chesterton is quite on his own ground in writing essays about about Heretics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FZSRswEACAAJ",
+      "etag": "zyFiPoCH/14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FZSRswEACAAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "subtitle": "A Collection of 20 Essays",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publishedDate": "2017-11-28",
+        "description": "Heretics by Gilbert K. Chesterton. Heretics is a collection of 20 essays originally published by G.K. Chesterton in 1905. Contents 1. Introductory Remarks on the Importance of Othodoxy 2. On the Negative Spirit 3. On Mr. Rudyard Kipling and Making the World Small 4. Mr. Bernard Shaw 5. Mr. H. G. Wells and the Giants 6. Christmas and the Esthetes 7. Omar and the Sacred Vine 8. The Mildness of the Yellow Press 9. The Moods of Mr. George Moore 10. On Sandals and Simplicity 11. Science and the Savages 12. Paganism and Mr. Lowes Dickinson 13. Celts and Celtophiles 14. On Certain Modern Writers and the Institution of the Family 15. On Smart Novelists and the Smart Set 16. On Mr. McCabe and a Divine Frivolity 17. On the Wit of Whistler 18. The Fallacy of the Young Nation 19. Slum Novelists and the Slums 20. Concluding Remarks on the Importance of Orthodoxy",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981231250"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981231256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FZSRswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FZSRswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FZSRswEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FZSRswEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics.html?hl=&id=FZSRswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FZSRswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Heretics by Gilbert K. Chesterton. Heretics is a collection of 20 essays originally published by G.K. Chesterton in 1905. Contents 1. Introductory Remarks on the Importance of Othodoxy 2. On the Negative Spirit 3."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j3o4vgEACAAJ",
+      "etag": "zvvVaS6XdFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j3o4vgEACAAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "authors": [
+          "Gilbert K Chesterton"
+        ],
+        "publishedDate": "2018-10-25",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1731700644"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781731700643"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j3o4vgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j3o4vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j3o4vgEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j3o4vgEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics.html?hl=&id=j3o4vgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j3o4vgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5TLnCgAAQBAJ",
+      "etag": "jWmzQb7sxig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5TLnCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "subtitle": "Chesterton Top Collection",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "谷月社",
+        "publishedDate": "2015-11-16",
+        "description": "I. Introductory Remarks on the Importance of Orthodoxy II. On the negative spirit III. On Mr. Rudyard Kipling and Making the World Small IV. Mr. Bernard Shaw V. Mr. H. G. Wells and the Giants VI. Christmas and the Aesthetes VII. Omar and the Sacred Vine VIII. The Mildness of the Yellow Press IX. The Moods of Mr. George Moore X. On Sandals and Simplicity XI Science and the Savages XII Paganism and Mr. Lowes Dickinson XIII. Celts and Celtophiles XIV On Certain Modern Writers and the Institution of the Family XV On Smart Novelists and the Smart Set XVI On Mr. McCabe and a Divine Frivolity XVII On the Wit of Whistler XVIII The Fallacy of the Young Nation XIX Slum Novelists and the Slums XX. Concluding Remarks on the Importance of Orthodoxy",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5TLnCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5TLnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5TLnCgAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5TLnCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5TLnCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5TLnCgAAQBAJ&rdid=book-5TLnCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-epub.acsm?id=5TLnCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heretics-sample-pdf.acsm?id=5TLnCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5TLnCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I. Introductory Remarks on the Importance of Orthodoxy II. On the negative spirit III."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_T-3DAEACAAJ",
+      "etag": "SHung/LREJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_T-3DAEACAAJ",
+      "volumeInfo": {
+        "title": "Heretics",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-06-09",
+        "description": "This superb collection of twenty essays by G.K. Chesterton sees the author rail against aspects of society he views as unfair and discriminatory. Starting with the terms 'Orthodoxy' and 'Heretic', Chesterton derides modern society for having denigrated these words to the extent that they are synonymous with being wrong, rather than being right. The attitude of modernity is argued to be both hypocritical and ridiculous - simultaneously lauding and destroying certain artists who would hold unusual beliefs and act on them. A quote from the first essay: \"In the fifteenth century men cross-examined and tormented a man because he preached some immoral attitude; in the nineteenth century we feted and flattered Oscar Wilde because he preached such an attitude, and then broke his heart in penal servitude because he carried it out. It may be a question which of the two methods was the more cruel; there can be no kind of question which was the more ludicrous. The age of the Inquisition has not at least the disgrace of having produced a society which made an idol of the very same man for preaching the very same things which it made him a convict for practising.\" Characterised by an easily digestible style, ready use and exposure of paradox, and the use of wit and humour, Chesterton's fiction and non-fiction writings on the topics of human behaviour and wider society remain both relevant and poignant to this day.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153369169X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533691699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_T-3DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_T-3DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_T-3DAEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_T-3DAEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics.html?hl=&id=_T-3DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_T-3DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This superb collection of twenty essays by G.K. Chesterton sees the author rail against things in society he views as unfair and discriminatory."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L43DtQEACAAJ",
+      "etag": "Ic6N6gvNjdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L43DtQEACAAJ",
+      "volumeInfo": {
+        "title": "The Three Apologies of G. K. Chesterton",
+        "subtitle": "Heretics, Orthodoxy and the Everlasting Man",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Mockingbird Press",
+        "publishedDate": "2018-04-02",
+        "description": "The three great apologies of G.K. Chesterton in one volume: Heretics, Orthodoxy & The Everlasting Man. Gilbert Keith Chesterton has become synonymous with modern Christian apologetics. But his impact goes beyond just those interested in a defense of Christian thought. His writings have influenced such diverse authors as C.S. Lewis, Marshall McLuhan, and Jorge Luis Borges, and remains a subtle and unseen presence in contemporary Catholic thought. At his funeral, Ronald Knox said \"All of this generation has grown up under Chesterton's influence so completely that we do not even know when we are thinking Chesterton.\" Before his conversion from atheism to knowing God, C.S. Lewis, the author of Mere Christianity & The Great Divorce, said \"in reading Chesterton, as in reading MacDonald, I did not know what I was letting myself in for. A young man who wishes to remain a sound atheist cannot be too careful of his reading. There are traps everywhere -\" Chesterton wrote in a time when materialism and new forms of political theory were soon to cause havoc in the western world. His was a voice calling for restraint - pointing back to the fundamentals of Christian doctrine, the purpose and value of which was being lost in the noise and commotion of the post industrial age. Describing the rush towards less familiar and attractive ideologies, Chesterton wrote: \"In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'\" Chesterton was a man who continually showed us the use of orthodoxy in Christianity - most of all in his three great apologies: Heretics, Orthodoxy & The Everlasting Man. In Heretics, he first points to the flaws in the beliefs of the moderns. In Orthodoxy, he defends the values handed down through millennium of Christian dogma. In The Everlasting Man, he tells the grand story of Christianity itself and the often ignored miracle of its appearance in the life of man. Chesterton was a great debater, often trading blows with modern thinkers such as George Bernard Shaw, H.G. Wells, Bertrand Russell and Clarence Darrow. He became known as the \"prince of paradox,\" He was also a prolific writer, producing biographies on St. Augustine and St. Francis, and touched on many of the varieties of religion in his writings. He wrote fiction as well, authoring the famous Father Brown books and the Man Who Was Thursday. Chesterton was certainly not the imitation of Christ in his personal life. A large man fond of food and drink, he was almost childlike in wonder of the magic of the world, while expressing the wit of an ancient. He gave no secret doctrine or systematic theology, but his \"goodness\" and basic \"common sense\" led many to the Church. One commenter stated: first you read C.S. Lewis, then Chesterton, then you become Catholic. Despite his less than temperate life, he is now under investigation by the Church for Beatification: such was his impact.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1946774308"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781946774309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L43DtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L43DtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L43DtQEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L43DtQEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Three_Apologies_of_G_K_Chesterton.html?hl=&id=L43DtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L43DtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Orthodoxy, he defends the values handed down through millennium of Christian dogma. In The Everlasting Man, he tells the grand story of Christianity itself and the often ignored miracle of its appearance in the life of man."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8tywzgEACAAJ",
+      "etag": "qJgdt5SSSWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8tywzgEACAAJ",
+      "volumeInfo": {
+        "title": "Gilbert Keith Chesterton Heretics Twenty Essays :19 Century Book(Illustrated Edition)",
+        "authors": [
+          "Gilbert Keith Gilbert Keith Chesterton"
+        ],
+        "publishedDate": "2021-08-06",
+        "description": "Heretics is a collection of 20 essays originally published by G. K. Chesterton in 1905. While the loci of the chapters of Heretics are personalities, the topics he debates are universal to the \"vague moderns\" of the 21st century century as it was to those of the 20th",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798451055571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8tywzgEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8tywzgEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gilbert_Keith_Chesterton_Heretics_Twenty.html?hl=&id=8tywzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8tywzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Heretics is a collection of 20 essays originally published by G. K. Chesterton in 1905."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vzu9DAEACAAJ",
+      "etag": "esx88ljiCik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vzu9DAEACAAJ",
+      "volumeInfo": {
+        "title": "Heretics (1905), by Gilbert K. Chesterton ( Is a Collection of 20 Essays ).",
+        "subtitle": "Gilbert Keith Chesterton",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-07-02",
+        "description": "Heretics is a collection of 20 essays originally published by G.K. Chesterton in 1905. Chapters Introductory Remarks on the Importance of Orthodoxy On the Negative Spirit On Mr. Rudyard Kipling and Making the World Small Mr. Bernard Shaw Mr. H. G. Wells and the Giants Christmas and the Esthetes Omar and the Sacred Vine The Mildness of the Yellow Press The Moods of Mr. George Moore On Sandals and Simplicity Science and the Savages Paganism and Mr. Lowes Dickinson Celts and Celtophiles On Certain Modern Writers and the Institution of the Family On Smart Novelists and the Smart Set On Mr. McCabe and a Divine Frivolity On the Wit of Whistler The Fallacy of the Young Nation Slum Novelists and the Slums Concluding Remarks on the Importance of Orthodoxy G. K. Chesterton, the \"Prince of Paradox,\" is at his witty best in this collection of twenty essays and articles from the turn of the twentieth century. Focusing on \"heretics\" - those who pride themselves on their superiority to Christian views - Chesterton appraises prominent figures who fall into that category from the literary and art worlds. Luminaries such as Rudyard Kipling, George Bernard Shaw, H. G. Wells, and James McNeill Whistler come under the author's scrutiny, where they meet with equal measures of his characteristic wisdom and good humor. In addition to incisive assessments of well-known individuals (\"Mr. Rudyard Kipling and Making the World Small\" and \"Mr. H. G. Wells and the Giants\"), these essays contain observations on the wider world. \"On Sandals and Simplicity,\" \"Science and the Savages,\" \"On Certain Modern Writers and the Institution of the Family,\" \"On Smart Novelists and the Smart Set,\" and \"Slum Novelists and the Slums\" reflect the main themes of Chesterton's life's work. Heretics roused the ire of some critics for censuring contemporary philosophies without providing alternatives; the author responded a few years later with a companion volume, Orthodoxy. Sardonic, jolly, and generous, both books are vintage Chesterton. He is criticizing those who hold incomplete and inadequate views about \"life, the universe, and everything.\" He is, in short, criticizing all that host of non-Christian views of reality, as he demonstrated in his follow-up book Orthodoxy. The book is both an easy read and a difficult read. But he manages to demonstrate, among other things, that our new 21st century heresies are really not new because he himself deals with most of them.... Gilbert Keith Chesterton, KC*SG (29 May 1874 - 14 June 1936), better known as G. K. Chesterton, was an English writer, poet, philosopher, dramatist, journalist, orator, lay theologian, biographer, and literary and art critic. Chesterton is often referred to as the \"prince of paradox.\"Time magazine has observed of his writing style: \"Whenever possible Chesterton made his points with popular sayings, proverbs, allegories-first carefully turning them inside out.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1535048859"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535048859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vzu9DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vzu9DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vzu9DAEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vzu9DAEACAAJ&dq=Gilbert+Keith+Chesterton+Heretics&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heretics_1905_by_Gilbert_K_Chesterton_Is.html?hl=&id=vzu9DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vzu9DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chapters Introductory Remarks on the Importance of Orthodoxy On the Negative Spirit On Mr. Rudyard Kipling and Making the World Small Mr. Bernard Shaw Mr. H. G. Wells and the Giants Christmas and the Esthetes Omar and the Sacred Vine The ..."
+      }
+    }
+  ]
+}

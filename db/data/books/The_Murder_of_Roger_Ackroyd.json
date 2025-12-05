@@ -1,0 +1,745 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1sLnzgEACAAJ",
+      "etag": "p+Tih6kl5zo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1sLnzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2022-01-10",
+        "description": "Hercule Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case. Includes a new introduction by Karl Wurf and an Agatha Christie bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1479471100"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781479471102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1sLnzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1sLnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1sLnzgEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1sLnzgEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=1sLnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1sLnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case. Includes a new introduction by Karl Wurf and an Agatha Christie bibliography."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_PlyYMKBjToC",
+      "etag": "apbREp2CUy8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_PlyYMKBjToC",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "subtitle": "A Hercule Poirot Novel",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Berkley",
+        "publishedDate": "2000",
+        "description": "Roger Ackroyd knew too much. He knew that the woman he loved had poisoned her brutal first husband. He suspected also that someone had been blackmailing her. Then he is stabbed to death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425176517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425176511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_PlyYMKBjToC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_PlyYMKBjToC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_PlyYMKBjToC&q=Agatha+Christie+The+Murder+of+Roger+Ackroyd&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_PlyYMKBjToC&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=_PlyYMKBjToC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_PlyYMKBjToC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roger Ackroyd knew too much. He knew that the woman he loved had poisoned her brutal first husband. He suspected also that someone had been blackmailing her. Then he is stabbed to death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZAQaOTyIP84C",
+      "etag": "K72qISe7LKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZAQaOTyIP84C",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd (Poirot)",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2010-10-14",
+        "description": "Agatha Christie’s most daring crime mystery – an early and particularly brilliant outing of Hercule Poirot, The Murder of Roger Ackroyd, with its legendary twist, changed the detective fiction genre for ever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007422548"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007422547"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.36.32.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZAQaOTyIP84C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZAQaOTyIP84C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZAQaOTyIP84C&printsec=frontcover&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZAQaOTyIP84C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZAQaOTyIP84C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZAQaOTyIP84C&rdid=book-ZAQaOTyIP84C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_of_Roger_Ackroyd_Poirot-sample-epub.acsm?id=ZAQaOTyIP84C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZAQaOTyIP84C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Agatha Christie’s most daring crime mystery – an early and particularly brilliant outing of Hercule Poirot, The Murder of Roger Ackroyd, with its legendary twist, changed the detective fiction genre for ever."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-QtSEAAAQBAJ",
+      "etag": "afpDUByB4bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-QtSEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Courier Dover Publications",
+        "publishedDate": "2022-01-12",
+        "description": "Voted by the British Crime Writers’ Association as the best crime novel ever written — and said to be Christie’s favorite of her novels — this suspenseful whodunit is the third book following detective Hercule Poirot, still stumping readers over ninety years after its initial publication.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486848723"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486848728"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-QtSEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-QtSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-QtSEAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-QtSEAAAQBAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=-QtSEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_of_Roger_Ackroyd-sample-pdf.acsm?id=-QtSEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-QtSEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Voted by the British Crime Writers’ Association as the best crime novel ever written—and said to be Christie’s favorite, The Murder of Roger Ackroyd is one of the first books featuring Poirot."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tG7iEAAAQBAJ",
+      "etag": "xTLgDg+LkjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tG7iEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "subtitle": "The Best Murder Mystery Novel of All Time",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2023-11-23",
+        "description": "The Murder of Roger Ackroyd is is the masterpiece of detective crime fiction and one of the most influential crime novel ever written. Hercule Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547730651"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tG7iEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tG7iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tG7iEAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tG7iEAAAQBAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=tG7iEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_of_Roger_Ackroyd-sample-epub.acsm?id=tG7iEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_of_Roger_Ackroyd-sample-pdf.acsm?id=tG7iEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tG7iEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Murder of Roger Ackroyd is is the masterpiece of detective crime fiction and one of the most influential crime novel ever written."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BcPyAAAAMAAJ",
+      "etag": "WcFzlpdupYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BcPyAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Who Killed Roger Ackroyd?",
+        "subtitle": "The Mystery Behind the Agatha Christie Mystery",
+        "authors": [
+          "Pierre Bayard"
+        ],
+        "publishedDate": "2000",
+        "description": "A psychoanalyst and literary scholar offers a re-reading of Agatha Christie's classic novel, \"The Murder of Roger Ackroyd,\" challenging Hercule Poirot's conclusions about the identity of the killer and presenting a new solution to the crime.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000078540709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BcPyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BcPyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BcPyAAAAMAAJ&q=Agatha+Christie+The+Murder+of+Roger+Ackroyd&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BcPyAAAAMAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Who_Killed_Roger_Ackroyd.html?hl=&id=BcPyAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BcPyAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In her most famous work, the murder of Roger Ackroyd, Agatha Christie confounded the conventions of the detective story by exposing her narrator as the killer. But Hercule Poirot&#39;s solution to the crime is a motiveless as it is impractical."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P4pFzwEACAAJ",
+      "etag": "g6CAyWKwrR0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P4pFzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd by Agatha Christie",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "1926-06",
+        "description": "Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case. The book's narrator, Dr James Sheppard, introduces himself and explains these are his memoirs of a murder which happened in his town. In King's Abbot, wealthy widow Mrs Ferrars unexpectedly commits suicide, distressing her fiancé the widower Roger Ackroyd. At dinner that evening in Ackroyd's home of Fernly Park, his guests include his sister-in-law Mrs Cecil Ackroyd and her daughter Flora, big-game hunter Major Blunt, Ackroyd's personal secretary Geoffrey Raymond, and Dr James Sheppard, whom Ackroyd invited earlier that day. During dinner, Flora announces her engagement to Ackroyd's stepson, Ralph Paton. After dinner, Ackroyd reveals to Sheppard in his study that Mrs Ferrars had confided in him that she was being blackmailed over the murder of her husband. He then asks Sheppard to leave, wishing to read a letter from Mrs Ferrars that arrives in the post, containing her suicide note. Once home, Sheppard receives a call and leaves for Fernly Park again, after informing his sister that Parker, Ackroyd's butler, has found Ackroyd murdered. But when Sheppard arrives at Fernly Park, Parker denies making such a call; yet he, Sheppard, Raymond and Blunt find Ackroyd dead in his study, stabbed to death with a weapon from his collection. Hercule Poirot, living in the village, comes out of retirement at Flora's request. She does not believe Paton killed Ackroyd, despite him disappearing and police finding his footprints on the study's window. Poirot learns a few important facts on the case: all in the household, except parlourmaid Ursula Bourne, have alibis for the murder; while Raymond and Blunt heard Ackroyd talking to someone after Sheppard left, Flora was the last to see him that evening; Sheppard met a stranger on his way home, at Fernly Park's gates; Ackroyd met a representative of a dictaphone company a few days earlier; Parker recalls seeing a chair that had been in an odd position in the study when the body was found, that has since returned to its original position; the letter from Mrs Ferrars has disappeared since the murder. Poirot asks Sheppard for the exact time he met his stranger. He later finds a goose quill and a scrap of starched cambric in the summer house, and a ring with the inscription \"From R\" in the backyard.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2382264217"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382264218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P4pFzwEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P4pFzwEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd_by_Agatha_Ch.html?hl=&id=P4pFzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P4pFzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case. The book&#39;s narrator, Dr James Sheppard, introduces himself and explains these are his memoirs of a murder which happened in his town."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "weDMJGr5G7EC",
+      "etag": "/SVNQbsa3Z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/weDMJGr5G7EC",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Berkley",
+        "publishedDate": "2000",
+        "description": "This is the Hercule Poirot novel that startled fans, polarized critics, shocked the Detection Club (of which Christie was a member) and solidified her reputation as the queen of crime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425173895"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425173893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=weDMJGr5G7EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=weDMJGr5G7EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=weDMJGr5G7EC&q=Agatha+Christie+The+Murder+of+Roger+Ackroyd&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=weDMJGr5G7EC&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=weDMJGr5G7EC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=weDMJGr5G7EC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the Hercule Poirot novel that startled fans, polarized critics, shocked the Detection Club (of which Christie was a member) and solidified her reputation as the queen of crime."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_YPbzgEACAAJ",
+      "etag": "VGbzf9mNC4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_YPbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "subtitle": "Agatha Christie 100th Anniversary Collection",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "SeaWolf Press",
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1956221859"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781956221855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_YPbzgEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_YPbzgEACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=_YPbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_YPbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement to solve the case.--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AFhYPwAACAAJ",
+      "etag": "V5RfJ+H3XIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AFhYPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Murder of Roger Ackroyd",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Berkley",
+        "publishedDate": "2004",
+        "description": "A widow's sudden suicide sparks rumors that she murdered her first husband, was being blackmailed, and was carrying on a secret affair with the wealthy Roger Ackroyd. The following evening, Ackroyd is murdered in his locked study, but not before receiving a letter identifying the widow's blackmailer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425200477"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425200476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AFhYPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AFhYPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AFhYPwAACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AFhYPwAACAAJ&dq=Agatha+Christie+The+Murder+of+Roger+Ackroyd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_of_Roger_Ackroyd.html?hl=&id=AFhYPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AFhYPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shattering traditions, this ingeniously tricky masterpiece startled fans, stunned critics, and has remained one of the most controversial mysteries ever written... Copyright © Libri GmbH. All rights reserved."
+      }
+    }
+  ]
+}

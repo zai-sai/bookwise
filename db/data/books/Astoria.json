@@ -1,0 +1,675 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "M-1cDwAAQBAJ",
+      "etag": "ajlZSkicw1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M-1cDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Astoria",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-05-23",
+        "description": "Reproduction of the original: Astoria by Washington Irving",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783732690299"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3732690296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 441,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M-1cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M-1cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M-1cDwAAQBAJ&printsec=frontcover&dq=Washington+Irving+Astoria&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=M-1cDwAAQBAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria.html?hl=&id=M-1cDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Astoria-sample-pdf.acsm?id=M-1cDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M-1cDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: Astoria by Washington Irving"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8atntAEACAAJ",
+      "etag": "FUg/zjDGrDQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8atntAEACAAJ",
+      "volumeInfo": {
+        "title": "Astoria by Washington Irving Unabridged 1835 Original Version",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "2017-07-24",
+        "description": "Astoria is a history book published in 1836 by Washington Irving. The full title being \"Astoria: Or, Enterprise Beyond the Rocky Mountains\". The book was commissioned by John Jacob Astor as an official history of his company's expedition to Oregon in 1810-1812. The book became a bestseller in 1836 and at the time was required reading in some schools",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973842297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973842293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8atntAEACAAJ&dq=Washington+Irving+Astoria&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8atntAEACAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria_by_Washington_Irving_Unabridged.html?hl=&id=8atntAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8atntAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was commissioned by John Jacob Astor as an official history of his company&#39;s expedition to Oregon in 1810-1812. The book became a bestseller in 1836 and at the time was required reading in some schools"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_Gl5jwEACAAJ",
+      "etag": "bAozijri2+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_Gl5jwEACAAJ",
+      "volumeInfo": {
+        "title": "Astoria",
+        "subtitle": "Or, Anecdotes of an Enterprise Beyond the Rocky Mountains",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Arkose Press",
+        "publishedDate": "2015-10-17",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "134477685X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781344776851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 694,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_Gl5jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_Gl5jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_Gl5jwEACAAJ&dq=Washington+Irving+Astoria&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_Gl5jwEACAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria.html?hl=&id=_Gl5jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_Gl5jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GsZz0AEACAAJ",
+      "etag": "xLx3SK34plk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsZz0AEACAAJ",
+      "volumeInfo": {
+        "title": "Astoria",
+        "subtitle": "Or, an Anecdotes of an Enterprise Beyond the Rocky Mountains/ Washington Irving",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1836",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:834325470"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GsZz0AEACAAJ&dq=Washington+Irving+Astoria&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GsZz0AEACAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria.html?hl=&id=GsZz0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsZz0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tAI9AAAAYAAJ",
+      "etag": "Hcibg/I9DUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tAI9AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HW1ZNC"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 714,
+        "printType": "BOOK",
+        "categories": [
+          "Astoria (Or.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tAI9AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tAI9AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tAI9AAAAYAAJ&printsec=frontcover&dq=Washington+Irving+Astoria&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tAI9AAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tAI9AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=tAI9AAAAYAAJ&rdid=book-tAI9AAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Astoria_Or_Anecdotes_of_an_Enterprise_Be.epub?id=tAI9AAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Astoria_Or_Anecdotes_of_an_Enterprise_Be.pdf?id=tAI9AAAAYAAJ&hl=&output=pdf&sig=ACfU3U1HNyd7AUWoFgF7TbBuUTb8w5CkiQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tAI9AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BJYZAAAAYAAJ",
+      "etag": "mTWzCF0PO08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BJYZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Works of Washington Irving",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN3NEK"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BJYZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BJYZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BJYZAAAAYAAJ&printsec=frontcover&dq=Washington+Irving+Astoria&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BJYZAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BJYZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BJYZAAAAYAAJ&rdid=book-BJYZAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Washington_Irving.epub?id=BJYZAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Washington_Irving.pdf?id=BJYZAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1749AcLiN3dZ4b6gV7hgBV70VJxg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BJYZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BWpozgEACAAJ",
+      "etag": "GMc2FEmTOOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BWpozgEACAAJ",
+      "volumeInfo": {
+        "title": "Astoria (Annotated)",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "2021-04-20",
+        "description": "Astoria Washington Irving examines the history of the Rocky Mountain Fur trade with a look at John Jacob Astor's American Fur Trade company.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798741366585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BWpozgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BWpozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BWpozgEACAAJ&dq=Washington+Irving+Astoria&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BWpozgEACAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria_Annotated.html?hl=&id=BWpozgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BWpozgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Astoria Washington Irving examines the history of the Rocky Mountain Fur trade with a look at John Jacob Astor&#39;s American Fur Trade company."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2ewqAQAAIAAJ",
+      "etag": "YsauWv9MNGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2ewqAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Works of Washington Irving: Astoria; or, Anecdotes of an enterprise beyond the Rocky Mountains",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1861",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3305433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2ewqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2ewqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2ewqAQAAIAAJ&printsec=frontcover&dq=Washington+Irving+Astoria&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2ewqAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2ewqAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2ewqAQAAIAAJ&rdid=book-2ewqAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Washington_Irving_Astoria_o.epub?id=2ewqAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Washington_Irving_Astoria_o.pdf?id=2ewqAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3jv96fwbsghr0ei3nXmn7riBmIug&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2ewqAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wCHJjgEACAAJ",
+      "etag": "Rjpc3eStcmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wCHJjgEACAAJ",
+      "volumeInfo": {
+        "title": "Astoria, Or Anecdotes of an Enterprise Beyond the Rocky Mountains",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Arkose Press",
+        "publishedDate": "2015-09-26",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1343532868"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781343532861"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wCHJjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wCHJjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wCHJjgEACAAJ&dq=Washington+Irving+Astoria&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wCHJjgEACAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria_Or_Anecdotes_of_an_Enterprise_Be.html?hl=&id=wCHJjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wCHJjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2t1aAAAAMAAJ",
+      "etag": "hEn+dgkXJYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2t1aAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Astoria",
+        "subtitle": "Or, Anecdotes of an Enterprize Beyond the Rocky Mountains",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Macmillan Reference USA",
+        "publishedDate": "1976",
+        "description": "A history book published in 1836 by Washington Irving. The book was commissioned by John Jacob Astor as an official history of his company's 1810-1812 Astor Expedition to Oregon.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015017674790"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2t1aAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2t1aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2t1aAAAAMAAJ&q=Washington+Irving+Astoria&dq=Washington+Irving+Astoria&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2t1aAAAAMAAJ&dq=Washington+Irving+Astoria&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astoria.html?hl=&id=2t1aAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2t1aAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A history book published in 1836 by Washington Irving. The book was commissioned by John Jacob Astor as an official history of his company&#39;s 1810-1812 Astor Expedition to Oregon."
+      }
+    }
+  ]
+}

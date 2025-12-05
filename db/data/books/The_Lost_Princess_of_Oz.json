@@ -1,0 +1,686 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RNwjzgEACAAJ",
+      "etag": "UzFqQuTSipk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RNwjzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-12-30",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798588560221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RNwjzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RNwjzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RNwjzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RNwjzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Illustrated.html?hl=&id=RNwjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RNwjzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r02EEQAAQBAJ",
+      "etag": "OKRaSZgHn2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r02EEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The lost princess of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Librofilio",
+        "publishedDate": "2025-09-03",
+        "description": "A grave and terrifying crisis grips Oz in L. Frank Baum's \"The Lost Princess of Oz\": the beloved and benevolent ruler of the Emerald City, Princess Ozma, has mysteriously disappeared from her royal chambers! Panic spreads throughout the magical land as her powerful magic tools – including the invaluable Magic Picture and the magic wand – are also missing. This renders Oz vulnerable and its magic dangerously unstable. A desperate search begins immediately. Dorothy Gale, the resourceful Wizard of Oz, and all their loyal friends – including the clever Scarecrow, the kind Tin Woodman, and the brave Cowardly Lion – launch a frantic, coordinated quest across every single magical corner of the land. Their widespread search leads them through strange new places, from the peculiar village of the Flatheads whose brains are removed, to the mysterious parts of the Gillikin Country, and into the treacherous depths of the underground realms. They are confronted with bizarre creatures, quirky characters, and presented with perplexing puzzles and cunning traps set by unknown forces who may or may not be responsible for Ozma's vanishing act. This thrilling mystery not only tests the unbreakable bonds of friendship among Oz's heroes but also challenges their ingenuity, courage, and perseverance to their absolute limits, as they race against time to solve the enigma and restore order and joy to their cherished realm. ABOUT THE AUTHOR Lyman Frank Baum, born on May 15, 1856, in New York, and passed away on May 6, 1919, was an American author, best known for his enduring classic, \"The Wonderful Wizard of Oz.\" A man of diverse talents and interests, Baum tried his hand at various professions before finding his true calling in writing. He began his literary career with children's books and then ventured into playwriting and journalism. \"The Wonderful Wizard of Oz,\" published in 1900, marked a turning point in Baum's life and American children's literature. This magical tale, rich in imagination and filled with memorable characters, such as Dorothy, the Scarecrow, the Tin Man, and the Cowardly Lion, captivated readers worldwide. Baum's vision of a fantastical land, combined with his ability to weave an engaging narrative, cemented his status as a master storyteller. Baum wrote numerous sequels to \"The Wonderful Wizard of Oz\" and several other novels and short stories, often exploring fantasy and fairy tales. His works are celebrated for their creativity, sense of adventure, and the underlying themes of courage, heart, and wisdom. Baum's legacy continues to enchant readers and inspire adaptations in various forms of media, making him an iconic figure in children's literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782384611461"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2384611461"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r02EEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r02EEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r02EEQAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r02EEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r02EEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.36,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.36,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r02EEQAAQBAJ&rdid=book-r02EEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4360000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4360000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r02EEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This magical tale, rich in imagination and filled with memorable characters, such as Dorothy, the Scarecrow, the Tin Man, and the Cowardly Lion, captivated readers worldwide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RwMCzgEACAAJ",
+      "etag": "egyB8SZywfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RwMCzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz",
+        "subtitle": "L. Frank Baum (Classics, Children's Books) [Annotated]",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-10-06",
+        "description": "This is the eleventh book in The Oz Series by L. Frank Baum. When Princess Ozma mysteriously disappears, four search parties are sent out, one for each of Oz's four countries. Most of the book covers Dorothy and the Wizard's efforts to find her. Meanwhile, Cayke the Cookie Chef discovers that her magic dishpan (on which she bakes her famous cookies) has been stolen. Along with the Frogman, they leave their mountain in Winkie Country to find the pan.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798694281461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RwMCzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RwMCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RwMCzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RwMCzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz.html?hl=&id=RwMCzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RwMCzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the eleventh book in The Oz Series by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pcUfzgEACAAJ",
+      "etag": "/vZDQMDQYQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pcUfzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz (Annotated)",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-12-22",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798585393563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pcUfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pcUfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pcUfzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pcUfzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Annotated.html?hl=&id=pcUfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pcUfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "22-ZzgEACAAJ",
+      "etag": "TDLDPXp4PyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/22-ZzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz (Annotated)",
+        "authors": [
+          "Lyman Baum"
+        ],
+        "publishedDate": "2021-07-26",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798543765524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=22-ZzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=22-ZzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Annotated.html?hl=&id=22-ZzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=22-ZzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "It2-zQEACAAJ",
+      "etag": "14ieE54ApLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/It2-zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz (Annotated)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-08-04",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798672372167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=It2-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=It2-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=It2-zQEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=It2-zQEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Annotated.html?hl=&id=It2-zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=It2-zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dg0tzgEACAAJ",
+      "etag": "L/Yn8Sr7Io4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dg0tzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz Annotated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-01-18",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798596639612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dg0tzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dg0tzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dg0tzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dg0tzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Annotated.html?hl=&id=dg0tzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dg0tzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YbnYzQEACAAJ",
+      "etag": "RhI0llUMirc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YbnYzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz Illustrated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-09-14",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798686216587"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YbnYzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YbnYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YbnYzQEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YbnYzQEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz_Illustrated.html?hl=&id=YbnYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YbnYzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard&#39;s efforts to find her."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n5qjzgEACAAJ",
+      "etag": "CqXVsFpZ6lc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n5qjzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz",
+        "subtitle": "The Oz Books #11",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-10-06",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\" The book was dedicated to the author's newborn granddaughter Ozma Baum, child of his youngest son Kenneth Gage Baum. Ruth Plumly Thompson borrowed the plot of this novel for her 1937 Oz book Handy Mandy in Oz. The Frogman and Cayke's dishpan re-appear in Jeff Freedman's 1994 novel The Magic Dishpan of Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539385426"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539385424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n5qjzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n5qjzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=n5qjzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=n5qjzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz.html?hl=&id=n5qjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n5qjzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ruth Plumly Thompson borrowed the plot of this novel for her 1937 Oz book Handy Mandy in Oz. The Frogman and Cayke&#39;s dishpan re-appear in Jeff Freedman&#39;s 1994 novel The Magic Dishpan of Oz."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TeuMzgEACAAJ",
+      "etag": "e5L3WJaXU68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TeuMzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost Princess of Oz",
+        "authors": [
+          "Lyman Baum"
+        ],
+        "publishedDate": "2021-03-21",
+        "description": "The Lost Princess of Oz is the eleventh canonical Oz book written by L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to find her. The introduction to the book states that its inspiration was a letter a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted, everybody would be sorry.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798725959413"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TeuMzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TeuMzgEACAAJ&dq=L.+Frank+Baum+The+Lost+Princess+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Princess_of_Oz.html?hl=&id=TeuMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TeuMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The introduction to the book states that its inspiration was a letter a little girl had written to Baum: &quot;I suppose if Ozma ever got hurt or losted, everybody would be sorry.&quot;"
+      }
+    }
+  ]
+}

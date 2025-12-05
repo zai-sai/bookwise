@@ -1,0 +1,701 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4VXVgxzEYbIC",
+      "etag": "TSfaTxKzLq8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4VXVgxzEYbIC",
+      "volumeInfo": {
+        "title": "The Best method of teaching obstetrics and aids in obstetric teaching",
+        "authors": [
+          "James Clifton Edgar"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:24503352582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.17.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4VXVgxzEYbIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4VXVgxzEYbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4VXVgxzEYbIC&pg=PA24&dq=Lu+Os+Lus&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4VXVgxzEYbIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4VXVgxzEYbIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4VXVgxzEYbIC&rdid=book-4VXVgxzEYbIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Best_method_of_teaching_obstetrics_a.epub?id=4VXVgxzEYbIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Best_method_of_teaching_obstetrics_a.pdf?id=4VXVgxzEYbIC&hl=&output=pdf&sig=ACfU3U1j--heT8tHOZXG6726yKesmNFCLg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4VXVgxzEYbIC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>OS</b>. <b>LUS</b> 1. บ . 5 . <b>LUS L.U.S.</b> c.V.J. S.V.C. V. FIG . 38 . IN.<b>OS</b>. EXOS . C.V.J. <b>LU</b>.S. L.U.S. S.V.C. C.V.S. V V SV.C IN.<b>OS</b>. EX.<b>OS</b>. EX.<b>OS</b>. FIG . 38. Cervix in latter part of gestation or at beginning of labor . Vaginal ard supravaginal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VbwoAAAAMAAJ",
+      "etag": "LajCraloefw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VbwoAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Manual of English Pronunciation and Spelling",
+        "subtitle": "Containing a Full Alphabetical Vocabulary of the Language with a Preliminary Exposition of English Orthoëpy and Orthography ...",
+        "authors": [
+          "Richard Soule"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015030925963"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VbwoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VbwoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VbwoAAAAMAAJ&pg=PA268&dq=Lu+Os+Lus&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VbwoAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VbwoAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VbwoAAAAMAAJ&rdid=book-VbwoAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Manual_of_English_Pronunciation_and_Spel.epub?id=VbwoAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Manual_of_English_Pronunciation_and_Spel.pdf?id=VbwoAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1DuJNugPgtO3kc0qgEbDZk5PW2Uw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VbwoAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Lu</b>&#39;cid [ not loo&#39;sid , 127 , <b>Lu</b>&#39;na ( L. ) , 26 . <b>Lu</b>&#39;cre ( -kur ) , 161 ... <b>os</b>&#39;i - ty , 108 . <b>Lu</b>&#39;min - ous , 26 , 100 . Lump , 22 , 64 . Lumped ( lumpt ) ... <b>Lus</b>&#39;tral , 230 . <b>Lus</b> - tration , 112 . <b>Lus</b>&#39;tre ( 169 ) [ <b>Lus</b>- ter , Wb&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wkI-AAAAYAAJ",
+      "etag": "2w3CsACPDno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wkI-AAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Imperial Dictionary of the English Language",
+        "subtitle": "A Complete Encyclopedic Lexicon, Literary, Scientific, and Technological",
+        "authors": [
+          "John Ogilvie"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HX5GBH"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 824,
+        "printType": "BOOK",
+        "categories": [
+          "Encyclopedias and dictionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wkI-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wkI-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wkI-AAAAYAAJ&pg=PA741&dq=Lu+Os+Lus&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wkI-AAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wkI-AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wkI-AAAAYAAJ&rdid=book-wkI-AAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Imperial_Dictionary_of_the_English_L.epub?id=wkI-AAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Imperial_Dictionary_of_the_English_L.pdf?id=wkI-AAAAYAAJ&hl=&output=pdf&sig=ACfU3U26yNA-wuVutGwlRo3ykbrOBuZZDA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wkI-AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Lu</b> - can&#39;i - cus Lyr - ce&#39;a or Lyr- Ma - di&#39;ah , 8 . Mar - ma - ren&#39;ses Mar ... <b>lus</b> Li - bur&#39;na <b>Lu</b> - ca&#39;nus Le - ob&#39;o - tes Li - bur&#39;ni - a <b>Lu</b> - ca&#39;ri - a ... <b>os</b>&#39;the - nes Le - o - tych&#39;i - des Le - phyr&#39;i - um Lep&#39;i - da Lep&#39;i&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2mMWAwAAQBAJ",
+      "etag": "0kXJMIUt9HY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2mMWAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cabinet dictionary of the English language",
+        "authors": [
+          "by Dictionaries"
+        ],
+        "publisher": "Рипол Классик",
+        "description": "The cabinet dictionary of the English language: etymological, explanatory, and pronouncing. Founded on the labours of the most distinguished lexicographers. With an appendix. Illustrated by seven hundred and fifty engravings on wood.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785883493026"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5883493025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 977,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2mMWAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2mMWAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2mMWAwAAQBAJ&pg=PA945&dq=Lu+Os+Lus&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2mMWAwAAQBAJ&dq=Lu+Os+Lus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cabinet_dictionary_of_the_English_la.html?hl=&id=2mMWAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Cabinet_dictionary_of_the_English_la-sample-pdf.acsm?id=2mMWAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2mMWAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>us</b> Len&#39;tu - <b>lus</b> Leo Le - o - oori - on Le - on&#39;i - das Le - on - ti&#39;ni Le - <b>os</b>&#39;the - nes Le - o - tych&#39;i - des Lepi - da Lepi - dus Le - pon&#39;ti - i Lep&#39;ti - nes Le - ri&#39;na Lon&#39;gu - la Lotos Lo - toph&#39;s - gi <b>Lu</b>&#39;<b>os Lu</b> - ca&#39;ni <b>Lu</b> - ca&#39;nus&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M2YZAAAAYAAJ",
+      "etag": "Q+gPCLeQUo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M2YZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Manual of English Pronunciation and Spelling: Containing a Full Alphabetical Vocabulary of the Language, with a Preliminary Exposition of English Orthoëpy and Orthography",
+        "subtitle": "And Designed as a Work of Reference for General Use, and as a Text-book in Schools",
+        "authors": [
+          "Richard Soule",
+          "William Adolphus Wheeler"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN3JK5"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M2YZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M2YZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M2YZAAAAYAAJ&pg=PA268&dq=Lu+Os+Lus&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=M2YZAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M2YZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=M2YZAAAAYAAJ&rdid=book-M2YZAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Manual_of_English_Pronunciation_and_Spel.epub?id=M2YZAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Manual_of_English_Pronunciation_and_Spel.pdf?id=M2YZAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3VbzfNtHqoPm6fGr8IFMP-apCz-A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M2YZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Lu</b> - cern / al . Lump&#39;y , 169 . 153. ] <b>Lu</b>&#39;cid [ not loo&#39;sid , 127 , <b>Lu</b>&#39;na ... <b>os</b> / i - ty , 108 . <b>Lu</b>&#39;min - oŭs , 26 , 100 . Lump , 22 , 64 . Lumped ... <b>Lus</b>&#39;tral , 230 . <b>Lus</b> - tration , 112 . <b>Lus</b>&#39;tre ( 169 ) [ <b>Lus</b>- ter , Wb . Gd&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HLaQs0CsluMC",
+      "etag": "1ILQa+ZWat8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HLaQs0CsluMC",
+      "volumeInfo": {
+        "title": "Walker and Webster Combined in a Dictionary of the English Language",
+        "subtitle": "In which the Definitions of Webster, and the Pronunciation of Walker are United and Brought Into Conformity to the Usage of the Present Time; Many New Words are Introduced; and Numerous Synonymous Terms are Carefully Discriminated. With an Appendix (...)",
+        "authors": [
+          "John Longmuir"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "KBR:KBR0000049347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 684,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HLaQs0CsluMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HLaQs0CsluMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HLaQs0CsluMC&pg=PA550&dq=Lu+Os+Lus&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HLaQs0CsluMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HLaQs0CsluMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HLaQs0CsluMC&rdid=book-HLaQs0CsluMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Walker_and_Webster_Combined_in_a_Diction.epub?id=HLaQs0CsluMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HLaQs0CsluMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Lu</b> - ca&#39;ni Lau - ren&#39;tum Les&#39;u - ra Lig&#39;o - ras <b>Lu</b> - ca&#39;ni - a Lau - re&#39;o - <b>lus</b> Le - ta&#39;num Lig&#39;u - res <b>Lu</b> - can&#39;i ... <b>os</b> Le - <b>os</b>&#39;the - nes Le - o - tych&#39;i - des Le - phyr&#39;i - um Lep&#39;i - dus , -a Le - pi&#39;nus Le - pon&#39;ti - i Le&#39;pre&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JmYTAQAAMAAJ",
+      "etag": "9xhyu1KfV5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JmYTAQAAMAAJ",
+      "volumeInfo": {
+        "title": "An Explanatory and Pronouncing Dictionary of the English Language",
+        "subtitle": "With Synonyms; Abridged from the American Dictionary of Noah Webster LLD.",
+        "authors": [
+          "Noah Webster"
+        ],
+        "publishedDate": "1856",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89099425803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JmYTAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JmYTAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JmYTAQAAMAAJ&pg=PA415&dq=Lu+Os+Lus&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JmYTAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JmYTAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=JmYTAQAAMAAJ&rdid=book-JmYTAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/An_Explanatory_and_Pronouncing_Dictionar.epub?id=JmYTAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/An_Explanatory_and_Pronouncing_Dictionar.pdf?id=JmYTAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0YU24QEkpWK9LGeQBiHGxcWJI4fw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JmYTAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>us</b> Le - on - top&#39;o - lis Li - bys&#39;tis Le - on - tyeh&#39;i - des Lie&#39;a - tes Le - op&#39;re - pes Li - eha / des Le - o - prep&#39;i - des Li&#39;ehes Le - <b>os</b>&#39;the - nes Lep&#39;i - dus , -a Leu - cop&#39;e - tra Lin - gon&#39;i - eus Ma&#39;gi - <b>us</b> Mag - nen&#39;ti - <b>us</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R6JHAQAAMAAJ",
+      "etag": "VUmG9xZV5tI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R6JHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Imperial Dictionary, English, Technological, and Scientific",
+        "subtitle": "On the Basis of Webster's English Dictionary ... Also, a Supplement Containing an Extensive Collection of Words, Terms and Phrases in ... Literature, Science, and Art, Together with Numerous Obsolete, Obsolescent, and Scottish Words Not Included in Previous English Dictionaries",
+        "authors": [
+          "John Ogilvie"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:18112477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1582,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R6JHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R6JHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R6JHAQAAMAAJ&pg=PT210&dq=Lu+Os+Lus&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R6JHAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R6JHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=R6JHAQAAMAAJ&rdid=book-R6JHAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Imperial_Dictionary_English_Technolo.epub?id=R6JHAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R6JHAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Lu</b> - ce&#39;ri - <b>us</b> Mar - tig&#39;e - na Mar - ti&#39;na Mar - tin - i - a&#39;nus <b>Lu</b> - per ... <b>lus</b> Li - beth&#39;ri - des Lix&#39;<b>us</b> Lyc&#39;e - as Ma - ca&#39;ri - a Ma&#39;li - i Mar&#39;i ... <b>os</b> Li&#39;ches Lo - toph&#39;a - gi Ly - cos&#39;the - ne Mac - ron - ti&#39;chus Ma&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dd4uAQAAIAAJ",
+      "etag": "MGrIM6zCww8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dd4uAQAAIAAJ",
+      "volumeInfo": {
+        "title": "China's Ethnic Groups",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105121677632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Ethnology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.11.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dd4uAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dd4uAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Dd4uAQAAIAAJ&q=Lu+Os+Lus&dq=Lu+Os+Lus&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Dd4uAQAAIAAJ&dq=Lu+Os+Lus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/China_s_Ethnic_Groups.html?hl=&id=Dd4uAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dd4uAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Luos</b> and <b>Lus</b> in South Korea . The <b>Luos</b> in South Korea were divided into two branches : the <b>Luos</b> of Naju and the <b>Luos</b> of Jinseong . The 1982 version of The Genealogy of the <b>Luos</b> - A Study of Family Name Origins ( Volume 1 ) stated : &quot; The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ro4lTlHfbL4C",
+      "etag": "qB19qwFzXU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ro4lTlHfbL4C",
+      "volumeInfo": {
+        "title": "International Dictionary of the English language",
+        "subtitle": "Being the authentic ed. of Webster's unabridged dictionary comprising the issues of 1864, 1879 and 1884. Now thoroughly rev. and enl. under the supervision of Noah Porter with a voluminous app. ...",
+        "authors": [
+          "Noah Webster"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11503847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ro4lTlHfbL4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ro4lTlHfbL4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ro4lTlHfbL4C&pg=PA1892&dq=Lu+Os+Lus&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ro4lTlHfbL4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ro4lTlHfbL4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ro4lTlHfbL4C&rdid=book-ro4lTlHfbL4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/International_Dictionary_of_the_English.epub?id=ro4lTlHfbL4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ro4lTlHfbL4C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>lus</b> It&#39;e - a Ith&#39;a - ca I - to / nus It&#39;o - rum It / u - ræ / a Iph&#39;i - cles ... <b>os</b> Iph / i - a - nas / sa Iph&#39;i - as Iph / i - cli&#39;des , 6 Iph&#39;i - clus or I ... <b>Lu</b>&#39;na La - og&#39;o - ras Le - vites , 6 Ly - ci&#39;um Le - vo / ni Ly&nbsp;..."
+      }
+    }
+  ]
+}

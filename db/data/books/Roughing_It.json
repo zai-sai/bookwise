@@ -1,0 +1,684 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "l7iKEAAAQBAJ",
+      "etag": "1/diwQG5FRU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l7iKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Roughing It",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-09-16",
+        "description": "In \"Roughing It,\" Mark Twain presents a vivid and humorous account of his formative years spent in the American West during the 1860s. Through a blend of travelogue and autobiography, Twain employs a rich narrative style characterized by colloquial language, keen observations, and satirical wit. The book serves not only as a chronicle of his adventures but also reflects the broader cultural and social dynamics of a rapidly expanding America, capturing the spirit of the Gold Rush era and the quest for personal fortune amidst the untamed wilderness. Mark Twain, born Samuel Clemens in 1835, drew extensively from his own experiences as a gold prospector and journalist in Nevada and California. His encounters with diverse characters and the often harsh realities of frontier life profoundly influenced his storytelling. Twain's unique perspective, shaped by both the exuberance of youth and the disillusionment of adulthood, lends authenticity and depth to this narrative, making it resonate with both humor and insight. For readers intrigued by America's western expansion, \"Roughing It\" is an essential read that melds historical context with Twain's unique voice. Its engaging anecdotes and vivid descriptions of the American frontier invite readers to explore not only the nation's past but also the enduring human spirit in the face of adversity.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547337324"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 710,
+        "printType": "BOOK",
+        "categories": [
+          "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l7iKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l7iKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=l7iKEAAAQBAJ&printsec=frontcover&dq=Mark+Twain+Roughing+It&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=l7iKEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l7iKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=l7iKEAAAQBAJ&rdid=book-l7iKEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Roughing_It-sample-epub.acsm?id=l7iKEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Roughing_It-sample-pdf.acsm?id=l7iKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l7iKEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book serves not only as a chronicle of his adventures but also reflects the broader cultural and social dynamics of a rapidly expanding America, capturing the spirit of the Gold Rush era and the quest for personal fortune amidst the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VZYZAwAAQBAJ",
+      "etag": "NZeNJE6VcLk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VZYZAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Roughing It (Illustrated)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-03-13",
+        "description": "Based on Mark Twain's 1872 autobiographical novel, this made-for-cable film is presented in flashback form, as aged humorist Mark Twain (James Garner) is invited as the keynote speaker for the Bryn Mawr College graduation ceremonies of 1891. At first concerned that his reputation as a humorist will embarrass his daughter Susy (Jewel Staite), who is among the graduates, Twain decides to throw all caution to the winds by delivering an inspirational speech in which he recalls his own early days as a Missouri-bred greenhorn on the wild western frontier. Admitting that his recollections may stretch the truth a bit (\"When I was younger, I could remember it, whether it happened or not\"), Twain spins a tale of two brothers, Sam and Orion Clemens (\"Sam Clemens\" was of course, Twain's given name). Jealous over Orion's (Greg Spottiswood) appointment as secretary to the governor of the Nevada Territory, young Sam Clemens (Robin Dunne) insists on tagging along, but soon parts ways when he decides that nascent Carson City does not suit his desire for adventure. In search of fortune and his destiny, what ensues is an extended adventure which includes a rugged interlude digging for gold under the baleful eye of a brutal foreman (Eric Roberts); a wild card game during torrential rains; a bone-chilling winter; bandits and outlaws; along with an episode with Mr. Slade (Ned Beatty), a cruel man that's killed 26 men for petty reasons, and kept their ears as a \"calling card\". The cast also includes Jill Eikenberry as Twain's wife Livy and Adam Arkin as a \"wild-eyed character\" named Henry. Filmed in Calgary, the four-hour miniseries version of Mark Twain's Roughing It was presented by the Hallmark cable channel beginning March 16, 2002.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783730988879"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3730988875"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 767,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VZYZAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VZYZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VZYZAwAAQBAJ&printsec=frontcover&dq=Mark+Twain+Roughing+It&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VZYZAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VZYZAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VZYZAwAAQBAJ&rdid=book-VZYZAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VZYZAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on Mark Twain&#39;s 1872 autobiographical novel, this made-for-cable film is presented in flashback form, as aged humorist Mark Twain (James Garner) is invited as the keynote speaker for the Bryn Mawr College graduation ceremonies of 1891 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XhxZtgEACAAJ",
+      "etag": "a7b3DdPK7Zw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XhxZtgEACAAJ",
+      "volumeInfo": {
+        "title": "The Complete Works of Mark Twain",
+        "subtitle": "Roughing it ; Vol. 1. 2. [in 1 Bd.]",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:833681371"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XhxZtgEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XhxZtgEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Works_of_Mark_Twain.html?hl=&id=XhxZtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XhxZtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uok7zQEACAAJ",
+      "etag": "S0X/ftb5srg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uok7zQEACAAJ",
+      "volumeInfo": {
+        "title": "Roughing It Mark Twain",
+        "subtitle": "Hardcover Book Illustrated",
+        "authors": [
+          "Twain Mark"
+        ],
+        "publishedDate": "2020-04-23",
+        "description": "This 1872 volume offers Twain's prequel to Innocents Abroad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "249170448X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782491704483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 886,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uok7zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uok7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uok7zQEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uok7zQEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roughing_It_Mark_Twain.html?hl=&id=uok7zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uok7zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roughing It is dedicated to Twain&#39;s mining companion Calvin H. Higbie, later a civil engineer who died in 1914.[4] The book follows the travels of young Mark Twain through the Wild West during the years 1861-1867."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x-b7zwEACAAJ",
+      "etag": "nM4NxBsEr9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x-b7zwEACAAJ",
+      "volumeInfo": {
+        "title": "The Writings of Mark Twain: Roughing it",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "1869",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:687244762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=x-b7zwEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=x-b7zwEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Writings_of_Mark_Twain_Roughing_it.html?hl=&id=x-b7zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x-b7zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NSwQMQAACAAJ",
+      "etag": "stJHPOESqzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NSwQMQAACAAJ",
+      "volumeInfo": {
+        "title": "Roughing It",
+        "subtitle": "By Mark Twain: Illustrated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-11",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About Roughing It: By Mark Twain Roughing It is a book of semi-autobiographical travel literature written by American humorist Mark Twain. It was written during 1870-71 and published in 1872 as a prequel to his first book The Innocents Abroad (1869). This book tells of Twain's adventures prior to his pleasure cruise related in Innocents Abroad. Roughing It follows the travels of young Mark Twain through the Wild West during the years 1861-1867. After a brief stint as a Confederate cavalry militiaman (not included in the account), he joined his brother Orion Clemens, who had been appointed Secretary of the Nevada Territory, on a stagecoach journey west. Twain consulted his brother's diary to refresh his memory and borrowed heavily from his active imagination for many stories in the book. Roughing It illustrates many of Twain's early adventures, including a visit to Salt Lake City, gold and silver prospecting, real-estate speculation, a journey to the Kingdom of Hawaii, and his beginnings as a writer. In this memoir, readers can see examples of Twain's rough-hewn humor, which would become a staple of his writing in his later books, such as Adventures of Huckleberry Finn (1884), The Adventures of Tom Sawyer(1876), and A Connecticut Yankee in King Arthur's Court (1889).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540821218"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540821218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NSwQMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NSwQMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NSwQMQAACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NSwQMQAACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roughing_It.html?hl=&id=NSwQMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NSwQMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book tells of Twain&#39;s adventures prior to his pleasure cruise related in Innocents Abroad. Roughing It follows the travels of young Mark Twain through the Wild West during the years 1861-1867."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "38F3AQAACAAJ",
+      "etag": "VjeyTP9J9N8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/38F3AQAACAAJ",
+      "volumeInfo": {
+        "title": "Complete Works of Mark Twain: The mysterious stranger",
+        "authors": [
+          "Mark Twain"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5307754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=38F3AQAACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=38F3AQAACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Complete_Works_of_Mark_Twain_The_mysteri.html?hl=&id=38F3AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=38F3AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R2X_nwEACAAJ",
+      "etag": "VK7wwexaNLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R2X_nwEACAAJ",
+      "volumeInfo": {
+        "title": "The Writings of Mark Twain",
+        "subtitle": "Roughing It, Vol. 2",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:873375373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R2X_nwEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=R2X_nwEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Writings_of_Mark_Twain.html?hl=&id=R2X_nwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R2X_nwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "52KloAEACAAJ",
+      "etag": "xJn18EAaOV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/52KloAEACAAJ",
+      "volumeInfo": {
+        "title": "The Writings of Mark Twain",
+        "subtitle": "Roughing It, Vol. 1",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:873375341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=52KloAEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=52KloAEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Writings_of_Mark_Twain.html?hl=&id=52KloAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=52KloAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "siUEoQEACAAJ",
+      "etag": "EwKuba4wnC0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/siUEoQEACAAJ",
+      "volumeInfo": {
+        "title": "Roughing It",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-03-12",
+        "description": "Roughing It is a book of semi-autobiographical travel literature written by American humorist Mark Twain. Roughing It illustrates Twain's early adventures, including a visit to Salt Lake City, gold and silver prospecting, real-estate speculation, a journey to the Kingdom of Hawaii, and his beginnings as a writer. In this memoir, readers can see examples of Twain's rough-hewn humor, which would become a staple of his writing. Twain began his career writing light, humorous verse, but evolved into a chronicler of the vanities, hypocrisies and murderous acts of mankind. At mid-career, with Huckleberry Finn, he combined rich humor, sturdy narrative and social criticism. Twain was a master at rendering colloquial speech and helped to create and popularize a distinctive American literature built on American themes and language. Many of Twain's works have been suppressed at times for various reasons.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1497324254"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781497324251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=siUEoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=siUEoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=siUEoQEACAAJ&dq=Mark+Twain+Roughing+It&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=siUEoQEACAAJ&dq=Mark+Twain+Roughing+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roughing_It.html?hl=&id=siUEoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=siUEoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roughing It is a book of semi-autobiographical travel literature written by American humorist Mark Twain."
+      }
+    }
+  ]
+}

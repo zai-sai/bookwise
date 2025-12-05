@@ -1,0 +1,734 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Bpo9AQAAMAAJ",
+      "etag": "zaIerttoFvs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bpo9AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Cethial & Bossche Company",
+        "publishedDate": "1884",
+        "description": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293011223843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bpo9AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bpo9AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Bpo9AQAAMAAJ&printsec=frontcover&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Bpo9AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Bpo9AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Bpo9AQAAMAAJ&rdid=book-Bpo9AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Treasure_Island.epub?id=Bpo9AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bpo9AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate&#39;s fortune."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CbBlAAAAMAAJ",
+      "etag": "8pyDTpUtE6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CbBlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "authors": [
+          "Stuart Paterson",
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Nick Hern Books",
+        "publishedDate": "2007",
+        "description": "A fresh and genuinely thrilling adaptation of the classic tale, and one that keeps close to Stevenson's original story. When young Jim Hawkins is left a treasure map by the dying buccaneer Billy Bones, he sets sail on the Hispaniola in search of the island. Among the crew, the one-legged Long John Silver becomes his greatest friend - but Silver has a shocking secret in store, and when they reach their destination, Jim faces danger and adventure greater than he could ever have imagined. Stuart Paterson's adaptation of RL Stevenson's Treasure Island was first performed by Birmingham Stage Company at Birmingham Old Rep in 2007, followed by a UK tour. This edition of the script includes production notes with ideas for casting and staging the play. Suitable for young people to watch and perform.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015074228357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CbBlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CbBlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CbBlAAAAMAAJ&q=Robert+Louis+Stevenson+Treasure+Island&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CbBlAAAAMAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island.html?hl=&id=CbBlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CbBlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition of the script includes production notes with ideas for casting and staging the play. Suitable for young people to watch and perform."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_OEzQEACAAJ",
+      "etag": "8xVQx545JS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_OEzQEACAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island By Robert Louis Stevenson (Treasure Hunt) (Annotated & Illustrated)",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2020-04-15",
+        "description": "\"For sheer storytelling delight and pure adventure, Treasure Island has never been surpassed. From the moment young Jim Hawkins first encounters the sinister Blind Pew at the Admiral Benbow Inn until the climactic battle for treasure on a tropic isle, the novel creates scenes and characters that have fired the imaginations of generations of readers. Written by a superb prose stylist, a master of both action and atmosphere, the story centers upon the conflict between good and evil - but in this case a particularly engaging form of evil. It is the villainy of that most ambiguous rogue Long John Silver that sets the tempo of this tale of treachery, greed, and daring. Designed to forever kindle a dream of high romance and distant horizons, Treasure Island is, in the words of G. K. Chesterton, 'the realization of an ideal, that which is promised in its provocative and beckoning map; a vision not only of white skeletons but also green palm trees and sapphire seas.' G. S. Fraser terms it 'an utterly original book' and goes on to write: 'There will always be a place for stories like Treasure Island that can keep boys and old men happy.'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798637610808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_OEzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_OEzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5_OEzQEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5_OEzQEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island_By_Robert_Louis_Stevenso.html?hl=&id=5_OEzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_OEzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the villainy of that most ambiguous rogue Long John Silver that sets the tempo of this tale of treachery, greed, and daring."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1aOx4w5o8J8C",
+      "etag": "pHpN6WGbmY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1aOx4w5o8J8C",
+      "volumeInfo": {
+        "title": "Treasure Island/Spec",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Grosset & Dunlap",
+        "publishedDate": "2000-10-09",
+        "description": "Embark on a swashbuckling adventure with Robert Louis Stevenson's classic Treasure Island. One of the most lively seafaring stories of all time, this pirate tale follows the adventures of Jim Hawkins and his crew who set sail for Treasure Island to find the lost loot of Captain Flint and do battle with dastardly rogues and villains, including the notorious Long John Silver. Enchanting for readers of all ages, this edition is beautifully illustrated by Justin Todd, making it a perfect volume for building a classics library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0448424479"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780448424477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1aOx4w5o8J8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1aOx4w5o8J8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1aOx4w5o8J8C&q=Robert+Louis+Stevenson+Treasure+Island&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1aOx4w5o8J8C&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island_Spec.html?hl=&id=1aOx4w5o8J8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1aOx4w5o8J8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Enchanting for readers of all ages, this edition is beautifully illustrated by Justin Todd, making it a perfect volume for building a classics library."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bzfHByIIcJQC",
+      "etag": "bZYMqelhI3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bzfHByIIcJQC",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "authors": [
+          "Robert Louis Stevenson",
+          "Earle Hitchner"
+        ],
+        "publisher": "Steck-Vaughn",
+        "publishedDate": "1998-09-04",
+        "description": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0030544637"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780030544637"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bzfHByIIcJQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bzfHByIIcJQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bzfHByIIcJQC&q=Robert+Louis+Stevenson+Treasure+Island&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bzfHByIIcJQC&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island.html?hl=&id=bzfHByIIcJQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bzfHByIIcJQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate&#39;s fortune."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u9XuBQAAQBAJ",
+      "etag": "7TBgc9XEBjY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u9XuBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Oxford Children's Classics: Treasure Island",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Oxford University Press - Children",
+        "publishedDate": "2014-08-07",
+        "description": "Set sail on a swashbuckling adventure . . . Danger! pirates! excitement! action! Join Jim Hawkins as he sails the high seas aboard the Hispaniola in search of lost treasure . . . Oxford Children's Classics present not only the original and unabridged story of Treasure Island but also help you to discover a whole world of new adventures with an amazing assortment of recommendations and activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192738424"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192738429"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u9XuBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u9XuBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u9XuBQAAQBAJ&printsec=frontcover&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u9XuBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u9XuBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u9XuBQAAQBAJ&rdid=book-u9XuBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oxford_Children_s_Classics_Treasure_Isla-sample-epub.acsm?id=u9XuBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oxford_Children_s_Classics_Treasure_Isla-sample-pdf.acsm?id=u9XuBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u9XuBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . Oxford Children&#39;s Classics present not only the original and unabridged story of Treasure Island but also help you to discover a whole world of new adventures with an amazing assortment of recommendations and activities."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pk_iAQAACAAJ",
+      "etag": "K4yYVV1GDiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pk_iAQAACAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "subtitle": "By Robert Louis Stevenson - Illustrated",
+        "authors": [
+          "Robert Louis Robert Louis Stevenson"
+        ],
+        "publishedDate": "2017-03-21",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Treasure Island by Robert Louis Stevenson Treasure Island is an adventure novel by Scottish author Robert Louis Stevenson, narrating a tale of \"buccaneers and buried gold\". It was originally serialized in the children's magazine Young Folks between 1881 and 1882 under the title Treasure Island, or the mutiny of the Hispaniola, with Stevenson adopting the pseudonym Captain George North. It was first published as a book on 14 November 1883 by Cassell & Co. Treasure Island is traditionally considered a coming-of-age story, and is noted for its atmosphere, characters, and action. It is also noted as a wry commentary on the ambiguity of morality--as seen in Long John Silver--unusual for children's literature. It is one of the most frequently dramatized of all novels. Its influence is enormous on popular perceptions of pirates, including such elements as treasure maps marked with an \"X\", schooners, the Black Spot, tropical islands, and one-legged seamen bearing parrots on their shoulders.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152082503X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520825038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Pk_iAQAACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Pk_iAQAACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island.html?hl=&id=Pk_iAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pk_iAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n766wwEACAAJ",
+      "etag": "LNgqHr/bkek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n766wwEACAAJ",
+      "volumeInfo": {
+        "title": "Robert Louis Stevenson's Treasure Island",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2019-02-25",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0469675578"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780469675575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n766wwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n766wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=n766wwEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=n766wwEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Robert_Louis_Stevenson_s_Treasure_Island.html?hl=&id=n766wwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n766wwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mr7AzQEACAAJ",
+      "etag": "3PLBIrRJJvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mr7AzQEACAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "subtitle": "By Robert Louis Stevenson",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2020-08-07",
+        "description": "\"Treasure Island\" is an adventure novel by Scottish author Robert Louis Stevenson, narrating a tale of \"buccaneers and buried gold\". First published as a book on 14 November 1883. Robert Louis Balfour Stevenson (13 November 1850 - 3 December 1894) was a Scottish novelist, poet, essayist, and travel writer. His most famous works are Treasure Island, Kidnapped, and Strange Case of Dr Jekyll and Mr Hyde.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798673287682"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mr7AzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mr7AzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Mr7AzQEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Mr7AzQEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island.html?hl=&id=Mr7AzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mr7AzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Treasure Island&quot; is an adventure novel by Scottish author Robert Louis Stevenson, narrating a tale of &quot;buccaneers and buried gold&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WNocygEACAAJ",
+      "etag": "3x3i2BXghSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WNocygEACAAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "subtitle": "Annotated",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2019-10-03",
+        "description": "In this book Summary, study guide, character list, themes are included as bonus.Treasure Island is an adventure novel by Scottish author Robert Louis Stevenson, narrating a tale of \"buccaneers and buried gold.\" Its influence is enormous on popular perceptions of pirates, including such elements as treasure maps marked with an \"X,\" schooners, the Black Spot, tropical islands, and one-legged seamen bearing parrots on their shoulders.Treasure Island was originally considered a coming-of-age story and is noted for its atmosphere, characters, and action. It is one of the most frequently dramatised of all novels. It was originally serialised in the children's magazine Young Folks from 1881 through 1882 under the title Treasure Island, or the mutiny of the Hispaniola, credited to the pseudonym \"Captain George Nort",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1697366724"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781697366723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WNocygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WNocygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WNocygEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WNocygEACAAJ&dq=Robert+Louis+Stevenson+Treasure+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Treasure_Island.html?hl=&id=WNocygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WNocygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book Summary, study guide, character list, themes are included as bonus.Treasure Island is an adventure novel by Scottish author Robert Louis Stevenson, narrating a tale of &quot;buccaneers and buried gold."
+      }
+    }
+  ]
+}

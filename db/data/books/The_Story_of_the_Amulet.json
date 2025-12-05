@@ -1,0 +1,718 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Af7SEAAAQBAJ",
+      "etag": "4vzF11uouxs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Af7SEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "subtitle": "in large print",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-08-26",
+        "description": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783387002584"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3387002580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Af7SEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Af7SEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Af7SEAAAQBAJ&printsec=frontcover&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Af7SEAAAQBAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=Af7SEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Story_of_the_Amulet-sample-pdf.acsm?id=Af7SEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Af7SEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IUE4DgAAQBAJ",
+      "etag": "2pfWuSXGLwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IUE4DgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2017-10-12",
+        "description": "THE THIRD BOOK IN THE PSAMMEAD TRILOGY, FOLLOWING FIVE CHILDREN AND IT AND THE PHOENIX AND THE CARPET 'My all-time favourite classic children's author' JACQUELINE WILSON 'I love her books, particularly the Five Children and It sequence' NEIL GAIMAN 'The cheerful, child-centred anarchy of Five Children and It is still my inspiration and delight' KATE SAUNDERS At a pet shop near the British Museum, the children discover their old friend the Psammead, caged and miserable. The children pool their pocket money together to rescue it, and in gratitude, the Psammead tells them to buy an amulet-or rather, half an amulet. Incomplete, the magic charm can take them to any place and time to search for its other half; but when the amulet is whole, it will have the power to give the children their hearts' desire. In their quest, the children visit ancient Egypt, Atlantis and Babylon-they even meet Julius Caesar. But their adventures are not without danger: if they lose the amulet on their travels they will be lost in time, unable to ever return home. With all the original illustrations by H. R. Millar, beautifully reproduced. This collection of the best children's literature, curated by Virago, will be coveted by children and adults alike. These are timeless tales with beautiful covers, that will be treasured and shared across the generations. Some titles you will already know; some will be new to you, but there are stories for everyone to love, whatever your age. Our list includes Nina Bawden (Carrie's War, The Peppermint Pig), Rumer Godden (The Dark Horse, An Episode of Sparrows), Joan Aiken (The Serial Garden, The Gift Giving), E. Nesbit (The Psammead Trilogy, The Bastable Trilogy, The Railway Children), Frances Hodgson Burnett (The Little Princess,The Secret Garden) and Susan Coolidge (The What Katy Did Trilogy). Discover Virago Children's Classics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349009476"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0349009473"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IUE4DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IUE4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IUE4DgAAQBAJ&printsec=frontcover&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IUE4DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IUE4DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IUE4DgAAQBAJ&rdid=book-IUE4DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Story_of_the_Amulet-sample-epub.acsm?id=IUE4DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IUE4DgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection of the best children&#39;s literature, curated by Virago, will be coveted by children and adults alike. These are timeless tales with beautiful covers, that will be treasured and shared across the generations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IAA0vgAACAAJ",
+      "etag": "KtRyuGAvGgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAA0vgAACAAJ",
+      "volumeInfo": {
+        "title": "Edith Nesbit - the Story of the Amulet",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publishedDate": "2016-09-14",
+        "description": "This book is the final part of a trilogy of novels that also includes Five Children and It (1902) and the Phoenix and the carpet (1904). At, the children's father, is a journalist, who went abroad to cover the war in Manchuria. The mother went to Madeira to recover from an illness, bringing with her younger brother. The children are living with an elderly nurse who established a boardinghouse in Central London. She lives with a studious Egyptologist who has filled his bedsit with ancient artifacts. Children know the scholar and become friends with him and call him Jimmy. In a shop full of unusual merchandise children find the Psammead. It had been captured by a trapper, who failed to recognize him as a magical being. The terrified creature cannot escape, but it can only grant the wishes of others, not for himself. Using a ruse, the children convince the retailer to sell them the \"Mangy old monkey\" and liberate their old friend.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537534157"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537534152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IAA0vgAACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IAA0vgAACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Edith_Nesbit_the_Story_of_the_Amulet.html?hl=&id=IAA0vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IAA0vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the final part of a trilogy of novels that also includes Five Children and It (1902) and the Phoenix and the carpet (1904)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nFNUtAEACAAJ",
+      "etag": "oADTWbioAZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nFNUtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "subtitle": "By E. Nesbit - Illustrated",
+        "authors": [
+          "E. E. Nesbit"
+        ],
+        "publishedDate": "2017-04-29",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Story of the Amulet by E. Nesbit The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit. It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904). In it the children re-encounter the Psammead--the \"it\" in Five Children and It. As it no longer grants wishes to the children, however, its capacity is mainly advisory in relation to the children's other discovery, the Amulet, thus following a formula successfully established in The Phoenix and the Carpet. At the beginning of this book, the journalist father of Robert, Anthea, Cyril, and Jane has gone overseas to cover the war in Manchuria. Their mother has gone to Madeira to recuperate from an illness, taking with her their younger brother, the Lamb. The children are living with an old Nurse who has set up a boardinghouse in central London. Her only remaining boarder is a scholarly Egyptologist who has filled his bedsit with ancient artefacts. During the course of the book, the children get to know the \"poor learned gentleman\" and befriend him and call him Jimmy. Cook's house is in Fitzrovia, the district of London near the British Museum, which Nesbit accurately conveys as having bookstalls and shops filled with unusual merchandise. In one of these shops the children find the Psammead. It had been captured by a trapper, who failed to recognise it as a magical being. The terrified creature cannot escape, for it can only grant wishes to others, not to itself. Using a ruse, the children persuade the shopkeeper to sell them the \"mangy old monkey,\" and they free their old friend.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521153035"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521153031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nFNUtAEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nFNUtAEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=nFNUtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nFNUtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wNAiEAAAQBAJ",
+      "etag": "iOby0oVsuIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wNAiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Graphic Arts Books",
+        "publishedDate": "2021-01-05",
+        "description": "The Story of the Amulet(1906) is a children’s fantasy novel by English writer Edith Nesbit. The final book in Nesbit’s beloved Psammead Trilogy—which also includes Five Children and It (1902) and The Phoenix and the Carpet (1904)—The Story of the Amulet is a tale of time travel, adventure, and the power of imagination. Described by American critic Gore Vidal as “a story of considerable beauty,” The Story of the Amulet follows a group of children who use the powers of an Egyptian artifact to travel through time in order to bring their family back together. Siblings Robert, Anthea, Cyril, and Jane live in central London with an old Nurse named Mrs. Green and her boarder, an Egyptologist named Jimmy. Their father, a war correspondent, has traveled to Manchuria for work, while their mother has taken their youngest brother to the Madeira islands off the coast of Portugal in order to recover from an illness. One day, the children go to the markets near the British Museum, where strange and rare objects are sold daily. There, they find their old friend “It,” the sand fairy known as the Psammead, who has been captured and is up for sale as an exotic monkey. The children free It, who advises them to purchase a magical Egyptian amulet with the power of time travel. Hoping to use the amulet to reunite their family, the children journey across time to such places as Babylon, Egypt, Tyre, and ancient England in search of the missing piece that will allow them to fulfill their wish. With a beautifully designed cover and professionally typeset manuscript, this edition of Edith Nesbit’s The Story of the Amulet is a classic of English children’s literature reimagined for modern readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781513274751"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1513274759"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wNAiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wNAiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wNAiEAAAQBAJ&printsec=frontcover&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wNAiEAAAQBAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=wNAiEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Story_of_the_Amulet-sample-epub.acsm?id=wNAiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Story_of_the_Amulet-sample-pdf.acsm?id=wNAiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wNAiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When they purchase an ancient Egyptian amulet, they hatch a plan to bring their family back together. The Story of the Amulet is the final book in Edith Nesbit’s beloved Psammead Trilogy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MfPSswEACAAJ",
+      "etag": "81t5zjYK+tA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MfPSswEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "subtitle": "Special Edition",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-02-24",
+        "description": "The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit. It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904). In it the children re-encounter the Psammead-the \"it\" in Five Children and It. As it no longer grants wishes to the children, however, its capacity is mainly advisory in relation to the children's other discovery, the Amulet, thus following a formula successfully established in The Phoenix and the Carpet. At the beginning of this book, the journalist father of Robert, Anthea, Cyril, and Jane has gone overseas to cover the war in Manchuria. Their mother has gone to Madeira to recuperate from an illness, taking with her their younger brother, the Lamb. The children are living with an old Nurse who has set up a boardinghouse in central London. Her only remaining boarder is a scholarly Egyptologist who has filled his bedsit with ancient artefacts. During the course of the book, the children get to know the \"poor learned gentleman\" and befriend him and call him Jimmy. Cook's house is in Fitzrovia, the district of London near the British Museum, which Nesbit accurately conveys as having bookstalls and shops filled with unusual merchandise. In one of these shops the children find the Psammead. It had been captured by a trapper, who failed to recognise it as a magical being. The terrified creature cannot escape, for it can only grant wishes to others, not to itself. Using a ruse, the children persuade the shopkeeper to sell them the \"mangy old monkey,\" and they free their old friend. We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1985785854"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781985785854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MfPSswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MfPSswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MfPSswEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MfPSswEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=MfPSswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MfPSswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zRAuzQEACAAJ",
+      "etag": "Im9Vx8M6bKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zRAuzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet Illustrated",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-01-03",
+        "description": "\"The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit.It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904). In it the children re-encounter the Psammead-the \"\"it\"\" in Five Children and It. As it no longer grants wishes to the children, however, its capacity is mainly advisory in relation to the children's other discovery, the Amulet, thus following a formula successfully established in The Phoenix and the Carpet.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1655020692"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781655020698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zRAuzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zRAuzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zRAuzQEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zRAuzQEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet_Illustrated.html?hl=&id=zRAuzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zRAuzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit.It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bs_vuAEACAAJ",
+      "etag": "daibcp/WCdg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bs_vuAEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "authors": [
+          "E. (Edith) Nesbit"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-06-28",
+        "description": "The Story of the Amulet by E. (Edith) Nesbit CHAPTER 1. THE PSAMMEAD There were once four children who spent their summer holidays in a white house, happily situated between a sandpit and a chalkpit. One day they had the good fortune to find in the sandpit a strange creature. Its eyes were on long horns like snail's eyes, and it could move them in and out like telescopes. It had ears like a bat's ears, and its tubby body was shaped like a spider's and covered with thick soft fur-and it had hands and feet like a monkey's. It told the children-whose names were Cyril, Robert, Anthea, and Jane-that it was a Psammead or sand-fairy. (Psammead is pronounced Sammy-ad.) It was old, old, old, and its birthday was almost at the very beginning of everything. And it had been buried in the sand for thousands of years. But it still kept its fairylikeness, and part of this fairylikeness was its power to give people whatever they wished for. You know fairies have always been able to do this. Cyril, Robert, Anthea, and Jane now found their wishes come true; but, somehow, they never could think of just the right things to wish for, and their wishes sometimes turned out very oddly indeed. In the end their unwise wishings landed them in what Robert called 'a very tight place indeed', and the Psammead consented to help them out of it in return for their promise never never to ask it to grant them any more wishes, and never to tell anyone about it, because it did not want to be bothered to give wishes to anyone ever any more. At the moment of parting Jane said politely- We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1721875697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781721875696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bs_vuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bs_vuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bs_vuAEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bs_vuAEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=bs_vuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bs_vuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Story of the Amulet by E. (Edith) Nesbit CHAPTER 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v1oyzgEACAAJ",
+      "etag": "wBMZYDQano4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v1oyzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet-Classic Edition(Illustrated)",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publishedDate": "2020-06",
+        "description": "\"The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit.It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904). In it the children re-encounter the Psammead--the \"\"it\"\" in Five Children and It. As it no longer grants wishes to the children, however, its capacity is mainly advisory in relation to the children's other discovery, the Amulet, thus following a formula successfully established in The Phoenix and the Carpet.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798650290759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=v1oyzgEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=v1oyzgEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet_Classic_Edition.html?hl=&id=v1oyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v1oyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Story of the Amulet is a novel for children, written in 1906 by English author Edith Nesbit.It is the final part of a trilogy of novels that also includes Five Children and It (1902) and The Phoenix and the Carpet (1904)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZYuxzgEACAAJ",
+      "etag": "PR5WRGPqOZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZYuxzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of the Amulet",
+        "subtitle": "World's Classics",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publishedDate": "2021-08-22",
+        "description": "Edith Nesbit was an English author and poet; she published her books for children under the name of E. Nesbit. She wrote or collaborated on more than 60 books of children's literature. She was also a political activist and co-founded the Fabian Society, a socialist organisation later affiliated to the Labour Party. At the end of Five Children and It the five children promised not to ask the Psammead for another wish as long as they lived, but expressed a half wish to see it again some time. They find 'it' again in a pet shop in Camden Town, and their magic adventures start over again. 'It' leads them to a magic amulet - half of it actually - which they use it to try and find the other half. It takes them back to ancient Egypt and Babylon. The Queen of Babylon visits them in London, bringing all her ancient customs with her - which is awkward. They visit the lost continent of Atlantis. They see Julius Caesar in the flesh, but none of these adventures run smoothly, and if they forget the 'word of power' or lose the amulet, what would happen to them?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798462076831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 331,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZYuxzgEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZYuxzgEACAAJ&dq=Edith+Nesbit+The+Story+of+the+Amulet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_the_Amulet.html?hl=&id=ZYuxzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZYuxzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edith Nesbit was an English author and poet; she published her books for children under the name of E. Nesbit."
+      }
+    }
+  ]
+}

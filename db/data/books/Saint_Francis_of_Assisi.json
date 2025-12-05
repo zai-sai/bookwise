@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "aRDmEAAAQBAJ",
+      "etag": "xa3LqKz7L6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aRDmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Saint Francis of Assisi",
+        "subtitle": "Enriched edition. The Life and Times of St. Francis",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2023-12-02",
+        "description": "In \"Saint Francis of Assisi,\" G. K. Chesterton crafts an insightful and evocative biography that transcends mere historical recounting to explore the profound spiritual essence of its subject. Written in a vivid and engaging literary style, the work immerses readers in the life of Saint Francis, focusing on his radical embrace of poverty, love for nature, and deep commitment to faith. Chesterton's distinctive use of paradox and rich symbolism elevates the narrative, situating Saint Francis within a broader theological and cultural context, revealing how his life challenges the materialistic values of modernity and highlights the essence of Christian humility and joy. G. K. Chesterton, renowned for his wit and philosophical depth, was profoundly influenced by his own spiritual journey and his exploration of faith and reason in an increasingly secular world. His admiration for Saint Francis is evident in this work, as he deeply resonates with the saint's subversive idealism and zeal for authenticity. Chesterton's ability to intertwine his literary prowess with personal conviction fuels this homage, making it not only historical but also an exploration of the enduring nature of faith. This book is a must-read for anyone interested in the intersections of spirituality, literature, and social critique. Chesterton's engaging prose and profound insights will draw you into the heart of Saint Francis's spirit, inspiring reflection on the profound implications of his life and message. Whether you seek to understand saintly virtue or simply appreciate artful storytelling, Chesterton's treatment of Saint Francis leaves a lasting imprint on the soul. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - An Author Biography reveals milestones in the author's life, illuminating the personal insights behind the text. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand‐picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547685135"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aRDmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aRDmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aRDmEAAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aRDmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aRDmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aRDmEAAAQBAJ&rdid=book-aRDmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Saint_Francis_of_Assisi-sample-epub.acsm?id=aRDmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Saint_Francis_of_Assisi-sample-pdf.acsm?id=aRDmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aRDmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a must-read for anyone interested in the intersections of spirituality, literature, and social critique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TwhCPgAACAAJ",
+      "etag": "CEC/IlbHYkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TwhCPgAACAAJ",
+      "volumeInfo": {
+        "title": "St. Francis of Assisi",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publisher": "Burns & Oates",
+        "publishedDate": "2001",
+        "description": "According to Chesterton St Francis of Assisi anticipated all that is most sympathetic in the modern mood, he exceeds Wordsworth in his love of nature and Tolstoy in his social compassion. However St Francis' love of people was not based on a worldly obsession but was the expression of his complete love of Christ. It is perhaps his key inspiration and legacy that the material things most valued by humanity diminish to insignificance in the light of this love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0826454216"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826454218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Christian saints"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TwhCPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TwhCPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TwhCPgAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TwhCPgAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_Francis_of_Assisi.html?hl=&id=TwhCPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TwhCPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "According to Chesterton St Francis of Assisi anticipated all that is most sympathetic in the modern mood, he exceeds Wordsworth in his love of nature and Tolstoy in his social compassion."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZTv5nQEACAAJ",
+      "etag": "m7Os/fEoOuE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTv5nQEACAAJ",
+      "volumeInfo": {
+        "title": "Saint Francis of Assisi",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publishedDate": "2012-02-22",
+        "description": "A new edition of Chesterton's classic biography of St. Francis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1470118750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781470118754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZTv5nQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZTv5nQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saint_Francis_of_Assisi.html?hl=&id=ZTv5nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZTv5nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new edition of Chesterton&#39;s classic biography of St. Francis.Visit www.ChestertonBooks.com to see other books in this G. K. Chesterton series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RYbXtAEACAAJ",
+      "etag": "D/JZQ+ga/Ng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RYbXtAEACAAJ",
+      "volumeInfo": {
+        "title": "St. Francis of Assisi",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publishedDate": "2017-02-03",
+        "description": "In Saint Francis of Assisi, G. K. Chesterton celebrates one of world's most beloved saints. \"It is perhaps the chief suggestion of this book that St. Francis walked the world like the Pardon of God. His appearance marked the moment when men could be reconciled not only to God but to nature and, most difficult of all, to themselves. . . . It was in fact his whole function to tell men to start afresh and, in that sense, to tell them to forget.\"--from Saint Francis of Assisi",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152052210X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520522104"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RYbXtAEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RYbXtAEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_Francis_of_Assisi.html?hl=&id=RYbXtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RYbXtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Saint Francis of Assisi, G. K. Chesterton celebrates one of world&#39;s most beloved saints. &quot;It is perhaps the chief suggestion of this book that St. Francis walked the world like the Pardon of God."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8dMURAAACAAJ",
+      "etag": "0I5CNj1enOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8dMURAAACAAJ",
+      "volumeInfo": {
+        "title": "Saint Francis of Assisi",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2011-02-04",
+        "description": "Ideal for gift-giving, this beautiful new edition of one of the most insightful books about Francis of Assisi offers all of Chesterton's insight, humor, and wit as he uncovers the real meaning of the life of the world's most popular saint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1450567169"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781450567169"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8dMURAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8dMURAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8dMURAAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8dMURAAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saint_Francis_of_Assisi.html?hl=&id=8dMURAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8dMURAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ideal for gift-giving, this beautiful new edition of one of the most insightful books about Francis of Assisi offers all of Chesterton&#39;s insight, humor, and wit as he uncovers the real meaning of the life of the world&#39;s most popular saint."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xkuLAQAACAAJ",
+      "etag": "vtuQU15vrQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xkuLAQAACAAJ",
+      "volumeInfo": {
+        "title": "St. Francis of Assisi",
+        "subtitle": "Classic Literature",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-16",
+        "description": "In Saint Francis of Assisi, G. K. Chesterton celebrates one of world's most beloved saints. \"It is perhaps the chief suggestion of this book that St. Francis walked the world like the Pardon of God. His appearance marked the moment when men could be reconciled not only to God but to nature and, most difficult of all, to themselves. . . . It was in fact his whole function to tell men to start afresh and, in that sense, to tell them to forget.\" -from Saint Francis of Assisi",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543148328"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543148329"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xkuLAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xkuLAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xkuLAQAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xkuLAQAACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_Francis_of_Assisi.html?hl=&id=xkuLAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xkuLAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Saint Francis of Assisi, G. K. Chesterton celebrates one of world&#39;s most beloved saints. &quot;It is perhaps the chief suggestion of this book that St. Francis walked the world like the Pardon of God."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GLfAtQEACAAJ",
+      "etag": "aubYNMPRNlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GLfAtQEACAAJ",
+      "volumeInfo": {
+        "title": "Saint Francis of Assisi",
+        "subtitle": "A Man of God",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publishedDate": "2018-04-03",
+        "description": "Chesterton's biography of St. Francis is not only penetrating insights into the wonderful person of Francis but also because of its insights into the brilliant person of Chesterton. It is not a conservative biography; rather, it is a spiritual biography of Francis of Assisi that seeks to explore a matter more interesting than the details surrounding his life.Chesterton fairly marvels, as any observer must, at Francis' bravery and courageous. His treatment of Francis' attempt to convert the Muslims to Christianity during the Crusades is fascinating and insightful. This is a great biography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1980727791"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781980727798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GLfAtQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GLfAtQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saint_Francis_of_Assisi.html?hl=&id=GLfAtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GLfAtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His treatment of Francis&#39; attempt to convert the Muslims to Christianity during the Crusades is fascinating and insightful. This is a great biography."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jwyItQEACAAJ",
+      "etag": "px5k1K/cp3Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jwyItQEACAAJ",
+      "volumeInfo": {
+        "title": "St. Francis of Assisi by Gilbert Keith Chesterton",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publishedDate": "2018-03-29",
+        "description": "St. Francis of Assisi by Gilbert Keith Chesterton",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986925455"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986925457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jwyItQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jwyItQEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_Francis_of_Assisi_by_Gilbert_Keith_Ch.html?hl=&id=jwyItQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jwyItQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "St. Francis of Assisi by Gilbert Keith Chesterton"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7eHtgEACAAJ",
+      "etag": "xyrz17vaEss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7eHtgEACAAJ",
+      "volumeInfo": {
+        "title": "Saint Francis of Assisi",
+        "subtitle": "Large Print Edition",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-04-23",
+        "description": "Excerpt: FRANCIS THE BUILDER We have now reached the great break in the life of Francis of Assisi; the point at which something happened to him that must remain greatly dark to most of us, who are ordinary and selfish men whom God has not broken to make anew. In dealing with this difficult passage, especially for my own purpose of making things moderately easy for the more secular sympathiser, I have hesitated as to the more proper course; and have eventually decided to state first of all what happened, with little more of a hint of what I imagine to have been the meaning of what happened. The fuller meaning may be debated more easily afterwards, when it was unfolded in the full Franciscan life. Anyway, what happened was this. The story very largely revolves around the ruins of the Church of St. Damien, an old shrine in Assisi which was apparently neglected and falling to pieces. Here Francis was in the habit of praying before the crucifix during those dark and aimless days of transition which followed the tragic collapse of all his military ambitions, probably made bitter by some loss of social prestige terrible to his sensitive spirit. As he did so he heard a voice saying to him, \"Francis, seest thou not that my house is in ruins? Go and restore it for me.\" Francis sprang up and went. To go and do something was one of the driving demands of his nature; probably he had gone and done it before he had at all thoroughly thought out what he had done. In any case what he had done was something very decisive and immediately very disastrous for his singular social career. In the coarse conventional language of the uncomprehending world, he stole. From his own enthusiastic point of view, he extended to his venerable father Peter Bernadone the exquisite excitement and inestimable privilege of assisting, more or less unconsciously, in the rebuilding of St. Damiens Church. In point of fact what he did first was to sell his own horse and then go off and sell several bales of his father's cloth, making the sign of the cross over them to indicate their pious and charitable destination. Peter Bernadone did not see things in this light. Peter Bernadone indeed had not very much light to see by, so far as understanding the genius and temperament of his extraordinary son was concerned. Instead of understanding in what sort of a wind and flame of abstract appetites the lad was living, instead of simply telling him (as the priest practically did later) that he done an indefensible thing with the best intentions, old Bernadone took up the matter in the hardest style; in a legal and literal fashion. He used absolute political powers like a heathen father, and himself put his son under lock and key as a vulgar thief. It would appear that the cry was caught up among many with whom the unlucky Francis had once been popular; and altogether, in his efforts to build up the house of God he had only succeeded in bringing his own house about his ears and lying buried under the ruins. The quarrel dragged drearily through several stages; at one time the wretched young man seems to have disappeared underground, so to speak, into some cavern or cellar where he remained huddled hopelessly in the darkness. Anyhow, it was his blackest moment; the whole world had turned over; the whole world was on top of him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976439981"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976439988"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q7eHtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q7eHtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=q7eHtgEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=q7eHtgEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saint_Francis_of_Assisi.html?hl=&id=q7eHtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7eHtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anyway, what happened was this. The story very largely revolves around the ruins of the Church of St. Damien, an old shrine in Assisi which was apparently neglected and falling to pieces."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A6vFoAEACAAJ",
+      "etag": "vHGOzzn8sZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A6vFoAEACAAJ",
+      "volumeInfo": {
+        "title": "St. Francis of Assisi - Primary Source Edition",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Nabu Press",
+        "publishedDate": "2014-03",
+        "description": "This is a reproduction of a book published before 1923. This book may have occasional imperfections such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, or were introduced by the scanning process. We believe this work is culturally important, and despite the imperfections, have elected to bring it back into print as part of our continuing commitment to the preservation of printed works worldwide. We appreciate your understanding of the imperfections in the preservation process, and hope you enjoy this valuable book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1293834211"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781293834213"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A6vFoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A6vFoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A6vFoAEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A6vFoAEACAAJ&dq=Gilbert+Keith+Chesterton+Saint+Francis+of+Assisi&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_Francis_of_Assisi_Primary_Source_Edit.html?hl=&id=A6vFoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A6vFoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

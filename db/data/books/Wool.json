@@ -1,0 +1,772 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "IoCHzlVj-qEC",
+      "etag": "IqYmVFqRqUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IoCHzlVj-qEC",
+      "volumeInfo": {
+        "title": "Wool",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2013",
+        "description": "The thrilling e-book blockbuster that grew into a \"New York Times\"-bestseller. What would happen if the world outside was deadly, and the air could kill? This is Jules's story. This is the world of \"Wool.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780099580485"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0099580489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IoCHzlVj-qEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IoCHzlVj-qEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IoCHzlVj-qEC&printsec=frontcover&dq=Hugh+Howey+Wool&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IoCHzlVj-qEC&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wool.html?hl=&id=IoCHzlVj-qEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IoCHzlVj-qEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To live, you must follow the rules. But some don&#39;t. These are the dangerous ones; these are the people who dare to hope and dream, and who infect others with their optimism. Their punishment is simple and deadly. They are allowed outside."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MaL_AAAAQBAJ",
+      "etag": "XJHiM+KT1B8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MaL_AAAAQBAJ",
+      "volumeInfo": {
+        "title": "Dust",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2013",
+        "description": "The much-anticipated final instalment of the Wool trilogy. 'The next Hunger Games' The Sunday Times 'Thrilling, thought-provoking and memorable ... one of dystopian fiction's masterpieces alongside the likes of 1984 and Brave New World.' Daily Express In the aftermath of the uprising, the people of Silo 18 are coming to terms with a new order. Some embrace the change, others fear the unknown; none have control of their fate. The Silo is still in danger. There are those set on its destruction. Jules knows they must be stopped. The battle has been won. The war is just beginning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781780891880"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1780891881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MaL_AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MaL_AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MaL_AAAAQBAJ&printsec=frontcover&dq=Hugh+Howey+Wool&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MaL_AAAAQBAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dust.html?hl=&id=MaL_AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MaL_AAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The much-anticipated final instalment of the Wool trilogy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SG_YAgAAQBAJ",
+      "etag": "4I9bT/TbaMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SG_YAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wool Trilogy",
+        "subtitle": "Wool, Shift, Dust",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2014-02-13",
+        "description": "The international bestselling Wool trilogy, now available in one download. Includes Wool, Shift and Dust. 'A new Science Fiction classic.' ERNEST CLINE NOW THE NO.1 DRAMA IN THE HISTORY OF AppleTV+, SILO. Wool In a ruined and hostile landscape, in a future few have been unlucky enough to survive, a community exists in a giant underground silo. Jules is part of this community, but she is different. She dares to hope. And as her walls start closing in, she must decide whether to fight, or to die. Shift Donald Keene was recruited by the government to design an underground shelter. Over fifty years later Donald's design has been realised and the last remnants of mankind live in his silo. But no one can remember what life was like before. In fact, they're forced to forget. One simple pill erases a memory. And with it, any chance of hope. Dust In the aftermath of the uprising, the people of Silo 18 are coming to terms with a dangerous new order. And some want it destroyed. The battle has been won. The war is just beginning. 'The next Hunger Games' SUNDAY TIMES 'Well written, tense, and immensely satisfying, Wool will be considered a classic for many years in the future.' WIRED 'Howey's Wool is an epic feat of imagination. You will live in this world.' JUSTIN CRONIN 'Wool is frightening, fascinating, and addictive. In one word, terrific.' KATHY REICHS 'Thrilling, thought-provoking and memorable ... one of dystopian fiction's masterpieces alongside the likes of 1984 and Brave New World.' DAILY EXPRESS",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473506213"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473506212"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 924,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SG_YAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SG_YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SG_YAgAAQBAJ&printsec=frontcover&dq=Hugh+Howey+Wool&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SG_YAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SG_YAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SG_YAgAAQBAJ&rdid=book-SG_YAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wool_Trilogy-sample-epub.acsm?id=SG_YAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SG_YAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The international bestselling Wool trilogy, now available in one download."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IXjlDwAAQBAJ",
+      "etag": "k4pxjUOvBGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IXjlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Wool",
+        "subtitle": "Book One of the Silo Series",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2020-05-19",
+        "description": "SEASON 2 OF THE ACCLAIMED SILO SERIES — BASED ON BOOK 1, WOOL — NOW ON APPLE TV+ “One of dystopian fiction’s masterpieces alongside the likes of 1984 and Brave New World.\" — Daily Express The first book in the acclaimed, New York Times best-selling trilogy, Wool is the story of mankind clawing for survival. The world outside has grown toxic, the view of it limited, talk of it forbidden. The remnants of humanity live underground in a single silo. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they want: They are allowed to go outside. After the previous sheriff leaves the silo in a terrifying ritual, Juliette, a mechanic from the down deep, is suddenly and inexplicably promoted to the head of law enforcement. With newfound power and with little regard for the customs she is supposed to abide, Juliette uncovers hints of a sinister conspiracy. Tugging this thread may uncover the truth . . . or it could kill every last human alive. “Claustrophobic and, at times, genuinely terrifying.” — Washington Post SEASONS 1 & 2 OF THE APPLE TV+ STREAMING SERIES \"SILO\" ARE BASED ON THE EVENTS IN BOOK ONE OF THE SERIES, WOOL. THE STORY CONTINUES IN: SHIFT DUST",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780358447955"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "035844795X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 597,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.10.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IXjlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IXjlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IXjlDwAAQBAJ&dq=Hugh+Howey+Wool&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IXjlDwAAQBAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wool.html?hl=&id=IXjlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IXjlDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The remnants of humanity live underground in a single silo. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qw30DwAAQBAJ",
+      "etag": "xRbaqgE71G0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qw30DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shift",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "William Morrow Paperbacks",
+        "publishedDate": "2016",
+        "description": "\"In 2007, the Center for Automation in Nanobiotech (CAN) outlined the hardware and software platforms that would one day allow robots smaller than human cells to make medical diagnoses, conduct repairs, and even self-propagate. In the same year, the CBS network re-aired a program about the effects of propranolol on sufferers of extreme trauma. A simple pill, it had been discovered, could wipe out the memory of any traumatic event. At almost the same moment in humanity's broad history, mankind discovered the means for bringing about its utter downfall. And the ability to forget it ever happened.\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544839649"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544839641"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 579,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qw30DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qw30DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Qw30DwAAQBAJ&printsec=frontcover&dq=Hugh+Howey+Wool&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Qw30DwAAQBAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shift.html?hl=&id=Qw30DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Shift-sample-pdf.acsm?id=Qw30DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qw30DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first volume, Wool, has been translated in forty countries. He is also the author of Beacon 23,Sand, the Molly Fyde saga, and many other books, and is the editor, with John Joseph Adams, of the Apocalypse Triptych series of anthologies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YQHpoAEACAAJ",
+      "etag": "3Kpqv45Eq28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQHpoAEACAAJ",
+      "volumeInfo": {
+        "title": "Wool: The Graphic Novel",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Jet City Comics",
+        "publishedDate": "2014-08-12",
+        "description": "Presents a dystopian story in which man lives in an enclosed environment, and those who dare to express the desire to explore the dangerous outside world are forced out into it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1477849122"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781477849125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YQHpoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YQHpoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YQHpoAEACAAJ&dq=Hugh+Howey+Wool&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YQHpoAEACAAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wool_The_Graphic_Novel.html?hl=&id=YQHpoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQHpoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a dystopian story in which man lives in an enclosed environment, and those who dare to express the desire to explore the dangerous outside world are forced out into it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uAAXzwEACAAJ",
+      "etag": "CP/u/OJt9aY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uAAXzwEACAAJ",
+      "volumeInfo": {
+        "title": "Dust",
+        "subtitle": "(Wool Trilogy 3)",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Penguin Group",
+        "publishedDate": "2023-04-13",
+        "description": "The much-anticipated final instalment of the Wool trilogy. In the aftermath of the uprising, the people of Silo 18 are coming to terms with a new order. Some embrace the change, others fear the unknown; none have control of their fate. The Silo is still in danger. There are those set on its destruction. Jules knows they must be stopped. The battle has been won. The war is just beginning. ______________ 'The next Hunger Games' The Sunday Times 'Thrilling, thought-provoking and memorable ... one of dystopian fiction's masterpieces alongside the likes of 1984 and Brave New World.' Daily Express",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1804940844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804940846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uAAXzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uAAXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uAAXzwEACAAJ&dq=Hugh+Howey+Wool&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uAAXzwEACAAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dust.html?hl=&id=uAAXzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uAAXzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The much-anticipated final instalment of the Wool trilogy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v9auDwAAQBAJ",
+      "etag": "jHZ2A1LQy+w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v9auDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Half Way Home",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "William Morrow",
+        "publishedDate": "2019",
+        "description": "Nearly sixty teens awaken halfway through their training, stranded on a harsh alien world with few supplies, no adults, and led by a treacherous artificial intelligence, but their greatest enemy is each other.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780358213246"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "035821324X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v9auDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v9auDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=v9auDwAAQBAJ&printsec=frontcover&dq=Hugh+Howey+Wool&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=v9auDwAAQBAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Half_Way_Home.html?hl=&id=v9auDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Half_Way_Home-sample-pdf.acsm?id=v9auDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v9auDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nearly sixty teens awaken halfway through their training, stranded on a harsh alien world with few supplies, no adults, and led by a treacherous artificial intelligence, but their greatest enemy is each other."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IrQN0AEACAAJ",
+      "etag": "DFiwV0Zscig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IrQN0AEACAAJ",
+      "volumeInfo": {
+        "title": "Wool [TV Tie-In]",
+        "subtitle": "Book One of the Silo Series",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "William Morrow Paperbacks",
+        "publishedDate": "2024-01-02",
+        "description": "NOW A SERIES ON APPLE TV+ THAT STEPHEN KING CALLS \"MYSTERIOUS AND TERRIFICALLY SUSPENSEFUL.... EXCELLENT SCIENCE FICTION WITH THREE-DIMENSIONAL CHARACTERS.\" *INCLUDES ORIGINAL NEW ESSAY \"A HISTORY OF THE DARKEST YARNS\" FROM HUGH HOWEY* \"One of dystopian fiction's masterpieces alongside the likes of 1984 and Brave New World.\" -- Daily Express The first book in the acclaimed, New York Times best-selling trilogy, Wool is the story of mankind clawing for survival. The world outside has grown toxic, the view of it limited, talk of it forbidden. The remnants of humanity live underground in a single silo. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they want: They are allowed to go outside. After the previous sheriff leaves the silo in a terrifying ritual, Juliette, a mechanic from the down deep, is suddenly and inexplicably promoted to the head of law enforcement. With newfound power and with little regard for the customs she is supposed to abide, Juliette uncovers hints of a sinister conspiracy. Tugging this thread may uncover the truth . . . or it could kill every last human alive. \"Claustrophobic and, at times, genuinely terrifying.\" -- Washington Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0063378302"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063378308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IrQN0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IrQN0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IrQN0AEACAAJ&dq=Hugh+Howey+Wool&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IrQN0AEACAAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wool_TV_Tie_In.html?hl=&id=IrQN0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IrQN0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a future toxic landscape, a community that lives in an underground silo is rocked by the desire of Sheriff Holston, who has upheld the group&#39;s rules for years, to go outside, setting in motion events that kindle the fire of revolution."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xr4LzwEACAAJ",
+      "etag": "WFMC8W6oyEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xr4LzwEACAAJ",
+      "volumeInfo": {
+        "title": "Shift",
+        "subtitle": "(Wool Trilogy 2)",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "publisher": "Penguin Group",
+        "publishedDate": "2023-04-13",
+        "description": "The much anticipated prequel to bestseller Wool that takes us back to the beginnings of the silo. In a future less than fifty years away, the world is still as we know it. Time continues to tick by. The truth is that it is ticking away.A powerful few know what lies ahead. They are preparing for it. They are trying to protect us.They are s[Bokinfo].",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1804940836"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804940839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Dystopias"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xr4LzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xr4LzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Xr4LzwEACAAJ&dq=Hugh+Howey+Wool&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Xr4LzwEACAAJ&dq=Hugh+Howey+Wool&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shift.html?hl=&id=Xr4LzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xr4LzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The history of the silo is about to be written. Our future is about to begin. ________________ &#39;We have been mesmerised with Hugh Howey&#39;s silo stories since we first laid eyes on book one in the trilogy."
+      }
+    }
+  ]
+}

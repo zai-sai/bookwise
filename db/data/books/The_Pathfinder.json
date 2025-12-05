@@ -1,0 +1,674 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4mzNeaIn42gC",
+      "etag": "+8Wp/QOZ/q8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4mzNeaIn42gC",
+      "volumeInfo": {
+        "title": "The Pathfinder",
+        "subtitle": "Or the Inland Sea",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "1999",
+        "description": "The Pathfinder (1840), Cooper's most picturesque novel and the fourth of the five Leatherstocking Tales, is a naval story set on the Great Lakes of the 1750s. Fashioned from Cooper's own experience as a midshipman on Lake Ontario in 1808-09, the novel revives Natty Bumpo (who had died in The Prairie), and illuminates Cooper's interest in American history with his concern for social development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192839896"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192839893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4mzNeaIn42gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4mzNeaIn42gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4mzNeaIn42gC&printsec=frontcover&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4mzNeaIn42gC&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder.html?hl=&id=4mzNeaIn42gC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pathfinder-sample-pdf.acsm?id=4mzNeaIn42gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4mzNeaIn42gC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pathfinder (1840), Cooper&#39;s most picturesque novel and the fourth of the five Leatherstocking Tales, is a naval story set on the Great Lakes of the 1750s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-oVzzgEACAAJ",
+      "etag": "VXOJCet+YZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-oVzzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder By James Fenimore Cooper (Annotated Edition)",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2021-05-10",
+        "description": "The Pathfinder, or The Inland Sea is a historical novel by James Fenimore Cooper, first published in 1840. It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798502001236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-oVzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-oVzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-oVzzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-oVzzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_By_James_Fenimore_Cooper.html?hl=&id=-oVzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-oVzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EVeFtAEACAAJ",
+      "etag": "kofKaHsOVUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EVeFtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder by James Fenimore Cooper",
+        "authors": [
+          "James Cooper"
+        ],
+        "publishedDate": "2017-10-27",
+        "description": "The Pathfinder by James Fenimore Cooper",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979165092"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979165099"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EVeFtAEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EVeFtAEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_by_James_Fenimore_Cooper.html?hl=&id=EVeFtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EVeFtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pathfinder by James Fenimore Cooper"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dHfwzgEACAAJ",
+      "etag": "6I37P9XEYaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dHfwzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder by James Fenimore Cooper(Illustrated Edition)",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2022-02-23",
+        "description": "The Pathfinder, or The Inland Sea is a historical romance novel by James Fenimore Cooper. The Pathfinder shows Natty at his old habit of guiding delicate damsels through the dangerous forests. His simple and honest nature is severely tested by his love for a young girl. Chattier than ever before, he shows new mental and moral qualities",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798421588320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dHfwzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dHfwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dHfwzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dHfwzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_by_James_Fenimore_Cooper.html?hl=&id=dHfwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dHfwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pathfinder, or The Inland Sea is a historical romance novel by James Fenimore Cooper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KFN5zQEACAAJ",
+      "etag": "5LYZYmRC8Ts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KFN5zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder Illustrated James Fenimore Cooper",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2020-05-15",
+        "description": "The Pathfinder, or The Inland Sea is a historical novel by James Fenimore Cooper, first published in 1840. It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798646000508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KFN5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KFN5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KFN5zQEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KFN5zQEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_Illustrated_James_Fenimor.html?hl=&id=KFN5zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KFN5zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QZx8zgEACAAJ",
+      "etag": "AOf00M7ebAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QZx8zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder James Fenimore Cooper Illustrated",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2021-05-30",
+        "description": "The Pathfinder, or The Inland Sea is a historical romance novel by James Fenimore Cooper. The Pathfinder shows Natty at his old habit of guiding delicate damsels through the dangerous forests. His simple and honest nature is severely tested by his love for a young girl. Chattier than ever before, he shows new mental and moral qualities",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798512344712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QZx8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QZx8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QZx8zgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QZx8zgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_James_Fenimore_Cooper_Ill.html?hl=&id=QZx8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QZx8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pathfinder, or The Inland Sea is a historical romance novel by James Fenimore Cooper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0nqzzgEACAAJ",
+      "etag": "cWYJSn1N/JE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0nqzzgEACAAJ",
+      "volumeInfo": {
+        "title": "Pathfinder; Or, the Inland Sea",
+        "subtitle": "Pathfinder, the Pathfinder James Fenimore Cooper, Pathfinder Talesthe Pathfinder Cooper",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2021-10-07",
+        "description": "The Pathfinder, or The Inland Sea is a historical novel by James Fenimore Cooper, first published in 1840. It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario.Vigorous, self-reliant, amazingly resourceful, and moral, Natty Bumppo is the prototype of the Western hero. A faultless arbiter of wilderness justice, he hates middle-class hypocrisy. But he finds his love divided between the woman he has pledged to protect on a treacherous journey and the untouched forest that sustains him in his beliefs. A fast-paced narrative full of adventure and majestic descriptions of early frontier life, Indian raiders, and defenseless outposts, The Pathfinder set the standard for epic action literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798489590105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0nqzzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0nqzzgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pathfinder_Or_the_Inland_Sea.html?hl=&id=0nqzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0nqzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Kb9zQEACAAJ",
+      "etag": "d1AbQFXfsgU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Kb9zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder Annotated",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2020-10-09",
+        "description": "The Pathfinder, fully The Pathfinder; or, The Inland Sea, novel by James Fenimore Cooper, published in two volumes in 1840, the fourth of 5 novels published because the Leatherstocking Tales. In terms of the chronological narrative, The Pathfinder is third within the series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798695520927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Kb9zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Kb9zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5Kb9zQEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5Kb9zQEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder_Annotated.html?hl=&id=5Kb9zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Kb9zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pathfinder, fully The Pathfinder; or, The Inland Sea, novel by James Fenimore Cooper, published in two volumes in 1840, the fourth of 5 novels published because the Leatherstocking Tales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1WN3tAEACAAJ",
+      "etag": "k66wGJSd21Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1WN3tAEACAAJ",
+      "volumeInfo": {
+        "title": "The Pathfinder",
+        "subtitle": "The Inland Sea",
+        "authors": [
+          "James Cooper"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-12-12",
+        "description": "The Pathfinder: The Inland Sea by James Fenimore Cooper. The Pathfinder, or The Inland Sea is a historical novel by James Fenimore Cooper, first published in 1840. It is the fourth novel Cooper wrote featuring Natty Bumppo, his fictitious frontier hero, and the third chronological episode of the Leatherstocking Tales. The inland sea of the title is Lake Ontario. The Pathfinder shows Natty at his old trick of guiding tender damsels through the dangerous woods, and the siege at the blockhouse and the storm on Lake Ontario are considerably like other of Cooper's sieges and storms. Natty, in this novel commonly called the Pathfinder, keeps in a hardy middle age his simple and honest nature, which is severely tested by his love for a young girl. She is a conventional heroine of romance. A certain soft amiability about her turns for a time all the thoughts of the scout to the world of domestic affections. More talkative than ever before, he reveals new mental and moral traits. With the same touch of realism which had kept Uncas and Cora apart in The Last of the Mohicans, Cooper separates these lovers, and sends Natty's romantic interest to the arms of a younger suitor, restoring the hero to his home in the wilderness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981657231"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981657230"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1WN3tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1WN3tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1WN3tAEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1WN3tAEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pathfinder.html?hl=&id=1WN3tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1WN3tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Natty, in this novel commonly called the Pathfinder, keeps in a hardy middle age his simple and honest nature, which is severely tested by his love for a young girl. She is a conventional heroine of romance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S_I6tgEACAAJ",
+      "etag": "pDzSZCigboM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S_I6tgEACAAJ",
+      "volumeInfo": {
+        "title": "Pathfinder",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-04-15",
+        "description": "Vigorous, self-reliant, amazingly resourceful, and moral, Natty Bumppo is the prototype of the Western hero. A faultless arbiter of wilderness justice, he hates middle-class hypocrisy. But he finds his love divided between the woman he has pledged to protect on a treacherous journey and the untouched forest that sustains him in his beliefs. A fast-paced narrative full of adventure and majestic descriptions of early frontier life, Indian raiders, and defenseless outposts, The Pathfinder set the standard for epic action literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717039170"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717039170"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S_I6tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S_I6tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S_I6tgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S_I6tgEACAAJ&dq=James+Fenimore+Cooper+The+Pathfinder&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pathfinder.html?hl=&id=S_I6tgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S_I6tgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fast-paced narrative full of adventure and majestic descriptions of early frontier life, Indian raiders, and defenseless outposts, The Pathfinder set the standard for epic action literature."
+      }
+    }
+  ]
+}

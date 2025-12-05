@@ -1,0 +1,660 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vgxuzQEACAAJ",
+      "etag": "sAbTupbD9m8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vgxuzQEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford By Elizabeth Cleghorn Gaskell (Annotated)",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publishedDate": "2020-03-19",
+        "description": "Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798628256213"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vgxuzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vgxuzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vgxuzQEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vgxuzQEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_By_Elizabeth_Cleghorn_Gaskell_A.html?hl=&id=vgxuzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vgxuzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rqNpzgEACAAJ",
+      "etag": "mkNUXk+nQ5A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rqNpzgEACAAJ",
+      "volumeInfo": {
+        "title": "THE CRANFORD BY ELIZABETH CLEGHORN GASKELL Annotated",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-24",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798743414369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rqNpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rqNpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rqNpzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rqNpzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/THE_CRANFORD_BY_ELIZABETH_CLEGHORN_GASKE.html?hl=&id=rqNpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rqNpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UEMEzgEACAAJ",
+      "etag": "1drfvg88b1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UEMEzgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford by Elizabeth Cleghorn Gaskell Annotated Illustrated",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publishedDate": "2020-04-24",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798639898426"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UEMEzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UEMEzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UEMEzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UEMEzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_by_Elizabeth_Cleghorn_Gaskell_A.html?hl=&id=UEMEzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UEMEzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iHX3zgEACAAJ",
+      "etag": "2BMv+BgwA5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iHX3zgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford by Elizabeth Cleghorn Gaskell(illustrated Edition)",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2022-02-27",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798423853075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iHX3zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iHX3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iHX3zgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iHX3zgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_by_Elizabeth_Cleghorn_Gaskell_i.html?hl=&id=iHX3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iHX3zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "34nnzgEACAAJ",
+      "etag": "7EgyhGE4BYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/34nnzgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford by Elizabeth Cleghorn Gaskell( Annotated Edition)",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publishedDate": "2021-07-24",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798543007938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=34nnzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=34nnzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_by_Elizabeth_Cleghorn_Gaskell_A.html?hl=&id=34nnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=34nnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMMvzgEACAAJ",
+      "etag": "2TDys5gEnPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMMvzgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford by Elizabeth Cleghorn Gaskell Annotated",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publishedDate": "2021-02",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798703383230"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMMvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMMvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EMMvzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EMMvzgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_by_Elizabeth_Cleghorn_Gaskell_A.html?hl=&id=EMMvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMMvzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty.Cranford is one of the better-known novels of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F2I7zgEACAAJ",
+      "etag": "YyZ8zuu4X04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F2I7zgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford by Elizabeth Cleghorn Gaskell Annotated",
+        "authors": [
+          "Elizabeth Cleghorn Elizabeth Cleghorn"
+        ],
+        "publishedDate": "2021-01-30",
+        "description": "Cranford is a witty portrait of small town life in early-Victorian England. The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty. Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798702333878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F2I7zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F2I7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=F2I7zgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=F2I7zgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_by_Elizabeth_Cleghorn_Gaskell_A.html?hl=&id=F2I7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F2I7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story unfolds through the eyes of Mary Smith, a young woman who observes the comedic struggles of two middle aged sisters in their efforts to maintain a level of refined dignity amid poverty."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q6ZWuAEACAAJ",
+      "etag": "Fe7eqvhwYFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q6ZWuAEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford (Illustrated)",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publishedDate": "2016-12-16",
+        "description": "Elizabeth Cleghorn Gaskell, (29 September 1810 - 12 November 1865), often referred to as Mrs Gaskell, was an English novelist and short story writer during the Victorian era. Her novels offer a detailed portrait of the lives of many strata of society, including the very poor, and are of interest to social historians as well as lovers of literature. Her first novel, Mary Barton, was published in 1848. Gaskell's The Life of Charlotte Brontë, published in 1857, was the first biography about Brontë. Some of Gaskell's best known novels are Cranford (1851-53), North and South (1854-55), and Wives and Daughters (1865).Cranford is one of the better-known novels of the 19th-century English writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments, between December 1851 and May 1853, in the magazine Household Words, which was edited by Charles Dickens. It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell's death the novel became immensely popular.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520163002"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520163000"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Q6ZWuAEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Q6ZWuAEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford_Illustrated.html?hl=&id=Q6ZWuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q6ZWuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was then published, with minor revision, in book form in 1853.In the years following Elizabeth Gaskell&#39;s death the novel became immensely popular."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JfwmjgEACAAJ",
+      "etag": "ZaU6Tbj9OrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JfwmjgEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-09-18",
+        "description": "A collection of comic sketches serialized in Charles Dickens's journal Household Words, these stories look to sympathetically portray changing small-town customs and values.[2] Harkening back to memories of her childhood in the small Cheshire town of Knutsford, Cranford is an attempt to portray an affectionate picture of a class and customs already becoming anachronisms",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1517394961"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781517394967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JfwmjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JfwmjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JfwmjgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JfwmjgEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford.html?hl=&id=JfwmjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JfwmjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A collection of comic sketches serialized in Charles Dickens&#39;s journal Household Words, these stories look to sympathetically portray changing small-town customs and values."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yKrvswEACAAJ",
+      "etag": "c1haRHCkipU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yKrvswEACAAJ",
+      "volumeInfo": {
+        "title": "Cranford",
+        "authors": [
+          "Elizabeth Cleghorn Gaskell"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-02-05",
+        "description": "There is no real plot, but rather a collection of satirical sketches, which sympathetically portray changing small town customs and values in mid Victorian England. Harkening back to memories of her childhood in the small Cheshire town of Knutsford, Cranford is Elizabeth Gaskell's affectionate portrait of people and customs that were already becoming anachronisms.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1985023113"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781985023116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yKrvswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yKrvswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yKrvswEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yKrvswEACAAJ&dq=Elizabeth+Cleghorn+Gaskell+Cranford&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cranford.html?hl=&id=yKrvswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yKrvswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harkening back to memories of her childhood in the small Cheshire town of Knutsford, Cranford is Elizabeth Gaskell&#39;s affectionate portrait of people and customs that were already becoming anachronisms."
+      }
+    }
+  ]
+}

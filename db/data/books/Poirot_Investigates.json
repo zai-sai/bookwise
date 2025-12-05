@@ -1,0 +1,704 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "G2Y9EAAAQBAJ",
+      "etag": "yzKX7E8dZx0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G2Y9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-19",
+        "description": "Poirot Investigates Agatha Christie - First there was the mystery of the film star and the diamond... then came the \"suicide\" that was murder... the mystery of the absurdly cheap flat...a suspicious death in a locked gun room... a million dollar bond robbery... the curse of a pharaoh's tomb... a jewel robbery by the sea... the abduction of a prime minister... the disappearance of a banker... a phone call from a dying man... and, finally, the mystery of the missing will. What links these fascinating cases? Only the brilliant deductive powers of Hercule Poirot!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985940035"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985940037"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 171,
+        "printType": "BOOK",
+        "categories": [
+          "True Crime"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G2Y9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G2Y9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G2Y9EAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G2Y9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G2Y9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G2Y9EAAAQBAJ&rdid=book-G2Y9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Poirot_Investigates-sample-epub.acsm?id=G2Y9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Poirot_Investigates-sample-pdf.acsm?id=G2Y9EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G2Y9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poirot Investigates Agatha Christie - First there was the mystery of the film star and the diamond... then came the &quot;suicide&quot; that was murder... the mystery of the absurdly cheap flat...a suspicious death in a locked gun room... a million ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tXKmzQEACAAJ",
+      "etag": "si0rBFS6zEk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tXKmzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates by Agatha Christie",
+        "subtitle": "(Annotated) (Illustrated)",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-07-14",
+        "description": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings... First there was the mystery of the film star and the diamond... then came the 'suicide' that was murder... the mystery of the absurdly cheap flat... a suspicious death in a locked gun-room... a million dollar bond robbery... the curse of a pharaoh's tomb... a jewel robbery by the sea... the abduction of a Prime Minister... the disappearance of a banker... a phone call from a dying man... and, finally, the mystery of the missing will. What links these fascinating cases? Only the brilliant deductive powers of Hercule Poirot! 1. The Adventure of The Western Star 2. The Tragedy at Marsdon Manor 3. The Adventure of The Cheap Flat 4. The Mystery of Hunter's Lodge 5. The Million Dollar Bond Robbery 6. The Adventure of The Egyptian Tomb 7. The Jewel Robbery at The Grand Metropolitan 8. The Kidnapped Prime Minister 9. The Disappearance of Mr. Davenheim 10. The Adventure of The Italian Nobleman 11. The Case of The Missing Will",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798666177624"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tXKmzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tXKmzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tXKmzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tXKmzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates_by_Agatha_Christie.html?hl=&id=tXKmzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tXKmzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3yGrzwEACAAJ",
+      "etag": "IGFSilYJ7Es",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3yGrzwEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "Agatha Christie 100th Anniversary Collection",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "SeaWolf Press",
+        "publishedDate": "2023-02-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798886001341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3yGrzwEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3yGrzwEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=3yGrzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3yGrzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the eleven stories, famed eccentric detective Hercule Poirot solves a variety of mysteries involving greed, jealousy, and revenge. This edition also features the cover from the American first edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jtL-96q6azYC",
+      "etag": "PAyCeTmYNUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jtL-96q6azYC",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "A Hercule Poirot Mystery: The Official Authorized Edition",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-03-17",
+        "description": "Poirot Investigates a host of murders most foul—as well as other dastardly crimes—in this intriguing collection of short stories from the one-and-only Agatha Christie. First there was the mystery of the film star and the diamond . . . then came the “suicide” that was murder . . . the mystery of the absurdly cheap flat . . .a suspicious death in a locked gun room . . . a million dollar bond robbery . . . the curse of a pharaoh’s tomb . . . a jewel robbery by the sea . . . the abduction of a prime minister . . . the disappearance of a banker . . . a phone call from a dying man . . .and, finally, the mystery of the missing will. What links these fascinating cases? Only the brilliant deductive powers of Hercule Poirot!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061749605"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061749605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jtL-96q6azYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jtL-96q6azYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jtL-96q6azYC&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jtL-96q6azYC&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=jtL-96q6azYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jtL-96q6azYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poirot Investigates a host of murders most foul—as well as other dastardly crimes—in this intriguing collection of short stories from the one-and-only Agatha Christie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HLPHzgEACAAJ",
+      "etag": "og6Dl6PvjEA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HLPHzgEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates by Agatha Christie",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2021-04-02",
+        "description": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings...First there was the mystery of the film star and the diamond... then came the 'suicide' that was murder... the mystery of the absurdly cheap flat... a suspicious death in a locked gun-room... a million dollar bond robbery... the curse of a pharoah's tomb... a jewel robbery by the sea... the abduction of a Prime Minister... the disappearance of a banker... a phone call from a dying man... and, finally, the mystery of the missing will.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798732150216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HLPHzgEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HLPHzgEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates_by_Agatha_Christie.html?hl=&id=HLPHzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HLPHzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9tkUEQAAQBAJ",
+      "etag": "HERftLZVzNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9tkUEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "A Hercule Poirot Story Collection",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Courier Dover Publications",
+        "publishedDate": "2024-07-18",
+        "description": "A riveting anthology of fourteen short stories featuring Hercule Poirot and Captain Hastings. The selections include \"The Adventure of the Cheap Flat,\" \"The Mystery of Hunter's Lodge,\" \"The Tragedy at Marsdon Manor,\" and others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486854403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "048685440X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9tkUEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9tkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9tkUEQAAQBAJ&printsec=frontcover&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9tkUEQAAQBAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=9tkUEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Poirot_Investigates-sample-epub.acsm?id=9tkUEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Poirot_Investigates-sample-pdf.acsm?id=9tkUEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9tkUEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A riveting anthology of fourteen short stories featuring Hercule Poirot and Captain Hastings. The selections include &quot;The Adventure of the Cheap Flat,&quot; &quot;The Mystery of Hunter&#39;s Lodge,&quot; &quot;The Tragedy at Marsdon Manor,&quot; and others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FieNzQEACAAJ",
+      "etag": "KB7WTJ6n5T0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FieNzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "A Hercule Poirot Collection",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-03-22",
+        "description": "Poirot Investigates is one of the top books published in 1924. Hercule Poirot shows off his brilliant deductive powers in this official edition of the classic Agatha Christie short-story collection, featuring exclusive content from the Queen of Mystery.\"Agatha Christie's indelibly etched characters have entertained millions across the years and a love of her work has brought together generations of readers--a singular achievement for any author and an inspiration to writers across the literary landscape.\"--Jacqueline Winspear, New York Times bestselling author of the Maisie Dobbs novelsFirst there was the mystery of the film star and the diamond... then came the \"suicide\" that was murder... the mystery of the absurdly cheap flat... a suspicious death in a locked gun room... a million dollar bond robbery... the curse of a pharaoh's tomb... a jewel robbery by the sea... the abduction of a prime minister... the disappearance of a banker... a phone call from a dying man... and, finally, the mystery of the missing will.What links these fascinating cases? Only the brilliant deductive powers of Hercule Poirot!This intriguing collection of short stories from the one-and-only Agatha Christie will delight both old and new fans alike.Outsold only by the Bible and Shakespeare, Agatha Christie is the best-selling novelist of all time. She is best known for her 66 detective novels and 14 short story collections, as well as the world's longest-running play - The Mousetrap.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798629672838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FieNzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FieNzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FieNzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FieNzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=FieNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FieNzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poirot Investigates is one of the top books published in 1924."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dPBjzQEACAAJ",
+      "etag": "G7FgdvXMBmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dPBjzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "An Agatha Christie Murder Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-01-28",
+        "description": "Poirot Investigations (1924) by Agatha Christie: Elevent short stories featuring eccentric Belgian detective Hercule Poirot who solves mysteries involving revenge, greed and jealousy. Stories include The Kidnapped Prime Minister; The Adventure of the Italian Nobleman; and The Case of the Missing Will. The UK first edition featured an illustration of Poirot on the dust jacket, reprinted from the 21 March 1923 issue of The Sketch magazine. The US edition was published in 1925 with three additional stories. Author Agatha Christie (1890-1976) is best known for her 66 novels and much-loved fictional detective Hercule Poirot. She also wrote the world's longest-running play, The Mousetrap murder mystery.Author Agatha Christie is best known for her 66 novels and much loved fictional detectives Hercule Poirot. She also wrote the world's longest-running play, The Mousetrap.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798605778899"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dPBjzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dPBjzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dPBjzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dPBjzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=dPBjzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dPBjzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The UK first edition featured an illustration of Poirot on the dust jacket, reprinted from the 21 March 1923 issue of The Sketch magazine. The US edition was published in 1925 with three additional stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OvthzgEACAAJ",
+      "etag": "ORAJjdCr6uQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OvthzgEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates",
+        "subtitle": "Agatha Christie, Classic Collections, with Original Illustrations",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2021-03-23",
+        "description": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings. First there was the mystery of the film star and the diamond... then came the 'suicide' that was murder... the mystery of the absurdly cheap flat... a suspicious death in a locked gun-room... a million dollar bond robbery... the curse of a pharaoh's tomb... a jewel robbery by the sea... the abduction of a Prime Minister... the disappearance of a banker... a phone call from a dying man... and, finally, the mystery of the missing will.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798727162972"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OvthzgEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OvthzgEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates.html?hl=&id=OvthzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OvthzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The very first collection of superb short stories featuring Hercule Poirot and Captain Hastings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QDPlzQEACAAJ",
+      "etag": "DgVRdeHYcvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QDPlzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poirot Investigates Illustrated",
+        "authors": [
+          "Agatha Chirstie"
+        ],
+        "publishedDate": "2020-09-11",
+        "description": "Poirot Investigates is a short story collection written by Agatha Christie and first published in the UK by The Bodley Head in March 1924. In the eleven stories, famed eccentric detective Hercule Poirot solves a variety of mysteries involving greed, jealousy, and revenge",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798685133168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QDPlzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QDPlzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QDPlzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QDPlzQEACAAJ&dq=Agatha+Christie+Poirot+Investigates&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poirot_Investigates_Illustrated.html?hl=&id=QDPlzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QDPlzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the eleven stories, famed eccentric detective Hercule Poirot solves a variety of mysteries involving greed, jealousy, and revenge"
+      }
+    }
+  ]
+}

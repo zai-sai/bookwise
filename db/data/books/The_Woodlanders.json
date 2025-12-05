@@ -1,0 +1,725 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2BMM2HFtqiUC",
+      "etag": "p5AqxC4FhRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2BMM2HFtqiUC",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781427032713"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1427032718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2BMM2HFtqiUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2BMM2HFtqiUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2BMM2HFtqiUC&printsec=frontcover&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2BMM2HFtqiUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2BMM2HFtqiUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.04,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2BMM2HFtqiUC&rdid=book-2BMM2HFtqiUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2040000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Woodlanders-sample-pdf.acsm?id=2BMM2HFtqiUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2BMM2HFtqiUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eiZevgEACAAJ",
+      "etag": "kttUg5oAYfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eiZevgEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "subtitle": "Thomas Hardy",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-26",
+        "description": "The Woodlanders by Thomas Hardy The Woodlanders is a novel by Thomas Hardy. It was serialised from May 1886 to April 1887 in Macmillan's Magazine and published in three volumes in 1887. It is one of his series of Wessex novels. The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have been informally betrothed for some time, her father has made financial sacrifices to give his adored only child a superior education and no longer considers Giles good enough for her. When the new doctor - a well-born and handsome young man named Edgar Fitzpiers - takes an interest in Grace, her father does all he can to make Grace forget Giles, and to encourage what he sees as a brilliant match. Grace has misgivings prior to the marriage as she sees a village woman (Suke Damson) coming out of his cottage very early in the morning and suspects he has been sleeping with her. She tells her father that she does not want to go on with the marriage and he becomes very angry.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541294297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541294295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eiZevgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eiZevgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eiZevgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eiZevgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders.html?hl=&id=eiZevgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eiZevgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is one of his series of Wessex novels. The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C_oUAAAAQAAJ",
+      "etag": "+MSn11TnGFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C_oUAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:503826204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Arranged marriage"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C_oUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C_oUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C_oUAAAAQAAJ&printsec=frontcover&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C_oUAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C_oUAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=C_oUAAAAQAAJ&rdid=book-C_oUAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Woodlanders.epub?id=C_oUAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Woodlanders.pdf?id=C_oUAAAAQAAJ&hl=&output=pdf&sig=ACfU3U37fmhF-nLbKIMb0c1EukxRPyPv9A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C_oUAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eNXOoQEACAAJ",
+      "etag": "ZXWP3Zbc0sE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eNXOoQEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "subtitle": "(Thomas Hardy Classics Collection)",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-09-08",
+        "description": "The physiognomy of a deserted highway expresses solitude to a degree that is not reached by mere dales or downs, and bespeaks a tomb-like stillness more emphatic than that of glades and pools. The contrast of what is with what might be probably accounts for this. To step, for instance, at the place under notice, from the hedge of the plantation into the adjoining pale thoroughfare, and pause amid its emptiness for a moment, was to exchange by the act of a single stride the simple absence of human companionship for an incubus of the forlorn.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1502312786"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781502312785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eNXOoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eNXOoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eNXOoQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eNXOoQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders.html?hl=&id=eNXOoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eNXOoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The physiognomy of a deserted highway expresses solitude to a degree that is not reached by mere dales or downs, and bespeaks a tomb-like stillness more emphatic than that of glades and pools."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MjhvxQEACAAJ",
+      "etag": "iRmsQyaYOnM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MjhvxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders (Annotated)",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "2019-05-17",
+        "description": "The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1098887697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781098887698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MjhvxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MjhvxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MjhvxQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MjhvxQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders_Annotated.html?hl=&id=MjhvxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MjhvxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m69eCAAAQBAJ",
+      "etag": "QqGYuG0D4c0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m69eCAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "authors": [
+          "Hardy Thomas Hardy",
+          "Thomas Hardy"
+        ],
+        "publisher": "1st World Publishing",
+        "publishedDate": "2007-08",
+        "description": "The rambler who, for old association or other reasons, should trace the forsaken coach-road running almost in a meridional line from Bristol to the south shore of England, would find himself during the latter half of his journey in the vicinity of some ex",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421848808"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421848805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m69eCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m69eCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=m69eCAAAQBAJ&printsec=frontcover&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m69eCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m69eCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m69eCAAAQBAJ&rdid=book-m69eCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Woodlanders-sample-pdf.acsm?id=m69eCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m69eCAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The rambler who, for old association or other reasons, should trace the forsaken coach-road running almost in a meridional line from Bristol to the south shore of England, would find himself during the latter half of his journey in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LbNftAEACAAJ",
+      "etag": "aCozqccVQYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LbNftAEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "subtitle": "By Thomas Hardy - Illustrated",
+        "authors": [
+          "Thomas Thomas Hardy"
+        ],
+        "publishedDate": "2017-04-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Woodlanders by Thomas Hardy The Woodlanders is a novel by Thomas Hardy. When country-girl Grace Melbury returns home from her middle-class school she feels she has risen above her suitor, the simple woodsman Giles Winterborne. Though marriage had been discussed between her and Giles, Grace finds herself captivated by Dr Edred Fitzpiers, a sophisticated newcomer to the area--a relationship that is encouraged by her socially ambitious father. Hardy's novel of betrayal, disillusionment and moral compromise depicts a secluded community coming to terms with the disastrous impact of outside influences. And in his portrayal of Giles Winterborne, Hardy shows a man who responds deeply to the forces of the natural world, thought they ultimately betray him.Plot: The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have been informally betrothed for some time, her father has made financial sacrifices to give his adored only child a superior education and no longer considers Giles good enough for her. When the new doctor - a well-born and handsome young man named Edred Fitzpiers - takes an interest in Grace, her father does all he can to make Grace forget Giles, and to encourage what he sees as a brilliant match. Grace has misgivings prior to the marriage as she sees a village woman (Suke Damson) coming out of his cottage very early in the morning and suspects he has been sleeping with her. She tells her father that she does not want to go on with the marriage and he becomes very angry. Later Fitzpiers tells her Suke has been to visit him because she was in agony from toothache and he extracted a molar. Grace clutches at this explanation - in fact Fitzpiers has started an affair with Suke some weeks previously. After the honeymoon, the couple take up residence in an unused wing of Melbury's house. Soon, however, Fitzpiers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521136394"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521136393"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LbNftAEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LbNftAEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders.html?hl=&id=LbNftAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LbNftAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The Woodlanders by Thomas Hardy The Woodlanders is a novel by Thomas Hardy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F-_gjgEACAAJ",
+      "etag": "0qY1N8+r/pE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F-_gjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Works of Thomas Hardy",
+        "subtitle": "The Woodlanders",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929381122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=F-_gjgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=F-_gjgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Works_of_Thomas_Hardy.html?hl=&id=F-_gjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F-_gjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EVTBzQEACAAJ",
+      "etag": "fYjWfzcrmmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EVTBzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-13",
+        "description": "The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury. Although they have been informally betrothed for some time, her father has made financial sacrifices to give his adored only child a superior education and no longer considers Giles good enough for her. When the new doctor - a well-born and handsome young man named Edred Fitzpiers - takes an interest in Grace, her father does all he can to make Grace forget Giles, and to encourage what he sees as a brilliant match.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540890384"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540890382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Arranged marriage"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EVTBzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EVTBzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EVTBzQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EVTBzQEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders.html?hl=&id=EVTBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EVTBzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story takes place in a small woodland village called Little Hintock, and concerns the efforts of an honest woodsman, Giles Winterborne, to marry his childhood sweetheart, Grace Melbury."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RSpmzgEACAAJ",
+      "etag": "NMK8iB0qhTA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RSpmzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Woodlanders Illustrated",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "2021-04-17",
+        "description": "The Woodlanders is a novel by Thomas Hardy. It was serialised from May 1886 to April 1887 in Macmillan's Magazine[1] and published in three volumes in 1887.[2] It is one of his series of Wessex novels.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798739478177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 482,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RSpmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RSpmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RSpmzgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RSpmzgEACAAJ&dq=Thomas+Hardy+The+Woodlanders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Woodlanders_Illustrated.html?hl=&id=RSpmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RSpmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Woodlanders is a novel by Thomas Hardy. It was serialised from May 1886 to April 1887 in Macmillan&#39;s Magazine[1] and published in three volumes in 1887.[2] It is one of his series of Wessex novels."
+      }
+    }
+  ]
+}

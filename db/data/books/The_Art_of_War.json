@@ -1,0 +1,874 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UTGnopblxt8C",
+      "etag": "zpPPduo1yec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UTGnopblxt8C",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sun Tzu"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2002-01-01",
+        "description": "Widely regarded as \"The Oldest Military Treatise in the World,\" this landmark work covers principles of strategy, tactics, maneuvering, communication, and supplies; the use of terrain, fire, and the seasons of the year; the classification and utilization of spies; the treatment of soldiers, including captives, all have a modern ring to them.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0486425576"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486425573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UTGnopblxt8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UTGnopblxt8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UTGnopblxt8C&printsec=frontcover&dq=The+Art+of+War&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UTGnopblxt8C&dq=The+Art+of+War&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_War.html?hl=&id=UTGnopblxt8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-pdf.acsm?id=UTGnopblxt8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UTGnopblxt8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Widely regarded as &quot;The Oldest Military Treatise in the World,&quot; this landmark work covers principles of strategy, tactics, maneuvering, communication, and supplies; the use of terrain, fire, and the seasons of the year; the classification ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "11BODwAAQBAJ",
+      "etag": "AGYpry2Uysk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11BODwAAQBAJ",
+      "volumeInfo": {
+        "title": "THE ART OF WAR (Giles Translation)",
+        "authors": [
+          "Sun Tzu"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2017-11-15",
+        "description": "\"The Art of War\" is an ancient Chinese military treatise that is attributed to Sun Tzu (also referred to as \"Sunzi\" and \"Sun Wu\"), a high ranking military general, strategist and tactist. The Art of War has also been applied to business and managerial strategies. Composed of 13 chapters, each of which is devoted to one aspect of warfare. It is said to be the definitive work on military strategies and tactics of its time, and is still read for its military insight which can be applied to business and managerial strategies as well. Sun Tzu was a Chinese general, military strategist, and philosopher who lived in the Spring and Autumn period of ancient China. Sun Tzu is traditionally credited as the author of The Art of War, a widely influential work of military strategy that has affected both Western and Eastern philosophy. Aside from his legacy as the author of The Art of War, Sun Tzu is revered in Chinese and the Culture of Asia as a legendary historical figure. His birth name was Sun Wu, and he was known outside of his family by his courtesy name Changqing. The name Sun Tzu by which he is best known in the West is an honorific which means \"Master Sun\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027231386"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8027231388"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=11BODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=11BODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=11BODwAAQBAJ&printsec=frontcover&dq=The+Art+of+War&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=11BODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=11BODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=11BODwAAQBAJ&rdid=book-11BODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/THE_ART_OF_WAR_Giles_Translation-sample-epub.acsm?id=11BODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/THE_ART_OF_WAR_Giles_Translation-sample-pdf.acsm?id=11BODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=11BODwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is said to be the definitive work on military strategies and tactics of its time, and is still read for its military insight which can be applied to business and managerial strategies as well."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3dY4DgAAQBAJ",
+      "etag": "JgcNbXzMS6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3dY4DgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Tzu Sun"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "1994-02-11",
+        "description": "The definitive translation of Sun-tzu's timeless classic of military strategy, Art of War Sun-tzu's Art of War is almost certainly the most famous study of strategy ever written. This treatise has been credited with influencing some of the most legendary military operations. Beyond the battlefield, people far and wide have long turned to Art of War for advice on how to succeed in various competitive situations, and companies around the world now make this book required reading for their executives. In this translation, Chinese warfare scholar Ralph D. Sawyer places Art of War in its proper historical context, outlining several battles that Sun-tzu either conducted or that may have influenced him, and offers an edition that is uniquely accurate and accessible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780465013272"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0465013279"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3dY4DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3dY4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3dY4DgAAQBAJ&printsec=frontcover&dq=The+Art+of+War&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3dY4DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3dY4DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3dY4DgAAQBAJ&rdid=book-3dY4DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-epub.acsm?id=3dY4DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3dY4DgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beyond the battlefield, people far and wide have long turned to Art of War for advice on how to succeed in various competitive situations, and companies around the world now make this book required reading for their executives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UBiWDwAAQBAJ",
+      "etag": "Ygw8/5RSZO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UBiWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "subtitle": "Illustrated Edition",
+        "authors": [
+          "Tzu Sun",
+          "Anthony Tucker-Jones"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2019-04-04",
+        "description": "A new illustrated edition of Sun Tzu's classic ancient Chinese meditation on military strategy and human psychology, with a new commentary that highlight its continued relevance for modern readers. Poetic and immensely readable, The Art of War was written 2,500 years ago and the military manual is still relevant today. A fascinating historical document that sheds light on ancient warfare, it is also a profound meditation on human psychology, interrogating the subjects of leadership, self-discipline and self-awareness. This new edition of the classic work is specially designed for modern readers. It includes an insightful introduction to the historical and philosophical context, and is accompanied by explanation and analysis of how Sun Tzu's lessons have been applied in some of the world's most famous battles. Renowned strategists from Field Marshal Montgomery to General Schwarzkopf have cited the book as an inspiration. The ancient text, attributed to Sun Tzu, is divided into 13 chapters that provide a logical and strategic approach to conflict and competition. Each focuses on a different aspect of warfare, including the importance of planning, managing your forces, decision-making, knowing your strengths and weaknesses, the art of deception and understanding the power of information. This edition, featuring more than 28 evocative photographs, offers a new perspective on a classic work and enables new generations to discover The Art of War and find new applications for the wisdom of Sun Tzu.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781912392100"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1912392100"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UBiWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UBiWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UBiWDwAAQBAJ&printsec=frontcover&dq=The+Art+of+War&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UBiWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UBiWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.09,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.36,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UBiWDwAAQBAJ&rdid=book-UBiWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9090000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6360000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-epub.acsm?id=UBiWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-pdf.acsm?id=UBiWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UBiWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition, featuring more than 28 evocative photographs, offers a new perspective on a classic work and enables new generations to discover The Art of War and find new applications for the wisdom of Sun Tzu."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P5FoDgAAQBAJ",
+      "etag": "5glRI5wIsto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P5FoDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War (illustrated)",
+        "authors": [
+          "Tzu, Sun"
+        ],
+        "publisher": "Aegitas",
+        "publishedDate": "2017-03-19",
+        "description": "The Art of War is an ancient Chinese military treatise attributed to Sun Tzu, a high-ranking military general, strategist and tactician. The treatise in translated from the Chinese, with an introduction and critical notes by Lionel Giles, M.A. Assistant Department of Oriental Printed Books And Manuscripts. Written in the 6th century B.C., The Art of War remains the ultimate guide to combat strategy. Sun Tzu explains when and how to engage opponents in order to prevail in difficult situations. Instead of describing the logistics of warfare, he shows the reader how to succeed by motivating soldiers and leveraging tactical advantages. In short, he explains how to win the battle of wits. Book illustrated by Japanese artist Utagawa Kuniyoshi.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781773137735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1773137735"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 205,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P5FoDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P5FoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P5FoDgAAQBAJ&printsec=frontcover&dq=The+Art+of+War&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P5FoDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P5FoDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.08,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.08,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P5FoDgAAQBAJ&rdid=book-P5FoDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6080000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6080000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War_illustrated-sample-epub.acsm?id=P5FoDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War_illustrated-sample-pdf.acsm?id=P5FoDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P5FoDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in the 6th century B.C., The Art of War remains the ultimate guide to combat strategy. Sun Tzu explains when and how to engage opponents in order to prevail in difficult situations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g40sWm-DkUMC",
+      "etag": "nr57E09F4zQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g40sWm-DkUMC",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sun-tzu"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2008-05-29",
+        "description": "Still a source of inspiration for soldiers on the battlefield and managers in the boardroom 2000 years after it was written, Sun-Tzu's The Art of War is the most influential book of strategy in the world, translated from the Chinese by John Minford in Penguin Classics. 'Ultimate excellence lies not in winning every battle, but in defeating the enemy without ever fighting' For more than two thousand years, Sun-Tzu's The Art of War has provided leaders with profound insights into the use of skill, tactics, psychology and discipline to outwit opponents. Said to have inspired Napoleon, and used by Mao Zedong and General Douglas MacArthur, as well as many famous business gurus, politicians and sports stars, its ancient words of wisdom provide a touchstone for today's managers and executives fighting their boardroom battles. This best-selling book offers ancient wisdom on how to use skill, cunning, tactics and discipline to outwit your opponent. Little is known for definite about Sun Tzu (544-496 B.C.) and his life during the Warring States period after the decline of the Zhou dynasty, but his classic The Art of War has been one of the central works of Chinese literature for 2500 years. If you enjoyed The Art of War, you might like Machiavelli's The Prince, also available in Penguin Classics. 'Absorb this book, and you can throw out all those contemporary books about management leadership' Newsweek 'Reflecting on Sun-Tzu's work is to the business manager what weight lifting is to the champion athlete - an exercise that makes one stronger' John Kohut, Beijing Bureau Chief, South China Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141919683"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "014191968X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g40sWm-DkUMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g40sWm-DkUMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=g40sWm-DkUMC&printsec=frontcover&dq=The+Art+of+War&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g40sWm-DkUMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g40sWm-DkUMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g40sWm-DkUMC&rdid=book-g40sWm-DkUMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-epub.acsm?id=g40sWm-DkUMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g40sWm-DkUMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Absorb this book, and you can throw out all those contemporary books about management leadership&#39; Newsweek &#39;Reflecting on Sun-Tzu&#39;s work is to the business manager what weight lifting is to the champion athlete - an exercise that makes one ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yp__DwAAQBAJ",
+      "etag": "xOtY5IEJ0HA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yp__DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sun Tzu",
+          "Sun Tsu"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2020-10-08",
+        "description": "The ultimate Chinese classic. \"The Art of War\" helps in finding decisions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783752609592"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3752609591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yp__DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yp__DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yp__DwAAQBAJ&printsec=frontcover&dq=The+Art+of+War&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yp__DwAAQBAJ&dq=The+Art+of+War&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_War.html?hl=&id=yp__DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-pdf.acsm?id=yp__DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yp__DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The ultimate Chinese classic. &quot;The Art of War&quot; helps in finding decisions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ddET09cVpF0C",
+      "etag": "Cm12Y6ns5Y4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ddET09cVpF0C",
+      "volumeInfo": {
+        "title": "Mastering the Art of War",
+        "authors": [
+          "Liang Zhuge",
+          "Ji Liu"
+        ],
+        "publisher": "Shambhala Publications",
+        "publishedDate": "2005",
+        "description": "Composed by two prominent statesmen-generals of classical China, this book develops the strategies of Sun Tzu's classic, The Art of War , into a complete handbook of organization and leadership. The great leaders of ancient China who were trained in Sun Tzu's principles understood how war is waged successfully, both materially and mentally, and how victory and defeat follow clear social, psychological, and environmental laws. Drawing on episodes from the panorama of Chinese history, Mastering the Art of War presents practical summaries of these essential laws along with tales of conflict and strategy that show in concrete terms the proper use of Sun Tzu's principles. The book also examines the social and psychological aspects of organization and crisis management. The translator's introduction surveys the Chinese philosophies of war and conflict and explores in depth the parallels between The Art of War and the oldest handbook of strategic living, the I Ching (Book of Changes).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590302644"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1590302648"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ddET09cVpF0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ddET09cVpF0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ddET09cVpF0C&printsec=frontcover&dq=The+Art+of+War&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ddET09cVpF0C&dq=The+Art+of+War&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_the_Art_of_War.html?hl=&id=ddET09cVpF0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Mastering_the_Art_of_War-sample-pdf.acsm?id=ddET09cVpF0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ddET09cVpF0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Composed by two prominent statesmen-generals of classical China, this book develops the strategies of Sun Tzu&#39;s classic, The Art of War , into a complete handbook of organization and leadership."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oGWsna0oc_YC",
+      "etag": "4dqv0C34y0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oGWsna0oc_YC",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sunzi"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1963",
+        "description": "An ancient Chinese treatise on war stresses the importance of speed, sound tactics, subterfuge, discipline, appropriate form of attack, and accurate intelligence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0195015401"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195015409"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oGWsna0oc_YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oGWsna0oc_YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oGWsna0oc_YC&printsec=frontcover&dq=The+Art+of+War&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oGWsna0oc_YC&dq=The+Art+of+War&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_War.html?hl=&id=oGWsna0oc_YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-epub.acsm?id=oGWsna0oc_YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Art_of_War-sample-pdf.acsm?id=oGWsna0oc_YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oGWsna0oc_YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These terse, aphoristic essays are unsurpassed in comprehensiveness and depth of understanding, examining not only battlefield maneuvers, but also relevant economic, political, and psychological factors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y1vqObzzIF8C",
+      "etag": "LNbjtVnsCCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y1vqObzzIF8C",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sunzi"
+        ],
+        "publisher": "Westview Press",
+        "publishedDate": "1994-02-11",
+        "description": "The definitive translation of Sun-tzu's timeless classic of military strategy, Art of War Art of War is almost certainly the most famous study of strategy ever written and has had an extraordinary influence on the history of warfare. The principles Sun-tzu expounded were utilized brilliantly by such great Asian war leaders as Mao Tse-tung, Giap, and Yamamoto. First translated two hundred years ago by a French missionary, Sun-tzu's Art of War has been credited with influencing Napoleon, the German General Staff, and even the planning for Desert Storm. Many Japanese companies make this book required reading for their key executives. And increasingly, Western businesspeople and others are turning to the Art of War for inspiration and advice on how to succeed in competitive situations of all kinds. Unlike most editions of Sun-tzu currently available (many simply retreads of older, flawed translations), this superb translation makes use of the best available classical Chinese manuscripts, including the ancient \"tomb text\" version discovered by archaeologists at Linyi, China. Ralph Sawyer, an outstanding Western scholar of ancient Chinese warfare and a successful businessman in his own right, places this classic work of strategy in its proper historical context. Sawyer supplies a portrait of Sun-tzu's era and outlines several battles of the period that may have either influenced Sun-tzu or been conducted by him. While appreciative of the philosophical richness of the Art of War, this edition stresses Sun-tzu's practical origins and presents a translation that is both accurate and accessible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "081331951X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780813319513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y1vqObzzIF8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y1vqObzzIF8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y1vqObzzIF8C&dq=The+Art+of+War&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y1vqObzzIF8C&dq=The+Art+of+War&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_War.html?hl=&id=y1vqObzzIF8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y1vqObzzIF8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While appreciative of the philosophical richness of the Art of War, this edition stresses Sun-tzu&#39;s practical origins and presents a translation that is both accurate and accessible."
+      }
+    }
+  ]
+}

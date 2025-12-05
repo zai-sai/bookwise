@@ -1,0 +1,732 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "080JAQAAMAAJ",
+      "etag": "pgss4llCQgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/080JAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Jazz Journal International",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015057436514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Jazz"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=080JAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=080JAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=080JAQAAMAAJ&q=Neil+Bullock+Off+Track&dq=Neil+Bullock+Off+Track&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=080JAQAAMAAJ&dq=Neil+Bullock+Off+Track&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jazz_Journal_International.html?hl=&id=080JAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=080JAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>tracks</b> are pretty shallow , though lively enough ... <b>track</b> on disc three runs on with almost nine minutes of silence before the disc switches <b>off</b> ... <b>Neil Bullock</b> ( d ) - ( July 4 ) ; Summer Jazz Picnic 2004 at Saltram House&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HPs4AQAAIAAJ",
+      "etag": "na5nOUePzmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HPs4AQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Wire",
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822034449876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Alternative rock music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HPs4AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HPs4AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HPs4AQAAIAAJ&q=Neil+Bullock+Off+Track&dq=Neil+Bullock+Off+Track&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HPs4AQAAIAAJ&dq=Neil+Bullock+Off+Track&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wire.html?hl=&id=HPs4AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HPs4AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>off</b> and musically , <b>Bullock</b> and Bassett are both with Vestreheim&#39;s exultant ... <b>track</b> , a nine minute video filmed by local artist Roberto Merani , has ... <b>Neil</b> Hagerty , with lyrics . like : &quot; Once or maybe twice a day / Dirty&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T49DAAAAcAAJ",
+      "etag": "MzlJXO9YQIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T49DAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Colburn's united service magazine",
+        "subtitle": "1851, Jan. - Apr.",
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB10595473"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 664,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T49DAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T49DAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=T49DAAAAcAAJ&pg=PA349&dq=Neil+Bullock+Off+Track&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T49DAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T49DAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=T49DAAAAcAAJ&rdid=book-T49DAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Colburn_s_united_service_magazine.epub?id=T49DAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Colburn_s_united_service_magazine.pdf?id=T49DAAAAcAAJ&hl=&output=pdf&sig=ACfU3U3IU78u0DdGtSaLRB-lSJgBUYvdWA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T49DAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>off</b> the <b>track</b> . There we dismissed negro , volante , and horse , and we held a council of war . The weather was lovely , the sky cloudless , and the landscape as beautiful as landscape could well be . &quot; My opinion is this , &quot; said O&#39;<b>Neil</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BQkLAAAAYAAJ",
+      "etag": "D8xMAie/OBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BQkLAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Southeastern Reporter",
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044103149571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1068,
+        "printType": "BOOK",
+        "categories": [
+          "Law reports, digests, etc"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BQkLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BQkLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BQkLAAAAYAAJ&pg=PA80&dq=Neil+Bullock+Off+Track&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BQkLAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BQkLAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BQkLAAAAYAAJ&rdid=book-BQkLAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Southeastern_Reporter.epub?id=BQkLAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Southeastern_Reporter.pdf?id=BQkLAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1Q_BnFw-Tur2In1vTScayXo8G3PA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BQkLAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Neal</b> , for appelleė . AVERY , J. This case is governed by the. principle ... <b>off</b> the <b>track</b> in time to avoid injury ; and if such person is injured the ... <b>Bullock</b>. v . Railroad. Co. ,. 105. N. C. 180 , 10 S. E. Rep . 988 ; and Clark v&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fgOqZWHCLbUC",
+      "etag": "KDCJzryW1+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fgOqZWHCLbUC",
+      "volumeInfo": {
+        "title": "Off Broadway Musicals, 1910-2007",
+        "subtitle": "Casts, Credits, Songs, Critical Reception and Performance Data of More Than 1,800 Shows",
+        "authors": [
+          "Dan Dietz"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2010-03-10",
+        "description": "Despite an often unfair reputation as being less popular, less successful, or less refined than their bona-fide Broadway counterparts, Off Broadway musicals deserve their share of critical acclaim and study. A number of shows originally staged Off Broadway have gone on to their own successful Broadway runs, from the ever-popular A Chorus Line and Rent to more off-beat productions like Avenue Q and Little Shop of Horrors. And while it remains to be seen if other popular Off Broadway shows like Stomp, Blue Man Group, and Altar Boyz will make it to the larger Broadway theaters, their Off Broadway runs have been enormously successful in their own right. This book discusses more than 1,800 Off Broadway, Off Off Broadway, showcase, and workshop musical productions. It includes detailed descriptions of Off Broadway musicals that closed in previews or in rehearsal, selected musicals that opened in Brooklyn and in New Jersey, and American operas that opened in New York, along with general overviews of Off Broadway institutions such as the Light Opera of Manhattan. The typical entry includes the name of the host theater or theaters; the opening date and number of performances; the production's cast and creative team; a list of songs; a brief plot synopsis; and general comments and reviews from the New York critics. Besides the individual entries, the book also includes a preface, a bibliography, and 21 appendices including a discography, filmography, a list of published scripts, and lists of musicals categorized by topic and composer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786457311"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0786457317"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 657,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fgOqZWHCLbUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fgOqZWHCLbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fgOqZWHCLbUC&pg=PA387&dq=Neil+Bullock+Off+Track&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fgOqZWHCLbUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fgOqZWHCLbUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22.28,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 22.28,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fgOqZWHCLbUC&rdid=book-fgOqZWHCLbUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22280000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 22280000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Off_Broadway_Musicals_1910_2007-sample-epub.acsm?id=fgOqZWHCLbUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Off_Broadway_Musicals_1910_2007-sample-pdf.acsm?id=fgOqZWHCLbUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fgOqZWHCLbUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Neil</b> Simon&#39;s Chapter Two ( 1977 ) . For the record , the credits for the lyrics in the above <b>song</b> list are taken ... <b>Bullock</b> , Terence Burk , Alice Carey , Eric Ellenburg , Lee Guilliatt , Philip Owens , Elly ( Ellie ) Schadt&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DtwRAAAAYAAJ",
+      "etag": "6uFVJSIChPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DtwRAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The United Service Magazine",
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433081657441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 654,
+        "printType": "BOOK",
+        "categories": [
+          "Military art and science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DtwRAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DtwRAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DtwRAAAAYAAJ&pg=PA349&dq=Neil+Bullock+Off+Track&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DtwRAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DtwRAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=DtwRAAAAYAAJ&rdid=book-DtwRAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_United_Service_Magazine.epub?id=DtwRAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_United_Service_Magazine.pdf?id=DtwRAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dvW6tI0nb0GytO2dwMJOiS0vJCA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DtwRAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>off</b> the <b>track</b> . There we dismissed negro , volante , and horse , and we held a council of war . The weather was lovely , the sky cloudless , and the landscape as beautiful as landscape could well be . &quot; My opinion is this , &quot; said O&#39;<b>Neil</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rJ3kd4RRNgcC",
+      "etag": "HyvCI1QiScM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rJ3kd4RRNgcC",
+      "volumeInfo": {
+        "title": "Esquire",
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108058501571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1082,
+        "printType": "BOOK",
+        "categories": [
+          "Fashion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rJ3kd4RRNgcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rJ3kd4RRNgcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rJ3kd4RRNgcC&q=Neil+Bullock+Off+Track&dq=Neil+Bullock+Off+Track&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rJ3kd4RRNgcC&dq=Neil+Bullock+Off+Track&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esquire.html?hl=&id=rJ3kd4RRNgcC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rJ3kd4RRNgcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>off</b>- <b>track</b> &quot; racket . When the track is abnormal , all form is out . The ... <b>Neil</b> Co. May Combany Famous Barr <b>Bullock</b> &amp; Jones . Strawbridge &amp; Clothier ... off to a false start . They continued run- ning , ignorant of the fact&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "la8hEAAAQBAJ",
+      "etag": "qZVErtJvX6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/la8hEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Vivid Tomorrows",
+        "subtitle": "On Science Fiction and Hollywood",
+        "authors": [
+          "David Brin"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2021-03-04",
+        "description": "Can science fiction--especially sci-fi cinema--save the world? It already has, many times. Retired officers testify that films like Doctor Strangelove, Fail-Safe, On the Beach and War Games provoked changes and helped prevent accidental war. Soylent Green and Silent Running recruited millions of environmental activists. The China Syndrome and countless movies about plagues helped bring attention to those failure modes. And the grand-daddy of \"self-preventing prophecy\"--Nineteen Eighty-Four--girded countless citizens to stay wary of Big Brother. It's not been all dire warnings. While optimism is much harder to dramatize than apocalypse, both large and small screens have also encouraged millions to lift their gaze, contemplating how we might get better, incrementally, or else raise grandchildren worthy of the stars. Come along on a quirky quest for unusual insights into the power of forward-looking media. How the romantic allure of feudalism tugs at men and women who benefited vastly from modernity. Or explore why almost every Hollywood film preaches Suspicion of Authority, along with tolerance, diversity and personal eccentricity, and how those messages helped keep us free. No one is spared scrutiny! Not Spielberg or Tolkien or Cameron or Costner... nor Dune or demigods or zombie flicks. Certainly not George Lucas or Ayn Rand! Though some critiques are offered from a lifetime of respect and love... and gratitude.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476641737"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476641730"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=la8hEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=la8hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=la8hEAAAQBAJ&pg=PA200&dq=Neil+Bullock+Off+Track&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=la8hEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=la8hEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.85,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 14.85,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=la8hEAAAQBAJ&rdid=book-la8hEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14850000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 14850000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Vivid_Tomorrows-sample-epub.acsm?id=la8hEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Vivid_Tomorrows-sample-pdf.acsm?id=la8hEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=la8hEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Neil</b> deGrasse Tyson All right , now I&#39;ll look at <b>Neil&#39;s</b> famous Twitter jibes about the film . No it should not have been named Zero Gravity . There&#39;s plenty of grav- ity in orbit . It&#39;s part of the problem . Bad buzzer sound for <b>Neil</b> on&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YEc1AQAAIAAJ",
+      "etag": "1Hi8EAP8dlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YEc1AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Brotherhood of Locomotive Engineer's Monthly Journal",
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B680634"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1174,
+        "printType": "BOOK",
+        "categories": [
+          "Locomotive engineers"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YEc1AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YEc1AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YEc1AQAAIAAJ&pg=PA257&dq=Neil+Bullock+Off+Track&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YEc1AQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YEc1AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YEc1AQAAIAAJ&rdid=book-YEc1AQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Brotherhood_of_Locomotive_Engineer_s_Mon.epub?id=YEc1AQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Brotherhood_of_Locomotive_Engineer_s_Mon.pdf?id=YEc1AQAAIAAJ&hl=&output=pdf&sig=ACfU3U1CeDisyVbATrj4RYYs6DeDACh-Rg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YEc1AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BULLOCK</b> , JAS . GREGORY , JNO . HENSING ,. } Committee . ARGENTA , ARK . , Jan. 16 , 1889 . At a regular meeting of ... <b>track</b> and running into a rock , one mile west of Ozark Station , on Jan. 15 . Resolved , That while we bow in humble sub-&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B8g4AQAAMAAJ",
+      "etag": "ES5iFBdXvq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B8g4AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Brotherhood of Locomotive Engineers' Monthly Journal",
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000067598007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "categories": [
+          "Locomotive engineers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B8g4AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B8g4AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=B8g4AQAAMAAJ&pg=PA257&dq=Neil+Bullock+Off+Track&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B8g4AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B8g4AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=B8g4AQAAMAAJ&rdid=book-B8g4AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Brotherhood_of_Locomotive_Engineers_Mont.epub?id=B8g4AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B8g4AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>BULLOCK</b> , JAS . GREGORY , JNO . HENSING , } Committee . ARGENTA , ARK . , Jan. 16 , 1889 . At a regular meeting of ... <b>track</b> and running into a rock , one mile west of Ozark Station , on Jan. 15 . Resolved , That while we bow in humble sub-&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "49qWhJ0gjZQC",
+      "etag": "20p/6CL0SVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/49qWhJ0gjZQC",
+      "volumeInfo": {
+        "title": "Walden",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2010-08",
+        "description": "In July 1845, Henry David Thoreau built a small cottage in the woods near Walden Pond, Massachusetts. During the two years spend there, he began to write 'Walden', his most important work, a chronicle of his communion with nature that became one of the most influential books in Western literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904633455"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904633457"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=49qWhJ0gjZQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=49qWhJ0gjZQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=49qWhJ0gjZQC&printsec=frontcover&dq=Henry+David+Thoreau+Walden&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=49qWhJ0gjZQC&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden.html?hl=&id=49qWhJ0gjZQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Walden-sample-epub.acsm?id=49qWhJ0gjZQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Walden-sample-pdf.acsm?id=49qWhJ0gjZQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=49qWhJ0gjZQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "During the two years spend there, he began to write &#39;Walden&#39;, his most important work, a chronicle of his communion with nature that became one of the most influential books in Western literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-EoLAAAAIAAJ",
+      "etag": "oRkUjzxrvxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-EoLAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Walden",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "1854",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004707696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-EoLAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-EoLAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-EoLAAAAIAAJ&printsec=frontcover&dq=Henry+David+Thoreau+Walden&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-EoLAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-EoLAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-EoLAAAAIAAJ&rdid=book--EoLAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Walden.epub?id=-EoLAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Walden.pdf?id=-EoLAAAAIAAJ&hl=&output=pdf&sig=ACfU3U0-gSWIvlDFNImy4nZeCJOdBP4pJg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-EoLAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KhA-tAEACAAJ",
+      "etag": "u5OZBrCYIbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KhA-tAEACAAJ",
+      "volumeInfo": {
+        "title": "Walden By:Henry David Thoreau",
+        "subtitle": "Walden, Or, Life in the Woods Is a Reflection Upon Simple Living in Natural Surroundings",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "2018-01-20",
+        "description": "Walden ( first published as Walden; or, Life in the Woods) is a book by noted transcendentalist Henry David Thoreau. The text is a reflection upon simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and-to some degree-a manual for self-reliance.First published in 1854, Walden details Thoreau's experiences over the course of two years, two months, and two days in a cabin he built near Walden Pond, amidst woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts. Thoreau used this time to write his first book, A Week on the Concord and Merrimack Rivers. The experience later inspired Walden, in which Thoreau compresses the time into a single calendar year and uses passages of four seasons to symbolize human development.By submersing himself in nature, Thoreau hoped to gain a more objective understanding of society through personal introspection. Simple living and self-sufficiency were Thoreau's other goals, and the whole project was inspired by transcendentalist philosophy, a central theme of the American Romantic Period.Thoreau makes precise scientific observations of nature, as well as metaphorical and poetic use of natural phenomenon. He identifies many plants and animals by both their popular and scientific names, records in detail the color and clarity of different bodies of water, precisely dates and describes the freezing and thawing of the pond, and recounts his experiments to measure the depth and shape of the bottom of the supposedly \"bottomless\" Walden Pond............Henry David Thoreau (see name pronunciation; July 12, 1817 - May 6, 1862) was an American essayist, poet, philosopher, abolitionist, naturalist, tax resister, development critic, surveyor, and historian. A leading transcendentalist, Thoreau is best known for his book Walden, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\" (originally published as \"Resistance to Civil Government\"), an argument for disobedience to an unjust state.Thoreau's books, articles, essays, journals, and poetry amount to more than 20 volumes. Among his lasting contributions are his writings on natural history and philosophy, in which he anticipated the methods and findings of ecology and environmental history, two sources of modern-day environmentalism. His literary style interweaves close observation of nature, personal experience, pointed rhetoric, symbolic meanings, and historical lore, while displaying a poetic sensibility, philosophical austerity, and Yankee attention to practical detail.He was also deeply interested in the idea of survival in the face of hostile elements, historical change, and natural decay; at the same time he advocated abandoning waste and illusion in order to discover life's true essential needs.He was a lifelong abolitionist, delivering lectures that attacked the Fugitive Slave Law while praising the writings of Wendell Phillips and defending the abolitionist John Brown. Thoreau's philosophy of civil disobedience later influenced the political thoughts and actions of such notable figures as Leo Tolstoy, Mahatma Gandhi, and Martin Luther King Jr.[citation needed]Thoreau is sometimes referred to as an anarchist. Though \"Civil Disobedience\" seems to call for improving rather than abolishing government-\"I ask for, not at once no government, but at once a better government\"the direction of this improvement points toward anarchism: \"'That government is best which governs not at all;' and when men are prepared for it, that will be the kind of government which they will have.\"................",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1984033328"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984033321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KhA-tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KhA-tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KhA-tAEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KhA-tAEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden_By_Henry_David_Thoreau.html?hl=&id=KhA-tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KhA-tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The text is a reflection upon simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and-to some degree-a manual for self-reliance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qAktzgEACAAJ",
+      "etag": "l7r76nKXzrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qAktzgEACAAJ",
+      "volumeInfo": {
+        "title": "Walden and Civil Disobedience",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "1854-08-09",
+        "description": "Walden ( first published in 1854 as Walden; or, Life in the Woods) is a book by American transcendentalist writer Henry David Thoreau. The text is a reflection upon simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and-to some degree-a manual for self-reliance. Walden details Thoreau's experiences over the course of two years, two months, and two days in a cabin he built near Walden Pond amidst woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts. Thoreau makes precise scientific observations of nature as well as metaphorical and poetic uses of natural phenomena. He identifies many plants and animals by both their popular and scientific names, records in detail the color and clarity of different bodies of water, precisely dates and describes the freezing and thawing of the pond, and recounts his experiments to measure the depth and shape of the bottom of the supposedly \"bottomless\" Walden Pond.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2382262524"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382262528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qAktzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qAktzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qAktzgEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qAktzgEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden_and_Civil_Disobedience.html?hl=&id=qAktzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qAktzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The text is a reflection upon simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and-to some degree-a manual for self-reliance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HHJbAAAAMAAJ",
+      "etag": "l2AHcVEVOoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HHJbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Critical Essays on Henry David Thoreau's Walden",
+        "authors": [
+          "Joel Myerson"
+        ],
+        "publisher": "Macmillan Reference USA",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014748258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HHJbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HHJbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HHJbAAAAMAAJ&q=Henry+David+Thoreau+Walden&dq=Henry+David+Thoreau+Walden&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HHJbAAAAMAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Critical_Essays_on_Henry_David_Thoreau_s.html?hl=&id=HHJbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HHJbAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M7A1swEACAAJ",
+      "etag": "tcfW+1wWqhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M7A1swEACAAJ",
+      "volumeInfo": {
+        "title": "Henry David Thoreau",
+        "subtitle": "Walden and Other Writings",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:878463283"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M7A1swEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=M7A1swEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Henry_David_Thoreau.html?hl=&id=M7A1swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M7A1swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RowJxeiPWNEC",
+      "etag": "QE/m9nzELlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RowJxeiPWNEC",
+      "volumeInfo": {
+        "title": "Henry David Thoreau's Walden",
+        "authors": [
+          "Linda Corrente"
+        ],
+        "publisher": "Barron's Educational Series",
+        "publishedDate": "1984",
+        "description": "A guide to reading \"Walden\" with a critical and appreciative mind. Includes background on the author's life and times, sample tests, term paper suggestions, and a reading list.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0812034473"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812034479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RowJxeiPWNEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RowJxeiPWNEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RowJxeiPWNEC&q=Henry+David+Thoreau+Walden&dq=Henry+David+Thoreau+Walden&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RowJxeiPWNEC&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Henry_David_Thoreau_s_Walden.html?hl=&id=RowJxeiPWNEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RowJxeiPWNEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to reading &quot;Walden&quot; with a critical and appreciative mind. Includes background on the author&#39;s life and times, sample tests, term paper suggestions, and a reading list."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "djQ_EQAAQBAJ",
+      "etag": "nNTJ96rPPk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/djQ_EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Walden",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2025-01-16",
+        "description": "Walden is a profound reflection on simplicity, self-reliance, and the relationship between humanity and nature, set against the backdrop of a secluded life by Walden Pond. Henry David Thoreau critiques the materialism and societal conventions of 19th-century America, advocating for a life of deliberate purpose and harmony with the natural world. Through his personal experiment in minimalist living, Thoreau explores themes of solitude, introspection, and the pursuit of higher truths. Since its publication, Walden has been celebrated for its lyrical prose and philosophical depth. Its examination of universal themes such as the search for meaning, the value of self-determination, and the importance of living authentically has solidified its place as a cornerstone of American literature. Thoreau's vivid descriptions of nature and his contemplative observations continue to inspire readers to question modern life's pace and priorities. The work's enduring relevance lies in its challenge to societal norms and its invitation to reimagine what it means to lead a fulfilling life. By addressing the intersections of personal freedom, environmental stewardship, and spiritual growth, Walden encourages readers to reflect on their connections to both the natural world and their inner selves, offering timeless insights into the art of living deliberately",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788583866367"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8583866368"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=djQ_EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=djQ_EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=djQ_EQAAQBAJ&printsec=frontcover&dq=Henry+David+Thoreau+Walden&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=djQ_EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=djQ_EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=djQ_EQAAQBAJ&rdid=book-djQ_EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Walden-sample-epub.acsm?id=djQ_EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Walden-sample-pdf.acsm?id=djQ_EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=djQ_EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The work&#39;s enduring relevance lies in its challenge to societal norms and its invitation to reimagine what it means to lead a fulfilling life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UgclzwEACAAJ",
+      "etag": "tGrJu777mrE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UgclzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Writings of Henry David Thoreau: Walden",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:06004618"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UgclzwEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UgclzwEACAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Writings_of_Henry_David_Thoreau_Wald.html?hl=&id=UgclzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UgclzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-14yngAACAAJ",
+      "etag": "D8QzYXo2Rbw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-14yngAACAAJ",
+      "volumeInfo": {
+        "title": "HENRY DAVID THOREAU: THE COLLEGE ESSAYS.",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1628640839"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781628640830"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-14yngAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-14yngAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-14yngAACAAJ&dq=Henry+David+Thoreau+Walden&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-14yngAACAAJ&dq=Henry+David+Thoreau+Walden&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HENRY_DAVID_THOREAU_THE_COLLEGE_ESSAYS.html?hl=&id=-14yngAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-14yngAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LqtaAAAAMAAJ",
+      "etag": "6xKEIaTbEMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LqtaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015013406494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 506,
+        "printType": "BOOK",
+        "categories": [
+          "Adultery"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.16.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LqtaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LqtaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LqtaAAAAMAAJ&printsec=frontcover&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LqtaAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LqtaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LqtaAAAAMAAJ&rdid=book-LqtaAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Jude_the_Obscure.epub?id=LqtaAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Jude_the_Obscure.pdf?id=LqtaAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0nok3BdFJ1dWJtCNvpRzn-4IIjBg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LqtaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yiBSFLyPZooC",
+      "etag": "9iLU0YrqeLE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yiBSFLyPZooC",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2012-09-27",
+        "description": "'As you got older, ... you were seized with a sort of shuddering, he perceived. All around you there seemed to be something glaring, garish, rattling, and the noises and glares hit upon the little cell called your life, and shook it, and scorched it. If he could only prevent himself growing up! He did not want to be a man' Jude Fawley, the stonemason excluded not by his wits but by poverty from the world of Christminster privilege, finds fulfilment in his relationship with Sue Bridehead. Both have left earlier marriages. Ironically, when tragedy tests their union it is Sue, the modern emancipated woman, who proves unequal to the challenge. Hardy's fearless exploration of sexual and social relationships and his prophetic critique of marriage scandalised the late Victorian establishment and marked the end of his career as a novelist. The Penguin English Library - 100 editions of the best fiction in English, from the eighteenth century and the very first novels to the beginning of the First World War.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141974118"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141974117"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 493,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yiBSFLyPZooC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yiBSFLyPZooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yiBSFLyPZooC&printsec=frontcover&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yiBSFLyPZooC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yiBSFLyPZooC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yiBSFLyPZooC&rdid=book-yiBSFLyPZooC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jude_the_Obscure-sample-epub.acsm?id=yiBSFLyPZooC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yiBSFLyPZooC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Penguin English Library - 100 editions of the best fiction in English, from the eighteenth century and the very first novels to the beginning of the First World War."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X9ANCAAAQBAJ",
+      "etag": "fEfqypVASeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X9ANCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Hardy Thomas Hardy",
+          "Thomas Hardy"
+        ],
+        "publisher": "1st World Publishing",
+        "publishedDate": "2007-08",
+        "description": "Jude Fawley, a young stonemason, aspires to an education and a life in the ministry but finds society indifferent to his goals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421848792"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421848791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X9ANCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X9ANCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X9ANCAAAQBAJ&printsec=frontcover&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X9ANCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X9ANCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X9ANCAAAQBAJ&rdid=book-X9ANCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jude_the_Obscure-sample-pdf.acsm?id=X9ANCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X9ANCAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jude Fawley, a young stonemason, aspires to an education and a life in the ministry but finds society indifferent to his goals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LcrmNnFhC_kC",
+      "etag": "L/wD1yMcO7s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LcrmNnFhC_kC",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Oxford Paperbacks",
+        "publishedDate": "1985-09-19",
+        "description": "* Based on the revised text of 1912 -",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0191585009"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191585005"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LcrmNnFhC_kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LcrmNnFhC_kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LcrmNnFhC_kC&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LcrmNnFhC_kC&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=LcrmNnFhC_kC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LcrmNnFhC_kC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "* Based on the revised text of 1912 -"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hC9ZWHVjt4kC",
+      "etag": "LeYwQAbea+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hC9ZWHVjt4kC",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ONB:+Z291949106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hC9ZWHVjt4kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hC9ZWHVjt4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hC9ZWHVjt4kC&printsec=frontcover&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hC9ZWHVjt4kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hC9ZWHVjt4kC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hC9ZWHVjt4kC&rdid=book-hC9ZWHVjt4kC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Jude_the_Obscure.epub?id=hC9ZWHVjt4kC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hC9ZWHVjt4kC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tU0VvgAACAAJ",
+      "etag": "OxdEDxdcjWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tU0VvgAACAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "subtitle": "Thomas Hardy",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-10-24",
+        "description": "Jude the Obscure Thomas Hardy Jude the Obscure, the last completed of Thomas Hardy's novels, began as a magazine serial in December 1894 and was first published in book form in 1895. Its protagonist, Jude Fawley, is a working-class young man, a stonemason, who dreams of becoming a scholar. The novel tells the story of Jude Fawley, who lives in a village in southern England (part of Hardy's fictional county of Wessex), who yearns to be a scholar at \"Christminster,\" a city modelled on Oxford. As a youth, Jude teaches himself Classical Greek and Latin in his spare time, while working first in his great-aunt's bakery, with the hope of entering university. But before he can try to do this the naive Jude is seduced by Arabella Donn, a rather coarse and superficial local girl who traps him into marriage by pretending to be pregnant. The marriage is a failure, and they separate by mutual agreement, and Arabella later emigrates to Australia, where she enters into a bigamous marriage. By this time, Jude has abandoned his classical studies.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539712699"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539712695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tU0VvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tU0VvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tU0VvgAACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tU0VvgAACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=tU0VvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tU0VvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Its protagonist, Jude Fawley, is a working-class young man, a stonemason, who dreams of becoming a scholar.The novel tells the story of Jude Fawley, who lives in a village in southern England (part of Hardy&#39;s fictional county of Wessex), ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "drGyjgEACAAJ",
+      "etag": "8h8HxXAWkkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/drGyjgEACAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "subtitle": "Unabridged Edition",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "2015-10-22",
+        "description": "Jude the Obscure, the last completed of Thomas Hardy's novels, began as a magazine serial in December 1894 and was first published in book form in 1895. The novel tells the story of Jude Fawley, who lives in a village in southern England, who yearns to be a scholar at \"Christminster\", a city modelled on Oxford. As a youth, Jude teaches himself Classical Greek and Latin in his spare time, while working first in his great-aunt's bakery, with the hope of entering university. But before he can try to do this the naïve Jude is seduced by Arabella Donn, a rather coarse and superficial local girl who traps him into marriage by pretending to be pregnant. The marriage is a failure, and they separate by mutual agreement, and Arabella later emigrates to Australia, where she enters into a bigamous marriage. After Arabella leaves him, Jude moves to Christminster and supports himself as a mason while studying alone, hoping to be able to enter the university later. There, he meets and falls in love with his free-spirited cousin, Sue Bridehead.Called \"Jude the Obscene\" by at least one reviewer, the novel received a harsh reception from some critics. So hard did Thomas Hardy - who had put much of himself into the novel - take the criticism that he never wrote another novel.Jude the Obscure has been adapted for the screen twice and also made the framework of a musical.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1518737145"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781518737145"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=drGyjgEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=drGyjgEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=drGyjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=drGyjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "So hard did Thomas Hardy - who had put much of himself into the novel - take the criticism that he never wrote another novel.Jude the Obscure has been adapted for the screen twice and also made the framework of a musical."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nKErtAEACAAJ",
+      "etag": "V7kUAPrqiCY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nKErtAEACAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "subtitle": "By Thomas Hardy - Illustrated",
+        "authors": [
+          "Thomas Thomas Hardy"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Jude the Obscure by Thomas Hardy Jude the Obscure, the last completed of Thomas Hardy's novels, began as a magazine serial in December 1894 and was first published in book form in 1895. Its protagonist, Jude Fawley, is a working-class young man, a stonemason, who dreams of becoming a scholar. The other main character is his cousin, Sue Bridehead, who is also his central love interest. The novel is concerned in particular with issues of class, education, religion and marriage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521907889"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521907887"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 363,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nKErtAEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nKErtAEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=nKErtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nKErtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2ny9swEACAAJ",
+      "etag": "b0MFCICG88U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2ny9swEACAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy",
+          "Sheba Blake"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-06-21",
+        "description": "Jude the Obscure, the last completed novel by Thomas Hardy, began as a magazine serial in December 1894 and was first published in book form in 1895. Its protagonist, Jude Fawley, is a working-class young man, a stonemason, who dreams of becoming a scholar. The other main character is his cousin, Sue Bridehead, who is also his central love interest. The novel is concerned in particular with issues of class, education, religion and marriage.The novel tells the story of Jude Fawley, who lives in a village in southern England (part of Hardy's fictional county of Wessex), who yearns to be a scholar at \"Christminster\", a city modelled on Oxford. As a youth, Jude teaches himself Classical Greek and Latin in his spare time, while working first in his great-aunt's bakery, with the hope of entering university. But before he can try to do this the na�ve Jude is seduced by Arabella Donn, a rather coarse and superficial local girl who traps him into marriage by pretending to be pregnant. The marriage is a failure, and they separate by mutual agreement, and Arabella later emigrates to Australia, where she enters into a bigamous marriage. By this time, Jude has abandoned his classical studies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548269964"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548269968"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2ny9swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2ny9swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2ny9swEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2ny9swEACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=2ny9swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2ny9swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jude the Obscure, the last completed novel by Thomas Hardy, began as a magazine serial in December 1894 and was first published in book form in 1895."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uCOhPwAACAAJ",
+      "etag": "cx4y1Ze11/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uCOhPwAACAAJ",
+      "volumeInfo": {
+        "title": "Jude the Obscure",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0404607330"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780404607333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 493,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uCOhPwAACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uCOhPwAACAAJ&dq=Thomas+Hardy+Jude+the+Obscure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jude_the_Obscure.html?hl=&id=uCOhPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uCOhPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

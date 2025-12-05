@@ -1,0 +1,730 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QAkOAAAAYAAJ",
+      "etag": "wd7BsKjLPG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QAkOAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Adventures of Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044074319898"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories, English"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "6.9.16.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QAkOAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QAkOAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QAkOAAAAYAAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QAkOAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QAkOAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QAkOAAAAYAAJ&rdid=book-QAkOAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Adventures_of_Sherlock_Holmes.epub?id=QAkOAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Adventures_of_Sherlock_Holmes.pdf?id=QAkOAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1M9fzwgRkAEd37rh99frKKqZopqA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QAkOAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5fn0DwAAQBAJ",
+      "etag": "XwLI/XCKxpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5fn0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Adventures of Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2020-08-03",
+        "description": "Reproduction of the original: Adventures of Sherlock Holmes by Arthur Conan Doyle",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783752398250"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3752398256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5fn0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5fn0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5fn0DwAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5fn0DwAAQBAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Adventures_of_Sherlock_Holmes.html?hl=&id=5fn0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Adventures_of_Sherlock_Holmes-sample-pdf.acsm?id=5fn0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5fn0DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: Adventures of Sherlock Holmes by Arthur Conan Doyle"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gucPEQAAQBAJ",
+      "etag": "+0YDsW5k+h4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gucPEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Best Works of Arthur Conan Doyle: [Adventures of Sherlock Holmes by Arthur Conan Doyle/ The Adventures of Sherlock Holmes by Arthur Conan Doyle/ A Study in Scarlet by Arthur Conan Doyle]",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2024-06-22",
+        "description": "Book 1: Dive into the captivating world of deductive reasoning with “Adventures of Sherlock Holmes by Arthur Conan Doyle.” Sir Arthur Conan Doyle introduces the brilliant detective Sherlock Holmes and his loyal companion Dr. John Watson. Through a series of intricate mysteries, Holmes showcases his keen intellect and unmatched skills, leaving readers enthralled by the art of logical deduction. Book 2: Continue the thrilling investigations with “The Adventures of Sherlock Holmes by Arthur Conan Doyle.” Arthur Conan Doyle invites readers to join Holmes and Watson on a new set of intriguing cases, filled with clever deductions, unexpected twists, and the masterful storytelling that has made Sherlock Holmes an iconic figure in detective fiction. Book 3: Begin the legendary detective duo's journey with “A Study in Scarlet by Arthur Conan Doyle.” Arthur Conan Doyle introduces Sherlock Holmes and Dr. Watson in their first adventure as they unravel a mysterious murder in London. This novel lays the foundation for the iconic detective series, combining elements of mystery, crime, and the brilliant deductive methods that define the Sherlock Holmes stories.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 634,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gucPEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gucPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gucPEQAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gucPEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gucPEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gucPEQAAQBAJ&rdid=book-gucPEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Best_Works_of_Arthur_Conan_Doyle_Adv-sample-epub.acsm?id=gucPEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Best_Works_of_Arthur_Conan_Doyle_Adv-sample-pdf.acsm?id=gucPEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gucPEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel lays the foundation for the iconic detective series, combining elements of mystery, crime, and the brilliant deductive methods that define the Sherlock Holmes stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DYWpZhiUvnEC",
+      "etag": "YXpNs3aLNww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DYWpZhiUvnEC",
+      "volumeInfo": {
+        "title": "Sherlock: The Adventures of Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2011-10-27",
+        "description": "The hit BBC series Sherlock, starring Benedict Cumberbatch, offers a fresh, contemporary take on the classic Sir Arthur Conan Doyle stories, and has helped introduce a whole new generation of fans to the legendary detective. In this new edition of Conan Doyle's first collection of short stories, Sherlock co-creator Mark Gatiss explains how these gripping tales inspired and influenced the new series. Sherlock: The Adventures contains twelve short stories first published in The Strand magazine between 1891 and 1892 and then published as a collection in October 1892. It includes some of Conan Doyle's best tales of murder and mystery, such as 'The Adventures of the Speckled Band', in which the strange last words of a dying woman 'It was the band, the speckled band!' and an inexplicable whistling in the night are the only clues Sherlock Holmes has to prevent another murder; and 'The Five Orange Pips', in which an untimely death and the discovery of the letter containing five orange pips lead to a cross-Atlantic conspiracy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781446417188"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1446417182"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.11.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DYWpZhiUvnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DYWpZhiUvnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DYWpZhiUvnEC&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DYWpZhiUvnEC&rdid=book-DYWpZhiUvnEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sherlock_The_Adventures_of_Sherlock_Holm-sample-epub.acsm?id=DYWpZhiUvnEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DYWpZhiUvnEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The hit BBC series Sherlock, starring Benedict Cumberbatch, offers a fresh, contemporary take on the classic Sir Arthur Conan Doyle stories, and has helped introduce a whole new generation of fans to the legendary detective."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wxuUzQEACAAJ",
+      "etag": "7VZjzCBTHpU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wxuUzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle the New Annotated Version",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-05-07",
+        "description": "\"The Adventures of Sherlock Holmes\" is a collection of twelve detective stories of Sir Arthur Conan Doyle's most famous literary creation, Sherlock Holmes. Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, The Adventure of the Speckled Band, The Adventure of the Engineer's Thumb, The Adventure of the Noble Bachelor, The Adventure of the Beryl Coronet, and The Adventure of the Copper Beeches.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798643999690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wxuUzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wxuUzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes_by_Sir.html?hl=&id=wxuUzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wxuUzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wCorDgAAQBAJ",
+      "etag": "Fp/5/SH2Y+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wCorDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Can You Survive: Sir Arthur Conan Doyle's Adventures of Sherlock Holmes",
+        "subtitle": "A Choose Your Path Book",
+        "authors": [
+          "Ryan Jacobson",
+          "Deb Mercier"
+        ],
+        "publisher": "Adventure Publications",
+        "publishedDate": "2011-11-04",
+        "description": "He is perhaps the most famous character and the greatest detective in the world - and he is you! You search for evidence. You follow the clues. You experience the danger. Do you have what it takes to solve three of the most puzzling Sherlock Holmes cases? Or will the villainous plots lead to your doom? Step into this adventure, and choose your path. But choose wisely, or else...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780977412273"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "097741227X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wCorDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wCorDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wCorDgAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wCorDgAAQBAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Can_You_Survive_Sir_Arthur_Conan_Doyle_s.html?hl=&id=wCorDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Can_You_Survive_Sir_Arthur_Conan_Doyle_s-sample-epub.acsm?id=wCorDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Can_You_Survive_Sir_Arthur_Conan_Doyle_s-sample-pdf.acsm?id=wCorDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wCorDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He is perhaps the most famous character and the greatest detective in the world - and he is you!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OTTMzQEACAAJ",
+      "etag": "O1Hm4tEhBgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTTMzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle the Annotated Updated Edition",
+        "authors": [
+          "A. Conan Doyle"
+        ],
+        "publishedDate": "2020-04-23",
+        "description": "\"The Adventures of Sherlock Holmes\" is a collection of twelve detective stories of Sir Arthur Conan Doyle's most famous literary creation, Sherlock Holmes. Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, The Adventure of the Speckled Band, The Adventure of the Engineer's Thumb, The Adventure of the Noble Bachelor, The Adventure of the Beryl Coronet, and The Adventure of the Copper Beeches",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798639774492"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OTTMzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OTTMzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes_by_Sir.html?hl=&id=OTTMzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTTMzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "synAzQEACAAJ",
+      "etag": "kRAOUMFHlM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/synAzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes By Arthur Conan Doyle New Annotated Edition",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-08-11",
+        "description": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798674409434"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=synAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=synAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=synAzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=synAzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes_By_Art.html?hl=&id=synAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=synAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNaKzQEACAAJ",
+      "etag": "s98rNzYsaD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNaKzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes By Arthur Conan Doyle \"Annotated\"",
+        "authors": [
+          "Arthur Doyle"
+        ],
+        "publishedDate": "2020-05-03",
+        "description": "The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective.These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798642926703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YNaKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YNaKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YNaKzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YNaKzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes_By_Art.html?hl=&id=YNaKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNaKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective.These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_DCRzQEACAAJ",
+      "etag": "rGOk9dbcj84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_DCRzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes By Arthur Conan Doyle The New Annotated Work",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-05-16",
+        "description": "\"The Adventures of Sherlock Holmes\" is a collection of twelve detective stories of Sir Arthur Conan Doyle's most famous literary creation, Sherlock Holmes. Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, The Adventure of the Speckled Band, The Adventure of the Engineer's Thumb, The Adventure of the Noble Bachelor, The Adventure of the Beryl Coronet, and The Adventure of the Copper Beeches",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798646435638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_DCRzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_DCRzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_DCRzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_DCRzQEACAAJ&dq=Arthur+Conan+Doyle+The+Adventures+of+Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes_By_Art.html?hl=&id=_DCRzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_DCRzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contained within this collection are the following tales: A Scandal in Bohemia, The Red-headed League, A Case of Identity, The Boscombe Valley Mystery, The Five Orange Pips, The Man with the Twisted Lip, The Adventure of the Blue Carbuncle, ..."
+      }
+    }
+  ]
+}

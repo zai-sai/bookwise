@@ -1,0 +1,658 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "arrJOvcF_WkC",
+      "etag": "S7mHCzmaouo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/arrJOvcF_WkC",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "Life and Work",
+        "authors": [
+          "Elke Linda Buchholz",
+          "Pablo Picasso"
+        ],
+        "publishedDate": "2005",
+        "description": "This is one of the \"Great Modern Masters\" series on 20th-century artists. This book covers the work of Pablo Picasso. Forfeiting a conventional career and scorning the artistic establishment - despite his academic training and natural talent - he fully embraced the bohemian lifestyle of the avant-garde throughout his long and productive life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "383311469X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783833114694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=arrJOvcF_WkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=arrJOvcF_WkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=arrJOvcF_WkC&q=Pablo+Picasso+Picasso&dq=Pablo+Picasso+Picasso&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=arrJOvcF_WkC&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=arrJOvcF_WkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=arrJOvcF_WkC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one of the &quot;Great Modern Masters&quot; series on 20th-century artists. This book covers the work of Pablo Picasso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "irspQwAACAAJ",
+      "etag": "5buicOsSe7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/irspQwAACAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "International Art & Artists File].",
+        "authors": [
+          "Pablo Picasso"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:429887479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=irspQwAACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=irspQwAACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=irspQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=irspQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H-DqAAAAMAAJ",
+      "etag": "CmJ32q3xhZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H-DqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "His Life and Times",
+        "authors": [
+          "Pierre Cabanne"
+        ],
+        "publishedDate": "1977",
+        "description": "Morrow; 606 p. illus.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015042499791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "Painters"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H-DqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H-DqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=H-DqAAAAMAAJ&q=Pablo+Picasso+Picasso&dq=Pablo+Picasso+Picasso&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=H-DqAAAAMAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=H-DqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H-DqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Morrow; 606 p. illus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZWPnPQAACAAJ",
+      "etag": "SlkUD08VGZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZWPnPQAACAAJ",
+      "volumeInfo": {
+        "title": "A Selection of Paintings and Graphics by Pablo Picasso",
+        "subtitle": "Feb. 21 Through Apr. 5, 1981. San Diego Museum of Art",
+        "authors": [
+          "San Diego Museum of Art",
+          "Pablo Picasso"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:272537004"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Painting"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZWPnPQAACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZWPnPQAACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Selection_of_Paintings_and_Graphics_by.html?hl=&id=ZWPnPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZWPnPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a4frAAAAMAAJ",
+      "etag": "IaYsvZ8jvw0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a4frAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Picasso",
+        "subtitle": "Painting Against Time",
+        "authors": [
+          "Pablo Picasso"
+        ],
+        "publisher": "Hatje Cantz",
+        "publishedDate": "2007",
+        "description": "No other painter has had a more lasting influence on twentieth-century art than Pablo Picasso. Among the many phases and styles encompassed by his oeuvre, Picasso's late period--which he spent in Mougins, in the South of France, until his death in 1973--has a very special position. For the highly charged paintings that Picasso made during the last decade of his life, often featuring close-ups of the kiss or copulation, seem to cling with all their might to the artist's intense sensuality, his desire for embrace. They are marked by a great restlessness whose aim must be to exorcise death itself. \"Wild\" paintings rapidly executed by Picasso's masterly hand, the late canvases stand in marked contrast to the artist's detailed, carefully executed drawings of the same period, which are dominated by a unique joy in narrative. This substantial new volume, edited by Werner Spies, former director of the Centre Georges Pompidou in Paris and the most important Picasso expert of our day, examines almost 200 works, including paintings, drawings, prints and sculptures, shedding light on the specific methods and dialectics in Picasso's later work. In particular, the sense of the artist's race against time is made clear through the exciting dialogue that emerges here between painting and drawing. As Picasso himself said, \"The works that one paints are a way of keeping a diary.\"",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015073635065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a4frAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a4frAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a4frAAAAMAAJ&q=Pablo+Picasso+Picasso&dq=Pablo+Picasso+Picasso&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a4frAAAAMAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Picasso.html?hl=&id=a4frAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a4frAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This substantial new volume, edited by Werner Spies, former director of the Centre Georges Pompidou in Paris and the most important Picasso expert of our day, examines almost 200 works, including paintings, drawings, prints and sculptures, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TUTXGwAACAAJ",
+      "etag": "3OYNh6+7xxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TUTXGwAACAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "Master of Modern Art",
+        "authors": [
+          "Liz Gogerly"
+        ],
+        "publisher": "Wayland",
+        "publishedDate": "2003",
+        "description": "A look at the colourful life of this famous artist. Pablo Picasso was born in Spain in 1881. As a young child he loved drawing, and he went on to study at prestigious art schools in Barcelona and Madrid. For years he was a penniless artist, but eventually his fortunes changed and people began to buy and collect his art. This book charts Pablo's life, looking at his early struggles and rise to success, his relationships, and examines the work of the artist who invented 'cubism'. Full of colourful photos, and complete with glossary and date chart.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0750244720"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780750244725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Painters"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TUTXGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TUTXGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TUTXGwAACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TUTXGwAACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=TUTXGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TUTXGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The life story of Spanish artist Pablo Picasso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0P-7uQAACAAJ",
+      "etag": "19AwW3rD2aE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0P-7uQAACAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "authors": [
+          "Kate Scarborough"
+        ],
+        "publisher": "Franklin Watts",
+        "publishedDate": "2002",
+        "description": "This new series uncovers the life and times of some of the most important and influential artists of the modern world. Each title focuses on one artist, exploring their life and work in the context of world events. Each book features large reproductions of the artist's work from their first drawing to their final masterpiece. The books also include selected works from other artists and colour and black and white photographs and illustrations which help to bring the artist's world to life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0749646306"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780749646301"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "categories": [
+          "Cubism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0P-7uQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0P-7uQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0P-7uQAACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0P-7uQAACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=0P-7uQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0P-7uQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new series uncovers the life and times of some of the most important and influential artists of the modern world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f90h0AEACAAJ",
+      "etag": "/ok5cqS3m/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f90h0AEACAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "Greatest Artist of the 20th Century",
+        "authors": [
+          "Patricia A. MacDonald"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1392321146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Artists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=f90h0AEACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=f90h0AEACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=f90h0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f90h0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dUBGtAEACAAJ",
+      "etag": "2Z3f3W5VUOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dUBGtAEACAAJ",
+      "volumeInfo": {
+        "title": "Pablo Picasso",
+        "subtitle": "Paintings 1954-55-56",
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:501064204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dUBGtAEACAAJ&dq=Pablo+Picasso+Picasso&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dUBGtAEACAAJ&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pablo_Picasso.html?hl=&id=dUBGtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dUBGtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tIQKVu0W_vMC",
+      "etag": "jzAKo47ghyk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tIQKVu0W_vMC",
+      "volumeInfo": {
+        "title": "Picasso",
+        "subtitle": "The Works of Pablo Picasso",
+        "authors": [
+          "Giorgio Cortenova"
+        ],
+        "publisher": "Smithmark Publishers",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765198347"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765198341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tIQKVu0W_vMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tIQKVu0W_vMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tIQKVu0W_vMC&q=Pablo+Picasso+Picasso&dq=Pablo+Picasso+Picasso&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tIQKVu0W_vMC&dq=Pablo+Picasso+Picasso&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Picasso.html?hl=&id=tIQKVu0W_vMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tIQKVu0W_vMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NKTWGwAACAAJ",
+      "etag": "Cz0ALqY6vVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NKTWGwAACAAJ",
+      "volumeInfo": {
+        "title": "World of Ptavvs",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Orbit Books",
+        "publishedDate": "2000",
+        "description": "Larry Greenberg's telepathic tendencies had been trained and developed to a critical level. The trouble was that if these psychic interchanges were strong enough, a man could end up not knowing who he really was. But when Larry's mind is taken over by an alien force, he has to fight to retain his sanity - and divert a disaster that threatens all mankind. And when Larry's mind is taken over by a sinister alien force, he has to fight to retain his sanity - and divert a disaster that threatens all mankind...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1857239970"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781857239973"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NKTWGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NKTWGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NKTWGwAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NKTWGwAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/World_of_Ptavvs.html?hl=&id=NKTWGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NKTWGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Larry Greenberg&#39;s telepathic tendencies had been trained and developed to a critical level."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wu-SAAAACAAJ",
+      "etag": "hKlvigdKgs4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wu-SAAAACAAJ",
+      "volumeInfo": {
+        "title": "Larry Niven 3 in 1",
+        "subtitle": "World of Ptavvs, a Gift from Earth, and Neutron Star",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publishedDate": "1994-11-21",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0517136295"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780517136294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wu-SAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wu-SAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Larry_Niven_3_in_1.html?hl=&id=wu-SAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wu-SAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ONCMAAAACAAJ",
+      "etag": "WHw8Au1aFLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ONCMAAAACAAJ",
+      "volumeInfo": {
+        "title": "The World of Ptavvs",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publishedDate": "2000-04",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4444402695"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784444402699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ONCMAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ONCMAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_World_of_Ptavvs.html?hl=&id=ONCMAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ONCMAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aPlgAAAACAAJ",
+      "etag": "i7O7Se4nMLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aPlgAAAACAAJ",
+      "volumeInfo": {
+        "title": "The World of Ptavvs",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "1986-11-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0345345088"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345345080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aPlgAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aPlgAAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_World_of_Ptavvs.html?hl=&id=aPlgAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aPlgAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nothing quite prepared telepathy Larry Greenberg for mind-to-mind contact with an alien. In the interest of science, Larry tapped the mind of Kzonol and that was his first mistake!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PprkoQEACAAJ",
+      "etag": "bQQlOHna6oY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PprkoQEACAAJ",
+      "volumeInfo": {
+        "title": "Larry Niven X12 S/W",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Orbit Books",
+        "publishedDate": "1981-12-31",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1857230736"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781857230734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PprkoQEACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PprkoQEACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Larry_Niven_X12_S_W.html?hl=&id=PprkoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PprkoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jRP1HAAACAAJ",
+      "etag": "e9yUu08kS08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jRP1HAAACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Known Space",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Wiley-Blackwell",
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0708880681"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708880685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, English"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jRP1HAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jRP1HAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jRP1HAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jRP1HAAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Known_Space.html?hl=&id=jRP1HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jRP1HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tZRRcPE6fy8C",
+      "etag": "2pPoK240YCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tZRRcPE6fy8C",
+      "volumeInfo": {
+        "title": "The Flight of the Horse",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publishedDate": "1973",
+        "description": "Mind bending stories of Svetz, the Time Retrieval expert.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0345234871"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345234872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tZRRcPE6fy8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tZRRcPE6fy8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tZRRcPE6fy8C&q=Larry+Niven+World+of+Ptavvs&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tZRRcPE6fy8C&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Flight_of_the_Horse.html?hl=&id=tZRRcPE6fy8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tZRRcPE6fy8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mind bending stories of Svetz, the Time Retrieval expert."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bohVPgAACAAJ",
+      "etag": "X/WVRWGD6Po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bohVPgAACAAJ",
+      "volumeInfo": {
+        "title": "Ringworld",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publishedDate": "1972",
+        "description": "For use in schools and libraries only. A two-headed creature and a large, red-furred carnivore are among the members of a party that arrives to explore a mysterious world created in the shape of a ring.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0722163916"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780722163917"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bohVPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bohVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bohVPgAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bohVPgAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ringworld.html?hl=&id=bohVPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bohVPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only. A two-headed creature and a large, red-furred carnivore are among the members of a party that arrives to explore a mysterious world created in the shape of a ring."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5bMtwkJwH_AC",
+      "etag": "AA4Vy7hNW2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5bMtwkJwH_AC",
+      "volumeInfo": {
+        "title": "A Gift from Earth",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "1980-07-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0345294130"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345294135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5bMtwkJwH_AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5bMtwkJwH_AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5bMtwkJwH_AC&q=Larry+Niven+World+of+Ptavvs&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5bMtwkJwH_AC&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Gift_from_Earth.html?hl=&id=5bMtwkJwH_AC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5bMtwkJwH_AC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BfhmHQAACAAJ",
+      "etag": "4/kG7xRRMzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BfhmHQAACAAJ",
+      "volumeInfo": {
+        "title": "N-Space",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publisher": "Orbit Books",
+        "publishedDate": "1992-01",
+        "description": "A collection of science fiction writing from all phases of the author's career, ranging from stories such as Inconstant Moon and All the Myriad Ways to extracts from his novels. They are underlined by Niven's comments and afterthoughts, together with essays by other science fiction writers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1857230035"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781857230031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 617,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BfhmHQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BfhmHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BfhmHQAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BfhmHQAACAAJ&dq=Larry+Niven+World+of+Ptavvs&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/N_Space.html?hl=&id=BfhmHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BfhmHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "They are underlined by Niven&#39;s comments and afterthoughts, together with essays by other science fiction writers."
+      }
+    }
+  ]
+}

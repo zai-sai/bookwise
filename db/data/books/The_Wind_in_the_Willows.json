@@ -1,0 +1,765 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "26haAAAAMAAJ",
+      "etag": "mZbDEjM3Quc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/26haAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publishedDate": "1933",
+        "description": "Since its publication in 1908, Kenneth Grahame's The Wind in the Willows has enchanted readers, young and old. This new edition, sensitively abridged and exquisitely illustrated by Inga Moore, is sure to win over a new generation of fans. Here readers will meet the amiable Mole, his hearty friend the Water Rat, the genial Badger, and, of course, the irrepressible Mr. Toad, and enjoy some of the most memorable adventures in children's literature. Classic, yet accessible, and full of humor, this beautiful volume is the perfect addition to every family's bookshelf. Book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015002978917"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=26haAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=26haAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=26haAAAAMAAJ&q=Kenneth+Grahame+The+Wind+in+the+Willows&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=26haAAAAMAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=26haAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=26haAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since its publication in 1908, Kenneth Grahame&#39;s The Wind in the Willows has enchanted readers, young and old. This new edition, sensitively abridged and exquisitely illustrated by Inga Moore, is sure to win over a new generation of fans."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3iiQDwAAQBAJ",
+      "etag": "3FaCwX45Fng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3iiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2010-07-08",
+        "description": "'Believe me, my young friend, there is nothing - absolutely nothing - half so much worth doing as simply messing about in boats.' So says Rat to Mole, as he introduces him to the delights of the river and his friends Toad, the spirit of rebellion, and Badger, the spirit of England. But it is a world where the motor-car is about to wreck the gipsy caravan, the revolutionaries in the Wild Wood are threatening the social fabric, the god Pan is abroad, and the warm seductive whispers of the south are drifting into the English lanes. An international children's classic, The Wind in the Willows grew from the author's letters to his young son, yet it is concerned almost exclusively with adult themes: fear of radical changes in political, social, and economic power. Mole's acceptance into the conservative world of the River Bank, and Toad's wild attempts to escape from it, are narrated in virtuoso language ranging from lively parody to elaborate fin-de-siècle mysticism. A profoundly English fiction with a world following, it is a book for adults adopted by children, a timeless masterpiece, and a vital portrait of an age. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191612800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191612804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3iiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3iiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3iiQDwAAQBAJ&printsec=frontcover&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3iiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3iiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3iiQDwAAQBAJ&rdid=book-3iiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wind_in_the_Willows-sample-pdf.acsm?id=3iiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3iiQDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yIFnrgEACAAJ",
+      "etag": "hqGyAXDHuVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yIFnrgEACAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows (Bulgarian Edition)",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-04-24",
+        "description": "The Wind in the Willows (Bulgarian edition)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1511856629"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781511856621"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yIFnrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yIFnrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "bg",
+        "previewLink": "http://books.google.co.uk/books?id=yIFnrgEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yIFnrgEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows_Bulgarian_Editio.html?hl=&id=yIFnrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yIFnrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Wind in the Willows (Bulgarian edition)"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UI8PAwAAQBAJ",
+      "etag": "19T3x6JFBTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UI8PAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows (柳林中的風聲)",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-01-25",
+        "description": "※ Google Play 圖書不支援多媒體播放 ※",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 876,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UI8PAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UI8PAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UI8PAwAAQBAJ&printsec=frontcover&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UI8PAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UI8PAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UI8PAwAAQBAJ&rdid=book-UI8PAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wind_in_the_Willows_%E6%9F%B3%E6%9E%97%E4%B8%AD%E7%9A%84%E9%A2%A8-sample-epub.acsm?id=UI8PAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wind_in_the_Willows_%E6%9F%B3%E6%9E%97%E4%B8%AD%E7%9A%84%E9%A2%A8-sample-pdf.acsm?id=UI8PAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UI8PAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "※ Google Play 圖書不支援多媒體播放 ※"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N6vezAEACAAJ",
+      "etag": "6d1OnrBt7uQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N6vezAEACAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": [
+          "Kenneth Grahame",
+          "Claire Strauch"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0874404835"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780874404838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=N6vezAEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=N6vezAEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=N6vezAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N6vezAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KKjSRwAACAAJ",
+      "etag": "diXIJwSiaDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KKjSRwAACAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "Watermill Press",
+        "publishedDate": "1992",
+        "description": "The escapades of four animal friends who live along a river in the English countryside--Toad, Mole, Rat, and Badger.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0816725624"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816725625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KKjSRwAACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KKjSRwAACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=KKjSRwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KKjSRwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since its first publication in 1908, generations of adults and children have cherished Kenneth Grahame&#39;s classic, The Wind in the Willows."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SCu9S1lDYfcC",
+      "etag": "BskZU8S1F/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SCu9S1lDYfcC",
+      "volumeInfo": {
+        "title": "Kenneth Grahame's The Wind in the Willows",
+        "authors": [
+          "Joseph Baldwin",
+          "Kenneth Grahame"
+        ],
+        "publisher": "Dramatic Publishing",
+        "publishedDate": "1966",
+        "description": "The escapades of four animal friends who live along a river in the English countryside--Toad, Mole, Rat, and Badger.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0871291606"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780871291608"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SCu9S1lDYfcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SCu9S1lDYfcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SCu9S1lDYfcC&printsec=frontcover&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SCu9S1lDYfcC&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kenneth_Grahame_s_The_Wind_in_the_Willow.html?hl=&id=SCu9S1lDYfcC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Kenneth_Grahame_s_The_Wind_in_the_Willow-sample-pdf.acsm?id=SCu9S1lDYfcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SCu9S1lDYfcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The escapades of four animal friends who live along a river in the English countryside--Toad, Mole, Rat, and Badger."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nxi6uwEACAAJ",
+      "etag": "SqbP/JwjYiw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nxi6uwEACAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows Kenneth Grahame",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-19",
+        "description": "The Wind in the Willows is a children's novel by Kenneth Grahame, first published in 1908. Alternately slow moving and fast paced, it focuses on four anthropomorphised animals in a pastoral version of Edwardian England. The novel is notable for its mixture of mysticism, adventure, morality and camaraderie, and celebrated for its evocation of the nature of the Thames Valley.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541186613"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541186613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nxi6uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nxi6uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nxi6uwEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nxi6uwEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows_Kenneth_Grahame.html?hl=&id=nxi6uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nxi6uwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is notable for its mixture of mysticism, adventure, morality and camaraderie, and celebrated for its evocation of the nature of the Thames Valley."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ihvyBgAAQBAJ",
+      "etag": "5CHxT+DQulo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihvyBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wind and Willows (With Grahame Biography)",
+        "authors": [
+          "Paul Brody",
+          "Kenneth Grahame"
+        ],
+        "publisher": "BookCaps Study Guides",
+        "publishedDate": "2015-03-05",
+        "description": "Grahame's classic fantasy is told here. The book tells of the wild adventures of Mr. Toad. This edition also includes a biography of the books author, Kenneth Grahame.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781629174457"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1629174459"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ihvyBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ihvyBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ihvyBgAAQBAJ&printsec=frontcover&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ihvyBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ihvyBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.44,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.55,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ihvyBgAAQBAJ&rdid=book-ihvyBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4440000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3550000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wind_and_Willows_With_Grahame_Biogra-sample-epub.acsm?id=ihvyBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wind_and_Willows_With_Grahame_Biogra-sample-pdf.acsm?id=ihvyBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ihvyBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Grahame&#39;s classic fantasy is told here. The book tells of the wild adventures of Mr. Toad. This edition also includes a biography of the books author, Kenneth Grahame."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZGxCjwEACAAJ",
+      "etag": "wQDIf4/Y/5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZGxCjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "subtitle": "Tales from the Riverbank",
+        "authors": [
+          "Kenneth Grahame"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-01-06",
+        "description": "The Wind in the Willows Tales from the Riverbank Kenneth Grahame Illustrated by Paul Bransom The Wind in the Willows is a children's novel by Kenneth Grahame, first published in 1908. Alternately slow moving and fast paced, it focuses on four anthropomorphised animals in a pastoral version of England. The novel is notable for its mixture of mysticism, adventure, morality, and camaraderie and celebrated for its evocation of the nature of the Thames valley. In 1908, Grahame retired from his position as secretary of the Bank of England. He moved back to Cookham, Berkshire, where he had been brought up and spent his time by the River Thames doing much as the animal characters in his book do--namely, as one of the phrases from the book says, \"simply messing about in boats\"--and wrote down the bed-time stories he had been telling his son Alistair. In 1909, Theodore Roosevelt, then President of the United States, wrote to Grahame to tell him that he had \"read it and reread it, and have come to accept the characters as old friends\". The novel was in its thirty-first printing when playwright A. A. Milne adapted a part of it for the stage as Toad of Toad Hall in 1929. In 2003, The Wind in the Willows was listed at number 16 on the BBC's survey The Big Read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523278293"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523278299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZGxCjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZGxCjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZGxCjwEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZGxCjwEACAAJ&dq=Kenneth+Grahame+The+Wind+in+the+Willows&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=ZGxCjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZGxCjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Wind in the Willows Tales from the Riverbank Kenneth Grahame Illustrated by Paul Bransom The Wind in the Willows is a children&#39;s novel by Kenneth Grahame, first published in 1908."
+      }
+    }
+  ]
+}

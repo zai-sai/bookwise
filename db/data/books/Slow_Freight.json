@@ -1,0 +1,732 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Gc_dkOlHA7YC",
+      "etag": "G25GMUcRkVM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gc_dkOlHA7YC",
+      "volumeInfo": {
+        "title": "Slow Freight",
+        "authors": [
+          "F. M. Busby"
+        ],
+        "publisher": "Spectra",
+        "publishedDate": "1991",
+        "description": "\"Rance Collier is among Earth's first pioneers through the vast wilderness of spacetime. But the maiden voyage of the Starfinder is marred by warped power plays and dirty politics. Then the ship's nav systems are fouled by the wake of a passing ship--a nonhuman ship. This first encounter is complicated by the ensuing damage to the alien ship, which requires vast transfusions of matter and energy in order to make repairs. And that matter and energy happens to be the nearest star system: Sol. Before human politaicians can react, the alien ship devours a handful of Saturn's moons and sets its planet-swallowing course straight for Earth.\"--Back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0553291106"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553291100"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gc_dkOlHA7YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gc_dkOlHA7YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Gc_dkOlHA7YC&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Gc_dkOlHA7YC&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Slow_Freight.html?hl=&id=Gc_dkOlHA7YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gc_dkOlHA7YC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>F. M. Busby</b>. knowledge leapfrogging her above several who had de- partmental seniority on her , Monlux had a real opportu- nity here , If she could handle the pressure ... Scratching his head , Rance Collier scanned what he&#39;d written : a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ZpsBgAAQBAJ",
+      "etag": "rPbgjZjYtfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ZpsBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Science Fact and Science Fiction",
+        "subtitle": "An Encyclopedia",
+        "authors": [
+          "Brian Stableford"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2006-09-06",
+        "description": "Science fiction is a literary genre based on scientific speculation. Works of science fiction use the ideas and the vocabulary of all sciences to create valid narratives that explore the future effects of science on events and human beings. Science Fact and Science Fiction examines in one volume how science has propelled science-fiction and, to a lesser extent, how science fiction has influenced the sciences. Although coverage will discuss the science behind the fiction from the Classical Age to the present, focus is naturally on the 19th century to the present, when the Industrial Revolution and spectacular progress in science and technology triggered an influx of science-fiction works speculating on the future. As scientific developments alter expectations for the future, the literature absorbs, uses, and adapts such contextual visions. The goal of the Encyclopedia is not to present a catalog of sciences and their application in literary fiction, but rather to study the ongoing flow and counterflow of influences, including how fictional representations of science affect how we view its practice and disciplines. Although the main focus is on literature, other forms of science fiction, including film and video games, are explored and, because science is an international matter, works from non-English speaking countries are discussed as needed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135923747"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135923744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 756,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ZpsBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ZpsBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9ZpsBgAAQBAJ&pg=PA291&dq=F.+M.+Busby+Slow+Freight&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 40.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 30.39,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ&rdid=book-9ZpsBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 30390000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Science_Fact_and_Science_Fiction-sample-pdf.acsm?id=9ZpsBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ZpsBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>F. M. Busby&#39;s</b> The Sin- gularity Project ( 1993 ) ; <b>Busby</b> subsequently consid- ered an intriguing variant in <b>Slow Freight</b> ( 1991 ) . In the meantime , the motif was put to productive melo- dramatic use in Philip K. Dick&#39;s The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lzU6AQAAIAAJ",
+      "etag": "/sjxVOAt5d0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lzU6AQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Magazine of Fantasy and Science Fiction",
+        "authors": [
+          "Anthony Boucher",
+          "J. Francis McComas"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105018741566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lzU6AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lzU6AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lzU6AQAAIAAJ&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lzU6AQAAIAAJ&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magazine_of_Fantasy_and_Science_Fict.html?hl=&id=lzU6AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lzU6AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anthony Boucher, J. Francis McComas. BOOKS. ALGIS. BUDRYS. <b>Slow Freight</b> , <b>F.M. Busby</b> , Bantam , $ 4.99 too much . And I really like the typo on the back page of his Bantam original ; he ought to have written The Fire Within , Graham Watkins&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B0UrAQAAIAAJ",
+      "etag": "Qbw2ureznek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B0UrAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Isaac Asimov's Science Fiction Magazine",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106010724786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B0UrAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B0UrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=B0UrAQAAIAAJ&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=B0UrAQAAIAAJ&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Isaac_Asimov_s_Science_Fiction_Magazine.html?hl=&id=B0UrAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B0UrAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ONBOOKS Two - Year Transmission <b>Slow Freight</b> By <b>F. M. Busby</b> Bantam , $ 4.99 ( paper ) So you&#39;ve invented a matter transmitter , or at least you&#39;re pretty sure you have . But things that go in the front gate , later to be called &quot; the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ATKbBQAAQBAJ",
+      "etag": "tE+k0fd0dFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ATKbBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Benchmarks Concluded 1987-1993",
+        "authors": [
+          "Algis Budrys"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2013-06-14",
+        "description": "Consists of book reviews and essays written for The magazine of fantasy and science fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781291455274"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1291455272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ATKbBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ATKbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ATKbBQAAQBAJ&pg=PA267&dq=F.+M.+Busby+Slow+Freight&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ATKbBQAAQBAJ&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Benchmarks_Concluded_1987_1993.html?hl=&id=ATKbBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Benchmarks_Concluded_1987_1993-sample-pdf.acsm?id=ATKbBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ATKbBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Hubbard Presents Writers of the Future Volume VII (ed) 230 Rogue Moon 225 Some Will Not Die 164 Bull, Emma Falcon 148 <b>Busby</b>, <b>F.M. Slow Freight</b> 219 C.S. Lewis Hoax 198 Cramer , John Twistor 120 Crichton , Michael Jurassic Park 113 Index."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HKknAQAAIAAJ",
+      "etag": "WQOq5fW8h6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HKknAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Analog Science Fiction & Fact",
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016168788"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 734,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HKknAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HKknAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HKknAQAAIAAJ&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HKknAQAAIAAJ&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Analog_Science_Fiction_Fact.html?hl=&id=HKknAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HKknAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "7465 ורן XL1 <b>F.M.BUSBY</b> ARROW FROM EARTH ARROW by <b>F. M. Busby</b> 10/96 53-005-00 GBC EARTH The author of the well - received Islands of PEAR Tomorrow returns with a sequel to his <b>Slow Freight</b> . &quot; <b>Busby</b> , one of SF&#39;s enduring maestros of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lBwVQ3xFaD8C",
+      "etag": "cMBLJXmBQJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lBwVQ3xFaD8C",
+      "volumeInfo": {
+        "title": "What Do I Read Next? 1995",
+        "authors": [
+          "Barron",
+          "Steven A. Stilwell"
+        ],
+        "publisher": "Gale / Cengage Learning",
+        "publishedDate": "1995-08",
+        "description": "This annual selection guide covers new novels in the mystery fiction, science fiction, fantasy, horror, western fiction and romance genres. It is intended to help readers to choose titles of interest published during 1995. By identifying similarities in various books, it seeks to help readers to independently choose titles of interest published during 1995. Entries are arranged by author within six genre sections, and provide: publisher and publication date; series name and number; description of characters; time/geographical setting; review citation; genre and setting notations; and related books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0810391465"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780810391468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lBwVQ3xFaD8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lBwVQ3xFaD8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lBwVQ3xFaD8C&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lBwVQ3xFaD8C&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Do_I_Read_Next_1995.html?hl=&id=lBwVQ3xFaD8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lBwVQ3xFaD8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>F.M. Busby</b> , <b>Slow Freight</b> , 1991 Philip K. Dick , Bladerunner , 1982 Katharine Kerr , Polar City Blues , 1990 Anne McCaffrey , Crisis on Doona , 1992 ( ody Lynn Nye , coauthor ) Mel Odom , Lethal Interface , 1992 Richard Paul Russo&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dVrlAAAAMAAJ",
+      "etag": "cJ0H3StH8G4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dVrlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "What Do I Read Next?",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000025520077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 720,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction genres"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dVrlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dVrlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dVrlAAAAMAAJ&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dVrlAAAAMAAJ&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Do_I_Read_Next.html?hl=&id=dVrlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dVrlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>F.M. BUSBY</b> The Triad Worlds ( New York : AvoNova , 1996 ) Story type : Political ; First Contact Series : <b>Slow Freight</b> Major character ( s ) : Irtuk - Saa , Alien ( Maghan ) , Ruler ; Samuel &quot; Sam &quot; Hall Gowdy , Spaceship Captain&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6uQdVZ96IvEC",
+      "etag": "NIrIK1ntrtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6uQdVZ96IvEC",
+      "volumeInfo": {
+        "title": "Contemporary Authors",
+        "subtitle": "A Bio-bibliographical Guide to Current Writers in Fiction, General Nonfiction, Poetry, Journalism, Drama, Motion Pictures, Television, and Other Fields",
+        "authors": [
+          "CONTEMPORARY."
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0810319381"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780810319387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6uQdVZ96IvEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6uQdVZ96IvEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6uQdVZ96IvEC&q=F.+M.+Busby+Slow+Freight&dq=F.+M.+Busby+Slow+Freight&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6uQdVZ96IvEC&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Authors.html?hl=&id=6uQdVZ96IvEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6uQdVZ96IvEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Slow Freight</b> to Forever , all science fiction novels ; short stories . SIDELIGHTS : <b>F. M. Busby</b> writes : &quot; I &#39; played &#39; with writing off - and - on for years before the chance came to take early re- tirement and try it in earnest . I&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6kMxtDHz0nsC",
+      "etag": "dLbhqShpEuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6kMxtDHz0nsC",
+      "volumeInfo": {
+        "title": "Rissa and Tregare",
+        "subtitle": "Rissa Kerguelen Book 3",
+        "authors": [
+          "F.M. Busby"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-05-31",
+        "description": "Living a desperate life in the Total Welfare Center, the orphan Rissa discovers she has won the lottery and takes a chance to shape her own destiny. After she escapes from Earth with the help of a space pirate who may be more trouble than she expected. She soon discovers that together they might have a chance to shape Earth's destiny as well.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575126398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0575126396"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6kMxtDHz0nsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6kMxtDHz0nsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6kMxtDHz0nsC&pg=PT49&dq=F.+M.+Busby+Slow+Freight&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6kMxtDHz0nsC&dq=F.+M.+Busby+Slow+Freight&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rissa_and_Tregare.html?hl=&id=6kMxtDHz0nsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Rissa_and_Tregare-sample-epub.acsm?id=6kMxtDHz0nsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6kMxtDHz0nsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rissa Kerguelen Book 3 <b>F.M. Busby</b>. <b>F. M. Busby</b> ( 1921 – 2005 ) <b>F. M. Busby</b> and his wife Elinor lived in Seattle with ... <b>SLOW FREIGHT</b> grouping . Solo books are ALL THESE EARTHS , THE BREEDS OF MAN , THE SINGULARITY PROJECT , and&nbsp;..."
+      }
+    }
+  ]
+}

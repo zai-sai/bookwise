@@ -1,0 +1,730 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hMCJDwAAQBAJ",
+      "etag": "9gE8R7MIqy8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hMCJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": [
+          "Charlotte Brontë",
+          "Golden Deer Classics"
+        ],
+        "publisher": "Oregan Publishing",
+        "publishedDate": "2017-03-27",
+        "description": "Jane Eyre, the story of a young girl and her passage into adulthood, was an immediate commercial success at the time of its original publication in 1847. Its representation of the underside of domestic life and the hypocrisy behind religious enthusiasm drew both praise and bitter criticism, while Charlotte Brontë's striking expose of poor living conditions for children in charity schools as well as her poignant portrayal of the limitations faced by women who worked as governesses sparked great controversy and social debate. Jane Eyre, Brontë's best-known novel, remains an extraordinary coming-of-age narrative, and one of the great classics of literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791097338428"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 566,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hMCJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hMCJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hMCJDwAAQBAJ&printsec=frontcover&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hMCJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hMCJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hMCJDwAAQBAJ&rdid=book-hMCJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jane_Eyre-sample-epub.acsm?id=hMCJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jane_Eyre-sample-pdf.acsm?id=hMCJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hMCJDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jane Eyre, the story of a young girl and her passage into adulthood, was an immediate commercial success at the time of its original publication in 1847."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jVgVDAAAQBAJ",
+      "etag": "r3amlrpsQIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jVgVDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": [
+          "Charlotte Brontë"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2008-04-17",
+        "description": "Jane is the governess to the young ward of the mysterious Mr. Rochester.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199535590"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199535590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 543,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jVgVDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jVgVDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jVgVDAAAQBAJ&printsec=frontcover&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jVgVDAAAQBAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre.html?hl=&id=jVgVDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jane_Eyre-sample-pdf.acsm?id=jVgVDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jVgVDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jane is the governess to the young ward of the mysterious Mr. Rochester."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j1oOzYmMGv0C",
+      "etag": "xY4EWAUYTUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j1oOzYmMGv0C",
+      "volumeInfo": {
+        "title": "Charlotte Brontë's Jane Eyre",
+        "subtitle": "A Casebook",
+        "authors": [
+          "Elsie Browning Michie"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2006",
+        "description": "Divided into three sections, this work explores a range of interpretive strategies applied to readings of \"Jane Eyre\". The last section includes essays that frame the historical and social contexts out of which \"Jane Eyre\" arose, and investigate the critical reception and afterlife of the text.\" - publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195177787"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0195177789"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j1oOzYmMGv0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j1oOzYmMGv0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j1oOzYmMGv0C&printsec=frontcover&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j1oOzYmMGv0C&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charlotte_Bront%C3%AB_s_Jane_Eyre.html?hl=&id=j1oOzYmMGv0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Charlotte_Bront%C3%AB_s_Jane_Eyre-sample-epub.acsm?id=j1oOzYmMGv0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Charlotte_Bront%C3%AB_s_Jane_Eyre-sample-pdf.acsm?id=j1oOzYmMGv0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j1oOzYmMGv0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The last section of the anthology includes essays that provide accounts of the familial context out of which Jane Eyre arose, its critical reception, and its literary afterlife."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fVAMzgEACAAJ",
+      "etag": "meGrra7zX2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fVAMzgEACAAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": [
+          "Charlotte Bronte"
+        ],
+        "publishedDate": "2020-11-17",
+        "description": "Jane Eyre by Charlotte Bronte Following the life story of one Jane Eyre, the novel by the same name was written by Charlotte Bronte in 1847. The tale of the young woman gives great insight and depth to the troubles of the times, as many of the life events are based off of the author's real life experiences. From abusive family and schooling to heartbreak and marriage, the tale of Jane Eyre truly displays the tragedies and victories of a completely different time period. The young girl finds herself living with an aunt and her children, all of which are very abusive to young Jane and school is no escape. Attending Lowood school, Jane experiences the hard hand of headmaster Brocklehurts and the cruelty of their disciplinary beliefs. During her time at Lowood, her only friend dies due to the conditions of the school, much like the author's own two sisters died of tuberculosis during their very harsh schooling experiences. But Jane's heartache doesn't end there. Swooning for a married man, Jane goes through ups and downs during different relationships and stages of her life. Growing terribly ill and losing all of her money, she reaches a low point in her adult life, but she receives a stroke of fortune that leads her to the life she's always wanted. The heart wrenching tale takes the reader through a roller coaster of emotions as a passionate author creates the ultimate tribute to her own life experiences. Using powerful words that provoke emotion and feeling, the unique story of Jane Eyre presents an array of lessons and insights that a reader determines for themselves. Taking a glimpse back into the times of the 1820's, the novel is an absolute must read for any history or tragedy loving reader. About The Author Charlotte Bronte was an English novelist and poet towards the end of her life. As she grew up, the young woman was at one point a teacher at the very school she had previously studied at, and also spent a couple years as a governess. Charlotte decided to tell her unique story through the fictional character of Jane Eyre, and later wrote two other novels as well. Dying at the young age of 38, Charlotte Bronte never got to experience the fame of her works. She is now considered one of the most notable Victorian women novelists. Through the heartache, misfortunes and occasional successes, the tale of Jane Eyre allows the life and reputation of Charlotte Bronte to live on till this day. Written for those who love to read, listen to a good story and find themselves absorbed into the tales of the past, Jane Eyre is a must read for every novel enthusiast. The unique tale provides life lessons, guidance, and eye opening viewpoints to any reader that is ready to uncover and receive such underlying messages. Order yours today and indulge in the beautiful storytelling and life of the young Jane Eyre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798566448275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 422,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fVAMzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fVAMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fVAMzgEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fVAMzgEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre.html?hl=&id=fVAMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fVAMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Price Only Today! Tomorrow the price is back to 19.99$! Jane Eyre by Charlotte Bronte Following the life story of one Jane Eyre, the novel by the same name was written by Charlotte Bronte in 1847."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eXCKEQAAQBAJ",
+      "etag": "QlyLyGWIjTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eXCKEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Charlotte Brontë: Jane Eyre (English Edition)",
+        "authors": [
+          "Charlotte Brontë"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2025-09-28",
+        "description": "Charlotte Brontë’s Jane Eyre remains one of the most enduring classics of nineteenth-century English literature. The novel combines elements of romance, Gothic mystery, and social critique, telling the story of an orphaned governess who struggles for independence and integrity. Charlotte Brontë created a heroine who insists on dignity and self-respect, even in the face of love and temptation. The blend of Gothic atmosphere, social realism, and deeply personal confession makes the novel a cornerstone of modern literature. Jane’s relationship with Mr. Rochester, marked by passion, secrets, and moral dilemmas, continues to fascinate readers around the world. This is the English-language paperback edition of the novel. Charlotte Brontë. Jane Eyre. An Autobiography. First published: Smith, Elder and Co., London 1847. This edition follows the text of: Service and Paton, London 1897. Vollständige Neuausgabe (Complete new edition), 1. Auflage (1st edition), Göttingen 2025. LIWI Literatur- und Wissenschaftsverlag.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753801483"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753801488"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eXCKEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eXCKEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eXCKEQAAQBAJ&printsec=frontcover&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eXCKEQAAQBAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charlotte_Bront%C3%AB_Jane_Eyre_English_Edit.html?hl=&id=eXCKEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Charlotte_Bront%C3%AB_Jane_Eyre_English_Edit-sample-pdf.acsm?id=eXCKEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eXCKEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the English-language paperback edition of the novel. Charlotte Brontë. Jane Eyre. An Autobiography. First published: Smith, Elder and Co., London 1847. This edition follows the text of: Service and Paton, London 1897."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uilxuAEACAAJ",
+      "etag": "iR45N5sReyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uilxuAEACAAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": [
+          "Charlotte Brontë"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-06-07",
+        "description": "Charlotte Bronte (21 April 1816 - 31 March 1855) was an English novelist and poet, the eldest of the three Bronte sisters who survived into adulthood and whose novels have become classics of English literature. The literary heritage of the Bronte sisters entered the treasury of national English culture gaining recognition far beyond England. Particular success fell on the novel written by Charlotte Bronte 'Jane Eyre' which was subsequently filmed. Written with sincerity and passion, the novel does not age and does not lose its charm. 'Jane Eyre' is still one of the most popular classical works of the XIX century. The strength of his influence lies in the truth of the senses, in their truth, in the combination of the real with the romantic, in the captivating fascination of history, a simple little governess capable of great and faithful love, having managed, having overcome all the vicissitudes of fate in order to find her own happiness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1720649294"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781720649298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uilxuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uilxuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uilxuAEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uilxuAEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre.html?hl=&id=uilxuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uilxuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Particular success fell on the novel written by Charlotte Bronte &#39;Jane Eyre&#39; which was subsequently filmed. Written with sincerity and passion, the novel does not age and does not lose its charm."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yCgNzgEACAAJ",
+      "etag": "ERE9y8+aUF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yCgNzgEACAAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre (Annotated and Illustrated Book)",
+        "authors": [
+          "Charlotte Brontë"
+        ],
+        "publishedDate": "2020-03-06",
+        "description": "Jane is a little girl who has lost her both parents one after another and begins to live at her uncle's house after the loss of her family upon her mother's last will. Yet, her uncle has also passed away in a short time after her settling in her uncle's house. Her uncle has a wife and three children; two girls and a boy. All of them hate Jane and treat her unfairly. After her uncle's death Jane Eyre becomes in need of the mercy of her aunt and her cousins. The only person who loves Jane and watches her over even for a bit is the maid, Bessie. Yet, Bessie's love is pale in comparison with the hatred of her aunt and her cousins.When Jane turns ten, her aunt decides to send her to a boarding school. The school that Jane is to attend is Lowood School where serves the children of poor families and is a foundation school. Yet, despite everything Jane is content that she will get rid of this house where she is mistreated.Jane spends eight fine years in Lowood School in spite of the difficulties she encounters with. She teaches in the school in the last two years. After these eight years, she decides that she must leave the school and she puts an advert in the newspaper for the families who search for governesses. Her advert is replied by a lady named Mrs. Fairfax who lives in a place called Thornfield. She is supposed to govern a nine-year-old girl. She immediately accepts this offer and she takes the road to Thornfield.As she arrives to Thornfield Hall, she meets Mrs. Fairfax, who is an elderly and amiable woman. Mrs. Fairfax is the housekeeper of Thornfield Hall. The owner of the house is a gentleman named Mr. Rochester, but, Jane cannot have the chance to meet Mr. Rochester for he travels a lot. The little girl whom she will govern is a petite, lovely girl named Adele. Although her English is poor due to the fact that she was born in France, Jane has been taught in French in Lowood; and she does not have any difficulty to communicate with Adele. They get on well with Adele and Jane teaches her a lot of things in a short period. She loves Mrs. Fairfax as well. Yet, Mr. Rochester; the owner of the house, has not stopped by the house for all this time that she spends in Thornfield. Afterwards, she has an opportunity to meet Mr. Rochester by coincidence; yet, she is unaware of how this coincidence would change the flow of her life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798622062070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 627,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yCgNzgEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yCgNzgEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre_Annotated_and_Illustrated_Book.html?hl=&id=yCgNzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yCgNzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jane is a little girl who has lost her both parents one after another and begins to live at her uncle&#39;s house after the loss of her family upon her mother&#39;s last will."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rR0ZEAAAQBAJ",
+      "etag": "v914obPTWzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rR0ZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": [
+          "Charlotte Brontë"
+        ],
+        "publisher": "Standard Ebooks",
+        "publishedDate": "2019-11-10T19:43:54Z",
+        "description": "Jane Eyre experienced abuse at a young age, not only from her aunt—who raised her after both her parents died—but also from the headmaster of Lowood Institution, where she is sent away to. After ten years of living and teaching at Lowood Jane decides she is ready to see more of the world and takes a position as a governess at Thornfield Hall. Jane later meets the mysterious master of Thornfield Hall, Mr. Rochester, and becomes drawn to him. Charlotte Brontë published Jane Eyre: An Autobiography on October 16th 1847 using the pen name “Currer Bell.” The novel is known for revolutionizing prose fiction, and is considered to be ahead of its time because of how it deals with topics of class, religion, and feminism. This book is part of the Standard Ebooks project, which produces free public domain ebooks.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:1D51B5625BE872EB"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 612,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.63.60.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rR0ZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rR0ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rR0ZEAAAQBAJ&printsec=frontcover&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rR0ZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rR0ZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rR0ZEAAAQBAJ&rdid=book-rR0ZEAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rR0ZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is part of the Standard Ebooks project, which produces free public domain ebooks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dnK_QgAACAAJ",
+      "etag": "lvFE2wNuEms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dnK_QgAACAAJ",
+      "volumeInfo": {
+        "title": "Charlotte Brontë's Jane Eyre",
+        "authors": [
+          "Pauline Nestor"
+        ],
+        "publisher": "Palgrave Macmillan",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312086016"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312086015"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dnK_QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dnK_QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dnK_QgAACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dnK_QgAACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charlotte_Bront%C3%AB_s_Jane_Eyre.html?hl=&id=dnK_QgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dnK_QgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sh7wswEACAAJ",
+      "etag": "SZPmzLiZ8ns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sh7wswEACAAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "subtitle": "By Charlotte Brontë - Illustrated",
+        "authors": [
+          "Charlotte Charlotte Brontë"
+        ],
+        "publishedDate": "2017-07-21",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Jane Eyre by Charlotte Brontë Jane Eyre is a novel by English writer Charlotte Brontë. It was published on 16 October 1847, by Smith, Elder & Co. of London, England, under the pen name \"Currer Bell.\" The first American edition was published the following year by Harper & Brothers of New York. Primarily of the bildungsroman genre, Jane Eyre follows the emotions and experiences of its title character, including her growth to adulthood and her love for Mr. Rochester, the Byronic master of fictitious Thornfield Hall. In its internalisation of the action--the focus is on the gradual unfolding of Jane's moral and spiritual sensibility, and all the events are coloured by a heightened intensity that was previously the domain of poetry--Jane Eyre revolutionised the art of fiction. Charlotte Brontë has been called the 'first historian of the private consciousness' and the literary ancestor of writers like Joyce and Proust. The novel contains elements of social criticism, with a strong sense of morality at its core, but is nonetheless a novel many consider ahead of its time given the individualistic character of Jane and the novel's exploration of classism, sexuality, religion, and proto-feminism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521900906"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521900901"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sh7wswEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sh7wswEACAAJ&dq=Charlotte+Bronte+Jane+Eyre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre.html?hl=&id=sh7wswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sh7wswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About Jane Eyre by Charlotte Brontë Jane Eyre is a novel by English writer Charlotte Brontë."
+      }
+    }
+  ]
+}

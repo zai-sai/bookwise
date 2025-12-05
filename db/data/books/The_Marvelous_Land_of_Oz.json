@@ -1,0 +1,755 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "daifAwAAQBAJ",
+      "etag": "GIob1UxOsdw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/daifAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Momentum",
+        "publishedDate": "2014-06-26",
+        "description": "The little-known sequel to the best-selling children's book, The Wonderful Wizard of Oz. Tip, for as long as he can remember, has been under the control of a witch named Mombi. Upon news that Mombi is returning home to Gillikin Country, Tip plans to frighten her away by making a scarecrow named Jack Pumpkinhead. But Mombi isn't fooled. For revenge, she uses magic to bring Jack to life and then threatens to turn Tip into a statue. Tip is forced to escape the witch with the help of his new friend, Jack. Together they head to Emerald City, where more magic and danger awaits ... The Marvelous Land of Oz is significant for challenging gender roles in an early work of fantasy, with a boy who becomes a princess. This title is being released as a part of Momentum's Classic Fantasy Fiction series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781760081447"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1760081442"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=daifAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=daifAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=daifAwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=daifAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=daifAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.26,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.26,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=daifAwAAQBAJ&rdid=book-daifAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7260000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7260000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-epub.acsm?id=daifAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-pdf.acsm?id=daifAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=daifAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Together they head to Emerald City, where more magic and danger awaits ... The Marvelous Land of Oz is significant for challenging gender roles in an early work of fantasy, with a boy who becomes a princess."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1wA4zgEACAAJ",
+      "etag": "GPpT9aHn9Kc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1wA4zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz (Illustrated)",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-01-25",
+        "description": "The Marvelous Land of Oz: Being an Account of the Further Adventures of the Scarecrow and the Tin Woodman, commonly shortened to The Land of Oz, published on July 5, 1904, is the second of L. Frank Baum's books set in the Land of Oz, and the sequel to The Wonderful Wizard of Oz. The events are set shortly after the events in The Wonderful Wizard of Oz and after Dorothy Gale's departure back to Kansas. The protagonist of the novel is an orphan boy called Tip. For as long as he can remember, Tip has been under the guardianship of a cruel Wicked Witch named Mombi and lives in the northern quadrant of Oz called Gillikin Country. Mombi has always been extremely mean and abusive to Tip. As Mombi is returning home one day, Tip plans to get revenge and frighten her with a wooden man he has made, with a large Jack-o'-lantern he carves for a head, thus naming him Jack Pumpkinhead. To Tip's dismay, Mombi is not fooled by this trick, and she takes this opportunity to demonstrate the new magical \"Powder of Life\" that she had just obtained from another sorcerer. Mombi tells Tip that she intends to transform him into a marble statue to punish him for his mischievous ways.L. FRANK BAUM OTHERS WORK AS FOLLOW1. The Wonderful Wizard of Oz (1900)2. The Marvelous Land of Oz (1904)3. Ozma of Oz (1907)4. Dorothy and the Wizard in Oz (1908)5. The Road to Oz (1909)6. The Emerald City of Oz (1910)7. The Patchwork Girl of Oz (1913)8. Tik-Tok of Oz (1914)9. The Scarecrow of Oz (1915)10. Rinkitink in Oz (1916)11. The Lost Princess of Oz (1917)12. The Tin Woodman of Oz (1918)13. The Magic of Oz (1919)14. Glinda of Oz (1920)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798599993513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1wA4zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1wA4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1wA4zgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1wA4zgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvelous_Land_of_Oz_Illustrated.html?hl=&id=1wA4zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1wA4zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The protagonist of the novel is an orphan boy called Tip. For as long as he can remember, Tip has been under the guardianship of a cruel Wicked Witch named Mombi and lives in the northern quadrant of Oz called Gillikin Country."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jWBnCwAAQBAJ",
+      "etag": "/GdGVwGc6fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jWBnCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "subtitle": "American Literature",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "VM eBooks",
+        "publishedDate": "2016-01-19",
+        "description": "Table of Contents Tip Manufactures a Pumpkinhead The Marvelous Powder of Life The Flight of the Fugitives Tip Makes an Experiment in Magic The Awakening of the Saw-horse Jack Pumpkinhead's Ride to the Emerald City His Majesty the Scarecrow Gen. Jinjur's Army of Revolt The Scarecrow Plans an escape The Journey to the Tin Woodman A Nickel-Plated Emperor Mr. H. M. Woggle-Bug, T. E. A Highly Magnified History Old Mombi indulges in Witchcraft The Prisoners of the Queen The Scarecrow Takes Time to Think The Astonishing Flight of the Gump In the Jackdaw's Nest Dr. Nikidik's Famous Wishing Pills The Scarecrow Appeals to Glinda the Good The Tin-Woodman Plucks a Rose The Transformation of Old Mombi Princess Ozma of Oz The Riches of Content",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jWBnCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jWBnCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jWBnCwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jWBnCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jWBnCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jWBnCwAAQBAJ&rdid=book-jWBnCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-epub.acsm?id=jWBnCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-pdf.acsm?id=jWBnCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jWBnCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Table of Contents Tip Manufactures a Pumpkinhead The Marvelous Powder of Life The Flight of the Fugitives Tip Makes an Experiment in Magic The Awakening of the Saw-horse Jack Pumpkinhead&#39;s Ride to the Emerald City His Majesty the Scarecrow ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_9znnAAACAAJ",
+      "etag": "Qt5NfuBDVO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_9znnAAACAAJ",
+      "volumeInfo": {
+        "title": "The Marvellous Land of Oz",
+        "subtitle": "By L. Frank Baum- Illustrated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-10",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About The Marvellous Land Of Oz by L. Frank Baum The Marvelous Land of Oz: Being an Account of the Further Adventures of the Scarecrow and the Tin Woodman, commonly shortened to The Land of Oz, published on July 5, 1904[citation needed], is the second of L. Frank Baum's books set in the Land of Oz, and the sequel to The Wonderful Wizard of Oz (1900). This and the next 34 Oz books of the famous 40 were illustrated by John R. Neill. The book was made into an episode of The Shirley Temple Show in 1960, and into a Canadian animated feature film of the same name in 1987. It was also adapted in comic book form by Marvel Comics, with the first issue being released in November 2009. Plot elements from The Marvelous Land of Oz are included in the 1985 Disney feature film Return to Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540847594"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540847591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_9znnAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_9znnAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_9znnAAACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_9znnAAACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvellous_Land_of_Oz.html?hl=&id=_9znnAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_9znnAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TEk6EAAAQBAJ",
+      "etag": "UqlX6BbMDd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TEk6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-04",
+        "description": "The Marvelous Land of Oz - Lyman Frank Baum - \"As a writer, Baum rarely knew when to quit, unfurling marvel after marvel...\"The New YorkerOriginally published 115 years ago, this lesser-known but equally enchanting sequel to The Wonderful Wizard of Oz is sure to continue the delights wrought by the first of L. Frank Baums classic childrens series. We rejoin the Tinman, the Scarecrow, Glinda the Good Witch, and more in this fantastical book.In The Marvelous Land of Oz, we are welcomed back to the Land of Oz after Dorothy Gale has been whisked back to Kansas. We are introduced to Tip, a young orphan boy who has been under the guardianship of a Wicked Witch, Mombi, for as long as he can remember. Tip plans to get his revenge with a wooden man that he has made using a jack-o-lantern as a head. Unfortunately, the witch is not fooled and threatens to turn Tip into a statue using the Powder of Life. Rather than staying to be turned into a statue, Tip runs away after stealing the Powder of Life from Mombi, using it to animate a sawhorse for Jack to ride. Thus begins Tips adventures as he journeys to the Emerald City, escapes revolts, and learns just who the true ruler of Oz is.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985942039"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "398594203X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TEk6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TEk6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TEk6EAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TEk6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TEk6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TEk6EAAAQBAJ&rdid=book-TEk6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-epub.acsm?id=TEk6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Marvelous_Land_of_Oz-sample-pdf.acsm?id=TEk6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TEk6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We rejoin the Tinman, the Scarecrow, Glinda the Good Witch, and more in this fantastical book.In The Marvelous Land of Oz, we are welcomed back to the Land of Oz after Dorothy Gale has been whisked back to Kansas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kfcHzgEACAAJ",
+      "etag": "m/B3MDN85iY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kfcHzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "subtitle": "L. Frank Baum (Classics, Children's Books) [Annotated]",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-10-05",
+        "description": "This is the second book in the Oz series by L. Frank Baum. First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798693879959"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kfcHzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kfcHzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kfcHzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kfcHzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvelous_Land_of_Oz.html?hl=&id=kfcHzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kfcHzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the second book in the Oz series by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ewuVzgEACAAJ",
+      "etag": "9WRy3kBwmdo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ewuVzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "subtitle": "Lyman Frank Baum (Fantasy, Classics, Literature) [Annotated]",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-07-02",
+        "description": "First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798530383441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ewuVzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ewuVzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ewuVzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ewuVzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvelous_Land_of_Oz.html?hl=&id=ewuVzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ewuVzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First issued in 1904, L. Frank Baum&#39;s The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uqXusgEACAAJ",
+      "etag": "Zv/caqKx6ws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uqXusgEACAAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz",
+        "authors": [
+          "Baum Frank"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-05-28",
+        "description": "First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1514116901"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781514116906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uqXusgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uqXusgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uqXusgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uqXusgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvelous_Land_of_Oz.html?hl=&id=uqXusgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uqXusgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First issued in 1904, L. Frank Baum&#39;s The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I_pGvgAACAAJ",
+      "etag": "Q9cAvD2aFfQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I_pGvgAACAAJ",
+      "volumeInfo": {
+        "title": "L. F. Baum - the Marvelous Land of Oz",
+        "authors": [
+          "Lyman Baum"
+        ],
+        "publishedDate": "2016-09-01",
+        "description": "First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1535309660"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535309660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=I_pGvgAACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=I_pGvgAACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_F_Baum_the_Marvelous_Land_of_Oz.html?hl=&id=I_pGvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I_pGvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First issued in 1904, L. Frank Baum&#39;s The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4V4CzgEACAAJ",
+      "etag": "9JYZ5Aewabw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4V4CzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Marvelous Land of Oz Annotated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2020-09-04",
+        "description": "This is the second book in the Oz series by L. Frank Baum. First issued in 1904, L. Frank Baum's The Marvelous Land of Oz is the story of the wonderful adventures of the young boy named Tip as he travels throughout the many lands of Oz. Here he meets with our old friends the Scarecrow and Tin Woodman, as well as some new friends like Jack Pumpkinhead, the Wooden Sawhorse, the Highly Magnified Woggle-Bug, and the amazing Gump.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798682801176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4V4CzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4V4CzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4V4CzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4V4CzgEACAAJ&dq=L.+Frank+Baum+The+Marvelous+Land+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marvelous_Land_of_Oz_Annotated.html?hl=&id=4V4CzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4V4CzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the second book in the Oz series by L. Frank Baum."
+      }
+    }
+  ]
+}

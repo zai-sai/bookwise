@@ -1,0 +1,727 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DvqjHSW7s34C",
+      "etag": "LKlivf3uhHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DvqjHSW7s34C",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105041663977"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Voyages around the world"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.13.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DvqjHSW7s34C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DvqjHSW7s34C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DvqjHSW7s34C&q=Joshua+Slocum+Sailing+alone+around+the+world&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DvqjHSW7s34C&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World.html?hl=&id=DvqjHSW7s34C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DvqjHSW7s34C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JMQYtAEACAAJ",
+      "etag": "H5Oebq9cs/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JMQYtAEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World (Illustrated by Thomas Fogarty and George Varian)",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Digireads.com",
+        "publishedDate": "2017-09-15",
+        "description": "First published in 1900, \"Sailing Alone Around the World\" is the detailed account of how Joshua Slocum would become the first person to circumnavigate the globe by himself. Aboard a sloop named the 'Spray', which Slocum himself rebuilt and refitted, he would depart from Boston on April, 24th, 1895 on this remarkable journey. Over the course of the next three years the boat would take him to Gloucester, Nova Scotia, Azores, Gibraltar, Morocco, the Canary Islands, the Cape Verde Islands, Pernambuco, Rio de Janeiro, Maldonado, Montevideo, through the Strait of Magellan, through the Cockburn Channel, Port Angosto, Juan Fernandez, Marquesas, Samoa, Fiji, Sydney, Melbourne, Tasmania, Cooktown, Christmas Island, Keeling Cocos, Rodrigues, Mauritius, Durban, Cape Town, Transvaal, St Helena, Ascension Island, Devil's Island, Trinidad, Grenada, Newport, and finally back to Fairhaven in Massachusetts. Filled with numerous illustrations, \"Sailing Alone Around the World\" is a real-life nautical tale of adventure filled with perilous encounters and challenges. A classic story of self-determination, \"Sailing Alone Around the World\" has inspired generations of sailors and adventurers alike ever since its original publication. This edition is printed on premium acid-free paper.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1420956353"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781420956351"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JMQYtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JMQYtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JMQYtAEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JMQYtAEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World_Illustrat.html?hl=&id=JMQYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JMQYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A classic story of self-determination, &quot;Sailing Alone Around the World&quot; has inspired generations of sailors and adventurers alike ever since its original publication. This edition is printed on premium acid-free paper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buu8vKYDTcQC",
+      "etag": "SpLA5rKJfmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buu8vKYDTcQC",
+      "volumeInfo": {
+        "title": "Joshua Slocum, Sailing Alone Around the World",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Text Publishing",
+        "publishedDate": "2012-06-21",
+        "description": "Joshua Slocum was the first man to circumnavigate the world single-handed. This classic account of his voyage remains one of the most thrilling and entertaining travel narratives of all time, from encounters with Moorish pirates and Juan Fernandez islanders, to tempests and languid seas, sharks and flying fish.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781921799396"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1921799390"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 377,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=buu8vKYDTcQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=buu8vKYDTcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=buu8vKYDTcQC&printsec=frontcover&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=buu8vKYDTcQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=buu8vKYDTcQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.45,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=buu8vKYDTcQC&rdid=book-buu8vKYDTcQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2450000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joshua_Slocum_Sailing_Alone_Around_the_W-sample-epub.acsm?id=buu8vKYDTcQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joshua_Slocum_Sailing_Alone_Around_the_W-sample-pdf.acsm?id=buu8vKYDTcQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buu8vKYDTcQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Joshua Slocum was the first man to circumnavigate the world single-handed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KnJyw3g9PXUC",
+      "etag": "cbhPVfKVJGo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KnJyw3g9PXUC",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Applewood Books",
+        "publishedDate": "2006-08-11",
+        "description": "In 1895, at the age of 51, Captain Joshua Slocum left Boston on his sloop Spray. Three years later, after sailing single-handed 46,000 miles around the world, Slocum returned to Newport, Rhode Island. Through this, he was revered by sailors and adventurers around the world. The story of this journey is a classic tale of achievement in the face of overwhelming odds. \"Walden without the training wheels.\" -Nathaniel Philbrick",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781557099174"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1557099170"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KnJyw3g9PXUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KnJyw3g9PXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KnJyw3g9PXUC&printsec=frontcover&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KnJyw3g9PXUC&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World.html?hl=&id=KnJyw3g9PXUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sailing_Alone_Around_the_World-sample-epub.acsm?id=KnJyw3g9PXUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sailing_Alone_Around_the_World-sample-pdf.acsm?id=KnJyw3g9PXUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KnJyw3g9PXUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through this, he was revered by sailors and adventurers around the world. The story of this journey is a classic tale of achievement in the face of overwhelming odds. &quot;Walden without the training wheels.&quot; -Nathaniel Philbrick"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vwMInwEACAAJ",
+      "etag": "TY6qYbGSk7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vwMInwEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-02-05",
+        "description": "A blue-nose ancestry with Yankee proclivities—Youthful fondness for the sea—Master of the ship Northern Light—Loss of the Aquidneck—Return home from Brazil in the canoe Liberdade—The gift of a \"ship\"—The rebuilding of the Spray-Conundrums in regard to finance and calking—The launching of the Spray.In the fair land of Nova Scotia, a maritime province, there is a ridge called North Mountain, overlooking the Bay of Fundy on one side and the fertile Annapolis valley on the other. On the northern slope of the range grows the hardy spruce-tree, well adapted for ship-timbers, of which many vessels of all classes have been built. The people of this coast, hardy, robust, and strong, are disposed to compete in the world's commerce, and it is nothing against the master mariner if the birthplace mentioned on his certificate be Nova Scotia. I was born in a cold spot, on coldest North Mountain, on a cold February 20, though I am a citizen of the United States—a naturalized Yankee, if it may be said that Nova Scotians are not Yankees in the truest sense of the word. On both sides my family were sailors; and if any Slocum should be found not seafaring, he will show at least an inclination to whittle models of boats and contemplate voyages. My father was the sort of man who, if wrecked on a desolate island, would find his way home, if he had a jack-knife and could find a tree. He was a good judge of a boat, but the old clay farm which some calamity made his was an anchor to him. He was not afraid of a capful of wind, and he never took a back seat at a camp-meeting or a good, old-fashioned revival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1495357902"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781495357909"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vwMInwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vwMInwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vwMInwEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vwMInwEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World.html?hl=&id=vwMInwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vwMInwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On both sides my family were sailors; and if any Slocum should be found not seafaring, he will show at least an inclination to whittle models of boats and contemplate voyages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vbUztgEACAAJ",
+      "etag": "bsaW5jlSiqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vbUztgEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World by Joshua Slocum",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publishedDate": "2018-04-12",
+        "description": "Sailing Alone Around the World by Joshua Slocum",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1987750799"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781987750799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vbUztgEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vbUztgEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World_by_Joshua.html?hl=&id=vbUztgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vbUztgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sailing Alone Around the World by Joshua Slocum"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rAFrzgEACAAJ",
+      "etag": "qXzHv4uly/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rAFrzgEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World Illustrated",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-30",
+        "description": "\"Sailing Alone Around the World is a sailing memoir by Joshua Slocum in 1900 about his single-handed global circumnavigation aboard the sloop Spray. Slocum was the first person to sail around the world alone. The book was an immediate success and highly influential in inspiring later travelers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798746686626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rAFrzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rAFrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rAFrzgEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rAFrzgEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World_Illustrat.html?hl=&id=rAFrzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rAFrzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Slocum was the first person to sail around the world alone. The book was an immediate success and highly influential in inspiring later travelers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xXXhzQEACAAJ",
+      "etag": "xHLq6UOYlM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xXXhzQEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World Annotated",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publishedDate": "2020-09-26",
+        "description": "Sailing Alone Around the World is Joshua Slocum's sailing autobiography of his one-handed worldwide circumnavigation aboard the Spray sloop in 1900. Slocum was the first person to sail by himself around the world. The book was an immediate and highly influential success in inspiring later travellers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798690566883"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xXXhzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xXXhzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xXXhzQEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xXXhzQEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World_Annotated.html?hl=&id=xXXhzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xXXhzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Slocum was the first person to sail by himself around the world. The book was an immediate and highly influential success in inspiring later travellers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SlIHvAEACAAJ",
+      "etag": "DpKUiVR1KX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SlIHvAEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World",
+        "subtitle": "Large Print",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-09-09",
+        "description": "Sailing Alone Around the World by Joshua Slocum Sailing Alone Around the World (1900) is a sailing memoir by Joshua Slocum about his single-handed global circumnavigation aboard the sloop Spray. Slocum was the first person to sail around the world alone. The book was an immediate success and highly influential in inspiring later travelers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "172707811X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781727078114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SlIHvAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SlIHvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SlIHvAEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SlIHvAEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World.html?hl=&id=SlIHvAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SlIHvAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Slocum was the first person to sail around the world alone. The book was an immediate success and highly influential in inspiring later travelers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w9xzLwEACAAJ",
+      "etag": "maTzO4UZu0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w9xzLwEACAAJ",
+      "volumeInfo": {
+        "title": "Sailing Alone Around the World (Nimbus)",
+        "authors": [
+          "Joshua Slocum"
+        ],
+        "publisher": "Nimbus Publishing (CN)",
+        "publishedDate": "2012",
+        "description": "As the first person to circumnavigate the globe alone, Captain Joshua Slocum is celebrated as the patron saint of small-boat voyagers, navigators, and adventurers all over the world (Joshua Slocum Society), and heralded as the penultimate example of independent marine navigation at a time when the invention of steam had nearly put an end to the Golden Age of Sail. His timeless account, Sailing Alone Around the World, still coveted by sailors and thrill-seekers alike, has continued to inspire scores of lone adventurers, and challenged countless readers to change their lives since its initial publication in 1900.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1551099314"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551099316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w9xzLwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w9xzLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=w9xzLwEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=w9xzLwEACAAJ&dq=Joshua+Slocum+Sailing+alone+around+the+world&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sailing_Alone_Around_the_World_Nimbus.html?hl=&id=w9xzLwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w9xzLwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the first person to circumnavigate the globe alone, Captain Joshua Slocum is celebrated as the &quot;patron saint of small-boat voyagers, navigators, and adventurers all over the world&quot; (Joshua Slocum Society), and heralded as the penultimate ..."
+      }
+    }
+  ]
+}

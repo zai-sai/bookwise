@@ -1,0 +1,690 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Uk3-U9hGIiUC",
+      "etag": "UYs4Y7eNzGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uk3-U9hGIiUC",
+      "volumeInfo": {
+        "title": "The Road to Oz",
+        "authors": [
+          "Lyman Frank Baum",
+          "John Rea Neill"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1986-12-01",
+        "description": "Dorothy and her friends follow the enchanted road to Oz and arrive in time for Ozma's birthday party.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0486252086"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486252087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.7.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Uk3-U9hGIiUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Uk3-U9hGIiUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Uk3-U9hGIiUC&printsec=frontcover&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Uk3-U9hGIiUC&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz.html?hl=&id=Uk3-U9hGIiUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Road_to_Oz-sample-pdf.acsm?id=Uk3-U9hGIiUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uk3-U9hGIiUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dorothy and her friends follow the enchanted road to Oz and arrive in time for Ozma&#39;s birthday party."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AGIHMQAACAAJ",
+      "etag": "Bu6V4tPK8QM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AGIHMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz",
+        "subtitle": "By L. Frank Baum - Illustrated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-11",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About The Road To Oz: By L. Frank Baum The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's' fourth visit to the Land of Oz.The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the child of Baum's eldest son Frank Joslyn Baum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540890449"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540890443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AGIHMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AGIHMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AGIHMQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AGIHMQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz.html?hl=&id=AGIHMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AGIHMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FoyVswEACAAJ",
+      "etag": "TrmtQirpYFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FoyVswEACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz (1909) by",
+        "subtitle": "L. Frank Baum: (Children's Book )",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-21",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz.The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the child of Baum's eldest son Frank Joslyn Baum. PLOT: While Dorothy Gale is at home in Kansas one day, she and her pet dog Toto meet the Shaggy Man who comes walking past the Gale farm. He is a friendly, yet slightly senile hobo with an optimistic, care free mentality. He politely asks Dorothy for directions to Butterfield, which is the nearest town on the prairie. The girl agrees to show him the way, bringing her dog with her. Further on, the road splits into seven paths. They take the seventh one and soon find themselves lost in what appears to be another dimension. The trio meets Button-Bright, a cute and wealthy little boy in a sailor's outfit who is always getting lost. Later, the companions encounter Polychrome, the beautiful and ethereal Daughter of the Rainbow who is stranded on earth. Polychrome explains that she accidentally fell off her father's bow while dancing on it. The bow ascended into the atmosphere and back into the clouds before she was able to climb her way back on it, thus being left behind. Dorothy, Toto, the Shaggy Man, Button-Bright, and Polychrome eventually come to the peculiar town of Foxville, where anthropomorphic foxes live. With prompting from King Dox of Foxville, Dorothy deduces that she and Toto are obviously on another \"fairy adventure\" that will ultimately lead them to magical Land of Oz, just in time for Princess Ozma's royal birthday party, (which is now acknowledged as August 21 by Oz fans, even though the book only refers to the 21st of the month), Dorothy having mentioned that the current month is August in another passage. The king takes a particular liking to Button Bright, whom he considers astute and clever due to his tabula rasa-like mind. Believing that the human face does not suit one so clever, Dox gives him a fox's head. A similar event subsequently happens to the Shaggy Man, when King Kik-a-Bray of Dunkiton confers a donkey's head upon him - also in reward for cleverness, even though it's implied that Foxville and Dunkiton exist at odds with one another. After meeting the Musicker, who produces music from his breath, and fighting off the Scoodlers, who fight by removing their own heads and throwing them at the travelers, Dorothy and her companions reach the edge of the fatal Deadly Desert completely surrounding Oz. There, the Shaggy Man's friend Johnny Dooit builds a \"sand-boat\" by which they may cross. This is necessary, because physical contact with the desert's sands, as of this book and Ozma of Oz (1907), will turn the travelers to dust. Upon reaching Oz, Dorothy and her companions are warmly welcomed by the mechanical man Tik-Tok and Billina the Yellow Hen. They proceed in company to come in their travels to the Truth Pond, where Button Bright and the Shaggy Man regain their true heads by bathing in its waters. They meet the Tin Woodman, the Scarecrow, and Jack Pumpkinhead who journey with them to the imperial capital called Emerald City for Ozma's grand birthday bash. Dorothy meets up with Ozma as her chariot is pulled in by the Cowardly Lion and the Hungry Tiger..... Lyman Frank Baum (May 15, 1856 - May 6, 1919), better known by his pen name L. Frank Baum, was an American author chiefly known for his children's books, particularly The Wonderful Wizard of Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543235654"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543235654"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FoyVswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FoyVswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FoyVswEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FoyVswEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz_1909_by.html?hl=&id=FoyVswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FoyVswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is necessary, because physical contact with the desert&#39;s sands, as of this book and Ozma of Oz (1907), will turn the travelers to dust."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iSVEAQAACAAJ",
+      "etag": "s4N5LFlDQKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iSVEAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2017-02-05",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the child of Baum's eldest son Frank Joslyn Baum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542938066"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542938068"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iSVEAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iSVEAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iSVEAQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iSVEAQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz.html?hl=&id=iSVEAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iSVEAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale&#39;s fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author&#39;s first grandson, the child of Baum&#39;s eldest son Frank ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nG05vgAACAAJ",
+      "etag": "cZzHRlA3gzc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nG05vgAACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz . L. Frank Baum (Children's Classics)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-09-06",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's' fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the child of Baum's eldest son Frank Joslyn Baum.While Dorothy Gale is at home in Kansas one day, she and her pet dog Toto, meet the Shaggy Man who comes walking past the Gale farm. He is a friendly, yet slightly senile hobo with an optimistic, care free mentality. He politely asks Dorothy for directions to Butterfield, which is the nearest town on the prairie. The girl agrees to show him the way, bringing her dog with her. Further on, the road splits into seven paths. They take the seventh one and soon find themselves lost in what appears to be another dimension. The trio meets Button-Bright, a cute and wealthy little boy in a sailor's outfit who is always getting lost. Later, the companions encounter Polychrome, the beautiful and ethereal Daughter of the Rainbow who is stranded on earth. Polychrome explains that she accidentally fell off her father's bow while dancing on it. The bow ascended into the atmosphere and back into the clouds before she was able to climb her way back on it, thus being left behind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537505777"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537505770"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nG05vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nG05vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nG05vgAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nG05vgAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz_L_Frank_Baum_Children_s_C.html?hl=&id=nG05vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nG05vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale&#39;s&#39; fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author&#39;s first grandson, the child of Baum&#39;s eldest son Frank ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E9dhAQAACAAJ",
+      "etag": "dztqvQXH278",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E9dhAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz Lyman Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-11",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author's first grandson, the child of Baum's eldest son Frank Joslyn Baum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543043828"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543043822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E9dhAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E9dhAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=E9dhAQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=E9dhAQAACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz_Lyman_Frank_Baum.html?hl=&id=E9dhAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E9dhAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale&#39;s fourth visit to the Land of Oz. The book was dedicated to Joslyn Stanton Baum, the author&#39;s first grandson, the child of Baum&#39;s eldest son Frank ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1K37zQEACAAJ",
+      "etag": "PfcytBfR7Sg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1K37zQEACAAJ",
+      "volumeInfo": {
+        "title": "L Frank Baum - The Road to Oz",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-10-09",
+        "description": "Meet Dorothy's new friends, the Shaggy Man, Button Bright and Polychrome, as you travel with them to the Emerald City. Share their adventures with the Musicker and the Scoodlers. See how they escape from the Soup-Kettle and what they found at the Truth Pond. Find out how they are able to cross the Deadly Desert and finally get to the Emerald City of Oz.Includes a biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798695615951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1K37zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1K37zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1K37zQEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1K37zQEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Frank_Baum_The_Road_to_Oz.html?hl=&id=1K37zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1K37zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Meet Dorothy&#39;s new friends, the Shaggy Man, Button Bright and Polychrome, as you travel with them to the Emerald City."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5d0ezgEACAAJ",
+      "etag": "tVIsIJAbEVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5d0ezgEACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-12-16",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books. It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798582436355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5d0ezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5d0ezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5d0ezgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5d0ezgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz_Illustrated.html?hl=&id=5d0ezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5d0ezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow&#39;s Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oL7bzgEACAAJ",
+      "etag": "QIcBYcNiyZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oL7bzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz",
+        "authors": [
+          "John R. Neill",
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2021-10-25",
+        "description": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank Baum's Land of Oz books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798753456687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oL7bzgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oL7bzgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz.html?hl=&id=oL7bzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oL7bzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Road to Oz: In Which Is Related How Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow&#39;s Daughter Met on an Enchanted Road and Followed it All the Way to the Marvelous Land of Oz. is the fifth of L. Frank ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GfhqzgEACAAJ",
+      "etag": "CMY9y9+aTj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GfhqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Road to Oz Annotated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-03-27",
+        "description": "This is the fifth book in the Oz series by L. Frank Baum. Dorothy and her friend, Polychrome, find themselves on a road through some strange places, to the Land of the Winkies, and on to beautiful Emerald City. But why are they there, and how did they get there? Princess Ozma of Oz sent for them, and the Cowardly Lion and the Scarecrow, of course, to take part in her lavish birthday celebration.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798729087051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GfhqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GfhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GfhqzgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GfhqzgEACAAJ&dq=L.+Frank+Baum+The+Road+to+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Oz_Annotated.html?hl=&id=GfhqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GfhqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the fifth book in the Oz series by L. Frank Baum."
+      }
+    }
+  ]
+}

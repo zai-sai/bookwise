@@ -1,0 +1,782 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9yPtAgAAQBAJ",
+      "etag": "e+ibOmJjrnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9yPtAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Dracula",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2014-03-18",
+        "description": "The vampire novel that defined a genre by tapping into our deepest fears and darkest fantasies A junior solicitor travels to Transylvania to meet with an important client, the mysterious Count Dracula. Ignoring the dire warnings of local townsfolk, he allows himself to be seduced by the count’s courtly manners and erudite charm. Too late, the solicitor realizes that he is a prisoner of Castle Dracula, his guards a trio of voluptuous young women with sharp white teeth and a taste for blood. Soon thereafter, the solicitor’s fiancée, Mina, visits a friend on the English coast. The town is full of speculation over a Russian ship run aground nearby, its crew missing, the dead body of its captain, crucifix in hand, lashed to the wheel. A giant dog was seen leaping from the deck before disappearing into the countryside. The ship’s cargo: fifty boxes of Transylvanian dirt. As the beautiful Mina will soon learn, Count Dracula has arrived. At once a Gothic reflection of the Victorian era and a timeless tale of sinister lust, Bram Stoker’s Dracula has inspired countless adaptations—none with the same power to quicken the pulse as the original. This ebook has been professionally proofread to ensure accuracy and readability on all devices.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781480477063"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1480477060"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 554,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.19.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9yPtAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9yPtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9yPtAgAAQBAJ&printsec=frontcover&dq=Bram+Stoker+Dracula&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9yPtAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9yPtAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9yPtAgAAQBAJ&rdid=book-9yPtAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula-sample-epub.acsm?id=9yPtAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula-sample-pdf.acsm?id=9yPtAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9yPtAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The vampire novel that defined a genre by tapping into our deepest fears and darkest fantasies A junior solicitor travels to Transylvania to meet with an important client, the mysterious Count Dracula."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OTyIDwAAQBAJ",
+      "etag": "cKJ78vPKhVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTyIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dracula",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Read Books Ltd",
+        "publishedDate": "2019-02-15",
+        "description": "A classic masterpiece of gothic horror fiction, Bram Stoker’s Dracula is a chilling tale of disturbing events, dark desires, and the harrowing world of vampires. Jonathan Harker travels to the Carpathian Mountains in Transylvania to assist the infamous Count Dracula with the purchase of an English house. The newly-qualified solicitor is soon dangling beyond his depth as he discovers horrifying details about his client’s life. This supernatural novel tells of quietly monstrous incidents and curious circumstances. First published in 1897, Dracula is Bram Stoker’s masterful piece of vampiric fiction, exploring themes of sexuality and religion. This gripping novel is not to be missed by gothic horror fans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781528786577"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1528786572"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 297,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OTyIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OTyIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OTyIDwAAQBAJ&printsec=frontcover&dq=Bram+Stoker+Dracula&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OTyIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OTyIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OTyIDwAAQBAJ&rdid=book-OTyIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula-sample-epub.acsm?id=OTyIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula-sample-pdf.acsm?id=OTyIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTyIDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1897, Dracula is Bram Stoker’s masterful piece of vampiric fiction, exploring themes of sexuality and religion. This gripping novel is not to be missed by gothic horror fans."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cm36CwAAQBAJ",
+      "etag": "iu57cPA+oso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cm36CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dracula by Bram Stoker The Mystery of The Early Editions",
+        "authors": [
+          "Simone Berni"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2016",
+        "description": "An anthology of Dracula first editions. The collection includes the history and artwork of 15 rare editions of Dracula, which until now, have not been available in a single publication. As a resource for researchers or fans of Dracula, this volume is a welcome addition to all libraries. Revelation of the recently discovered Hungarian translation illustrates once again the importance of ongoing research.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781326621797"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1326621793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 141,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cm36CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cm36CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cm36CwAAQBAJ&printsec=frontcover&dq=Bram+Stoker+Dracula&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cm36CwAAQBAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dracula_by_Bram_Stoker_The_Mystery_of_Th.html?hl=&id=cm36CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula_by_Bram_Stoker_The_Mystery_of_Th-sample-pdf.acsm?id=cm36CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cm36CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a resource for researchers or fans of Dracula, this volume is a welcome addition to all libraries. Revelation of the recently discovered Hungarian translation illustrates once again the importance of ongoing research."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_CiQDwAAQBAJ",
+      "etag": "n0uJwiMPSk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_CiQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dracula",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2011-02-24",
+        "description": "'it was butcher work...the horrid screeching as the stake drove home; the plunging of writhing form, and lips of bloody foam' Bram Stoker's 1897 Gothic shocker introduced Count Dracula to the world, an ancient creature bent on bringing his contagion to London, the very heart of the British Empire. Only a handful of men and women stand between Dracula and his long-cherished goal, but they are vulnerable and weak against the cunning and supernatural powers of the Count and his legions. As the horrifying story unfolds in the diaries and letters of young Jonathan Harker, Lucy, Mina, and Dr Seward, Dracula will be victorious unless his nemesis Professor Van Helsing can persuade them that monsters still lurk in the era of electric light. The most famous of all vampire stories, Dracula is a mirror of its age, its underlying themes of race, religion, science, superstition, and sexuality never far from the surface. A compelling read, rattling along at break-neck speed, it is a modern classic. This new edition includes Stoker's companion piece, 'Dracula's Guest'. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191616013"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "019161601X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_CiQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_CiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_CiQDwAAQBAJ&printsec=frontcover&dq=Bram+Stoker+Dracula&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_CiQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_CiQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.16,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.33,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_CiQDwAAQBAJ&rdid=book-_CiQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4160000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3330000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dracula-sample-pdf.acsm?id=_CiQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_CiQDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new edition includes Stoker&#39;s companion piece, &#39;Dracula&#39;s Guest&#39;. ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c_pxtwAACAAJ",
+      "etag": "R5SXGilg45A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c_pxtwAACAAJ",
+      "volumeInfo": {
+        "title": "Bram Stoker&s Dracula",
+        "authors": [
+          "Francis Ford Coppola",
+          "Gary Oldman",
+          "Winona Ryder",
+          "Bram Stoker",
+          "Anthony Hopkins",
+          "James V. Hart",
+          "Wojciech Kilar"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:60169250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=c_pxtwAACAAJ&dq=Bram+Stoker+Dracula&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=c_pxtwAACAAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker_s_Dracula.html?hl=&id=c_pxtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c_pxtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jTkOAQAAMAAJ",
+      "etag": "maxcnMEFOjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jTkOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Essential Dracula",
+        "subtitle": "Including the Complete Novel by Bram Stoker",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Plume Books",
+        "publishedDate": "1993",
+        "description": "An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015001386946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jTkOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jTkOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jTkOAQAAMAAJ&q=Bram+Stoker+Dracula&dq=Bram+Stoker+Dracula&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jTkOAQAAMAAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Essential_Dracula.html?hl=&id=jTkOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jTkOAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xFWKEQAAQBAJ",
+      "etag": "01vPfxD0vIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xFWKEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Bram Stoker: Dracula (English Edition)",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2025-09-27",
+        "description": "In Dracula, Bram Stoker created the archetypal vampire whose shadow looms over modern culture. The novel’s eerie atmosphere and epistolary style make it unforgettable. With unforgettable figures—Jonathan Harker, Mina Murray, Van Helsing, and the Count himself—it stages a battle of light against darkness, reason against superstition, leaving a haunting legacy that defines the gothic imagination. This is the English-language paperback edition of the novel. Bram Stoker. Dracula. First published: Archibald Constable and Company, UK 1897. This edition follows: Grosset and Dunlap, New York 1897. Vollständige Neuausgabe (Complete new edition), 1. Auflage (1st edition), Göttingen 2025. LIWI Literatur- und Wissenschaftsverlag.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753801469"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753801461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xFWKEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xFWKEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xFWKEQAAQBAJ&printsec=frontcover&dq=Bram+Stoker+Dracula&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xFWKEQAAQBAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker_Dracula_English_Edition.html?hl=&id=xFWKEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Bram_Stoker_Dracula_English_Edition-sample-pdf.acsm?id=xFWKEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xFWKEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the English-language paperback edition of the novel. Bram Stoker. Dracula. First published: Archibald Constable and Company, UK 1897. This edition follows: Grosset and Dunlap, New York 1897."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XrzvMgEACAAJ",
+      "etag": "HaKqDou1LWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XrzvMgEACAAJ",
+      "volumeInfo": {
+        "title": "Bram Stoker, Dracula",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192833863"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192833860"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XrzvMgEACAAJ&dq=Bram+Stoker+Dracula&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XrzvMgEACAAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker_Dracula.html?hl=&id=XrzvMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XrzvMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tcsU6Ne8kSsC",
+      "etag": "Bp3tl+F+DwY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tcsU6Ne8kSsC",
+      "volumeInfo": {
+        "title": "Bram Stoker's Dracula",
+        "subtitle": "The Film and the Legend",
+        "authors": [
+          "Francis F. Coppola",
+          "James V. Hart"
+        ],
+        "publisher": "Newmarket Press",
+        "publishedDate": "1992-11-01",
+        "description": "Includes the complete shooting script, excerpts from the original novel, more than 160 photos and drawings, showing the brilliant costumes, evocative sets, and historical antecedents; features on director's innovative methods, the technical challenges, the film's literary and historical links; a Dracula filmography and bibliography. 160 illustrations including 100 in color. The Newmarket Pictorial Moviebooks, official companions to films, large format (8 3/8 x 10 7/8), heavily illustrated throughout, with color photographs, details on the making of the film, background on the filmmakers and cast.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1557041393"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781557041395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tcsU6Ne8kSsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tcsU6Ne8kSsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tcsU6Ne8kSsC&q=Bram+Stoker+Dracula&dq=Bram+Stoker+Dracula&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tcsU6Ne8kSsC&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker_s_Dracula.html?hl=&id=tcsU6Ne8kSsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tcsU6Ne8kSsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Includes the complete shooting script, excerpts from the original novel, more than 160 photos and drawings, showing the brilliant costumes, evocative sets, and historical antecedents; features on director&#39;s innovative methods, the technical ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dAjwtAEACAAJ",
+      "etag": "QttiqSBnOqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dAjwtAEACAAJ",
+      "volumeInfo": {
+        "title": "Bram Stoker, Dracula",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-07-29",
+        "description": "Dracula is a horror novel about a vampire traveling to London from Transylvania in the late 1800s. The book is written in the form of dia- ries and letters by different characters in the story. Dracula opens with Jonathan Harker, a young salesperson traveling to Transylvania to sell Count Dracula a house in London. The Count takes the young man prisoner in his castle. Soon, Jonathan realizes that the Count is a vampire. Jonathan is afraid he will never be able to leave. He knows that he is in great danger. He decides to escape, but first he has to find a key in Dracula's room that will help him get out of the castle. Meanwhile, back to England, Jonathan's friends are worried about him, especially his girlfriend, Mina. After some time, Jonathan gets away from Count and returns to London. Soon after, Count Dracula arrives mysteriously in London, too. Jonathan and his friends try to discover how to stop Count Dracula from drinking people's blood. Before they can stop Dracula, he attacks Mina violently. He tries to turn her into a vampire, too.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1974056082"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974056088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dAjwtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dAjwtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dAjwtAEACAAJ&dq=Bram+Stoker+Dracula&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dAjwtAEACAAJ&dq=Bram+Stoker+Dracula&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker_Dracula.html?hl=&id=dAjwtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dAjwtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dracula is a horror novel about a vampire traveling to London from Transylvania in the late 1800s. The book is written in the form of diaries and letters by different characters in the story."
+      }
+    }
+  ]
+}

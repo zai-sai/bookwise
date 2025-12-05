@@ -1,0 +1,775 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sKcVfinygvsC",
+      "etag": "1VAEhAt1hz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sKcVfinygvsC",
+      "volumeInfo": {
+        "title": "Julius Caesar",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1988-07-28",
+        "description": "Professor Spevack's critical discussion shows how private desires and public affairs are inextricable in Julius Caesar and how Shakespeare frames the world of this play - person, action, place, time - within the operations of larger forces, mysterious, ironical, and undeniable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521294088"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521294089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sKcVfinygvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sKcVfinygvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sKcVfinygvsC&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sKcVfinygvsC&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Julius_Caesar.html?hl=&id=sKcVfinygvsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Julius_Caesar-sample-pdf.acsm?id=sKcVfinygvsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sKcVfinygvsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Professor Spevack&#39;s critical discussion shows how private desires and public affairs are inextricable in Julius Caesar and how Shakespeare frames the world of this play - person, action, place, time - within the operations of larger forces, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rYWQoLPKTv0C",
+      "etag": "QMl4yPPVZ6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rYWQoLPKTv0C",
+      "volumeInfo": {
+        "title": "Julius Caesar",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Union Square & Company",
+        "publishedDate": "2007",
+        "description": "Julius Caesar, by William Shakespeare, is part of the Barnes & Noble Shakespeare series. This unique series features newly edited texts prepared by leading scholars from America and Great Britain, in collaboration with one of the world's foremost Shakespeare authorities, David Scott Kastan of Columbia University. Together they have produced texts as faithful as possible to those that Shakespeare wrote. Each volume in the Barnes & Noble Shakespeare series includes: New Scholarship - Premiere scholars introduce each play with contemporary scholarship. An essay on editing the text provides an in-depth look at the quartos and folios used in the edition. Contextualizing Essays - Essays on Shakespeare's England, language, and life, along with essays on performing Shakespeare and significant performances frame the play in both historical and theatrical context for readers. A look at the lasting influence of the play on music, art, film, and dance creates an interdisciplinary framework with which to approach the play. Better Notes - Through one-word margin definitions, facing-page glosses, and longer end notes after the play, our innovative approach to notes pulls readers away from the text fewer times while providing them with more information and comprehensive analysis. Further Reading - An annotated bibliography of titles, hand-selected by the introduction author, takes readers beyond the edition for further reading. Shakespeare's Julius Caesar dramatizes the most controversial event in ancient history--the assassination of Julius Caesar. The editor, Andrew Hadfield, puts the play in context, revealing what each of the characters would most likely have been perceived by Shakespeare's audience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1411400402"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781411400405"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rYWQoLPKTv0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rYWQoLPKTv0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rYWQoLPKTv0C&q=William+Shakespeare+Julius+Caesar&dq=William+Shakespeare+Julius+Caesar&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rYWQoLPKTv0C&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Julius_Caesar.html?hl=&id=rYWQoLPKTv0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rYWQoLPKTv0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This unique series features newly edited texts prepared by leading scholars from America and Great Britain, in collaboration with one of the world&#39;s foremost Shakespeare authorities, David Scott Kastan of Columbia University."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D2ePuAAACAAJ",
+      "etag": "yBl5Qhbcsnw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D2ePuAAACAAJ",
+      "volumeInfo": {
+        "title": "Julius Caesar",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Nelson Thornes",
+        "publishedDate": "1990",
+        "description": "Pupils will be able to prepare for the Key Stage 3 tests using this series of Shakespearean texts. Design shows scripts as perfomance texts, motivating pupils'interest with illustrations and photographs of the productions. Pupils will be provided with tasks to aid understanding and extended study through questions integrated throughout the text, and GCSE coursework activities. The text is more accessible due to the fact that text and notes are laid out in a larger format than other editions. Understanding of the plot development and themes is enhanced by a running commentary at the beginning of each scene.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0748705368"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748705368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D2ePuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D2ePuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=D2ePuAAACAAJ&dq=William+Shakespeare+Julius+Caesar&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=D2ePuAAACAAJ&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Julius_Caesar.html?hl=&id=D2ePuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D2ePuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pupils will be able to prepare for the Key Stage 3 tests using this series of Shakespearean texts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9F6qCgAAQBAJ",
+      "etag": "eNQBTdcoEiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9F6qCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for William Shakespeare's Julius Caesar",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-09-15",
+        "description": "A Study Guide for William Shakespeare's \"Julius Caesar,\" excerpted from Gale's acclaimed Shakespeare for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Shakespeare for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410336941"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410336948"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9F6qCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9F6qCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9F6qCgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9F6qCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9F6qCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9F6qCgAAQBAJ&rdid=book-9F6qCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-epub.acsm?id=9F6qCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-pdf.acsm?id=9F6qCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9F6qCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for William Shakespeare&#39;s &quot;Julius Caesar,&quot; excerpted from Gale&#39;s acclaimed Shakespeare for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ee1vGY1NUA4C",
+      "etag": "o9YhbnXoXFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ee1vGY1NUA4C",
+      "volumeInfo": {
+        "title": "William Shakespeare's Julius Caesar",
+        "authors": [
+          "Sterling Professor of Humanities Harold Bloom",
+          "William Shakespeare"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2009",
+        "description": "Presents a collection of critical essays about William Shakespeare's play, Julius Caesar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438129358"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438129351"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 187,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ee1vGY1NUA4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ee1vGY1NUA4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ee1vGY1NUA4C&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Ee1vGY1NUA4C&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_Julius_Caesar.html?hl=&id=Ee1vGY1NUA4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Julius_Caesar-sample-epub.acsm?id=Ee1vGY1NUA4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Julius_Caesar-sample-pdf.acsm?id=Ee1vGY1NUA4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ee1vGY1NUA4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a collection of critical essays about William Shakespeare&#39;s play, Julius Caesar."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CiyaAAAAIAAJ",
+      "etag": "+4GpPTchCLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CiyaAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Tragedie of Julius Caesar",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Applause",
+        "publishedDate": "1998",
+        "description": "THE TRAGEDIE OF JULIUS CAESAR: Folio Text",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106014942491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CiyaAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CiyaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CiyaAAAAIAAJ&q=William+Shakespeare+Julius+Caesar&dq=William+Shakespeare+Julius+Caesar&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CiyaAAAAIAAJ&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tragedie_of_Julius_Caesar.html?hl=&id=CiyaAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CiyaAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE TRAGEDIE OF JULIUS CAESAR: Folio Text"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OQEowvIowlUC",
+      "etag": "JAKUVpZzQbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OQEowvIowlUC",
+      "volumeInfo": {
+        "title": "Shakespeare’s Julius Caesar",
+        "authors": [
+          "S.S. Agarwalla"
+        ],
+        "publisher": "Atlantic Publishers & Dist",
+        "publishedDate": "1995",
+        "description": "Julius Caesar is one of the most popular plays of William Shakespeare, read, anno¬tated and played in schools and colleges in India. In India, the first edition of Julius Caesar was written by Sir Mark Hunter, in 1900, from Madras and Hugh Macmillan, writ",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "817156514X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788171565146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OQEowvIowlUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OQEowvIowlUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OQEowvIowlUC&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OQEowvIowlUC&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shakespeare_s_Julius_Caesar.html?hl=&id=OQEowvIowlUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Shakespeare_s_Julius_Caesar-sample-pdf.acsm?id=OQEowvIowlUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OQEowvIowlUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In India, the first edition of Julius Caesar was written by Sir Mark Hunter, in 1900, from Madras and Hugh Macmillan, writ"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tlAZDQAAQBAJ",
+      "etag": "8AJ5IdI7aac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tlAZDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Julius Caesar",
+        "subtitle": "Easy Reading Shakespeare Series",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "EDCON Publishing Group",
+        "publishedDate": "2003",
+        "description": "Easy Reading Shakespeare! Introduce your students to the famous literary accomplishments of William Shakespeare. Easy-reading adaptations will ignite the interest of reluctant and enthusiastic readers. Each of these condensed works is arranged in a ten-chapter format with key words designed and used in context. Multiple-choice questions require students to recall specific details, sequence events, draw inferences, develop new story names, and choose the main idea. Improves fluency, vocabulary and comprehension.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781555763367"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1555763367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tlAZDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tlAZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tlAZDQAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tlAZDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tlAZDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.91,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 8.91,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tlAZDQAAQBAJ&rdid=book-tlAZDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8910000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 8910000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Julius_Caesar-sample-pdf.acsm?id=tlAZDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tlAZDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easy-reading adaptations will ignite the interest of reluctant and enthusiastic readers. Each of these condensed works is arranged in a ten-chapter format with key words designed and used in context."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bUZvDwAAQBAJ",
+      "etag": "VB3U76JLNyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bUZvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare, Julius Caesar",
+        "authors": [
+          "Mary Hamer"
+        ],
+        "publisher": "Liverpool University Press",
+        "publishedDate": "1998",
+        "description": "\"The First Folio of 1623 is the definitive edition of Shakespeare's plays. It is more often than not the closest we can now get to what Shakespeare actually wrote. But the Folio's antiquated typography and cramped layout make it remote and inaccessible to modern eyes. The Shakespeare Folios on the other hand offer easy access directly to the First Folio by presenting the text in modern type but otherwise unchanged. All the First Folio's idiosyncrasies of layout and spelling, even its obvious errors, have been scrupulously left intact, but the text suddenly becomes as easily legible as the script of any modern play.\" \"As an additional aid to understanding, readers will find, printed opposite each page of the Folio, the very same passage in a modern edition. So, whenever the Folio presents a problem, the reader can refer to this parallel text for a solution, either in the text itself or in the set of notes at the end of the book. These notes draw on the long tradition of Shakespearean scholarship and include full reference to surviving Quarto texts.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780746308714"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "074630871X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 97,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bUZvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bUZvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bUZvDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bUZvDwAAQBAJ&dq=William+Shakespeare+Julius+Caesar&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_Julius_Caesar.html?hl=&id=bUZvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_Julius_Caesar-sample-pdf.acsm?id=bUZvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bUZvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "So, whenever the Folio presents a problem, the reader can refer to this parallel text for a solution, either in the text itself or in the set of notes at the end of the book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dfQVAAAAYAAJ",
+      "etag": "yIsEBKnuKLs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dfQVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Shakespeare's Julius Caesar",
+        "subtitle": "With Introduction and Notes ...",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN6KWZ"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dfQVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dfQVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dfQVAAAAYAAJ&printsec=frontcover&dq=William+Shakespeare+Julius+Caesar&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dfQVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dfQVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=dfQVAAAAYAAJ&rdid=book-dfQVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Julius_Caesar.epub?id=dfQVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Julius_Caesar.pdf?id=dfQVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0Z_Tnmm7XWKtmcK5aw0-BSBJeLGQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dfQVAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

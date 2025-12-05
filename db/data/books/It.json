@@ -1,0 +1,805 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "S85NCwAAQBAJ",
+      "etag": "hAjmC6ULMYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S85NCwAAQBAJ",
+      "volumeInfo": {
+        "title": "It",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-01-05",
+        "description": "Stephen King's classic #1 New York Times bestseller and the basis for the massively successful films It: Chapter One and It: Chapter Two as well as inspiration for HBO Max’s upcoming Welcome to Derry—about seven adults who return to their hometown to confront a nightmare they had first stumbled upon as teenagers...an evil without a name: It. Welcome to Derry, Maine. It’s a small city, a place as hauntingly familiar as your own hometown. Only in Derry the haunting is real. They were seven teenagers when they first stumbled upon the horror. Now they are grown-up men and women who have gone out into the big world to gain success and happiness. But the promise they made twenty-eight years ago calls them reunite in the same place where, as teenagers, they battled an evil creature that preyed on the city’s children. Now, children are being murdered again and their repressed memories of that terrifying summer return as they prepare to once again battle the monster lurking in Derry’s sewers. Readers of Stephen King know that Derry, Maine, is a place with a deep, dark hold on the author. It reappears in many of his books, including Bag of Bones, Hearts in Atlantis, and 11/22/63. But it all starts with It. “Stephen King’s most mature work” (St. Petersburg Times), “It will overwhelm you…to be read in a well-lit room only” (Los Angeles Times).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501142970"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501142976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1168,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 24,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S85NCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S85NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S85NCwAAQBAJ&printsec=frontcover&dq=Stephen+King+It&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S85NCwAAQBAJ&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/It.html?hl=&id=S85NCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S85NCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In 1985, six men and one woman are called back together to search for a creature of unspeakable evil that had stalked them as children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W1X51dmarEUC",
+      "etag": "ViJpGk37z2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W1X51dmarEUC",
+      "volumeInfo": {
+        "title": "It",
+        "subtitle": "Film tie-in edition of Stephen King's IT",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2007-10-04",
+        "description": "King's classic No. 1 bestseller and the basis for the massively successful films It: Chapter One and It: Chapter Two as well as the inspiration for HBO Max's upcoming Welcome to Derry. We all float down here. Derry, Maine is just an ordinary town: familiar, well-ordered for the most part, a good place to live. It is a group of children who see - and feel - what makes Derry so horribly different. In the storm drains, in the sewers, IT lurks, taking on the shape of every nightmare, each one's deepest dread. Sometimes IT appears as an evil clown named Pennywise and sometimes IT reaches up, seizing, tearing, killing . . . Time passes and the children grow up, move away and forget. Until they are called back, once more to confront IT as IT stirs and coils in the sullen depths of their memories, emerging again to make their past nightmares a terrible present reality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848940871"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848940874"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1492,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 28,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.28.27.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W1X51dmarEUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W1X51dmarEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=W1X51dmarEUC&printsec=frontcover&dq=Stephen+King+It&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W1X51dmarEUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W1X51dmarEUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W1X51dmarEUC&rdid=book-W1X51dmarEUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/It-sample-epub.acsm?id=W1X51dmarEUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W1X51dmarEUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the storm drains, in the sewers, IT lurks, taking on the shape of every nightmare, each one&#39;s deepest dread. Sometimes IT appears as an evil clown named Pennywise and sometimes IT reaches up, seizing, tearing, killing . . ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YY45EAAAQBAJ",
+      "etag": "YaYqjq6sQC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YY45EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Body",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2021-09-09",
+        "description": "The No. 1 bestselling author Stephen King's timeless coming-of-age novella, The Body - set in Castle Rock and originally published in his 1982 short story collection Different Seasons, and adapted into the film classic Stand by Me - is now available as a stand-alone publication. We'd all listened to the Ray Brower story . . . he was a kid our age The small town of Castle Rock is tuning in to the news of a young boy who has gone missing from a nearby town. Gordie Lachance and his three friends set off along the railway tracks on a quest, determined to become famous by officially finding the boy's body. But their journey becomes a rite of passage, and as they cross the railway trestle and the tracks begin to hum, the boys encounter an intimation of their own mortality. Adapted into the 1986 classic film Stand By Me, The Body is an iconic exploration of friendship, loneliness and adventure, an unforgettable coming-of-age story by master chronicler of small-town adolescence and universal experience, Stephen King.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529379327"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529379326"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YY45EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YY45EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YY45EAAAQBAJ&printsec=frontcover&dq=Stephen+King+It&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YY45EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YY45EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YY45EAAAQBAJ&rdid=book-YY45EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Body-sample-epub.acsm?id=YY45EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YY45EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The No. 1 bestselling author Stephen King&#39;s timeless coming-of-age novella, The Body - set in Castle Rock and originally published in his 1982 short story collection Different Seasons, and adapted into the film classic Stand by Me - now ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ANC7OQAACAAJ",
+      "etag": "hrnOszabt0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ANC7OQAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1986-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1555800130"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781555800130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 992,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ANC7OQAACAAJ&dq=Stephen+King+It&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ANC7OQAACAAJ&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King.html?hl=&id=ANC7OQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ANC7OQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E3krq6zLEX8C",
+      "etag": "NWDzQubpE0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E3krq6zLEX8C",
+      "volumeInfo": {
+        "title": "The Moral Voyages of Stephen King",
+        "authors": [
+          "Tony Magistrale",
+          "Anthony Magistrale"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "1989-01-01",
+        "description": "Magistrale discusses the themes that turn King's fiction into morality tales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781557420701"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "155742070X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E3krq6zLEX8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E3krq6zLEX8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=E3krq6zLEX8C&printsec=frontcover&dq=Stephen+King+It&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=E3krq6zLEX8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=E3krq6zLEX8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=E3krq6zLEX8C&rdid=book-E3krq6zLEX8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6000000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6000000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Moral_Voyages_of_Stephen_King-sample-pdf.acsm?id=E3krq6zLEX8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E3krq6zLEX8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Magistrale discusses the themes that turn King&#39;s fiction into morality tales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DUTIAAAACAAJ",
+      "etag": "uq0a9HfcTpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DUTIAAAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King 5",
+        "subtitle": "It, the Eyes of the Dragon, Misery",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "New Amer Library",
+        "publishedDate": "1990-10-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451924126"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451924124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DUTIAAAACAAJ&dq=Stephen+King+It&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DUTIAAAACAAJ&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_5.html?hl=&id=DUTIAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DUTIAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qbm5ejIoY5sC",
+      "etag": "ze27ehw7g/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qbm5ejIoY5sC",
+      "volumeInfo": {
+        "title": "Stephen King Goes to the Movies",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2009-01-20",
+        "description": "Stephen King revisits five of his favorite short stories that have been turned into films. This collection features new commentary and introductions to all of these stories in a treasure-trove of movie trivia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416592365"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416592369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 641,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qbm5ejIoY5sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qbm5ejIoY5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Qbm5ejIoY5sC&printsec=frontcover&dq=Stephen+King+It&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Qbm5ejIoY5sC&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_Goes_to_the_Movies.html?hl=&id=Qbm5ejIoY5sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qbm5ejIoY5sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen King revisits five of his favorite short stories that have been turned into films. This collection features new commentary and introductions to all of these stories in a treasure-trove of movie trivia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "giKIEAAAQBAJ",
+      "etag": "MXAQf728nAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/giKIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Stephen King",
+        "subtitle": "A Complete Exploration of His Work, Life, and Influences",
+        "authors": [
+          "Bev Vincent"
+        ],
+        "publisher": "becker&mayer! books ISBN",
+        "publishedDate": "2022-09-13",
+        "description": "Take an intimate tour through the life and works of Stephen King, made vivid with rare photos and ephemera from King’s personal collection. Even if you are a die-hard fan, you will find something new in this beautifully packaged Stephen King reference that you will return to again and again. Timed to celebrate Stephen King’s 75th birthday on September 21, 2022, Stephen King: A Complete Exploration of His Work, Life, and Influences reveals the inspiration behind the prolific author’s brilliant works of horror through a combination of photos and documents from King’s archives and an engaging account of the stories behind how his novels, novellas, short stories, and adaptations came to be. It might sound like a tall tale that Stephen King once met a bartender named Grady in an empty hotel in Colorado, or that the celebrated author helped his young daughter bury her cat in a nearby “pets sematary” after it was killed on a busy roadway. In this book, discover how King drew on these and more real personal experiences and mundane life events, then employed his extraordinary imagination to twist them into something horrific. From impoverished university student to struggling schoolteacher to one of the best-selling—and most recognizable—authors of all time, this engrossing book reveals the evolution and influences of Stephen King’s body of work over his nearly 50-year career, and how the themes of his writing reflect the changing times and events within his life. An expansion of Stephen King expert Bev Vincent’s The Stephen King Illustrated Companion, this fully revised, redesigned, and updated book includes: A review of King’s complete body of work, including Fairy Tale, published in September 2022. A wealth of rare memorabilia from King’s own collection, including personal and professional correspondences, handwritten manuscript pages, book covers, movie stills, and never-before-seen excerpts from one of his poems and an unpublished short story. Interludes on specific topics such as real-life settings that inspired King’s writing, the editor who discovered him, his life as a Boston Red Sox fan, and the many awards and honors he has received. Insightful quotes from King from interviews over the decades. Celebrate the beloved King of Horror with this informational and entertaining look inside King’s most iconic titles and the culture they have created.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780760376829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0760376824"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=giKIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=giKIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=giKIEAAAQBAJ&printsec=frontcover&dq=Stephen+King+It&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 25.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ&rdid=book-giKIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King-sample-epub.acsm?id=giKIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King-sample-pdf.acsm?id=giKIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=giKIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, discover how King drew on these and more real personal experiences and mundane life events, then employed his extraordinary imagination to twist them into something horrific."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hML0DwAAQBAJ",
+      "etag": "ChSRAjwTDfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hML0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Later",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Titan Books (US, CA)",
+        "publishedDate": "2021-03-02",
+        "description": "“Part detective tale, part thriller…touching and genuine.” —The New York Times #1 bestselling author Stephen King returns with a brand-new novel about the secrets we keep buried and the cost of unearthing them. #1 NEW YORK TIMES BESTSELLER THE SUNDAY TIMES BESTSELLER SOMETIMES GROWING UP MEANS FACING YOUR DEMONS The son of a struggling single mother, Jamie Conklin just wants an ordinary childhood. But Jamie is no ordinary child. Born with an unnatural ability his mom urges him to keep secret, Jamie can see what no one else can see and learn what no one else can learn. But the cost of using this ability is higher than Jamie can imagine – as he discovers when an NYPD detective draws him into the pursuit of a killer who has threatened to strike from beyond the grave. LATER is Stephen King at his finest, a terrifying and touching story of innocence lost and the trials that test our sense of right and wrong. With echoes of King’s classic novel It, LATER is a powerful, haunting, unforgettable exploration of what it takes to stand up to evil in all the faces it wears.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789096507"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789096502"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hML0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hML0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hML0DwAAQBAJ&dq=Stephen+King+It&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hML0DwAAQBAJ&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Later.html?hl=&id=hML0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hML0DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LATER is Stephen King at his finest, a terrifying and touching story of innocence lost and the trials that test our sense of right and wrong."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zFE1AAAACAAJ",
+      "etag": "7/4wkJNmlH4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zFE1AAAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King #3 2",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1982-09-17",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451912578"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451912572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zFE1AAAACAAJ&dq=Stephen+King+It&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zFE1AAAACAAJ&dq=Stephen+King+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_3_2.html?hl=&id=zFE1AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zFE1AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

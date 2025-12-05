@@ -1,0 +1,779 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mFIkAwAAQBAJ",
+      "etag": "dXuJmkafd0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mFIkAwAAQBAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1996-04-12",
+        "description": "Definitive novel of the \"Lost Generation\" focuses on the coming of age of Amory Blaine, a handsome, wealthy Princeton student. He exemplifies the young men and women of the 20s who grew up to find \"all Gods dead, all wars fought, all faiths in man shaken.\" Fitzgerald's first novel and an immediate, spectacular success.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486289991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486289990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mFIkAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mFIkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mFIkAwAAQBAJ&printsec=frontcover&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mFIkAwAAQBAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise.html?hl=&id=mFIkAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise-sample-pdf.acsm?id=mFIkAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mFIkAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He exemplifies the young men and women of the 20s who grew up to find &quot;all Gods dead, all wars fought, all faiths in man shaken.&quot; Fitzgerald&#39;s first novel and an immediate, spectacular success."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hbqmtAEACAAJ",
+      "etag": "Tl65sE9ipns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hbqmtAEACAAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "subtitle": "By F. Scott Fitzgerald - Illustrated",
+        "authors": [
+          "F. Scott F. Scott Fitzgerald"
+        ],
+        "publishedDate": "2017-07-20",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About This Side of Paradise by F. Scott Fitzgerald This Side of Paradise is the debut novel of F. Scott Fitzgerald. Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status seeking.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152189132X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521891322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hbqmtAEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hbqmtAEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise.html?hl=&id=hbqmtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hbqmtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About This Side of Paradise by F. Scott Fitzgerald This Side of Paradise is the debut novel of F. Scott Fitzgerald."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8tyXzQEACAAJ",
+      "etag": "+5T4MBX8M6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8tyXzQEACAAJ",
+      "volumeInfo": {
+        "title": "This Side Of Paradise",
+        "subtitle": "F Scott Scot Fitzgerald Short Stories Books Paperback Classic Works Novels",
+        "authors": [
+          "F Scott Fitzgerald"
+        ],
+        "publishedDate": "2020-06-23",
+        "description": "This Side of Paradise is the debut novel by F. Scott Fitzgerald, published in 1920. The book examines the lives and morality of post-World War I youth. Its protagonist Amory Blaine is an attractive student at Princeton University who dabbles in literature. The novel explores the theme of love warped by greed and status seeking, and takes its title from a line of Rupert Brooke's poem Tiare Tahiti. The novel famously helped F. Scott Fitzgerald gain Zelda Sayre's hand in marriage; its publication was her condition of acceptance. In the summer of 1919, after less than a year of courtship, Zelda Sayre broke up with the 22-year-old Fitzgerald. After a summer of heavy drinking, he returned to St. Paul, Minnesota, where his family lived, to complete the novel, hoping that if he became a successful novelist he could win Zelda back. While at Princeton (notably in University Cottage Club's library), Fitzgerald had written the unpublished novel The Romantic Egotist, and ultimately 81 pages of the typescript of this earlier work were included in This Side of Paradise.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "238226053X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382260531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8tyXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8tyXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8tyXzQEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8tyXzQEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_Of_Paradise.html?hl=&id=8tyXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8tyXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Side of Paradise is the debut novel by F. Scott Fitzgerald, published in 1920. The book examines the lives and morality of post-World War I youth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PrwzEAAAQBAJ",
+      "etag": "ER/t+1arJKg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PrwzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise - Francis Scott Fitzgerald",
+        "authors": [
+          "Francis Scott Fitzgerald"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-06-30",
+        "description": "This Side of Paradise - Francis Scott Fitzgerald - F. Scott Fitzgeralds cherished debut novel announced the arrival of a brilliant young writer and anticipated his masterpiece, The Great Gatsby. Published in 1920, when the author was just twenty-three, This Side of Paradise recounts the education of young Amory Blaineegoistic, versatile, callow, imaginative. As Amory makes his way among debutantes and Princeton undergraduates, we enter an environment heady with the promise of everything that was new in the vigorous, restless America after World War I. We experience Amorys sailing hopes, crushing defeats, deep loves and stubborn losses. His growth from self-absorption to sexual awareness and personhood unfolds with continuous improvisatory energy and delight. Fitzgeralds remarkable formal inventiveness couches Amorys narrative among songs, poems, dramatic dialogue, questions and answers. The novels freshness and vervepraised upon publication, now renowned by historyonly heighten the sense that the world being described is our own, modern world.Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status-seeking.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985946631"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985946639"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PrwzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PrwzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PrwzEAAAQBAJ&printsec=frontcover&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PrwzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PrwzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PrwzEAAAQBAJ&rdid=book-PrwzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise_Francis_Scott_Fitz-sample-epub.acsm?id=PrwzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise_Francis_Scott_Fitz-sample-pdf.acsm?id=PrwzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PrwzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status-seeking."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TCSGDwAAQBAJ",
+      "etag": "OdTFd56w504",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TCSGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise Is the Debut Novel by F. Scott Fitzgerald",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publishedDate": "2018-12-08",
+        "description": "This Side of Paradise is the debut novel by F. Scott Fitzgerald. It was published in 1920. Taking its title from a line of Rupert Brooke's poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status seeking. The novel famously helped F. Scott Fitzgerald gain Zelda Sayre's hand in marriage due to its success.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359279821"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359279821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 161,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TCSGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TCSGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TCSGDwAAQBAJ&printsec=frontcover&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TCSGDwAAQBAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise_Is_the_Debut_Novel.html?hl=&id=TCSGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise_Is_the_Debut_Novel-sample-pdf.acsm?id=TCSGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TCSGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel explores the theme of love warped by greed and status seeking. The novel famously helped F. Scott Fitzgerald gain Zelda Sayre&#39;s hand in marriage due to its success."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a2JQtAEACAAJ",
+      "etag": "oT6K5MZMSYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a2JQtAEACAAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publishedDate": "2017-06-27",
+        "description": "This Side of Paradise is the debut novel by F. Scott Fitzgerald. Published in 1920 and taking its title from a line of Rupert Brooke's poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status seeking. The novel famously helped F. Scott Fitzgerald gain Zelda Sayre's hand in marriage due to its success.Background:In the summer of 1919, after less than a year of courtship, Zelda Sayre broke up with the 22-year-old Fitzgerald. After a summer of heavy drinking, he returned to St. Paul, Minnesota, where his family lived, to complete the novel, hoping that if he became a successful novelist he could win Zelda back. While at Princeton (notably in University Cottage Club's library), Fitzgerald had written an unpublished novel, \"The Romantic Egotist\", and ultimately 80 pages of the typescript of this earlier work ended up in This Side of Paradise.On September 4, 1919, Fitzgerald gave the manuscript to his friend Shane Leslie to deliver to Maxwell Perkins, an editor at Charles Scribner's Sons in New York. The book was nearly rejected by the editors at Scribners, but Perkins insisted, and on September 16 it was officially accepted. Fitzgerald begged for early publication-convinced that he would become a celebrity and impress Zelda-but was told that the novel would have to wait until the spring. Nevertheless, upon the acceptance of his novel for publication he went and visited Zelda, and she agreed to marry him.Plot summary:The book is written in three parts.\"Book One: The Romantic Egotist\"-The novel centers on Amory Blaine, a young Midwesterner who, convinced that he has an exceptionally promising future, attends boarding school and later Princeton University. He leaves behind his eccentric mother Beatrice and befriends a close friend of hers, Monsignor Darcy. While at Princeton he goes back to Minneapolis, where he re-encounters Isabelle Borg�, a young lady whom he had met as a little boy, and starts a romantic relationship with her. At Princeton he repeatedly writes ever more flowery poems, but Amory and Isabelle become disenchanted with each other after meeting again at his prom.\"Interlude\"-Following their break-up, Amory is shipped overseas, to serve in the army in World War I. (Fitzgerald had been in the army himself, but the war ended while he was still stationed on Long Island.) Amory's experiences in the war are not described, other than to say later in the book that he was a bayonet instructor.\"Book Two: The Education of a Personage\"-After the war, Amory falls in love with a New York debutante named Rosalind Connage. Because he is poor, however, this relationship collapses as well; Rosalind decides to marry a wealthy man, instead. A devastated Amory is further crushed to learn that his mentor Monsignor Darcy has died. The book ends with Amory's iconic lament, \"I know myself, but that is all\".Francis Scott Key Fitzgerald (September 24, 1896 - December 21, 1940), known professionally as F. Scott Fitzgerald, was an American novelist and short story writer, whose works illustrate the Jazz Age. While he achieved limited success in his lifetime, he is now widely regarded as one of the greatest American writers of the 20th century. Fitzgerald is considered a member of the \"Lost Generation\" of the 1920s. He finished four novels: This Side of Paradise, The Beautiful and Damned, The Great Gatsby, and Tender Is the Night. A fifth, unfinished novel, The Last Tycoon, was published posthumously. Fitzgerald also authored 4 collections of short stories, as well as 164 short stories in magazines during his lifetime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154836858X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548368586"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a2JQtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a2JQtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a2JQtAEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a2JQtAEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise.html?hl=&id=a2JQtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a2JQtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel explores the theme of love warped by greed and status seeking. The novel famously helped F. Scott Fitzgerald gain Zelda Sayre&#39;s hand in marriage due to its success."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MiyFjwEACAAJ",
+      "etag": "hK2DiRvncyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MiyFjwEACAAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "subtitle": "By F. Scott Fitzgerald - Illustrated",
+        "authors": [
+          "F. Fitzgerald"
+        ],
+        "publishedDate": "2016-02-19",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Formatted for e-reader Font adjustments & biography included Illustrated About This Side of Paradise by F. Scott FitzgeraldThis Side of Paradise is the debut novel of F. Scott Fitzgerald. Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status seeking.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530077591"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530077595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MiyFjwEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MiyFjwEACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise.html?hl=&id=MiyFjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MiyFjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mtMHEQAAQBAJ",
+      "etag": "G2wmxkGpbUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mtMHEQAAQBAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise - Fitzgerald",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2024-05-14",
+        "description": "The wealthier Americans intensely lived the 1920s, also known as the \"Roaring Twenties,\" the Jazz Age, and the era of grand parties fueled by illegal drinks, when F. Scott Fitzgerald published what would become his first major literary success: This Side of Paradise. The book tells the story of the young Amory Blaine. A rich, handsome, intelligent, and arrogant boy. Annoying and irritatingly charming. He is a product of what intellectuals call the American \"Lost Generation.\" A generation that was enchanted by progress and its machines, yet discontented and restless with the country's situation and the austerity of the older generation. No one depicted this American historical period with as much talent and sensitivity as Scott Fitzgerald, especially since his life and the lives of his characters intertwine in the book in an unmistakable way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558942702"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6558942704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mtMHEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mtMHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mtMHEQAAQBAJ&printsec=frontcover&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mtMHEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mtMHEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mtMHEQAAQBAJ&rdid=book-mtMHEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise_Fitzgerald-sample-epub.acsm?id=mtMHEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise_Fitzgerald-sample-pdf.acsm?id=mtMHEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mtMHEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book tells the story of the young Amory Blaine. A rich, handsome, intelligent, and arrogant boy. Annoying and irritatingly charming. He is a product of what intellectuals call the American &quot;Lost Generation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w9fWEAAAQBAJ",
+      "etag": "Rn5hRFGZEXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w9fWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "subtitle": "an American Classic Novel by F. Scott Fitzgerald",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2017-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532405099"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "153240509X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w9fWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w9fWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=w9fWEAAAQBAJ&printsec=frontcover&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=w9fWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=w9fWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=w9fWEAAAQBAJ&rdid=book-w9fWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise-sample-epub.acsm?id=w9fWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/This_Side_of_Paradise-sample-pdf.acsm?id=w9fWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w9fWEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3Gl_ygAACAAJ",
+      "etag": "aIiNACduZKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Gl_ygAACAAJ",
+      "volumeInfo": {
+        "title": "Scott Fitzgerald's This Side of Paradise",
+        "authors": [
+          "F. Scott Fitzgerald"
+        ],
+        "publishedDate": "2010-04",
+        "description": "Francis Scott Key Fitzgerald (September 24, 1896 - December 21, 1940) was an American writer of novels and short stories, whose works are evocative of the Jazz Age, a term he coined himself. He is widely regarded as one of the twentieth century's greatest writers. Fitzgerald is considered a member of the \"Lost Generation\" of the Twenties. He finished four novels, including This Side of Paradise, with another published posthumously, and wrote dozens of short stories that treat themes of youth and promise along with despair and age. This Side of Paradise is the debut novel of F. Scott Fitzgerald. Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature and has the book's theme of love warped by greed and status-seeking.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1604447540"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781604447545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3Gl_ygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3Gl_ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3Gl_ygAACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3Gl_ygAACAAJ&dq=F.+Scott+Fitzgerald+This+Side+of+Paradise&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scott_Fitzgerald_s_This_Side_of_Paradise.html?hl=&id=3Gl_ygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Gl_ygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Side of Paradise is the debut novel of F. Scott Fitzgerald. Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth."
+      }
+    }
+  ]
+}

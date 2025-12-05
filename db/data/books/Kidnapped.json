@@ -1,0 +1,722 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-RUquc11xjsC",
+      "etag": "KSZqZ6wOA1k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-RUquc11xjsC",
+      "volumeInfo": {
+        "title": "Kidnapped",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Cosimo Classics",
+        "publishedDate": "1886",
+        "description": "\"There are two things that men should never weary of, goodness and humility; we get none too much of them in this rough world among cold, proud people.\" - Robert Louis Stevenson, Kidnapped This jacketed hardcover edition of Kidnapped (1886) by Robert Louis Stevenson is a coming-of-age novel that recounts the adventures of a teenager named David Balfour during the Jacobite Rebellions in 18th century Scotland. Following his father's death, David reaches out to an uncle, who betrays his nephew and sells him to a slave-trader headed for America. David's rescue from the slave ship by a Jacobite refugee starts David on a series of adventures that ensure his passage into manhood.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:605433539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-RUquc11xjsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-RUquc11xjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-RUquc11xjsC&printsec=frontcover&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-RUquc11xjsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-RUquc11xjsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-RUquc11xjsC&rdid=book--RUquc11xjsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Kidnapped.epub?id=-RUquc11xjsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-RUquc11xjsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; - Robert Louis Stevenson, Kidnapped This jacketed hardcover edition of Kidnapped (1886) by Robert Louis Stevenson is a coming-of-age novel that recounts the adventures of a teenager named David Balfour during the Jacobite Rebellions in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nrXwTAt-EFEC",
+      "etag": "3vJN2ym+knA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nrXwTAt-EFEC",
+      "volumeInfo": {
+        "title": "Kidnapped",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "1994",
+        "description": "After being kidnapped by his villainous uncle, sixteen-year-old David Balfour escapes and becomes involved in the struggle of the Scottish highlanders against English rule.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140434011"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140434019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nrXwTAt-EFEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nrXwTAt-EFEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nrXwTAt-EFEC&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nrXwTAt-EFEC&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped.html?hl=&id=nrXwTAt-EFEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nrXwTAt-EFEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After being kidnapped by his villainous uncle, sixteen-year-old David Balfour escapes and becomes involved in the struggle of the Scottish highlanders against English rule."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_wqctAEACAAJ",
+      "etag": "soTzbZaKxoo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_wqctAEACAAJ",
+      "volumeInfo": {
+        "title": "Kidnapped - Robert Louis Stevenson(Annotated)",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2017-09-30",
+        "description": "Being memoirs of the adventures of David Balfour in the year 1751: how he was kidnapped and cast away; his sufferings in a desert isle; his journey in the wild highlands; his acquaintance with Alan Breck Stewart and other notorious highland Jacobites; with all that he suffered at the hands of his uncle, Ebenezer Balfour of Shaws, falsely so called",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1549866842"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781549866845"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_wqctAEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_wqctAEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped_Robert_Louis_Stevenson_Annotat.html?hl=&id=_wqctAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_wqctAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Being memoirs of the adventures of David Balfour in the year 1751: how he was kidnapped and cast away; his sufferings in a desert isle; his journey in the wild highlands; his acquaintance with Alan Breck Stewart and other notorious highland ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OWInvgEACAAJ",
+      "etag": "FaNUiH8rzuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWInvgEACAAJ",
+      "volumeInfo": {
+        "title": "Kidnapped",
+        "subtitle": "Large Print",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-11-08",
+        "description": "Kidnapped by Robert Louis StevensonThe young orphan David Balfour is sent to live with his Uncle Ebenezer. When he discovers that he may be the rightful heir to his uncle's estate, he finds himself kidnapped and cast away on a desert isle. A historical adventure novel originally intended for a young-adult audience, \"Kidnapped\" deals with true historical events relating to the Jacobite Rising, and has won the admiration of an adult audience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1730999654"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781730999659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OWInvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OWInvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OWInvgEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OWInvgEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped.html?hl=&id=OWInvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OWInvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kidnapped by Robert Louis StevensonThe young orphan David Balfour is sent to live with his Uncle Ebenezer. When he discovers that he may be the rightful heir to his uncle&#39;s estate, he finds himself kidnapped and cast away on a desert isle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sdziDAEACAAJ",
+      "etag": "gOwOlZvwFNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sdziDAEACAAJ",
+      "volumeInfo": {
+        "title": "KIDNAPPED by ROBERT LOUIS STEVENSON",
+        "subtitle": "New Edition",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2016-06-15",
+        "description": "I will begin the story of my adventures with a certain morning early in the month of June, the year of grace 1751, when I took the key for the last time out of the door of my father's house. The sun began to shine upon the summit of the hills as I went down the road; and by the time I had come as far as the manse, the blackbirds were whistling in the garden lilacs, and the mist that hung around the valley in the time of the dawn was beginning to arise and die away.Mr. Campbell, the minister of Essendean, was waiting for me by the garden gate, good man! He asked me if I had breakfasted; and hearing that I lacked for nothing, he took my hand in both of his and clapped it kindly under his arm.\"Well, Davie, lad,\" said he, \"I will go with you as far as the ford, to set you on the way.\" And we began to walk forward in silence.\"Are ye sorry to leave Essendean?\" said he, after awhile.\"Why, sir,\" said I, \"if I knew where I was going, or what was likely to become of me, I would tell you candidly. Essendean is a good place indeed, and I have been very happy there; but then I have never been anywhere else. My father and mother, since they are both dead, I shall be no nearer to in Essendean than in the Kingdom of Hungary, and, to speak truth, if I thought I had a chance to better myself where I was going I would go with a good will.\"\"Ay?\" said Mr. Campbell. \"Very well, Davie. Then it behoves me to tell your fortune; or so far as I may. When your mother was gone, and your father (the worthy, Christian man) began to sicken for his end, he gave me in charge a certain letter, which he said was your inheritance. 'So soon,' says he, 'as I am gone, and the house is redd up and the gear disposed of' (all which, Davie, hath been done), 'give my boy this letter into his hand, and start him off to the house of Shaws, not far from Cramond. That is the place I came from,' he said, 'and it's where it befits that my boy should return. He is a steady lad,' your father said, 'and a canny goer; and I doubt not he will come safe, and be well lived where he goes.'\"\"The house of Shaws!\" I cried. \"What had my poor father to do with the house of Shaws?\"\"Nay,\" said Mr. Campbell, \"who can tell that for a surety? But the name of that family, Davie, boy, is the name you bear-Balfours of Shaws: an ancient, honest, reputable house, peradventure in these latter days decayed. Your father, too, was a man of learning as befitted his position; no man more plausibly conducted school; nor had he the manner or the speech of a common dominie; but (as ye will yourself remember) I took aye a pleasure to have him to the manse to meet the gentry; and those of my own house, Campbell of Kilrennet, Campbell of Dunswire, Campbell of Minch, and others, all well-kenned gentlemen, had pleasure in his society. Lastly, to put all the elements of this affair before you, here is the testamentary letter itself, superscrived by the own hand of our departed brother.\"He gave me the letter, which was addressed in these words: \"To the hands of Ebenezer Balfour, Esquire, of Shaws, in his house of Shaws, these will be delivered by my son, David Balfour.\" My heart was beating hard at this great prospect now suddenly opening before a lad of seventeen years of age, the son of a poor country dominie in the Forest of Ettrick.\"Mr. Campbell,\" I stammered, \"and if you were in my shoes, would you go?\"\"Of a surety,\" said the minister, \"that would I, and without pause. A pretty lad like you should get to Cramond (which is near in by Edinburgh) in two days of walk. If the worst came to the worst, and your high relations (as I cannot but suppose them to be somewhat of your blood) should put you to the door, ye can but walk the two days back again and risp at the manse door. But I would rather hope that ye shall be well received, as your poor father forecast for you, and for anything that I ken come to be a great man in time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534686061"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534686069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sdziDAEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sdziDAEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/KIDNAPPED_by_ROBERT_LOUIS_STEVENSON.html?hl=&id=sdziDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sdziDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I will begin the story of my adventures with a certain morning early in the month of June, the year of grace 1751, when I took the key for the last time out of the door of my father&#39;s house."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "94yCEAAAQBAJ",
+      "etag": "D9InaSf6cQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/94yCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Kidnapped (Illustrated)",
+        "subtitle": "Being Memoirs of the Adventures of David Balfour in the Year 1751",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-08-15",
+        "description": "In \"Kidnapped (Illustrated)\", Robert Louis Stevenson presents a riveting tale of adventure set against the backdrop of 18th-century Scotland. The narrative follows the plight of young David Balfour, who is betrayed and sold into slavery, embarking on a treacherous journey to reclaim his rightful inheritance. Stevenson's prose blends a vivid, descriptive style with a thrilling pace, skillfully capturing the historical and cultural landscape of Scotland during a time of social upheaval. The inclusion of illustrations enhances the text, providing visual context to the deeply human experiences and political nuances woven throughout the novel. Stevenson, a Scottish novelist and poet, drew inspiration from his own experiences and the lore of his homeland. Aman of diverse interests and travels, he grappled with themes of identity, belonging, and moral intricacies throughout his works. These themes resonate in \"Kidnapped\", reflecting Stevenson's fascination with adventure, Scottish history, and the profound quest for self-discovery. This classic novel invites readers into an exploration of resilience and the quest for justice. Ideal for fans of historical fiction and adventure narratives, \"Kidnapped (Illustrated)\" serves as both an entertainment piece and a poignant commentary on the struggles of integrity and survival.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547178781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=94yCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=94yCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=94yCEAAAQBAJ&printsec=frontcover&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=94yCEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=94yCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=94yCEAAAQBAJ&rdid=book-94yCEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Kidnapped_Illustrated-sample-epub.acsm?id=94yCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Kidnapped_Illustrated-sample-pdf.acsm?id=94yCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=94yCEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This classic novel invites readers into an exploration of resilience and the quest for justice."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wyrcywEACAAJ",
+      "etag": "1vBmpqk6e9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wyrcywEACAAJ",
+      "volumeInfo": {
+        "title": "Kidnapped (Illustrated)",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2019-10-15",
+        "description": "AN ADVENTURE CLASSIC Robert Louis Stevenson's Kidnapped stands as one of his classic works. DETAILS: Includes The Original Illustrations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1699908486"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781699908488"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wyrcywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wyrcywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wyrcywEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wyrcywEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped_Illustrated.html?hl=&id=wyrcywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wyrcywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "AN ADVENTURE CLASSIC Robert Louis Stevenson&#39;s Kidnapped stands as one of his classic works. DETAILS: Includes The Original Illustrations"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z0YsnwEACAAJ",
+      "etag": "lE4qCLeWuxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z0YsnwEACAAJ",
+      "volumeInfo": {
+        "title": "Kidnapped by Robert Louis Stevenson",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-08-31",
+        "description": "The famous book Kidnapped by Robert Louis Stevenson. This is one of Stevenson's most famous novels. Enjoy Kidnapped by Robert Louis Stevenson today!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492281697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492281696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z0YsnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z0YsnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Z0YsnwEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Z0YsnwEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped_by_Robert_Louis_Stevenson.html?hl=&id=Z0YsnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z0YsnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The famous book Kidnapped by Robert Louis Stevenson. This is one of Stevenson&#39;s most famous novels. Enjoy Kidnapped by Robert Louis Stevenson today!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R7C3uQEACAAJ",
+      "etag": "R8bkV2OSJtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R7C3uQEACAAJ",
+      "volumeInfo": {
+        "title": "Kidnapped by Robert Louis Stevenson (Illustrated)",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-07-25",
+        "description": "Kidnapped is a historical fiction adventure novel by Scottish author Robert Louis Stevenson, written as a boys' novel and first published in the magazine Young Folks from May to July 1886.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717905919"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717905918"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R7C3uQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R7C3uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R7C3uQEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=R7C3uQEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kidnapped_by_Robert_Louis_Stevenson_Illu.html?hl=&id=R7C3uQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R7C3uQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kidnapped is a historical fiction adventure novel by Scottish author Robert Louis Stevenson, written as a boys&#39; novel and first published in the magazine Young Folks from May to July 1886."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O8jcjwEACAAJ",
+      "etag": "d3PuR3BzPpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O8jcjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Biographical Edition of the Works of Robert Louis Stevenson",
+        "subtitle": "Kidnapped",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Palala Press",
+        "publishedDate": "2015-09-02",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1341233723"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781341233722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O8jcjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O8jcjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=O8jcjwEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=O8jcjwEACAAJ&dq=Robert+Louis+Stevenson+Kidnapped&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Biographical_Edition_of_the_Works_of.html?hl=&id=O8jcjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O8jcjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    }
+  ]
+}

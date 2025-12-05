@@ -1,0 +1,734 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CMBEDwAAQBAJ",
+      "etag": "GsKBz1ErPn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CMBEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan and Other Horror Stories",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2018",
+        "description": "Arthur Machen is a significant figure in supernatural and horror literature, in the genre of 'weird fiction'. This collection brings together his best horror tales with a full contextual introduction and which helps to illuminate Machen's place in the literary and cultural milieu of 1890s Britain.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198813163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198813163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CMBEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CMBEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CMBEDwAAQBAJ&printsec=frontcover&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CMBEDwAAQBAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan_and_Other_Horror_Stori.html?hl=&id=CMBEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Great_God_Pan_and_Other_Horror_Stori-sample-pdf.acsm?id=CMBEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CMBEDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection brings together his best horror tales with a full contextual introduction and which helps to illuminate Machen&#39;s place in the literary and cultural milieu of 1890s Britain."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "62UdAwAAQBAJ",
+      "etag": "w7dGU0KM2zY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/62UdAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan (羊男的女兒)",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-11-15",
+        "description": "Current date of publication from iPage.IngramContent.com.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 563,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=62UdAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=62UdAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=62UdAwAAQBAJ&printsec=frontcover&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=62UdAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=62UdAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=62UdAwAAQBAJ&rdid=book-62UdAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Great_God_Pan_%E7%BE%8A%E7%94%B7%E7%9A%84%E5%A5%B3%E5%85%92-sample-epub.acsm?id=62UdAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Great_God_Pan_%E7%BE%8A%E7%94%B7%E7%9A%84%E5%A5%B3%E5%85%92-sample-pdf.acsm?id=62UdAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=62UdAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Current date of publication from iPage.IngramContent.com."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ThLttAEACAAJ",
+      "etag": "n5DwtX0qdwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ThLttAEACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan by Arthur Machen",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2017-12-20",
+        "description": "Title: The Great God PanAuthor: Arthur MachenLanguage: English",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "198187383X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981873838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ThLttAEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ThLttAEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan_by_Arthur_Machen.html?hl=&id=ThLttAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ThLttAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Title: The Great God PanAuthor: Arthur MachenLanguage: English"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BI3UDwAAQBAJ",
+      "etag": "9crOKM4mfYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BI3UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The great god Pan / Der große Gott Pan",
+        "subtitle": "Horror story English - German / Horror Geschichte Englisch - Deutsch",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2020-03-05",
+        "description": "The Great God Pan is a horror and fantasy novel by the Welsh writer Arthur Machen. Machen was inspired to write about the Great God Pan through his experiences in the ruins of a pagan temple in Wales. The novel begins with an experiment that allows a woman named Mary to see the supernatural world. This is followed by a report of a series of mysterious events and deaths over many years. But who or what is behind them? Stephen King described the story as \"perhaps the best [horror story] in the English language\". Der Große Gott Pan ist eine Horror- und Fantasienovelle des walisischen Schriftstellers Arthur Machen. Machen wurde durch seine Erlebnisse in den Ruinen eines heidnischen Tempels in Wales zum Schreiben des Großen Gottes Pan inspiriert. Die Novelle beginnt mit einem Experiment, das einer Frau namens Maria erlaubt, die übernatürliche Welt zu sehen. Es folgt ein Bericht über eine Reihe von mysteriösen Ereignissen und Todesfällen über viele Jahre hinweg. Aber wer oder was steckt dahinter? Stephen King beschrieb die Geschichte als \"vielleicht die beste [Horrorgeschichte] in der englischen Sprache\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783750459182"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3750459185"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BI3UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BI3UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=BI3UDwAAQBAJ&printsec=frontcover&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BI3UDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BI3UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BI3UDwAAQBAJ&rdid=book-BI3UDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_great_god_Pan_Der_gro%C3%9Fe_Gott_Pan-sample-epub.acsm?id=BI3UDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_great_god_Pan_Der_gro%C3%9Fe_Gott_Pan-sample-pdf.acsm?id=BI3UDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BI3UDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel begins with an experiment that allows a woman named Mary to see the supernatural world. This is followed by a report of a series of mysterious events and deaths over many years. But who or what is behind them?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pzGWEAAAQBAJ",
+      "etag": "9x/oA9xbGHM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pzGWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan",
+        "subtitle": "in large print",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-10-20",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368286538"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368286536"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pzGWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pzGWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pzGWEAAAQBAJ&printsec=frontcover&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pzGWEAAAQBAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan.html?hl=&id=pzGWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Great_God_Pan-sample-pdf.acsm?id=pzGWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pzGWEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "POEAzgEACAAJ",
+      "etag": "7L+GwUaobz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/POEAzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan Illustrated",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-10-30",
+        "description": "The Great God Pan is a horror and fantasy novella by Welsh writer Arthur Machen. Machen was inspired to write The Great God Pan by his experiences at the ruins of a pagan temple in Wales. What would become the first chapter of the novella was published in the magazine The Whirlwind in 1890. Machen later extended The Great God Pan and it was published as a book alongside another story, \"The Inmost Light\", in 1894.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798555141156"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=POEAzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=POEAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=POEAzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=POEAzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan_Illustrated.html?hl=&id=POEAzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=POEAzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Great God Pan is a horror and fantasy novella by Welsh writer Arthur Machen. Machen was inspired to write The Great God Pan by his experiences at the ruins of a pagan temple in Wales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3NbMAQAACAAJ",
+      "etag": "QrzF8FjnhTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3NbMAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan",
+        "subtitle": "By Arthur Machen - Illustrated",
+        "authors": [
+          "Arthur Arthur Machen"
+        ],
+        "publishedDate": "2017-03-28",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Great God Pan by Arthur Machen \"The Great God Pan\" is a novella by Welsh writer Arthur Machen. Machen's story was only one of many at the time to focus on the Greek God Pan as a useful symbol for the power of nature and paganism. The title was possibly inspired by the poem \"A Musical Instrument\" published in 1862 by Elizabeth Barrett Browning, in which the first line of every stanza ends \"... the great god Pan.\" The Great God Pan was brought to the stage in 2008 by the WildClaw Theatre Company in Chicago. It was adapted and directed by WildClaw artistic director Charley Sherman. \"The Great God Pan\" was highly influential on the circle of writers around H. P. Lovecraft. The story's depiction of a monstrous half-human hybrid inspired the plot of Lovecraft's The Dunwich Horror (1928), which refers by name to Machen's story. According to Lovecraft scholar Robert M. Price, \"The Dunwich Horror is in every sense an homage to Machen and even a pastiche. There is little in Lovecraft's wonderful story that does not come directly out of Machen's fiction.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520812345"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520812342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3NbMAQAACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3NbMAQAACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan.html?hl=&id=3NbMAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3NbMAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The Great God Pan by Arthur Machen &quot;The Great God Pan&quot; is a novella by Welsh writer Arthur Machen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S5gbzgEACAAJ",
+      "etag": "jQFhbKfRCI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S5gbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan",
+        "subtitle": "Gold Deluxe Edition",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-12-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798579138101"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S5gbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S5gbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S5gbzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S5gbzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan.html?hl=&id=S5gbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S5gbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Great God Pan by Arthur Machen"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OVIlzgEACAAJ",
+      "etag": "l0JC0fOK+Ic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OVIlzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan",
+        "subtitle": "With Original Classics and Annotated",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-12-29",
+        "description": "The Great God Pan is a horror and fantasy novella by Welsh writer Arthur Machen. Machen was inspired to write The Great God Pan by his experiences at the ruins of a pagan temple in Wales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798587861336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OVIlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OVIlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OVIlzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OVIlzgEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan.html?hl=&id=OVIlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OVIlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Great God Pan is a horror and fantasy novella by Welsh writer Arthur Machen. Machen was inspired to write The Great God Pan by his experiences at the ruins of a pagan temple in Wales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b9WpzQEACAAJ",
+      "etag": "lYm5M/vn9NA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b9WpzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Great God Pan (Annotated)",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-07-08",
+        "description": "Differentiated book- It has a historical context with research of the time-The Great God Pan by Arthur Machen.The purpose of realizing this historical context is to approach the understanding of a historical epoch from the elements provided by the text. Hence the importance of placing the document in context. It is necessary to unravel what its author or authors have said, how it has been said, when, why and where, always relating it to its historical moment.When it was published in 1894, the press considered it to be a degenerate and repulsive work for its decadent style and sexual content. Despite everything, the play was considered a classic of the horror genre. Like other stories of the time, it is inspired by the Greek god Pan, a symbol of the power of nature and paganism. However, in the article \"The God of Bread in the literature of centuries\", this divinity appears as a reflection of \"unleashed and destructive natural forces against which man must protect himself if he does not want to expose himself to mental or physical destruction (or both )",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798664497403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b9WpzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b9WpzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=b9WpzQEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=b9WpzQEACAAJ&dq=Arthur+Machen+The+Great+God+Pan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_God_Pan_Annotated.html?hl=&id=b9WpzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b9WpzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Differentiated book- It has a historical context with research of the time-The Great God Pan by Arthur Machen.The purpose of realizing this historical context is to approach the understanding of a historical epoch from the elements provided ..."
+      }
+    }
+  ]
+}
