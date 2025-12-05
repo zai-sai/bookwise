@@ -1,11 +1,11 @@
 <div class="container py-3" data-controller="user-books-index">
-  <h1>My Books :)</h1>
+  <h1 class="text-center" data-user-books-index-target="title123">~ My Books ~</h1>
 
   <div class="row">
     <div class="col-12 py-3">
-      <button type="button" class="btn btn-outline-primary active" data-bs-toggle="button" aria-pressed="true" data-user-books-index-target="allBooks" data-action="click->user-books-index#showAllBooks">All books</button>
-      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button" data-user-books-index-target="readBooks" data-action="click->user-books-index#toggleReadBooks">Read</button>
-      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button" data-user-books-index-target="unreadBooks" data-action="click->user-books-index#toggleUnreadBooks">Unread</button>
+      <button type="button" class="btn btn-outline-primary active rounded-pill" data-bs-toggle="button" aria-pressed="true" data-user-books-index-target="allBooks" data-action="click->user-books-index#showAllBooks">All books</button>
+      <button type="button" class="btn btn-outline-primary rounded-pill" data-bs-toggle="button" data-user-books-index-target="readBooks" data-action="click->user-books-index#toggleReadBooks">Read</button>
+      <button type="button" class="btn btn-outline-primary rounded-pill" data-bs-toggle="button" data-user-books-index-target="unreadBooks" data-action="click->user-books-index#toggleUnreadBooks">Unread</button>
     </div>
   </div>
 
@@ -40,7 +40,7 @@
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-              <%= render "books/book", book: user_book.book %>
+              <%= render "books/book_logged_in", book: user_book.book %>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
