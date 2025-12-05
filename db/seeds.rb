@@ -133,10 +133,8 @@ def generate_from_faker
       user_book = UserBook.create!(book: Book.all.sample, user: user, status: ["read", "unread"].sample)
 
       ShelfBook.create!(shelf: shelf, user_book: user_book)
-
     end
   end
 end
-
 
 seed_from_apis
