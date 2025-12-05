@@ -1,0 +1,747 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CdcmCwAAQBAJ",
+      "etag": "0jSYcVWgTOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CdcmCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2015-05-08",
+        "description": "A Shocking Adventure Novel “I believe everything out of the common. The only thing to distrust is the normal.” ― John Buchan, The 39 Steps John Buchan's The Thirty-Nine Steps is a fast-paced adventure novel featuring Richard Hannay, a Scottish hero with a knack for getting himself into and out of trouble. The Thirty Nine Steps has been adapted many times, most notably by Alfred Hitchcock. This Xist Classics edition has been professionally formatted for e-readers with a linked table of contents. This eBook also contains a bonus book club leadership guide and discussion questions. We hope you’ll share this book with your friends, neighbors and colleagues and can’t wait to hear what you have to say about it. Xist Publishing is a digital-first publisher. Xist Publishing creates books for the touchscreen generation and is dedicated to helping everyone develop a lifetime love of reading, no matter what form it takes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781623959913"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1623959918"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CdcmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CdcmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CdcmCwAAQBAJ&printsec=frontcover&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CdcmCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CdcmCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CdcmCwAAQBAJ&rdid=book-CdcmCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Thirty_Nine_Steps-sample-epub.acsm?id=CdcmCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Thirty_Nine_Steps-sample-pdf.acsm?id=CdcmCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CdcmCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Thirty Nine Steps has been adapted many times, most notably by Alfred Hitchcock. This Xist Classics edition has been professionally formatted for e-readers with a linked table of contents."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sbzPDwAAQBAJ",
+      "etag": "2DdzF55k4NA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sbzPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beyond the Thirty-Nine Steps",
+        "subtitle": "A Life of John Buchan",
+        "authors": [
+          "Ursula Buchan"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2020",
+        "description": "John Buchan's name is known across the world for The Thirty-Nine Steps. In the past one hundred years the classic thriller has never been out of print and has inspired numerous adaptations for film, television, radio and stage, beginning with the celebrated version by Alfred Hitchcock. Yet there was vastly more to 'JB'. He wrote more than a hundred books – fiction and non-fiction – and a thousand articles for newspapers and magazines. He was a scholar, antiquarian, barrister, colonial administrator, journal editor, literary critic, publisher, war correspondent, director of wartime propaganda, member of parliament and imperial proconsul – given a state funeral when he died, a deeply admired and loved Governor-General of Canada. His teenage years in Glasgow's Gorbals, where his father was the Free Church minister, contributed to his ease with shepherds and ambassadors, fur-trappers and prime ministers. His improbable marriage to a member of the aristocratic Grosvenor family means that this account of his life contains, at its heart, an enduring love story. Ursula Buchan, his granddaughter, has drawn on recently discovered family documents to write this comprehensive and illuminating biography. With perception, style, wit and a penetratingly clear eye, she brings vividly to life this remarkable man and his times.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408870822"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408870827"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 491,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sbzPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sbzPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sbzPDwAAQBAJ&printsec=frontcover&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sbzPDwAAQBAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beyond_the_Thirty_Nine_Steps.html?hl=&id=sbzPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Beyond_the_Thirty_Nine_Steps-sample-pdf.acsm?id=sbzPDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sbzPDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the past one hundred years the classic thriller has never been out of print and has inspired numerous adaptations for film, television, radio and stage, beginning with the celebrated version by Alfred Hitchcock."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pWSpAQAACAAJ",
+      "etag": "fjr1Rvj6TSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pWSpAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-nine Steps",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542997887"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542997881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pWSpAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pWSpAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pWSpAQAACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pWSpAQAACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_nine_Steps.html?hl=&id=pWSpAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pWSpAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M2K2swEACAAJ",
+      "etag": "cnx2qzGqn3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M2K2swEACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps",
+        "subtitle": "Novel",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2017-05-03",
+        "description": "The Thirty-Nine Steps is a novel by John Buchan,published in 1915. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh. It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.Summary : The novel is set during May and June 1914; war was evident in Europe, Richard Hannay the protagonist and narrator, an expatriate Scot, returns to his new home, a flat in London, after a long stay in Rhodesia to begin a new life. One night he is buttonholed by a stranger, a well-travelled American, who claims to be in fear for his life. The man appears to know of an anarchist plot to destabilise Europe, beginning with a plan to assassinate the Greek Premier, Constantine Karolides, during his forthcoming visit to London. The man reveals his name to be Franklin P. Scudder, a freelance spy, and remarks that he is dead, which holds Hannay's attention. Scudder explains that he has faked his own death in order to avert suspicion. Scudder claims to be following a ring of German spies called the Black Stone who are trying to steal British plans for the outbreak of war. Hannay lets Scudder hide in his flat, and sure enough the next day another man is discovered having apparently committed suicide in the same building. Four days later Hannay returns home to find Scudder dead with a knife through his heart.Extrait : I returned from the City about three o'clock on that May afternoon pretty well disgusted with life. I had been three months in the Old Country, and was fed up with it. If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact. The weather made me liverish, the talk of the ordinary Englishman made me sick, I couldn't get enough exercise, and the amusements of London seemed as flat as sodawater that has been standing in the sun. 'Richard Hannay,' I kept telling myself, 'you have got into the wrong ditch, my friend, and you had better climb out.' It made me bite my lips to think of the plans I had been building up those last years in Bulawayo. I had got my pile not one of the big ones, but good enough for me; and I had figured out all kinds of ways of enjoying myself. My father had brought me out from Scotland at the age of six, and I had never been home since; so England was a sort of Arabian Nights to me, and I counted on stopping there for the rest of my days.Biography : John Buchan (1875-1940) was a Scottish novelist, historian and Unionist politician who served as Governor General of Canada, the 15th since Canadian Confederation.After a brief legal career, Buchan simultaneously began his writing career and his political and diplomatic careers, serving as a private secretary to the colonial administrator of various colonies in southern Africa. He eventually wrote propaganda for the British war effort in the First World War. Buchan was in 1927 elected Member of Parliament for the Combined Scottish Universities, but he spent most of his time on his writing career, notably writing The Thirty-Nine Steps and other adventure fiction. In 1935 he was appointed Governor General of Canada by King George V, on the recommendation of Prime Minister of Canada R. B. Bennett, to replace the Earl of Bessborough. He occupied the post until his death in 1940. Buchan proved to be enthusiastic about literacy, as well as the evolution of Canadian culture, and he received a state funeral in Canada before his ashes were returned to the United Kingdom.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521217297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521217290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M2K2swEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=M2K2swEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_Nine_Steps.html?hl=&id=M2K2swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M2K2swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.Summary : The novel is set during May and June 1914; war was evident in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PvEwvgAACAAJ",
+      "etag": "yVg1dc7HkI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PvEwvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps. Adventure Novel by",
+        "subtitle": "John Buchan.",
+        "authors": [
+          "John Buchan."
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-10",
+        "description": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh. It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations. John Buchan wrote The Thirty-Nine Steps while he was ill in bed with a duodenal ulcer, an illness which remained with him all his life. The novel was his first \"shocker,\" as he called it - a story combining personal and political dramas. The novel marked a turning point in Buchan's literary career and introduced his adventuring hero, Richard Hannay. He described a \"shocker\" as an adventure where the events in the story are unlikely and the reader is only just able to believe that they really happened. Buchan's son, William, later wrote that the name of the book originated when the author's daughter was counting the stairs at a private nursing home in Broadstairs, where Buchan was convalescing. \"There was a wooden staircase leading down to the beach. My sister, who was about six, and who had just learnt to count properly, went down them and gleefully announced: there are 39 steps.\" Some time later the house was demolished and a section of the stairs, complete with a brass plaque, was sent to Buchan. The mysterious phrase Thirty-Nine Steps, first mentioned by the character Franklin Scudder, becomes the title of the novel and the solution to its meaning is a thread that runs through the whole story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537010174"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537010175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PvEwvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PvEwvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PvEwvgAACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PvEwvgAACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_Nine_Steps_Adventure_Novel_by.html?hl=&id=PvEwvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PvEwvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel was his first &quot;shocker&quot;, as he called it - a story combining personal and political dramas. The novel marked a turning point in Buchan&#39;s literary career and introduced his adventuring hero, Richard Hannay."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eV9lzgEACAAJ",
+      "etag": "mtRw+QfVuHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eV9lzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps Annotated",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2021-04-07",
+        "description": "The Thirty Nine Steps is an adventure novel by the Scottish author John Buchan. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh. It is the first of the five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798734498026"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eV9lzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eV9lzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eV9lzgEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eV9lzgEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_Nine_Steps_Annotated.html?hl=&id=eV9lzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eV9lzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the first of the five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r0MCEQAAQBAJ",
+      "etag": "5JoewyltUus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r0MCEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Thirty-nine steps - Buchan",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2024-04-15",
+        "description": "John Buchan, 1st Baron Tweedsmuir (1875 – 1940), was a Scottish Unionist writer and politician who served as Governor General of Canada and became famous for his novel \"The Thirty-Nine Steps\". \"The Thirty-Nine Steps\" was published by Buchan in 1915 and adapted for the screen by Alfred Hitchcock two decades later, achieving great success both among readers and on the cinema screens. In the novel, the Scottish writer narrates the story of Richard Hannay who, during his vacation in London, decides to solve a mysterious case told to him by a woman he met in the city, who would shortly thereafter be murdered. In addition to being chosen by Hitchcock to be brought to the screens, the novel \" The Thirty-Nine Steps\", not coincidentally, is part of the famous collection: \"1001 Books You Must Read Before You Die.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558943051"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6558943050"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r0MCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r0MCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r0MCEQAAQBAJ&printsec=frontcover&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r0MCEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r0MCEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r0MCEQAAQBAJ&rdid=book-r0MCEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Thirty_nine_steps_Buchan-sample-epub.acsm?id=r0MCEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Thirty_nine_steps_Buchan-sample-pdf.acsm?id=r0MCEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r0MCEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the novel, the Scottish writer narrates the story of Richard Hannay who, during his vacation in London, decides to solve a mysterious case told to him by a woman he met in the city, who would shortly thereafter be murdered."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ulgZywEACAAJ",
+      "etag": "PRQFxpXhkik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ulgZywEACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps",
+        "subtitle": "By John Buchan",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2018-09-23",
+        "description": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh.It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1723943614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781723943614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ulgZywEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ulgZywEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_Nine_Steps.html?hl=&id=ulgZywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ulgZywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WGsrjgEACAAJ",
+      "etag": "HKfo6nrLdro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WGsrjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-nine Steps",
+        "subtitle": "An Adventure Novel",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2015-08-14",
+        "description": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh. It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.The Thirty-Nine Steps by John Buchan - The novel formed the basis for a number of film adaptations, notably: Alfred Hitchcock's 1935 version; a 1959 colour remake; a 1978 version which is perhaps most faithful to the novel; and a 2008 version for British television.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1516896157"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781516896158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WGsrjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WGsrjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WGsrjgEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WGsrjgEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_nine_Steps.html?hl=&id=WGsrjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WGsrjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.The Thirty-Nine Steps by John Buchan - The novel formed the basis for a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GK5awQEACAAJ",
+      "etag": "4bwpIsKRJFU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GK5awQEACAAJ",
+      "volumeInfo": {
+        "title": "The Thirty-Nine Steps (with Notes)(Biography)(Illustrated)",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-01-20",
+        "description": "The Thirty-Nine Steps is an adventure novel by the Scottish author John Buchan. It first appeared as a serial in Blackwood's Magazine in August and September 1915 before being published in book form in October that year by William Blackwood and Sons, Edinburgh. It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.The novel formed the basis for a number of film adaptations, notably: Alfred Hitchcock's 1935 version; a 1959 colour remake; a 1978 version which is perhaps most faithful to the novel; and a 2008 version for British television.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1794496041"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781794496040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GK5awQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GK5awQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GK5awQEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GK5awQEACAAJ&dq=John+Buchan+The+Thirty-Nine+Steps&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thirty_Nine_Steps_with_Notes_Biograp.html?hl=&id=GK5awQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GK5awQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the first of five novels featuring Richard Hannay, an all-action hero with a stiff upper lip and a miraculous knack for getting himself out of sticky situations.The novel formed the basis for a number of film adaptations, notably: ..."
+      }
+    }
+  ]
+}

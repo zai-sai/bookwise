@@ -1,0 +1,620 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fX05AQAAIAAJ",
+      "etag": "jornrtkVgBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fX05AQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon, Esq",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105047944157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fX05AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fX05AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fX05AQAAIAAJ&printsec=frontcover&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fX05AQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fX05AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fX05AQAAIAAJ&rdid=book-fX05AQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Sketch_Book_of_Geoffrey_Crayon_Esq.epub?id=fX05AQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Sketch_Book_of_Geoffrey_Crayon_Esq.pdf?id=fX05AQAAIAAJ&hl=&output=pdf&sig=ACfU3U1fenBQJbeGcPMvp_axPP1zWrwe7A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fX05AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cfYRnwEACAAJ",
+      "etag": "aEwced3wl84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cfYRnwEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon, Esq. (Washington Irving) ..",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499924505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cfYRnwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cfYRnwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_Book_of_Geoffrey_Crayon_Esq_W.html?hl=&id=cfYRnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cfYRnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IvzRZwEACAAJ",
+      "etag": "ZW+KhNeUxX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IvzRZwEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon, Esq.'(Washington Irving)'",
+        "authors": [
+          "Washington Irving (Schriftsteller, USA)"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:723597734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IvzRZwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IvzRZwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_Book_of_Geoffrey_Crayon_Esq_W.html?hl=&id=IvzRZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IvzRZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h3HszgEACAAJ",
+      "etag": "I/g2Jkv84BE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h3HszgEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch-book of Geoffrey Crayon, Esq. (Washington Irving).",
+        "authors": [
+          "Geoffrey Crayon"
+        ],
+        "publishedDate": "1836",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:66018665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=h3HszgEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=h3HszgEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_book_of_Geoffrey_Crayon_Esq_W.html?hl=&id=h3HszgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h3HszgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tE3xMwEACAAJ",
+      "etag": "ynkG37y/ySM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tE3xMwEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon (Washington Irving).",
+        "authors": [
+          "Geoffrey Crayon"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:785454633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tE3xMwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tE3xMwEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_Book_of_Geoffrey_Crayon_Washi.html?hl=&id=tE3xMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tE3xMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jhRjvgAACAAJ",
+      "etag": "maspa1/35zY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jhRjvgAACAAJ",
+      "volumeInfo": {
+        "title": "SKETCH-BK OF GEOFFREY CRAYON E",
+        "authors": [
+          "Washington 1783-1859 Irving"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2016-08-28",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1372513345"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781372513343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jhRjvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jhRjvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jhRjvgAACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jhRjvgAACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SKETCH_BK_OF_GEOFFREY_CRAYON_E.html?hl=&id=jhRjvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jhRjvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uPvwumGw3AMC",
+      "etag": "K1IALbWg0xE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uPvwumGw3AMC",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon, Gent. [pseud.].",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1823",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ZBZH:ZBZ-00080078"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "categories": [
+          "Catskill Mountains Region (N.Y.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uPvwumGw3AMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uPvwumGw3AMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uPvwumGw3AMC&printsec=frontcover&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uPvwumGw3AMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uPvwumGw3AMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=uPvwumGw3AMC&rdid=book-uPvwumGw3AMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Sketch_Book_of_Geoffrey_Crayon_Gent.epub?id=uPvwumGw3AMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uPvwumGw3AMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U4J3zQEACAAJ",
+      "etag": "3gsj0QpuP1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U4J3zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch Book of Geoffrey Crayon, Esq. (Washington Irving)",
+        "subtitle": "Authorized Edition",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1145456976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=U4J3zQEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U4J3zQEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_Book_of_Geoffrey_Crayon_Esq_W.html?hl=&id=U4J3zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4J3zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jctEAAAAYAAJ",
+      "etag": "mC+3/Ht7OSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jctEAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Sketch Book of Geoffrey Crayon, Gent",
+        "subtitle": "(Washington Irving).",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000835691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jctEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jctEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jctEAAAAYAAJ&printsec=frontcover&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jctEAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jctEAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=jctEAAAAYAAJ&rdid=book-jctEAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Sketch_Book_of_Geoffrey_Crayon_Gent.epub?id=jctEAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Sketch_Book_of_Geoffrey_Crayon_Gent.pdf?id=jctEAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0Iz4c8HXnby_1AYvp2BkvR8iGkCA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jctEAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "laVUDQEACAAJ",
+      "etag": "ykffiBIeQhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/laVUDQEACAAJ",
+      "volumeInfo": {
+        "title": "The Sketch-Book of Geoffrey Crayon, Esq, Volume 1",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Palala Press",
+        "publishedDate": "2016-05-19",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1357524838"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781357524838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 314,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=laVUDQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=laVUDQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=laVUDQEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=laVUDQEACAAJ&dq=Washington+Irving+The+sketch-book+of+Geoffrey+Crayon,+Esq&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketch_Book_of_Geoffrey_Crayon_Esq_V.html?hl=&id=laVUDQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=laVUDQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    }
+  ]
+}

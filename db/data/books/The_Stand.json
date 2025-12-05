@@ -1,0 +1,682 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LC32OW8iVUQC",
+      "etag": "TZpIR0s9w40",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LC32OW8iVUQC",
+      "volumeInfo": {
+        "title": "The Stand",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2008-12-11",
+        "description": "Stephen King's apocalyptic vision of a world blasted by virus and tangled in an elemental struggle between good and evil remains as riveting and eerily plausible as when it was first published. Soon to be a television series. 'THE STAND is a masterpiece' (Guardian). Set in a virus-decimated US, King's thrilling American fantasy epic, is a Classic. First come the days of the virus. Then come the dreams. Dark dreams that warn of the coming of the dark man. The apostate of death, his worn-down boot heels tramping the night roads. The warlord of the charnel house and Prince of Evil. His time is at hand. His empire grows in the west and the Apocalypse looms. When a man crashes his car into a petrol station, he brings with him the foul corpses of his wife and daughter. He dies and it doesn't take long for the virus which killed him to spread across America and the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848940833"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848940831"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1562,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.25.21.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LC32OW8iVUQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LC32OW8iVUQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LC32OW8iVUQC&printsec=frontcover&dq=Stephen+King+The+Stand&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LC32OW8iVUQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LC32OW8iVUQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LC32OW8iVUQC&rdid=book-LC32OW8iVUQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Stand-sample-epub.acsm?id=LC32OW8iVUQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LC32OW8iVUQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen King&#39;s apocalyptic vision of a world blasted by virus and tangled in an elemental struggle between good and evil remains as riveting and eerily plausible as when it was first published. &#39;THE STAND is a masterpiece&#39; (Guardian)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TNfvZwEACAAJ",
+      "etag": "y0ZQvzlHTUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TNfvZwEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand Volume 2",
+        "subtitle": "American Nightmares",
+        "publisher": "Marvel",
+        "publishedDate": "2012-01-18",
+        "description": "Someone at Project Blue was keeping a secret. A secret they thought they could contain. They thought wrong. Now, with 99 percent of the country's population dead or dying, the viral strain developed at project Blue--dubbed \"Captain Trips\"--has brought about the end of the world. For the survivors--including Nick Andros, Larry Underwood, Frannie Goldsmith and Stu Redman--this ending is a nightmare that's just begun. And for Randall Flagg, this is an American Nightmare come true, as his macabre vision of the future continues to unfold. Based on the popular apocalyptic novel by celebrated author Stephen King, The Stand: American Nightmares brings together the award-winning writing of Roberto Aguirre-Sacasa (HBO's Big Love) and the gritty visuals of artists Mike Perkins (Captain America) and Laura Martin (Astonishing X-Men). COLLECTING: THE STAND: AMERICAN NIGHTMARES 1-5",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0785135227"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780785135227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TNfvZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TNfvZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TNfvZwEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TNfvZwEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand_Volume_2.html?hl=&id=TNfvZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TNfvZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And for Randall Flagg, this is an American Nightmare come true, as his macabre vision of the future continues to unfold."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nKTUjgEACAAJ",
+      "etag": "w/6KwMJ/bhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nKTUjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "subtitle": "Stephen King",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906723857"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 817,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nKTUjgEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nKTUjgEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=nKTUjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nKTUjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "June 16, 1985. That is when the horror began--the evil that started in a laboratory and took over America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bup1swEACAAJ",
+      "etag": "v3sm2QxButg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bup1swEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "subtitle": "Stephen King",
+        "authors": [
+          "Stephen King"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1004181270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 817,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Bup1swEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Bup1swEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=Bup1swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bup1swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ajhpzgEACAAJ",
+      "etag": "uXeG/41QJys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ajhpzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand (Movie Tie-In Edition)",
+        "authors": [
+          "Perfection Learning Corporation"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2021-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1663618712"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781663618719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ajhpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ajhpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ajhpzgEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ajhpzgEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand_Movie_Tie_In_Edition.html?hl=&id=ajhpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ajhpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally published in 1978 by Doubleday."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "klpJzQEACAAJ",
+      "etag": "InrgpuSjwCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/klpJzQEACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's the Stand",
+        "authors": [
+          "Rospo Pallenberg"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1132230840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=klpJzQEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=klpJzQEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_the_Stand.html?hl=&id=klpJzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=klpJzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2kLPPwAACAAJ",
+      "etag": "sF4VVnUN7CQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2kLPPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "subtitle": "American Nightmares",
+        "publisher": "Marvel",
+        "publishedDate": "2009-11-25",
+        "description": "Those who have survived the Captain Trips plague must deal with the new, lawless world, while coping with their own personal demons. Based on a novel by Stephen King.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0785142746"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780785142744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2kLPPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2kLPPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2kLPPwAACAAJ&dq=Stephen+King+The+Stand&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2kLPPwAACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=2kLPPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2kLPPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Those who have survived the Captain Trips plague must deal with the new, lawless world, while coping with their own personal demons. Based on a novel by Stephen King."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZAD5zQEACAAJ",
+      "etag": "BMT6mMZDVS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZAD5zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hodder Paperbacks",
+        "publishedDate": "2021-01-12",
+        "description": "The tie-in edition of the nine-part CBS All Access series starring Whoopi Goldberg, Alexander Skarsgard, and James Marsden, premiering in the USA December 17, 2020.FIRST CAME THE VIRUS. AND THEN THE DREAMS...A man escapes from a biological testing facility, unknowingly carrying a deadly weapon: a mutated strain of super-flu that will wipe out over 99 percent of the world's population within a few weeks.Those who remain are scared, bewildered, and in need of a leader. Two emerge - Mother Abagail, the benevolent 108-year-old woman who urges them to build a peaceful community in Boulder, Colorado; and Randall Flagg, the 'dark man', the apostate of death, the warlord of the charnel house and Prince of Evil.Now the survivors must choose between them - and ultimately decide the fate of all humanity.Stephen King's apocalyptic vision of a world blasted by plague and tangled in an elemental struggle between good and evil is a classic for our times.'A masterpiece' - Guardian'His work plumbs with unnerving accuracy, the hopes and fears of an entire nation' - Observer",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529356547"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529356540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1344,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZAD5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZAD5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZAD5zQEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZAD5zQEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=ZAD5zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZAD5zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Soon to be a TV series starring James Marsden, Whoopi Goldberg and Jovan Adepo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wq3n0AEACAAJ",
+      "etag": "ZNiGbxJjZWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wq3n0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "subtitle": "The Complete & Uncut Edition",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2020",
+        "description": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death. And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides -- or are chosen. A world in which good rides on the frail shoulders of the 108-year-old Mother Abigail -- and the worst nightmares of evil are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the dark man. In 1978 Stephen King published The Stand, the novel that is now considered to be one of his finest works. But as it was first published, The Stand was incomplete, since more than 150,000 words had been cut from the original manuscript. Now Stephen King's apocalyptic vision of a world blasted by plague and embroiled in an elemental struggle between good and evil has been restored to its entirety. The Stand : The Complete And Uncut Edition includes more than five hundred pages of material previously deleted, along with new material that King added as he reworked the manuscript for a new generation. It gives us new characters and endows familiar ones with new depths. It has a new beginning and a new ending. What emerges is a gripping work with the scope and moral comlexity of a true epic. For hundreds of thousands of fans who read The Stand in its original version and wanted more, this new edition is Stephen King's gift. And those who are reading The Stand for the first time will discover a triumphant and eerily plausible work of the imagination that takes on the issuesthat will determine our survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0525616713"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525616719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biological warfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wq3n0AEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wq3n0AEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=wq3n0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wq3n0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yFtbjgEACAAJ",
+      "etag": "21wS4Lt6Wr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yFtbjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Stand",
+        "subtitle": "The Complete and Uncut Edition",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2014-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1627153144"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781627153140"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yFtbjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yFtbjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yFtbjgEACAAJ&dq=Stephen+King+The+Stand&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yFtbjgEACAAJ&dq=Stephen+King+The+Stand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=yFtbjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yFtbjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

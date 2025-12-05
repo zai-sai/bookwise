@@ -1,0 +1,721 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MsLezgEACAAJ",
+      "etag": "FYblc9oBqQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MsLezgEACAAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles by Earl Derr Biggers",
+        "subtitle": "Annotated",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publishedDate": "2021-08-11",
+        "description": "From the pen of the creator of the famous Chinese detective, Charlie Chan--a murder mystery in San Francisco and the only clue is a birthday cake with 50 candles. From Pulpville Press",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798454773717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MsLezgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MsLezgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fifty_Candles_by_Earl_Derr_Biggers.html?hl=&id=MsLezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MsLezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the pen of the creator of the famous Chinese detective, Charlie Chan--a murder mystery in San Francisco and the only clue is a birthday cake with 50 candles. From Pulpville Press"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wEzuAQAACAAJ",
+      "etag": "2MctJUp9/08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wEzuAQAACAAJ",
+      "volumeInfo": {
+        "title": "50 CANDLES",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publisher": "Blurb",
+        "publishedDate": "2017-03-10",
+        "description": "Fifty Candles by Earl Derr Biggers. One of the greatest classics of literary fiction, now available in high quality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1366589971"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781366589972"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wEzuAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wEzuAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wEzuAQAACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wEzuAQAACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/50_CANDLES.html?hl=&id=wEzuAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wEzuAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fifty Candles by Earl Derr Biggers. One of the greatest classics of literary fiction, now available in high quality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fE39MAAACAAJ",
+      "etag": "2zSHs0sutqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fE39MAAACAAJ",
+      "volumeInfo": {
+        "title": "Earl Derr Biggers - Fifty Candles",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-17",
+        "description": "Biggers had always been interested in mystery fiction, but his interest in Hawaii clearly stems from a 1919 vacation in Honolulu. While there, he read a newspaper article on a Chinese detective named Chang Apana. Apana would become the model for Charlie Chan in Biggers' 1925 novel, House Without a Key, and there quickly followed five more Charlie Chan novels. Fifty Candles -- first published in the Saturday Evening Post, just two years after that 1919 vacation -- shows how Hawaii, China, and murder had already begun to come together in Biggers' imagination. The story starts in a courthouse in Honolulu, moves to China, then to fog-shrouded San Francisco. Many of the elements used in the Charlie Chan series are present: Chinese characters (both sinister and sympathetic), the Honolulu legal system, a shrewd detective (in this case, the lawyer Mark Drew rather than a policemen), and a baffling murder complete with red herrings and plenty of suspects. Though Fifty Candles is a murder mystery, it is also a romance, with the romantic elements at times in the forefront. Mostly, though, it is a book that will delight Biggers' many fans as they trace the origins of Charlie Chan.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541153588"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541153585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fE39MAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fE39MAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fE39MAAACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fE39MAAACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Earl_Derr_Biggers_Fifty_Candles.html?hl=&id=fE39MAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fE39MAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story starts in a courthouse in Honolulu, moves to China, then to fog-shrouded San Francisco."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P4fRzgEACAAJ",
+      "etag": "ENYEHdOdp50",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P4fRzgEACAAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles :Illustrated Edition",
+        "authors": [
+          "Earl Derr Earl Derr Biggers"
+        ],
+        "publishedDate": "2021-11-15",
+        "description": "\"Fifty Candles\" by Earl Derr Biggers. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798760745033"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P4fRzgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P4fRzgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fifty_Candles_Illustrated_Edition.html?hl=&id=P4fRzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P4fRzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Good Press publishes a wide range of titles that encompasses every genre. From well-known classics &amp; literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nS1jzQEACAAJ",
+      "etag": "ppPYbbwRJOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nS1jzQEACAAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles (illustrated)",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publishedDate": "2020-02-13",
+        "description": "Fifty Candles is a mystery/thriller novel by Earl Derr Biggers published in 1921. The murder mystery novel where the only clue is a birthday cake with 50 candles. if you are a big fan of earl derr biggers then you definately going to enjoy this fictitious, mysterious and full of suspense novel by earl derr bigger (1884 - 1933).Earl Derr Biggers (August 26, 1884 - April 5, 1933) was an American novelist and playwright.He is remembered primarily for his novels, especially those featuring the fictional Chinese American detective Charlie Chan, from which popular films were made in the United States and China.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798612980773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nS1jzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nS1jzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nS1jzQEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nS1jzQEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fifty_Candles_illustrated.html?hl=&id=nS1jzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nS1jzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The murder mystery novel where the only clue is a birthday cake with 50 candles. if you are a big fan of earl derr biggers then you definately going to enjoy this fictitious, mysterious and full of suspense novel by earl derr bigger (1884 - ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4WS5zgEACAAJ",
+      "etag": "qTVXZX4IhbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4WS5zgEACAAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles Annotated",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publishedDate": "2021-06-06",
+        "description": "Just as in Biggers' first Charlie Chan mystery, ,,The House Without a Key,\" that romantic link between the Hawaii of a different era and the city of San Francisco is explored and holds the key to the mystery. Henry Drew has cheated young Winthrop out of a partnership in a Hunan mine. Other shady deeds abound in the past of this rich and outwardly respectable old man. Despite his antagonism to Drew, Winthrop accepts the old man's invitation to a birthday dinner, mainly to be near the young woman he loves, companion to Mrs. Drew. Unfortunately Winthrop finds old Drew dead in a pool of blood by the dining room table, and he himself is the likeliest suspect. Or could the murderer be Dr. Parker, illicit admirer of Mrs. Drew? And why are there fifty candles on the birthday cake, when old Drew was pushing seventy?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798516342691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4WS5zgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4WS5zgEACAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fifty_Candles_Annotated.html?hl=&id=4WS5zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4WS5zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Just as in Biggers&#39; first Charlie Chan mystery, ,,The House Without a Key,&quot; that romantic link between the Hawaii of a different era and the city of San Francisco is explored and holds the key to the mystery."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ElsOEAAAQBAJ",
+      "etag": "RapWYH1NCpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ElsOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles",
+        "subtitle": "Enriched edition. An Intriguing Mystery in Roaring San Francisco",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2020-12-08",
+        "description": "Earl Derr Biggers' \"Fifty Candles\" is a captivating tale that delves into themes of family, legacy, and the complexities of human relationships against the backdrop of early 20th-century American society. Combining sharp wit with poignant observation, Biggers employs an intricate narrative style that weaves humor and gravity, drawing readers into a world where the past reverberates through the present. The narrative is structured around the titular celebration'—a milestone event fraught with nostalgia, revelations, and the inevitable passage of time, making it a rich exploration of memory and identity. Biggers, best known for creating the beloved character Charlie Chan, brings his acute understanding of cultural nuances and human behavior to this work. His own experiences growing up in the shifting social landscapes of early 1900s America, where notions of tradition collided with modernity, undoubtedly influenced his poignant exploration of familial bonds and societal expectations in \"Fifty Candles.\" The author's astute observations about the human condition transcend his era, offering timeless reflections. \"Fifty Candles\" is a must-read for fans of character-driven narratives that explore emotional depth and complexity. Readers will find themselves captivated by Biggers' masterful storytelling and insightful commentary on life's fleeting moments. This book invites contemplation on one's own heritage and the delicate dance between celebration and remembrance. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand‐picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4064066417352"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ElsOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ElsOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ElsOEAAAQBAJ&printsec=frontcover&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ElsOEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ElsOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ElsOEAAAQBAJ&rdid=book-ElsOEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Fifty_Candles-sample-epub.acsm?id=ElsOEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Fifty_Candles-sample-pdf.acsm?id=ElsOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ElsOEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book invites contemplation on one&#39;s own heritage and the delicate dance between celebration and remembrance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PlAqAAAAMAAJ",
+      "etag": "cb5H7GIdunE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PlAqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Fifty Candles",
+        "authors": [
+          "Earl Derr Biggers"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015030851698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "San Francisco Bay Area (Calif.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PlAqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PlAqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PlAqAAAAMAAJ&q=Earl+Derr+Biggers+Fifty+Candles&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PlAqAAAAMAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fifty_Candles.html?hl=&id=PlAqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PlAqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Earl Derr Biggers</b>. tule - fog still blotted out the city of my dreams . At one corner we grazed the side of some passing vehicle , and loud curses filled the air . I found the switch and flooded the interior of the car with light . It&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yT4PAQAAMAAJ",
+      "etag": "JJErT8KntCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yT4PAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The National Union Catalog, Pre-1956 Imprints",
+        "subtitle": "A Cumulative Author List Representing Library of Congress Printed Cards and Titles Reported by Other American Libraries",
+        "authors": [
+          "Library of Congress",
+          "American Library Association. Committee on Resources of American Libraries. National Union Catalog Subcommittee"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015082905780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 710,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yT4PAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yT4PAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yT4PAQAAMAAJ&pg=PA323&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yT4PAQAAMAAJ&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_National_Union_Catalog_Pre_1956_Impr.html?hl=&id=yT4PAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yT4PAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8MLiEAAAQBAJ",
+      "etag": "KM3It9E5d2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8MLiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "THE CANON IN RESIDENCE (British Mystery Classic)",
+        "subtitle": "Identity Theft Thriller From the Author of the Thorpe Hazell Mysteries and Thrilling Stories of the Railway",
+        "authors": [
+          "Victor L. Whitechurch"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2023-12-08",
+        "description": "In \"The Canon in Residence,\" Victor L. Whitechurch delivers a masterful British mystery that intricately weaves elements of intrigue and suspense within a richly detailed narrative. The novel follows the adventures of Canon H. D. Drelincourt, who becomes embroiled in a series of perplexing crimes that disrupt the tranquility of the fictional English village of Broadisle. Whitechurch employs a stylistic approach reminiscent of classic detective fiction, characterized by a strong focus on character development and psychological depth, creating an atmosphere that invites readers to engage in the intricacies of deductive reasoning and moral dilemmas. This work not only showcases a well-crafted plot but also reflects the interwar period's fascination with the psychological nuances of human behavior within a deceptively serene backdrop. Victor L. Whitechurch, an author and clergyman, drew upon his extensive background in ecclesiastical settings and his experiences within the British social system to frame his narratives with authenticity. Coupled with his personal passion for detective fiction, these influences shaped \"The Canon in Residence\" into a different exploration of morality and justice, elevating it beyond a mere whodunit to a commentary on human nature. His prior works, steeped in the messiness of moral complexities, further illuminate his motivations for creating a layered mystery. Readers interested in the classic mystery genre will find \"The Canon in Residence\" to be a compelling addition to their shelves. Whitechurch's engaging style, combined with his keen understanding of character and motivation, makes this novel not just a gripping whodunit, but also a thoughtful exploration of the ethical questions surrounding crime and punishment. It's a must-read for aficionados of British mystery classics, inviting them to ponder the delicate interplay of faith, morality, and justice.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547746911"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8MLiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8MLiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8MLiEAAAQBAJ&pg=PT3&dq=Earl+Derr+Biggers+Fifty+Candles&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8MLiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8MLiEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8MLiEAAAQBAJ&rdid=book-8MLiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/THE_CANON_IN_RESIDENCE_British_Mystery_C-sample-epub.acsm?id=8MLiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/THE_CANON_IN_RESIDENCE_British_Mystery_C-sample-pdf.acsm?id=8MLiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8MLiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Earl Derr Biggers</b> – 11 Titles in One Volume (Illustrated Edition)&#39;, readers are treated to an expansive collection ... <b>Fifty Candles</b>&#39;, Biggers crafts tales that are complex, yet suffused with an accessibility and charm capable of&nbsp;..."
+      }
+    }
+  ]
+}

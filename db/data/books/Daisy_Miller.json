@@ -1,0 +1,695 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9wQWAAAAYAAJ",
+      "etag": "brpWHmw/G5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9wQWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "subtitle": "A Study",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN6NHP"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "American drama"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9wQWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9wQWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9wQWAAAAYAAJ&printsec=frontcover&dq=Henry+James+Daisy+Miller&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9wQWAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9wQWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9wQWAAAAYAAJ&rdid=book-9wQWAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Daisy_Miller.epub?id=9wQWAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Daisy_Miller.pdf?id=9wQWAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2W5GIHgzU2RXq33JbrOAx3V_e4nA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9wQWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eLbCt_DpDaMC",
+      "etag": "9Dwa3j0dIAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eLbCt_DpDaMC",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2007-06-28",
+        "description": "Daisy Miller, an innocent yet bold American girl, runs afoul of the European code of conduct at the turn of the twentieth century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141441344"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141441348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eLbCt_DpDaMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eLbCt_DpDaMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eLbCt_DpDaMC&printsec=frontcover&dq=Henry+James+Daisy+Miller&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eLbCt_DpDaMC&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller.html?hl=&id=eLbCt_DpDaMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Daisy_Miller-sample-epub.acsm?id=eLbCt_DpDaMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eLbCt_DpDaMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller, an innocent yet bold American girl, runs afoul of the European code of conduct at the turn of the twentieth century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lRQCzgEACAAJ",
+      "etag": "2vc+r67XT04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lRQCzgEACAAJ",
+      "volumeInfo": {
+        "title": "Henry James - Daisy Miller",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2020-10-10",
+        "description": "Daisy Miller is a novel by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year. It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers.Includes a biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798696225708"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lRQCzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lRQCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lRQCzgEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lRQCzgEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Henry_James_Daisy_Miller.html?hl=&id=lRQCzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lRQCzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller is a novel by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3aKPDAEACAAJ",
+      "etag": "U+k13ed/6oI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3aKPDAEACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "subtitle": "By Henry James - Illustrated",
+        "authors": [
+          "Henry Henry James"
+        ],
+        "publishedDate": "2016-06-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About Daisy Miller by Henry James Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year. It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers. His pursuit of her is hampered by her own flirtatiousness, which is frowned upon by the other expatriates when they meet in Switzerland and Italy.Annie \"Daisy\" Miller and Frederick Winterbourne first meet in Vevey, Switzerland, in a garden of the grand hotel where Winterbourne is allegedly vacationing from his studies (an attachment to an older lady is rumoured). They are introduced by Randolph Miller, Daisy's 9-year-old brother. Randolph considers their hometown of Schenectady, New York, to be absolutely superior to all of Europe. Daisy, however, is absolutely delighted with the continent, especially the high society she wishes to enter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534767584"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534767584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3aKPDAEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3aKPDAEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller.html?hl=&id=3aKPDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3aKPDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgS8EEoH7yAC",
+      "etag": "yu8TTjg9hSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgS8EEoH7yAC",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "subtitle": "A Study in Two Parts",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "2009-02-27",
+        "description": "The novella narrates the life and manners of a young American woman who faces cultural and social differences in Europe. Entangled with emotions of love, misunderstandings and expectations, James successfully captures deep passions and creates life-like, brilliant characters. Captivating!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781425033521"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1425033520"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 69,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CgS8EEoH7yAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CgS8EEoH7yAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CgS8EEoH7yAC&dq=Henry+James+Daisy+Miller&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CgS8EEoH7yAC&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller.html?hl=&id=CgS8EEoH7yAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgS8EEoH7yAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Entangled with emotions of love, misunderstandings and expectations, James successfully captures deep passions and creates life-like, brilliant characters. Captivating!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pqXJyQEACAAJ",
+      "etag": "Ad4d3j95Oug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pqXJyQEACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "subtitle": "A Study",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2019-09-15",
+        "description": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year. It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1693164493"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781693164491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pqXJyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pqXJyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pqXJyQEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pqXJyQEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller.html?hl=&id=pqXJyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pqXJyQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ezCWswEACAAJ",
+      "etag": "i+Dmk3puB7A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ezCWswEACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller by Henry James",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2017-09-08",
+        "description": "Daisy Miller by Henry James",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976089158"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976089152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ezCWswEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ezCWswEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller_by_Henry_James.html?hl=&id=ezCWswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ezCWswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller by Henry James"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uf7LAQAACAAJ",
+      "etag": "elRYlSOrIV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uf7LAQAACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller",
+        "authors": [
+          "James Henry"
+        ],
+        "publishedDate": "2017-03-28",
+        "description": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year.[1] It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers. His pursuit of her is hampered by her own flirtatiousness, which is frowned upon by the other expatriates when they meet in Switzerland and Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1544982941"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544982946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Uf7LAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Uf7LAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Uf7LAQAACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Uf7LAQAACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller.html?hl=&id=Uf7LAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uf7LAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year.[1] It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wvkFkAEACAAJ",
+      "etag": "HpsR8QkWl8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wvkFkAEACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller : a Study (1878)-Novela by Henry James",
+        "subtitle": "Daisy Miller : a Study. an International Episode. Four Meetings",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-04-19",
+        "description": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year.It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers. His pursuit of her is hampered by her own flirtatiousness, which is frowned upon by the other expatriates when they meet in Switzerland and Italy.Annie \"Daisy\" Miller and Frederick Winterbourne first meet in Vevey, Switzerland, in a garden of the grand hotel[2] where Winterbourne is allegedly vacationing from his studies (an attachment to an older lady is rumoured). They are introduced by Randolph Miller, Daisy's 9-year-old brother. Randolph considers their hometown of Schenectady, New York, to be absolutely superior to all of Europe. Daisy, however, is absolutely delighted with the continent, especially the high society she wishes to enter. Winterbourne is at first confused by her attitude, and though greatly impressed by her beauty, he soon determines that she is nothing more than a young flirt. He continues his pursuit of Daisy in spite of the disapproval of his aunt, Mrs. Costello, who spurns any family with so close a relationship to their courier as the Millers have with their Eugenio. She also thinks Daisy is a shameless girl for agreeing to visit the Chateau de Chillon with Winterbourne after they have known each other for only half an hour. The next day, the two travel to Chateau de Chillon and although Winterbourne had paid the janitor for privacy, Daisy is not quite impressed. Winterbourne then informs Daisy that he must go to Geneva the next day. Daisy feels disappointment and chaffs him, eventually asking him to visit her in Rome later that year. In Rome, Winterbourne and Daisy meet unexpectedly in the parlor of Mrs. Walker, an American expatriate. Her moral values have adapted to those of Italian society. Rumors about Daisy meeting with young Italian gentlemen make her socially exceptionable under these criteria. Winterbourne learns of Daisy's increasing intimacy with a young Italian of questionable society, Giovanelli, as well as the growing scandal caused by the pair's behavior. Daisy is undeterred by the open disapproval of the other Americans in Rome, and her mother seems quite unaware of the underlying tensions. Winterbourne and Mrs. Walker attempt to persuade Daisy to separate from Giovanelli, but she refuses any help that is offered. One night, Winterbourne takes a walk through the Colosseum and sees a young couple sitting at its center. He realizes that they are Giovanelli and Daisy. Winterbourne, infuriated with Giovanelli, asks him how he could dare to take Daisy to a place where she runs the risk of catching \"Roman Fever.\" Daisy says she does not care and Winterbourne leaves them. Daisy falls ill and dies a few days later.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1532825293"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532825293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wvkFkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wvkFkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wvkFkAEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wvkFkAEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller_a_Study_1878_Novela_by_Henr.html?hl=&id=wvkFkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wvkFkAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878, and in book form the following year.It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aeQJzgEACAAJ",
+      "etag": "xXThLJ/lhZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aeQJzgEACAAJ",
+      "volumeInfo": {
+        "title": "Daisy Miller, A Study in Two Parts [Annotated]",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2020-11-03",
+        "description": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878. It portrays the courtship of the beautiful American girl Daisy Miller by Winterbourne, a sophisticated compatriot of hers. His pursuit of her is hampered by her own flirtatiousness, which is frowned upon by the other expatriates when they meet in Switzerland and Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798558208412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aeQJzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aeQJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aeQJzgEACAAJ&dq=Henry+James+Daisy+Miller&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aeQJzgEACAAJ&dq=Henry+James+Daisy+Miller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Daisy_Miller_A_Study_in_Two_Parts_Annota.html?hl=&id=aeQJzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aeQJzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daisy Miller is a novella by Henry James that first appeared in Cornhill Magazine in June-July 1878."
+      }
+    }
+  ]
+}

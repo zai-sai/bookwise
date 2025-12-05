@@ -1,0 +1,672 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "L_E0AAAAMAAJ",
+      "etag": "whWSsHvfdU4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L_E0AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The black robe",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015063536406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 458,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories, English"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L_E0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L_E0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L_E0AAAAMAAJ&q=Wilkie+Collins+The+Black+Robe&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L_E0AAAAMAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_black_robe.html?hl=&id=L_E0AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L_E0AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Le357MPAzMC",
+      "etag": "khqQBBPLyNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Le357MPAzMC",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11663999"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Le357MPAzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Le357MPAzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0Le357MPAzMC&printsec=frontcover&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0Le357MPAzMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0Le357MPAzMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0Le357MPAzMC&rdid=book-0Le357MPAzMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Black_Robe.epub?id=0Le357MPAzMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Le357MPAzMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v05xzgEACAAJ",
+      "etag": "a6nRCU2950A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v05xzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "subtitle": "Wilkie Collins (Mystery, Sensation Novel, Classical Literature) [Annotated]",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2021-05-04",
+        "description": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798748523493"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v05xzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v05xzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=v05xzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=v05xzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe.html?hl=&id=v05xzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v05xzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IcHTtwEACAAJ",
+      "etag": "N2Z4Ff1TTDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IcHTtwEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe Annotated",
+        "subtitle": "Special Edition",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2018-02-15",
+        "description": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1980299935"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781980299936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IcHTtwEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IcHTtwEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe_Annotated.html?hl=&id=IcHTtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IcHTtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NdVxzgEACAAJ",
+      "etag": "5mbXTURbUPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NdVxzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe Illustrated",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-05",
+        "description": "A high ranking Catholic priest schemes to recover land considered Church property.The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798747196780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 394,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NdVxzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NdVxzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NdVxzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NdVxzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe_Illustrated.html?hl=&id=NdVxzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NdVxzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S3_zswEACAAJ",
+      "etag": "80P7v3KWZmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S3_zswEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-06-18",
+        "description": "The church has lost out on a valuable piece of land through wars and transfers. Father Benwell is determined to reclaim that property by the conversion of the owner, Lewis Romayne. Enter beautiful Stella, who captures the heart of Romayne. Should Stella capture the love and devotion of Romayne, Father Benwell's scheme would fail, and that is something that he can not allow. Complicating things is the fact that both Romayne and Stella are hiding their own terrible secrets. The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book centers around the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534739068"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534739062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S3_zswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S3_zswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S3_zswEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S3_zswEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe.html?hl=&id=S3_zswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S3_zswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book centers around the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A6sszwEACAAJ",
+      "etag": "C2cMKsklzmo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A6sszwEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe (Esprios Classics)",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Blurb",
+        "publishedDate": "2022-05-03",
+        "description": "The Black Robe is an 1881 epistolary novel by famed English writer, Wilkie Collins. The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias. As the story begins, Romayne and his friend, Major Hynd, are in Boulogne to visit Romayne's aunt, who is dying. While there, Romayne attends a card game, where he has an argument with a corrupt card sharp, the General, who challenges him to a duel. However, the general doesn't turn up himself but nominates his son, an accurate shot, who should win the duel. Romayne absolutely does not want to fight but is goaded into doing so.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798210286062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A6sszwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A6sszwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A6sszwEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A6sszwEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe_Esprios_Classics.html?hl=&id=A6sszwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A6sszwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book relates the misadventures of Lewis Romayne, and is also noted for a perceived anti-Catholic bias. As the story begins, Romayne and his friend, Major Hynd, are in Boulogne to visit Romayne&#39;s aunt, who is dying."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xwmFjgEACAAJ",
+      "etag": "w+p/bGPi33Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xwmFjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-10-20",
+        "description": "William Wilkie Collins (8 January 1824 - 23 September 1889) was an English novelist, playwright, and author of short stories. His best-known works are The Woman in White (1859), No Name (1862), Armadale (1866), and The Moonstone (1868).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1518693172"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781518693175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xwmFjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xwmFjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xwmFjgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xwmFjgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe.html?hl=&id=xwmFjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xwmFjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Wilkie Collins (8 January 1824 - 23 September 1889) was an English novelist, playwright, and author of short stories. His best-known works are The Woman in White (1859), No Name (1862), Armadale (1866), and The Moonstone (1868)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aRjnzgEACAAJ",
+      "etag": "BlF/Old/8A0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aRjnzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2016-12-13",
+        "description": "A high ranking Catholic priest schemes to recover land considered Church property.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541021045"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541021044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aRjnzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aRjnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aRjnzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aRjnzgEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe.html?hl=&id=aRjnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aRjnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A high ranking Catholic priest schemes to recover land considered Church property."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fSw5yQEACAAJ",
+      "etag": "q12N9eE/SNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fSw5yQEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Robe",
+        "subtitle": "Large Print",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2019-09-02",
+        "description": "William Wilkie Collins (8 January 1824 - 23 September 1889) was an English novelist, playwright, and short story writer. His best-known works are The Woman in White (1859), No Name (1862), Armadale (1866) and The Moonstone (1868). The last is considered the first modern English detective novel.Born into the family of painter William Collins in London, he lived with his family in Italy and France as a child and learned French and Italian. He worked as a clerk for a tea merchant. After his first novel, Antonina, was published in 1850, he met Charles Dickens, who became a close friend, mentor and collaborator. Some of Collins's works were first published in Dickens' journals All the Year Round and Household Words and the two collaborated on drama and fiction.Collins published his best known works in the 1860s and achieved financial stability and an international reputation. During that time he began suffering from gout. After taking opium for the pain, he developed an addiction. During the 1870s and 1880s the quality of his writing declined along with his health.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1689945141"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781689945141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fSw5yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fSw5yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fSw5yQEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fSw5yQEACAAJ&dq=Wilkie+Collins+The+Black+Robe&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Robe.html?hl=&id=fSw5yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fSw5yQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Wilkie Collins (8 January 1824 - 23 September 1889) was an English novelist, playwright, and short story writer."
+      }
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_LbVAQAACAAJ",
+      "etag": "/X5azKsRtYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_LbVAQAACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body?",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-03-22",
+        "description": "Lord Peter Wimsey investigates the sudden appearance of a naked body in the bath of an architect at the same time a noted financier goes missing under strange circumstances. As the case progresses it becomes clear that the two events are linked in some way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1544836643"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544836645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_LbVAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_LbVAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_LbVAQAACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_LbVAQAACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body.html?hl=&id=_LbVAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_LbVAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lord Peter Wimsey investigates the sudden appearance of a naked body in the bath of an architect at the same time a noted financier goes missing under strange circumstances."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DvwyEQAAQBAJ",
+      "etag": "1EqrS1BWzo0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DvwyEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Whose Body?",
+        "authors": [
+          "Dorothy Leigh Sayers"
+        ],
+        "publisher": "E-Kitap Projesi & Cheapest Books",
+        "publishedDate": "2024-11-24",
+        "description": "Whose Body? is a 1923 novel by Dorothy L. Sayers, which introduced the character of Lord Peter Wimsey. CHAPTER I \"Oh, damn!\" said Lord Peter Wimsey at Piccadilly Circus. \"Hi, driver!\" The taxi man, irritated at receiving this appeal while negotiating the intricacies of turning into Lower Regent Street across the route of a 19 'bus, a 38-B and a bicycle, bent an unwilling ear. \"I've left the catalogue behind,\" said Lord Peter deprecatingly, \"uncommonly careless of me. D'you mind puttin' back to where we came from?\" \"To the Savile Club, sir?\" \"No—110 Piccadilly—just beyond—thank you.\" \"Thought you was in a hurry,\" said the man, overcome with a sense of injury. \"I'm afraid it's an awkward place to turn in,\" said Lord Peter, answering the thought rather than the words. His long, amiable face looked as if it had generated spontaneously from his top hat, as white maggots breed from Gorgonzola. The taxi, under the severe eye of a policeman, revolved by slow jerks, with a noise like the grinding of teeth. The block of new, perfect and expensive flats in which Lord Peter dwelt upon the second floor, stood directly opposite the Green Park, in a spot for many years occupied by the skeleton of a frustrate commercial enterprise. As Lord Peter let himself in he heard his man's voice in the library, uplifted in that throttled stridency peculiar to well-trained persons using the telephone. \"I believe that's his lordship just coming in again—if your Grace would kindly hold the line a moment.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786057566904"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6057566904"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DvwyEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DvwyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DvwyEQAAQBAJ&printsec=frontcover&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DvwyEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DvwyEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DvwyEQAAQBAJ&rdid=book-DvwyEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-epub.acsm?id=DvwyEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-pdf.acsm?id=DvwyEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DvwyEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whose Body? is a 1923 novel by Dorothy L. Sayers, which introduced the character of Lord Peter Wimsey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "52hqzQEACAAJ",
+      "etag": "mpsyO5ZUrwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/52hqzQEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body? Illustrated",
+        "authors": [
+          "Dorothy L Sayers"
+        ],
+        "publishedDate": "2020-03-10",
+        "description": "\"Oh, damn!\" said Lord Peter Wimsey at Piccadilly Circus. \"Hi, driver!\"The taxi man, irritated at receiving this appeal while negotiating the intricacies of turning into Lower Regent Street across the route of a 19 'bus, a 38-B and a bicycle, bent an unwilling ear.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798623314550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=52hqzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=52hqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=52hqzQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=52hqzQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body_Illustrated.html?hl=&id=52hqzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=52hqzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Oh, damn!&quot; said Lord Peter Wimsey at Piccadilly Circus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9t70zQEACAAJ",
+      "etag": "YAvgCNPZMjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9t70zQEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body? Illustrated",
+        "subtitle": "( Dorothy Series Book )",
+        "authors": [
+          "Dorothy L Sayers"
+        ],
+        "publishedDate": "2020-10-26",
+        "description": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798553879914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9t70zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9t70zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9t70zQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9t70zQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body_Illustrated.html?hl=&id=9t70zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9t70zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n-7ZzgEACAAJ",
+      "etag": "+Aah7Z+8Vkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n-7ZzgEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body? Annotated",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "publishedDate": "2021-11-13",
+        "description": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798766620549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=n-7ZzgEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=n-7ZzgEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body_Annotated.html?hl=&id=n-7ZzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n-7ZzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BsHRxQEACAAJ",
+      "etag": "LgAyiFhbuvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BsHRxQEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body? By Dorothy L. Sayers",
+        "authors": [
+          "Dorothy Leigh Sayers"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1087331295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BsHRxQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BsHRxQEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body_By_Dorothy_L_Sayers.html?hl=&id=BsHRxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BsHRxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jJuAzgEACAAJ",
+      "etag": "32CvVu0SM0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jJuAzgEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body( Illustrated Edition)",
+        "authors": [
+          "Dorothy L Sayers"
+        ],
+        "publishedDate": "2021-06-13",
+        "description": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798519847070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jJuAzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jJuAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jJuAzgEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jJuAzgEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body_Illustrated_Edition.html?hl=&id=jJuAzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jJuAzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whose Body? is a 1923 mystery novel by Dorothy L. Sayers, in which she introduced the character of Lord Peter Wimsey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-eHzEAAAQBAJ",
+      "etag": "UYWHK9ije/o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-eHzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Whose Body?",
+        "subtitle": "Whose Body? by Dorothy L. Sayers: Dorothy L. Sayers' Mystery of Identity and Detection",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "publisher": "Namaskar Book",
+        "publishedDate": "2024-02-02",
+        "description": "Dive into the world of mystery and detection with \"Whose Body? by Dorothy L. Sayers: Dorothy L. Sayers' Mystery of Identity and Detection\" by Dorothy L. Sayers. Immerse yourself in the gripping tale penned by Sayers, as she unravels the enigmatic puzzle of identity and intrigue. As you navigate through the pages of this captivating novel, prepare to be drawn into a labyrinth of clues, suspects, and unexpected twists. Through Sayers' masterful storytelling and keen eye for detail, readers are transported to the heart of a perplexing mystery that challenges both the detective and the reader alike. But amidst the intrigue and suspense, one question arises: What deeper truths and insights into human nature can we glean from Sayers' mystery of identity and detection, and how do they captivate our imagination? Explore the complexities of identity and morality with Sayers as your guide, as she skillfully navigates through the layers of deception and truth to uncover the hidden motives and secrets of her characters. Are you ready to embark on a thrilling journey of suspense and deduction through the pages of \"Whose Body?\" Engage with Sayers' compelling narrative, allowing yourself to become immersed in the tantalizing mystery and the intricate web of clues that lead to a shocking revelation. Don't miss the opportunity to experience the brilliance of \"Whose Body?\" by Dorothy L. Sayers. Dive into this classic mystery now, and discover why Sayers remains one of the most celebrated authors in the genre of detective fiction. Seize the chance to unravel the mystery alongside the detective. Purchase your copy of \"Whose Body?\" today and embark on a thrilling adventure of detection, suspense, and revelation.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 161,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-eHzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-eHzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-eHzEAAAQBAJ&printsec=frontcover&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-eHzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-eHzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-eHzEAAAQBAJ&rdid=book--eHzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-epub.acsm?id=-eHzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-pdf.acsm?id=-eHzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-eHzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As you navigate through the pages of this captivating novel, prepare to be drawn into a labyrinth of clues, suspects, and unexpected twists."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UwRzEAAAQBAJ",
+      "etag": "JoRVsFdsEHs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UwRzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Whose Body?",
+        "subtitle": "A Lord Peter Wimsey Novel",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-05-28",
+        "description": "Dorothy L. Sayers' 'Whose Body?' is a riveting detective novel that combines elements of traditional mystery with intricate plot twists and character development. Set in post-World War I London, the novel follows amateur sleuth Lord Peter Wimsey as he investigates a perplexing case involving a dismembered body found in the bathtub of an unknown man. Sayers' literary style is characterized by sharp wit, detailed descriptions, and a keen eye for social commentary, making 'Whose Body?' a compelling read for fans of classic detective fiction. The novel is considered a landmark work in the genre, influencing future writers such as Agatha Christie and P.D. James. Through her writing, Sayers explores themes of identity, class, and morality, adding depth to the intriguing storyline. Dorothy L. Sayers, a renowned British author, was a contemporary of other great mystery writers of the Golden Age, such as Arthur Conan Doyle and Agatha Christie. As a scholar of classical and modern languages, Sayers brought a unique blend of intellectualism and creativity to her writing, making her novels both entertaining and thought-provoking. Her deep understanding of human nature and society is evident in 'Whose Body?', as she delves into the complexities of the human psyche and societal norms. For readers who appreciate well-crafted mysteries with complex characters and clever plot twists, 'Whose Body?' is a must-read. Sayers' masterful storytelling and intricate plotting will keep you guessing until the very end, making this novel a standout in the realm of classic detective fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547027706"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UwRzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UwRzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UwRzEAAAQBAJ&printsec=frontcover&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UwRzEAAAQBAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body.html?hl=&id=UwRzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-epub.acsm?id=UwRzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Whose_Body-sample-pdf.acsm?id=UwRzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UwRzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sayers&#39; masterful storytelling and intricate plotting will keep you guessing until the very end, making this novel a standout in the realm of classic detective fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l68sswEACAAJ",
+      "etag": "LNNWkNnfruI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l68sswEACAAJ",
+      "volumeInfo": {
+        "title": "Whose Body?",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-07-16",
+        "description": "Whose Body? is a novel by Dorothy L. Sayers, which introduced the character of Lord Peter Wimsey. Lord Peter Wimsey investigates the sudden appearance of a naked body in the bath of an architect at the same time a noted financier goes missing under strange circumstances. As the case progresses it becomes clear that the two events are linked in some way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548980234"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548980238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l68sswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l68sswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=l68sswEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=l68sswEACAAJ&dq=Dorothy+L.+Sayers+Whose+Body%3F&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whose_Body.html?hl=&id=l68sswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l68sswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whose Body? is a novel by Dorothy L. Sayers, which introduced the character of Lord Peter Wimsey."
+      }
+    }
+  ]
+}

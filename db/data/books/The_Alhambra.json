@@ -1,0 +1,716 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-P8BAAAAQAAJ",
+      "etag": "CVhdQ21KtHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-P8BAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Tales of the Alhambra",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:600067335"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-P8BAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-P8BAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-P8BAAAAQAAJ&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-P8BAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-P8BAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-P8BAAAAQAAJ&rdid=book--P8BAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Tales_of_the_Alhambra.epub?id=-P8BAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Tales_of_the_Alhambra.pdf?id=-P8BAAAAQAAJ&hl=&output=pdf&sig=ACfU3U13UXzPEmlt_yYqiRPG9ac3tZI0Cg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-P8BAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y8pMngEACAAJ",
+      "etag": "thWbB2BMcyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y8pMngEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of the Alhambra, by Washington Irving,...",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457361441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y8pMngEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y8pMngEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_the_Alhambra_by_Washington_Irvi.html?hl=&id=y8pMngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y8pMngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cu2XDAAAQBAJ",
+      "etag": "C7hi69Nohg4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cu2XDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Tales of the Alhambra",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2013-01-03",
+        "description": "The Alhambra, a series of tales and sketches of the Moors and Spaniards, was published in May 1832. Consisting of a series of essays and short fiction pieces, it was referred to as his \"Spanish Sketch Book.\" In 1851 Irving wrote the \"Author's Revised Edition,\" also titled Tales of the Alhambra.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781625583413"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1625583419"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cu2XDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cu2XDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Cu2XDAAAQBAJ&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Cu2XDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Cu2XDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Cu2XDAAAQBAJ&rdid=book-Cu2XDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_the_Alhambra-sample-epub.acsm?id=Cu2XDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cu2XDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Alhambra, a series of tales and sketches of the Moors and Spaniards, was published in May 1832."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AzhHnAIv_G0C",
+      "etag": "3BwhtVBdbsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AzhHnAIv_G0C",
+      "volumeInfo": {
+        "title": "Washington Irving: Bracebridge Hall, Tales of a Traveller, The Alhambra (LOA #52",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Library of America",
+        "publishedDate": "1991-03-01",
+        "description": "This second Library of America volume of Washington Irving brings together for the first time three collections of his stories and sketches. Written at the peak of his popularity, these three works reveal Irving’s remarkable diversity, his skill at adapting European legends to his own style, and the talent for entertainment that made him America’s first literary celebrity. Bracebridge Hall (1822) was published, like The Sketch Book, under the pseudonym Geoffrey Crayon, and centers on an English manor, its inhabitants, and the tales they tell. Interspersed with witty, evocative sketches of country life among the English nobility is the well-known tale “The Stout Gentleman” and stories based on English, French, and Spanish folklore, vividly recounted with Irving’s inimitable blend of elegance and colloquial dash. Tales of a Traveller (1824), written after a year-long stay in Germany, is a pivotal work in Irving’s career, marking his last experiment with fiction before he turned to the writing of history, biography, and adaptation of folktales. Irving felt his new stories to be “some of the best things I have ever written. They may not be as highly finished as some of my former writings, but they are touched off with a freer spirit, and are more true to life.” The Alhambra (1832) was inspired by Irving’s stay during the spring and summer of 1829 at the ancient Moorish palace in Granada, which he called “one of the most remarkable, romantic, and delicious spots in the world.” This rich compendium of tales, deftly interwoven with historical accounts and picturesque sketches, was assembled from Spanish and Moorish folklore, history, guidebooks, and anecdotes of Irving’s experiences among the local residents. LIBRARY OF AMERICA is an independent nonprofit cultural organization founded in 1979 to preserve our nation’s literary heritage by publishing, and keeping permanently in print, America’s best and most significant writing. The Library of America series includes more than 300 volumes to date, authoritative editions that average 1,000 pages in length, feature cloth covers, sewn bindings, and ribbon markers, and are printed on premium acid-free paper that will last for centuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0940450593"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780940450592"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1134,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AzhHnAIv_G0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AzhHnAIv_G0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AzhHnAIv_G0C&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AzhHnAIv_G0C&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Washington_Irving_Bracebridge_Hall_Tales.html?hl=&id=AzhHnAIv_G0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Washington_Irving_Bracebridge_Hall_Tales-sample-pdf.acsm?id=AzhHnAIv_G0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AzhHnAIv_G0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written at the peak of his popularity, these three works reveal Irving’s remarkable diversity, his skill at adapting European legends to his own style, and the talent for entertainment that made him America’s first literary celebrity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5-V_tAEACAAJ",
+      "etag": "/mFFRgyvmS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5-V_tAEACAAJ",
+      "volumeInfo": {
+        "title": "The ALHAMBRA by Washington Irving",
+        "subtitle": "The ALHAMBRA by Washington Irving, the Classic Books",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "The classic books are worth reading.If you are reader, you should not miss them.You will say \"Thanks\" to all the classic books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973821893"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973821892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5-V_tAEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5-V_tAEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_ALHAMBRA_by_Washington_Irving.html?hl=&id=5-V_tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5-V_tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The classic books are worth reading.If you are reader, you should not miss them.You will say &quot;Thanks&quot; to all the classic books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jnvxuAEACAAJ",
+      "etag": "CyOvpIfE0us",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jnvxuAEACAAJ",
+      "volumeInfo": {
+        "title": "The Alhambra",
+        "subtitle": "Tales of the Alhambra",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-06-25",
+        "description": "The Alhambra: Tales of the Alhambra is a collection of essays, verbal sketches, and stories by Washington Irving. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain. ROUGH draughts of some of the following tales and essays were actually written during a residence in the Alhambra; others were subsequently added, founded on notes and observations made there. Care was taken to maintain local coloring and verisimilitude; so that the whole might present a faithful and living picture of that microcosm, that singular little world into which I had been fortuitously thrown; and about which the external world had a very imperfect idea. It was my endeavor scrupulously to depict its half Spanish, half Oriental character; its mixture of the heroic, the poetic, and the grotesque; to revive the traces of grace and beauty fast fading from its walls; to record the regal and chivalrous traditions concerning those who once trod its courts; and the whimsical and superstitious legends of the motley race now burrowing among its ruins.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1721872779"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781721872770"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jnvxuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jnvxuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jnvxuAEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jnvxuAEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alhambra.html?hl=&id=jnvxuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jnvxuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Alhambra: Tales of the Alhambra is a collection of essays, verbal sketches, and stories by Washington Irving. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iOI67rFeIIgC",
+      "etag": "Eb7gHmC0W9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iOI67rFeIIgC",
+      "volumeInfo": {
+        "title": "Works of Washington Irving: Goldsmith",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015048876562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.18.23.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iOI67rFeIIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iOI67rFeIIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iOI67rFeIIgC&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iOI67rFeIIgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iOI67rFeIIgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iOI67rFeIIgC&rdid=book-iOI67rFeIIgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Works_of_Washington_Irving_Goldsmith.epub?id=iOI67rFeIIgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Works_of_Washington_Irving_Goldsmith.pdf?id=iOI67rFeIIgC&hl=&output=pdf&sig=ACfU3U0lUrxRGH_USESLtCNv3R9mfTs1Wg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iOI67rFeIIgC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xDUAwwEACAAJ",
+      "etag": "CinoWtQYFLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xDUAwwEACAAJ",
+      "volumeInfo": {
+        "title": "...Tales of the Alhambra",
+        "authors": [
+          "Irving Washington"
+        ],
+        "publisher": "Franklin Classics Trade Press",
+        "publishedDate": "2018-11-11",
+        "description": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0353396834"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780353396838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xDUAwwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xDUAwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xDUAwwEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xDUAwwEACAAJ&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_the_Alhambra.html?hl=&id=xDUAwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xDUAwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ualQSMN2A-8C",
+      "etag": "odF94l/7DXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ualQSMN2A-8C",
+      "volumeInfo": {
+        "title": "Tales from the Alhambra",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2012-07",
+        "description": "In 1826 Washington Irving went to Spain during a seventeen year visit to Europe. It always was his habit to write about his experiences and to reflect on them in comparison to his home country. \"But when he found himself across the Pyrenees, - for the first time, he lost himself in a country ...\" Surrounded by all this beauty, Irving \"recreated the strangest, most gifted, most unreal monarchy that ever reared its fabric for a time in Europe.\" Irving's \"Tales from the Alhambra\" were born ... Reprint of the 1910 edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783954549412"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3954549417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ualQSMN2A-8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ualQSMN2A-8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ualQSMN2A-8C&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ualQSMN2A-8C&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_from_the_Alhambra.html?hl=&id=ualQSMN2A-8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_from_the_Alhambra-sample-pdf.acsm?id=ualQSMN2A-8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ualQSMN2A-8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Surrounded by all this beauty, Irving &quot;recreated the strangest, most gifted, most unreal monarchy that ever reared its fabric for a time in Europe.&quot; Irving&#39;s &quot;Tales from the Alhambra&quot; were born ... Reprint of the 1910 edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IfBcDwAAQBAJ",
+      "etag": "P6aUPcLEeig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IfBcDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alhambra",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-05-23",
+        "description": "Reproduction of the original: The Alhambra by Washington Irving",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783732692613"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3732692612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 409,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IfBcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IfBcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IfBcDwAAQBAJ&printsec=frontcover&dq=Washington+Irving+The+Alhambra&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IfBcDwAAQBAJ&dq=Washington+Irving+The+Alhambra&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alhambra.html?hl=&id=IfBcDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Alhambra-sample-pdf.acsm?id=IfBcDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IfBcDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: The Alhambra by Washington Irving"
+      }
+    }
+  ]
+}

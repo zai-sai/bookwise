@@ -1,0 +1,709 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wUuFDwAAQBAJ",
+      "etag": "tRs8S778p1o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wUuFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2019-01-16",
+        "description": "Hercule Poirot is called to the Villa Geneviève in France to solve a brutal murder on an upscale golf course. His only clue is the torn corner of a check and a love letter. But before he can solve the case, the famous detective finds himself with a second murder on his hands.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359364060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359364063"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wUuFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wUuFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wUuFDwAAQBAJ&printsec=frontcover&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wUuFDwAAQBAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links.html?hl=&id=wUuFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_on_the_Links-sample-pdf.acsm?id=wUuFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wUuFDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hercule Poirot is called to the Villa Geneviève in France to solve a brutal murder on an upscale golf course."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lzWGzQEACAAJ",
+      "etag": "5rQeeME7i/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lzWGzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links - Agatha Christie",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-05-06",
+        "description": "When Hercule Poirot and his sidekick Arthur Hastings arrive in the French village of Merlinville-sur-Mer to meet their client Paul Renauld they learn from Paris police that he has been found that morning stabbed in the back with a letter opener and left in a newly dug grave adjacent to a local golf course. Among the plausible suspects are Renauld's wife Eloise, his son Jack, an unknown visitor of the previous day, Renauld's immediate neighbor Madame Daubreuil, and the mysterious \"Cinderella\" of Hasting's recent acquaintance-all of whom Poirot has reason to suspect. Poirot's powers of investigation ultimately triumph over the wiles of an assailant whose misdirection and motives are nearly-but not quite-impossible to spot. Contains a character key, a detailed biography, and an illustrated list of notable Poirot portrayals. Agatha Christie is the \"Queen of Mystery\" and the world's best-selling mystery writer. Over the course of more than half a century she wrote eighty crime novels and short story collections, nineteen plays, and several poetry collections. Her books have sold more than a billion copies in the English language and another billion in a hundred other languages. Agatha Christie died in 1976. title: The Murder on the Links - Agatha Christie",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798643660491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lzWGzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lzWGzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lzWGzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lzWGzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links_Agatha_Christie.html?hl=&id=lzWGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lzWGzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Her books have sold more than a billion copies in the English language and another billion in a hundred other languages. Agatha Christie died in 1976. title: The Murder on the Links - Agatha Christie"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pIc_PgAACAAJ",
+      "etag": "reA1ZJqdLJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pIc_PgAACAAJ",
+      "volumeInfo": {
+        "title": "The murder on the links",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0330102419"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780330102414"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pIc_PgAACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pIc_PgAACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_murder_on_the_links.html?hl=&id=pIc_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pIc_PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u9L4ZyVNqksC",
+      "etag": "1/qUtj/B2Y8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u9L4ZyVNqksC",
+      "volumeInfo": {
+        "title": "The Murder on the Links (Poirot)",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2010-10-14",
+        "description": "On a French golf course, a millionaire is found stabbed in the back...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007422562"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007422563"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.19.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u9L4ZyVNqksC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u9L4ZyVNqksC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u9L4ZyVNqksC&printsec=frontcover&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u9L4ZyVNqksC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u9L4ZyVNqksC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u9L4ZyVNqksC&rdid=book-u9L4ZyVNqksC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Murder_on_the_Links_Poirot-sample-epub.acsm?id=u9L4ZyVNqksC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u9L4ZyVNqksC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On a French golf course, a millionaire is found stabbed in the back..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kYg1iorTJZIC",
+      "etag": "wdvajYZoAcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kYg1iorTJZIC",
+      "volumeInfo": {
+        "title": "The Murder on the Links",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2011-06-14",
+        "description": "An urgent cry for help brings Hercule Poirot to France. But he arrives too late to save his client, whose brutally stabbed body now lies facedown in a shallow grave on a golf course. But why is the dead man wearing an overcoat that is too big for him? And for whom was the impassioned love letter in the pocket? Before Poirot can answer these questions, the case is turned upside down by the discovery of a second, identically murdered corpse.…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062073860"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062073869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kYg1iorTJZIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kYg1iorTJZIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kYg1iorTJZIC&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kYg1iorTJZIC&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links.html?hl=&id=kYg1iorTJZIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kYg1iorTJZIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An urgent cry for help brings Hercule Poirot to France."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m1zYzQEACAAJ",
+      "etag": "kgSCq1Utfqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m1zYzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links Illustrated",
+        "authors": [
+          "Agatha Chirstie"
+        ],
+        "publishedDate": "2020-09-17",
+        "description": "The Murder on the Links is a work of detective fiction by Agatha Christie, first published in the US by Dodd, Mead & Co in the same year and in the UK by The Bodley Head in May 1923. It features Hercule Poirot and Arthur Hastings. The UK edition retailed at seven shillings and sixpence, and the US edition at $1.75.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798687048415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m1zYzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m1zYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=m1zYzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=m1zYzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links_Illustrated.html?hl=&id=m1zYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m1zYzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It features Hercule Poirot and Arthur Hastings. The UK edition retailed at seven shillings and sixpence, and the US edition at $1.75."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mM_kwgEACAAJ",
+      "etag": "J6c+zTy6XsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mM_kwgEACAAJ",
+      "volumeInfo": {
+        "title": "Murder on the Links by Agatha Christie",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2019-01-16",
+        "description": "\"Two people rarely see the same thing.\" ― Agatha Christie, The Murder on the Links Experienced Belgian detective, Hercules Poirot is called in to a client but when he arrives is given notice of the man's death earlier that day. The victim lay face down in a grave located within a golf course. He was wearing his son's overcoat and a love letter within. Cause of death, a letter opener. Soon Poirot's case is flipped over by the discovery of another identical corpse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1794228802"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781794228801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 141,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mM_kwgEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mM_kwgEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Murder_on_the_Links_by_Agatha_Christie.html?hl=&id=mM_kwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mM_kwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Two people rarely see the same thing.&quot; ― Agatha Christie, The Murder on the Links Experienced Belgian detective, Hercules Poirot is called in to a client but when he arrives is given notice of the man&#39;s death earlier that day."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RUU4zwEACAAJ",
+      "etag": "G2uYpDoHJDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RUU4zwEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links: Hercule Poirot's Case",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "E-Artnow",
+        "publishedDate": "2022-07-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8027345170"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027345175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RUU4zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RUU4zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RUU4zwEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RUU4zwEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links_Hercule_Poirot_s.html?hl=&id=RUU4zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RUU4zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work not only exemplifies Christie&#39;s brilliance but also serves as an essential reading for anyone interested in the evolution of the mystery genre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JZHZzQEACAAJ",
+      "etag": "U8qQ3Oo4BrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JZHZzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links Illustrated",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-09-06",
+        "description": "The Murder on the Links is a work of detective fiction by Agatha Christie, first published in the US by Dodd, Mead & Co in the same year[1][2] and in the UK by The Bodley Head in May 1923.[3] It features Hercule Poirot and Arthur Hastings. The UK edition retailed at seven shillings and sixpence (7/6), [3] and the US edition at $1.75.[2]The story takes place in northern France, giving Poirot a hostile competitor from the Paris Sûreté. Poirot's long memory for past or similar crimes proves useful in resolving the crimes. The book is notable for a subplot in which Hastings falls in love, a development \"greatly desired on Agatha's part... parcelling off Hastings to wedded bliss in the Argentine.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798683288976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JZHZzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JZHZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JZHZzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JZHZzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links_Illustrated.html?hl=&id=JZHZzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JZHZzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is notable for a subplot in which Hastings falls in love, a development &quot;greatly desired on Agatha&#39;s part... parcelling off Hastings to wedded bliss in the Argentine.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C9eAzQEACAAJ",
+      "etag": "Cyv01AIrMrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C9eAzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Murder on the Links",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-04-15",
+        "description": "The Murder on the Links is a work of detective fiction by Agatha Christie, first published in the US by Dodd, Mead & Co in the same year and in the UK by The Bodley Head in May 1923.It features Hercule Poirot and Arthur Hastings. The UK edition retailed at seven shillings and sixpence (7/6), and the US edition at $1.75. The story takes place in northern France, giving Poirot a hostile competitor from the Paris Sûreté. Poirot's long memory for past or similar crimes proves useful in resolving the crimes. The book is notable for a subplot in which Hastings falls in love, a development \"greatly desired on Agatha's part... parcelling off Hastings to wedded bliss in the Argentine.\" Reviews when it was published compared Mrs Christie favourably to Arthur Conan Doyle in his Sherlock Holmes mysteries. Remarking on Poirot, still a new character, one reviewer said he was \"a pleasant contrast to most of his lurid competitors; and one even suspects a touch of satire in him.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2491704366"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782491704360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C9eAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C9eAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C9eAzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=C9eAzQEACAAJ&dq=Agatha+Christie+Murder+on+the+Links&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murder_on_the_Links.html?hl=&id=C9eAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C9eAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The UK edition retailed at seven shillings and sixpence (7/6), and the US edition at $1.75. The story takes place in northern France, giving Poirot a hostile competitor from the Paris Sûreté."
+      }
+    }
+  ]
+}

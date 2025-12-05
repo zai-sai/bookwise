@@ -1,0 +1,675 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GZ9yDQAAQBAJ",
+      "etag": "nlxVZGeMGGc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GZ9yDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case",
+        "authors": [
+          "E. C. Bentley"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1997-07-11",
+        "description": "Presents a republication of the 1913 novel in which detective Philip Trent, sent by a London newspaper to investigate the death of a millionaire American financier murdered while on holiday in England, not only falls in love with the chief suspect, but manages to reach a totally wrong conclusion about the killing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486296876"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486296873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GZ9yDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GZ9yDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GZ9yDQAAQBAJ&printsec=frontcover&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GZ9yDQAAQBAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case.html?hl=&id=GZ9yDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_s_Last_Case-sample-pdf.acsm?id=GZ9yDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GZ9yDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a republication of the 1913 novel in which detective Philip Trent, sent by a London newspaper to investigate the death of a millionaire American financier murdered while on holiday in England, not only falls in love with the chief ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8AHswEACAAJ",
+      "etag": "R9quOURO6aI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8AHswEACAAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case: the Woman in Black",
+        "authors": [
+          "E. C. Bentley"
+        ],
+        "publishedDate": "2015-07-22",
+        "description": "TRENT's LAST CASE: THE WOMAN IN BLACKBy Edmund Clerihew *E.C.) BentleyE.C. Bentley's shrewd detective Philip Trent seems to get everything correct except for the motive in the murder of a high flying financier. There are enough twists and turns to keep readers attention as they try to resolve the puzzle while a love story develops alongside the murder investigation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1515184870"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781515184874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G8AHswEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=G8AHswEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case_the_Woman_in_Black.html?hl=&id=G8AHswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8AHswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "TRENT&#39;s LAST CASE: THE WOMAN IN BLACK (1913)By Edmund Clerihew (E.C.) Bentley E.C. Bentley&#39;s shrewd detective Philip Trent seems to get everything correct except for the motive in the murder of a high flying financier."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "921BrgEACAAJ",
+      "etag": "I0jLOnZGgPA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/921BrgEACAAJ",
+      "volumeInfo": {
+        "title": "E C Bentley Classic Novel Combo",
+        "subtitle": "Trent's Last Case, the Woman in Black (E C Bentley Masterpiece Collection)",
+        "authors": [
+          "E C Bentley"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-04-11",
+        "description": "E C Bentley Classic Novel Combo Trent's Last Case, The Woman in Black (E C Bentley Masterpiece Collection)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1511691557"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781511691550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=921BrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=921BrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=921BrgEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=921BrgEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/E_C_Bentley_Classic_Novel_Combo.html?hl=&id=921BrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=921BrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "E C Bentley Classic Novel Combo Trent&#39;s Last Case, The Woman in Black (E C Bentley Masterpiece Collection)"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9neQMwEACAAJ",
+      "etag": "BivstRhlEB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9neQMwEACAAJ",
+      "volumeInfo": {
+        "title": "E. C. Bentley",
+        "subtitle": "Trent's Last Case",
+        "authors": [
+          "Isadore Lewis Baker"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557918927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9neQMwEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9neQMwEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/E_C_Bentley.html?hl=&id=9neQMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9neQMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_H99EAAAQBAJ",
+      "etag": "zqSvbN4PGf8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_H99EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case or The Woman in Black",
+        "authors": [
+          "Edmund Clerihew Bentley"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-07-20",
+        "description": "Edmund Clerihew Bentley's 'Trent's Last Case', also known as 'The Woman in Black', is a seminal work in the genre of detective fiction that predates the proliferation of the 'whodunit'. Blending a suspense-filled plot with careful character development, Bentley presents readers with a masterful narrative punctuated by wry humor and keen social commentary. The tale pivots on the brilliant but fallible sleuth Philip Trent as he attempts to unravel the perplexing murder of an American magnate abroad, clashing with Scotland Yard in a battle of wits. The novel's narrative style and literary devices have been celebrated for their influence on future giants of crime literature, reflecting a turn-of-the-century Britain caught between Edwardian optimism and the looming shadows of modernism. Edmund Clerihew Bentley, a journalist and author, was a contemporary and friend of G.K. Chesterton, and together, they formed a part of the literary milieu that defined early 20th-century English literature. Bentley's innovation in the detective story structure, particularly the introduction of flawed detectives and the twist ending, could be a product of his literary background, attuned to the foibles of human nature and the intricacies of truth and perception. 'Trent's Last Case' stands out not merely as a finely crafted mystery but also as a reflection of Bentley's profound understanding of the human condition and the societal shifts of his time. 'Trent's Last Case' is recommended for readers who cherish the intellectual rigor and psychological depth of classic detective fiction. Bentley's novel is a must-read for connoisseurs of the genre seeking to explore its origins and evolution. It is a work that not only entertains but also invites reflection on the nature of justice and the methodology of investigation, ensuring its place as a timeless classic that resonates far beyond the era of its creation.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547086673"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_H99EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_H99EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_H99EAAAQBAJ&printsec=frontcover&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_H99EAAAQBAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case_or_The_Woman_in_Black.html?hl=&id=_H99EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_s_Last_Case_or_The_Woman_in_Black-sample-epub.acsm?id=_H99EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_s_Last_Case_or_The_Woman_in_Black-sample-pdf.acsm?id=_H99EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_H99EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The tale pivots on the brilliant but fallible sleuth Philip Trent as he attempts to unravel the perplexing murder of an American magnate abroad, clashing with Scotland Yard in a battle of wits."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sbpQrgEACAAJ",
+      "etag": "qyajjsxA04w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sbpQrgEACAAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case, the Original Novel",
+        "subtitle": "(E C Bentley Masterpiece Collection)",
+        "authors": [
+          "E C Bentley"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-04-11",
+        "description": "Between what matters and what seems to matter, how should the world we know judge wisely? When the scheming, indomitable brain of Sigsbee Manderson was scattered by a shot from an unknown hand, that world lost nothing worth a single tear; it gained something memorable in a harsh reminder of the vanity of such wealth as this dead man had piled up-without making one loyal friend to mourn him, without doing an act that could help his memory to the least honour. But when the news of his end came, it seemed to those living in the great vortices of business as if the earth too shuddered under a blow. In all the lurid commercial history of his country there had been no figure that had so imposed itself upon the mind of the trading world. He had a niche apart in its temples. Financial giants, strong to direct and augment the forces of capital, and taking an approved toll in millions for their labour, had existed before; but in the case of Manderson there had been this singularity, that a pale halo of piratical romance, a thing especially dear to the hearts of his countrymen, had remained incongruously about his head through the years when he stood in every eye as the unquestioned guardian of stability, the stamper-out of manipulated crises, the foe of the raiding chieftains that infest the borders of Wall Street. The fortune left by his grandfather, who had been one of those chieftains on the smaller scale of his day, had descended to him with accretion through his father, who during a long life had quietly continued to lend money and never had margined a stock. Manderson, who had at no time known what it was to be without large sums to his hand, should have been altogether of that newer American plutocracy which is steadied by the tradition and habit of great wealth. But it was not so. While his nurture and education had taught him European ideas of a rich man's proper external circumstance; while they had rooted in him an instinct for quiet magnificence, the larger costliness which does not shriek of itself with a thousand tongues; there had been handed on to him nevertheless much of the Forty-Niner and financial buccaneer, his forbear. During that first period of his business career which had been called his early bad manner, he had been little more than a gambler of genius, his hand against every man's-an infant prodigy-who brought to the enthralling pursuit of speculation a brain better endowed than any opposed to it. At St Helena it was laid down that war is une belle occupation; and so the young Manderson had found the multitudinous and complicated dog-fight of the Stock Exchange of New York. Then came his change. At his father's death, when Manderson was thirty years old, some new revelation of the power and the glory of the god he served seemed to have come upon him. With the sudden, elastic adaptability of his nation he turned to steady labour in his father's banking business, closing his ears to the sound of the battles of the Street. In a few years he came to control all the activity of the great firm whose unimpeached conservatism, safety, and financial weight lifted it like a cliff above the angry sea of the markets. All mistrust founded on the performances of his youth had vanished. He was quite plainly a different man. How the change came about none could with authority say, but there was a story of certain last words spoken by his father, whom alone he had respected and perhaps loved. He began to tower above the financial situation. Soon his name was current in the bourses of the world. One who spoke the name of Manderson called",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1511691018"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781511691017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sbpQrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sbpQrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sbpQrgEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sbpQrgEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case_the_Original_Novel.html?hl=&id=sbpQrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sbpQrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Between what matters and what seems to matter, how should the world we know judge wisely?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4dfYTUORSdsC",
+      "etag": "79DJKz/lk4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4dfYTUORSdsC",
+      "volumeInfo": {
+        "title": "Trent Intervenes and Other Stories",
+        "authors": [
+          "Edmund Clerihew Bentley"
+        ],
+        "publisher": "House of Stratus",
+        "publishedDate": "2001",
+        "description": "Artist, connoisseur and private detective, Philip Trent, features. Included is 'The Genuine Tabard', in which a clergyman and unique objets d'art are involved in a neat confidence trick; 'The Foolproof Lift', in which a blackmailing valet is murdered; and 'The Ordinary Hairpins', in which an opera singer commits suicide - but Trent is suspicious.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780755103263"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0755103262"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4dfYTUORSdsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4dfYTUORSdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4dfYTUORSdsC&printsec=frontcover&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4dfYTUORSdsC&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_Intervenes_and_Other_Stories.html?hl=&id=4dfYTUORSdsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_Intervenes_and_Other_Stories-sample-epub.acsm?id=4dfYTUORSdsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_Intervenes_and_Other_Stories-sample-pdf.acsm?id=4dfYTUORSdsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4dfYTUORSdsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Artist, connoisseur and private detective, Philip Trent, features."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tSrmEAAAQBAJ",
+      "etag": "FecqB900BpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tSrmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case",
+        "subtitle": "Enriched edition. A Detective Novel (Also known as The Woman in Black)",
+        "authors": [
+          "E. C. Bentley"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2023-11-18",
+        "description": "In \"Trent's Last Case,\" E. C. Bentley presents a pioneering work in the detective fiction genre that masterfully intertwines social commentary with a gripping whodunit narrative. This novel, first published in 1913, is characterized by its sharp wit and satirical tone, as Bentley deftly critiques the conventions of traditional detective storytelling. The protagonist, Philip Trent, finds himself embroiled in a perplexing murder case that challenges both his instincts as a detective and his understanding of morality. The narrative structure is innovative for its time, utilizing elements of surprise and misdirection that invoke the reader's own deductive reasoning, thus elevating the intellectual engagement of the genre. E. C. Bentley, an influential figure in literary circles and a contemporary of other greats such as G. K. Chesterton, drew upon his extensive knowledge of journalism and literary theory to craft this seminal novel. His background in both law and literary critique provided Bentley with a unique lens through which to explore the tropes of crime and culpability, making \"Trent's Last Case\" not merely a novel, but a commentary on the human condition and the nature of justice. This exceptional work is highly recommended for both aficionados of detective fiction and newcomers to the genre. Bentley's innovative approach not only laid the groundwork for future crime writers but also invites readers to contemplate deeper philosophical questions surrounding truth and deception. Experience the brilliance of Bentley's narrative as you unravel the complexities of Trent's last case. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand‐picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547670308"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tSrmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tSrmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tSrmEAAAQBAJ&printsec=frontcover&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tSrmEAAAQBAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case.html?hl=&id=tSrmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_s_Last_Case-sample-epub.acsm?id=tSrmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Trent_s_Last_Case-sample-pdf.acsm?id=tSrmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tSrmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel, first published in 1913, is characterized by its sharp wit and satirical tone, as Bentley deftly critiques the conventions of traditional detective storytelling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F9nvOwAACAAJ",
+      "etag": "q5RQwme65AU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F9nvOwAACAAJ",
+      "volumeInfo": {
+        "title": "E.C. Bentley",
+        "subtitle": "Trent's Last Case",
+        "authors": [
+          "I. L. Baker"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:316197098"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=F9nvOwAACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=F9nvOwAACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/E_C_Bentley.html?hl=&id=F9nvOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F9nvOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FrozwAEACAAJ",
+      "etag": "sowNsQ8eYBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FrozwAEACAAJ",
+      "volumeInfo": {
+        "title": "Trent's Last Case",
+        "subtitle": "The Woman in Black",
+        "authors": [
+          "Edmund Clerihew Bentley"
+        ],
+        "publisher": "Alpha Edition",
+        "publishedDate": "2018-12-07",
+        "description": "This book has been considered by academicians and scholars of great significance and value to literature. This forms a part of the knowledge base for future generations. We havent used any OCR or photocopy to produce this book. The whole book has been typeset again to produce it without any errors or poor pictures and errant marks.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9353291755"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789353291754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FrozwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FrozwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FrozwAEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FrozwAEACAAJ&dq=E.+C.+Bentley+Trent%27s+Last+Case&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trent_s_Last_Case.html?hl=&id=FrozwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FrozwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book has been considered by academicians and scholars of great significance and value to literature. This forms a part of the knowledge base for future generations. We havent used any OCR or photocopy to produce this book."
+      }
+    }
+  ]
+}

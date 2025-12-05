@@ -1,0 +1,741 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "51aMCgAAQBAJ",
+      "etag": "3KaODTi61Fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/51aMCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Time Machine",
+        "authors": [
+          "H. G. Wells"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1995",
+        "description": "English novelist, historian and science writer Herbert George Wells (1866–1946) abandoned teaching and launched his literary career with a series of highly successful science-fiction novels. The Time Machine was the first of a number of these imaginative literary inventions. First published in 1895, the novel follows the adventures of a hypothetical Time Traveller who journeys into the future to find that humanity has evolved into two races: the peaceful Eloi — vegetarians who tire easily — and the carnivorous, predatory Morlocks. After narrowly escaping from the Morlocks, the Time Traveller undertakes another journey even further into the future where he finds the earth growing bitterly cold as the heat and energy of the sun wane. Horrified, he returns to the present, but soon departs again on his final journey. While the novel is underpinned with both Darwinian and Marxist theory and offers fascinating food for thought about the world of the future, it also succeeds as an exciting blend of adventure and pseudo-scientific romance. Sure to delight lovers of the fantastic and bizarre, The Time Machine is a book that belongs on the shelf of every science-fiction fan.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486284729"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486284727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=51aMCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=51aMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=51aMCgAAQBAJ&printsec=frontcover&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=51aMCgAAQBAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine.html?hl=&id=51aMCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Time_Machine-sample-pdf.acsm?id=51aMCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=51aMCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1895, the novel follows the adventures of a hypothetical Time Traveller who journeys into the future to find that humanity has evolved into two races: the peaceful Eloi — vegetarians who tire easily — and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yzt4Mwo8BbkC",
+      "etag": "KK+Ok4SayGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yzt4Mwo8BbkC",
+      "volumeInfo": {
+        "title": "The Time Machine",
+        "authors": [
+          "H.G. Wells"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2011-05-31",
+        "description": "The H.G. Wells classic that helped launch the time travel genre. The Time Traveller, a dreamer obsessed with traveling through time, builds himself a time machine and, much to his surprise, travels over 800,000 years into the future. He lands in the year 802701: the world has been transformed by a society living in apparent harmony and bliss, but as the Traveler stays in the future he discovers a hidden barbaric and depraved subterranean class. The Time Machine inspired the international bestseller The Map of Time by Félix J. Palma. As a gift to our readers, we are including the first three chapters of The Map of Time in this ebook edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451658866"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451658869"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 514,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.39.31.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yzt4Mwo8BbkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yzt4Mwo8BbkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Yzt4Mwo8BbkC&printsec=frontcover&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Yzt4Mwo8BbkC&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine.html?hl=&id=Yzt4Mwo8BbkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Time_Machine-sample-epub.acsm?id=Yzt4Mwo8BbkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yzt4Mwo8BbkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Time Machine inspired the international bestseller The Map of Time by Félix J. Palma. As a gift to our readers, we are including the first three chapters of The Map of Time in this ebook edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ImSz0pdqStAC",
+      "etag": "a1VpdFg0n6A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ImSz0pdqStAC",
+      "volumeInfo": {
+        "title": "The Time Machine",
+        "authors": [
+          "H. G. Wells"
+        ],
+        "publisher": "Capstone",
+        "publishedDate": "2007-08",
+        "description": "A scientist invents a time machine that carries him into the future, and while there, he meets a race of gentle humans and evil creatures. Written in graphic-novel format.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1598898892"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781598898897"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ImSz0pdqStAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ImSz0pdqStAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ImSz0pdqStAC&printsec=frontcover&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ImSz0pdqStAC&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine.html?hl=&id=ImSz0pdqStAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Time_Machine-sample-pdf.acsm?id=ImSz0pdqStAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ImSz0pdqStAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A scientist invents a time machine that carries him into the future, and while there, he meets a race of gentle humans and evil creatures. Written in graphic-novel format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dG-mCBHlCKQC",
+      "etag": "q9JoZpxIgQM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dG-mCBHlCKQC",
+      "volumeInfo": {
+        "title": "The Time Machine",
+        "subtitle": "An Invention",
+        "authors": [
+          "H. G. Wells"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "2011-08-10",
+        "description": "When the Time Traveller courageously stepped out of his machine for the first time, he found himself in the year 802,700—and everything had changed. In this unfamiliar, utopian age creatures seemed to dwell together in perfect harmony. The Time Traveller thought he could study these marvelous beings—unearth their secret and then return to his own time—until he discovered that his invention, his only avenue of escape, had been stolen. H. G. Wells’s famous novel of one man’s astonishing journey beyond the conventional limits of the imagination first appeared in 1895. It won him immediate recognition and has been regarded ever since as one of the great masterpieces in the literature of science fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307757784"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307757781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dG-mCBHlCKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dG-mCBHlCKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dG-mCBHlCKQC&printsec=frontcover&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dG-mCBHlCKQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dG-mCBHlCKQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.22,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.22,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dG-mCBHlCKQC&rdid=book-dG-mCBHlCKQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3220000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3220000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Time_Machine-sample-epub.acsm?id=dG-mCBHlCKQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dG-mCBHlCKQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When the Time Traveller courageously stepped out of his machine for the first time, he found himself in the year 802,700—and everything had changed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S3ZbAAAAMAAJ",
+      "etag": "xOvWLVcwGJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S3ZbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Definitive Time Machine",
+        "subtitle": "A Critical Edition of H.G. Well's Scientific Romance",
+        "authors": [
+          "Herbert George Wells"
+        ],
+        "publishedDate": "1987",
+        "description": "\"The Time Machine is a science fiction novel by H. G. Wells, published in 1895 and written as a frame narrative. Wells is generally credited with the popularization of the concept of time travel by using a vehicle that allows an operator to travel purposely and selectively forwards or backwards in time. The term \"time machine\", coined by Wells, is now almost universally used to refer to such a vehicle.\"--Wikipedia.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012946284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S3ZbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S3ZbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S3ZbAAAAMAAJ&q=H.+G.+Wells+The+Time+Machine&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S3ZbAAAAMAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Definitive_Time_Machine.html?hl=&id=S3ZbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S3ZbAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Time Machine is a science fiction novel by H. G. Wells, published in 1895 and written as a frame narrative."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d4-KDwAAQBAJ",
+      "etag": "SeV2A0DW/h4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d4-KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Time Machine. H. G. Wells (englische Ausgabe)",
+        "authors": [
+          "H. G. Wells"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2019-02-27",
+        "description": "H. G. Wells Jahrhundertroman \"Die Zeitmaschine\", ein Klassiker der Science Fiction Literatur, als Fremdsprachentext im englischen Original. Völlig erschöpft und ramponiert erscheint der Zeitreisende vor seinen Gästen und erzählt von unglaublichen Erlebnissen. Mit seiner Zeitmaschine war er 800.000 Jahre in die Zukunft gereist und den Nachkommen der Menschen begegnet. Die friedvolle Idylle der 'Eloi' erwies sich ihm jedoch bald als ein Freigehege voller Tod und Gefahren. Mit seinem Roman »Die Zeitmaschine« bereitete H.G. Wells den Weg für die moderne Science Fiction Literatur und vermachte seinen Nachfolgern heute unsterblich gewordene Ideen, Themen und Motive. Als scharfsichtiger Beobachter seiner Zeit, die von scheinbar grenzenlosem Fortschritt und Erkenntnisgewinn bestimmt war, übt er Kritik an politischen, wirtschaftlichen und sozialen Verhältnissen und betrachtet die Auswirkungen gegenwärtiger Fehlentwicklungen in der Zukunft. »Die Zeitmaschine« ist eine in Unterhaltung verpackte Parabel, ein zeitloser Klassiker der Endzeit-Literatur, der auch heute noch die Leser in den Bann zieht. ---- The Time Traveler appears exhausted and battered in front of his guests. As he talks about his experiences, hardly anyone believes him: With his time machine he had travelled 800,000 years into the future and met the descendants of human beings. The 'Eloi' seems to live without need, worry, and fear. But during his stay the Time Traveler discovered that the Eloi are only one side of the coin. With his novel \"The Time Machine\" H. G. Wells paved the way for modern science fiction literature. He bequeathed ideas, themes, and motifs that have become immortal to his successors. As a sharp-sighted observer of his time, which was determined by the seemingly limitless progress and gain of knowledge, he criticized political, economic and social conditions, and considered the effects of undesirable developments in the future. \"The Time Machine\" is a parable packaged in entertainment, a classic of end-time literature that still thrills today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783965450127"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3965450123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d4-KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d4-KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d4-KDwAAQBAJ&printsec=frontcover&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d4-KDwAAQBAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine_H_G_Wells_englische_Aus.html?hl=&id=d4-KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Time_Machine_H_G_Wells_englische_Aus-sample-pdf.acsm?id=d4-KDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d4-KDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "H. G. Wells Jahrhundertroman &quot;Die Zeitmaschine&quot;, ein Klassiker der Science Fiction Literatur, als Fremdsprachentext im englischen Original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wuo-PgAACAAJ",
+      "etag": "+k924MwZ42c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wuo-PgAACAAJ",
+      "volumeInfo": {
+        "title": "The Time Machine",
+        "authors": [
+          "H. G. Wells"
+        ],
+        "publishedDate": "2004",
+        "description": "A time traveler voyages into the future to find the world has been divided into two races.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0809596431"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780809596430"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wuo-PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wuo-PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Wuo-PgAACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Wuo-PgAACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine.html?hl=&id=Wuo-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wuo-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A time traveler voyages into the future to find the world has been divided into two races."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w7kkzgEACAAJ",
+      "etag": "833pr1vOISI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w7kkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Time Machine by H.G. Wells",
+        "authors": [
+          "H G Wells"
+        ],
+        "publishedDate": "2020-12-29",
+        "description": "The Time Machine, first novel by H. G. Wells, published in book form in 1895. The novel is considered one of the earliest works of science fiction and the progenitor of the \"time travel\" subgenre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798588040884"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w7kkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w7kkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=w7kkzgEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=w7kkzgEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine_by_H_G_Wells.html?hl=&id=w7kkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w7kkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Time Machine, first novel by H. G. Wells, published in book form in 1895. The novel is considered one of the earliest works of science fiction and the progenitor of the &quot;time travel&quot; subgenre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a8djzgEACAAJ",
+      "etag": "0bwv9sKzVjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a8djzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Time Machine by H. G. Wells",
+        "authors": [
+          "H. G. H.G. Wells"
+        ],
+        "publishedDate": "2021-02-19",
+        "description": "The Time Machine, first novel by H. G. Wells, published in book form in 1895. The novel is considered one of the earliest works of science fiction and the progenitor of the \"time travel\" subgenre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798711432647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a8djzgEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a8djzgEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine_by_H_G_Wells.html?hl=&id=a8djzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a8djzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Time Machine, first novel by H. G. Wells, published in book form in 1895. The novel is considered one of the earliest works of science fiction and the progenitor of the &quot;time travel&quot; subgenre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RR2_zQEACAAJ",
+      "etag": "wdSdz+16q0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RR2_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Time Machine by H. G. Wells.",
+        "subtitle": "Novel",
+        "authors": [
+          "H G Wells"
+        ],
+        "publishedDate": "2020-08-06",
+        "description": "\"The Time Machine is a novel by H. G. Wells, first published in 1895. It is generally credited with the introduction of the concept of time travel using a vehicle that allows an operator to travel purposefully and selectively.\"Early lifeHerbert George Wells was born at Atlas House, 162 High Street in Bromley, Kent, on 21 September 1866. Called \"Bertie\" by his family, he was the fourth and last child of Sarah Neal, a former domestic servant, and Joseph Wells, a former domestic gardener, and at the time a shopkeeper and professional cricketer. An inheritance had allowed the family to acquire a shop in which they sold china and sporting goods, although it failed to prosper: the stock was old and worn out, and the location was poor. Joseph Wells managed to earn a meagre income, but little of it came from the shop and he received an unsteady amount of money from playing professional cricket for the Kent county team. Payment for skilled bowlers and batsmen came from voluntary donations afterwards, or from small payments from the clubs where matches were played",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798672926391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RR2_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RR2_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RR2_zQEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RR2_zQEACAAJ&dq=H.+G.+Wells+The+Time+Machine&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Time_Machine_by_H_G_Wells.html?hl=&id=RR2_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RR2_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Time Machine is a novel by H. G. Wells, first published in 1895."
+      }
+    }
+  ]
+}

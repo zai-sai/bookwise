@@ -1,0 +1,693 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lxK_zgEACAAJ",
+      "etag": "HpxIJ61oxYQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lxK_zgEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand",
+        "subtitle": "First Edition",
+        "authors": [
+          "Howard Howard Pyle"
+        ],
+        "publishedDate": "2021-11-18",
+        "description": "Otto of the Silver Hand by Howard Pyle",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798769397622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lxK_zgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lxK_zgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand.html?hl=&id=lxK_zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lxK_zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Otto of the Silver Hand by Howard Pyle"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w5-0vgEACAAJ",
+      "etag": "4M6ixYC93Fw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w5-0vgEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand (1888)",
+        "subtitle": "Children's Novel",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-11-05",
+        "description": "Otto of the Silver Hand is a children's novel about the Dark Ages written and illustrated by Howard Pyle. It was first published in 1888 by Charles Scribner's Sons. The novel was one of the first written for young readers that went beyond the chivalric ideals of the time period, and showed how cruel the time period could really be.Plot summaryThe book centers upon the life of Otto, the son of German warlord Baron Conrad. Otto's mother, Baroness Matilda, has died in premature labour, brought on by the sight of the Baron's battle wounds, prompting Conrad to take his newborn son to be raised in a nearby monastery. When Otto reaches the age of eleven his father returns to claim him from the gentle monks, taking him back to live in Castle Drachenhausen, (\"Dragons' House\", in German) the ancestral mountaintop fortress from which the Baron launches his attacks. Here Otto learns of and is horrified by his father's life as a robber baron. Otto is particularly horrified by the revelation of how Conrad killed a defeated, surrendering enemy, Baron Frederick. A rival robber baron, Baron Frederick had been with his men defending a column of merchants in return for the tribute they were paying him.Shortly thereafter, Baron Conrad obeys a summons to the Imperial Court, taking the vast majority of his men-at-arms with him as an impressive escort but leaving Castle Drachenhausen practically undefended as a result. The late Baron Frederick's heir, his nephew Baron Henry, then attacks the castle and burns it to the ground. Baron Henry then takes Otto captive to his own fortress, Castle Trutzdrachen (\"Dragon-scorner,\" in German). In the dungeon of his castle, Baron Henry explains to Otto that he has sworn a solemn oath that any member of Baron Conrad's House who fell into his hands would never be able to strike a blow like the one which killed his uncle, Baron Frederick. Because Otto is so young, the Baron keeps this oath by cutting off his right hand instead of killing him, and as an afterthought has a healer sent to tend to him. While Otto is feverish from the pain of his wound, he is comforted by Baron Henry's eight-year-old daughter Pauline, who visits his cell.Otto's father Baron Conrad then returns and rescues him with the help of a few remaining loyal followers. Baron Henry and his men give chase and Otto's father kills Baron Henry in single combat but dies in the process, choosing to sacrifice his life so that his son can escape. Otto flees to the monastery where he grew up and is given refuge there. After Otto regains his health the Abbot accompanies him to an audience with the Emperor, who promises restitution and takes responsibility for Otto's future upbringing. ........................Howard Pyle (March 5, 1853 - November 9, 1911) was an American illustrator and author, primarily of books for young people. He was a native of Wilmington, Delaware, and he spent the last year of his life in Florence, Italy.In 1894, he began teaching illustration at the Drexel Institute of Art, Science, and Industry (now Drexel University). After 1900, he founded his own school of art and illustration named the Howard Pyle School of Illustration Art. Scholar Henry C. Pitz later used the term Brandywine School for the illustration artists and Wyeth family artists of the Brandywine region, several of whom had studied with Pyle.Some of his more notable students were N. C. Wyeth, Frank Schoonover, Elenore Abbott, Ethel Franklin Betts, Anna Whelan Betts, Harvey Dunn, Clyde O. DeLand, Philip R. Goodwin, Thornton Oakley, Violet Oakley, Ellen Bernard Thompson Pyle, Olive Rush, Allen Tupper True, Elizabeth Shippen Green, Arthur E. Becher, William James Aylward, Jessie Willcox Smith, and Charlotte Harding. Pyle taught his students at his home and studio in Wilmington, which is still standing and is listed on the National Register of Historic Places.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1730918719"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781730918711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w5-0vgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w5-0vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=w5-0vgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=w5-0vgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand_1888.html?hl=&id=w5-0vgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w5-0vgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel was one of the first written for young readers that went beyond the chivalric ideals of the time period, and showed how cruel the time period could really be.Plot summaryThe book centers upon the life of Otto, the son of German ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aJ3tAQAACAAJ",
+      "etag": "kzXjxPm21lc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aJ3tAQAACAAJ",
+      "volumeInfo": {
+        "title": "OTTO OF THE SILVER HAND",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "Blurb",
+        "publishedDate": "2017-03-10",
+        "description": "Otto of the Silver Hand by Howard Pyle. One of the greatest classics of literary fiction, now available in high quality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1366577418"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781366577412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aJ3tAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aJ3tAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aJ3tAQAACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aJ3tAQAACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/OTTO_OF_THE_SILVER_HAND.html?hl=&id=aJ3tAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aJ3tAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Otto of the Silver Hand by Howard Pyle. One of the greatest classics of literary fiction, now available in high quality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KlfVEAAAQBAJ",
+      "etag": "Yx9L3eBmaes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KlfVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand",
+        "subtitle": "in large print",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-09-03",
+        "description": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783387023671"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3387023677"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KlfVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KlfVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KlfVEAAAQBAJ&printsec=frontcover&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KlfVEAAAQBAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand.html?hl=&id=KlfVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Otto_of_the_Silver_Hand-sample-pdf.acsm?id=KlfVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KlfVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4lybwgEACAAJ",
+      "etag": "IYLuRUYTEs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4lybwgEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand (Annotated)",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-03-02",
+        "description": "The book centers around the life of Otto, the son of a German warlord. His mother dies when she sees her husband hurt, prompting his father to take his newborn son to a near monastery to be raised. When Otto...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1798448475"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781798448472"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4lybwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4lybwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4lybwgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4lybwgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand_Annotated.html?hl=&id=4lybwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4lybwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book centers around the life of Otto, the son of a German warlord. His mother dies when she sees her husband hurt, prompting his father to take his newborn son to a near monastery to be raised. When Otto..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xQxTMQAACAAJ",
+      "etag": "SMlOIZdy5Ro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xQxTMQAACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand (1888) ( Children's ) Novel by",
+        "subtitle": "Howard Pyle",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-28",
+        "description": "Otto of the Silver Hand is a children's novel about the Dark Ages written and illustrated by Howard Pyle. It was first published in 1888 by Charles Scribner's Sons. The novel was one of the first written for young readers that went beyond the chivalric ideals of the time period, and showed how cruel the time period could really be The book centers around the life of Otto, the son of German warlord Baron Conrad. Otto's mother, Baroness Matilda, has died in premature labour, brought on by the sight of the Baron's battle wounds, prompting Conrad to take his newborn son to be raised in a nearby monastery. When Otto reaches the age of eleven his father returns to claim him from the gentle monks, taking him back to live in Castle Drachenhausen,",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542810558"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542810555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xQxTMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xQxTMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xQxTMQAACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xQxTMQAACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand_1888_Children_s.html?hl=&id=xQxTMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xQxTMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel was one of the first written for young readers that went beyond the chivalric ideals of the time period, and showed how cruel the time period could really be The book centers around the life of Otto, the son of German warlord ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "diaKzQEACAAJ",
+      "etag": "LDpdk6Kqgp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/diaKzQEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand",
+        "subtitle": "Original Text",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publishedDate": "2020-05",
+        "description": "Born into a family that is already engaged in a blood feud with another noble house, Otto is sent to live with monks, but is reclaimed at age 12 by his militant, but loving father. The gentle-natured boy is kidnapped and mutilated by the rival family. Pauline, his captors daughter helps him escape. His father allows him to return to the monks who place him under the emperor's protection. His silver hand is a replacement for the one Otto lost while in captivity, but his injury does not prevent him from maturing wisely and marrying Pauline.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798642207666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=diaKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=diaKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=diaKzQEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=diaKzQEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand.html?hl=&id=diaKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=diaKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His silver hand is a replacement for the one Otto lost while in captivity, but his injury does not prevent him from maturing wisely and marrying Pauline."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HkyEzQEACAAJ",
+      "etag": "XyrNCdJCVKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HkyEzQEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand (Esprios Classics)",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "Blurb",
+        "publishedDate": "2020-05",
+        "description": "Otto of the Silver Hand is a children's novel about the Middle Ages written and illustrated by Howard Pyle. The novel was one of the first written for young readers that went beyond the chivalric ideals of the time period, and showed how cruel the time period could really be. The novel is set in 13th-century Germany, partly during the Great Interregnum and partly during the reign of Rudolph of Habsburg. The book centers upon the life of Otto, the son of German warlord Baron Conrad. Otto's mother, Baroness Matilda, has died in premature labour, brought on by the sight of the Baron's battle wounds, prompting Conrad to take his newborn son to be raised in a nearby monastery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1714606430"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781714606436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HkyEzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HkyEzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HkyEzQEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HkyEzQEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand_Esprios_Classics.html?hl=&id=HkyEzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HkyEzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is set in 13th-century Germany, partly during the Great Interregnum and partly during the reign of Rudolph of Habsburg. The book centers upon the life of Otto, the son of German warlord Baron Conrad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7uXLEAAAQBAJ",
+      "etag": "Pfj/fM1/XOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7uXLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Otto Of The Silver Hand Howard Pyle",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2023-07-16",
+        "description": "\" Step into a medieval world of chivalry, honor, and adventure with \"Otto of the Silver Hand\" by Howard Pyle, where a young boy's journey unfolds amidst the backdrop of a turbulent era. This captivating book tells the story of Otto, a young nobleman's son, as he confronts challenges, discovers his true strength, and embraces his destiny. In \"Otto of the Silver Hand,\" readers will accompany Otto on his journey through the Middle Ages, a time marked by feudal conflicts and knights in shining armor. As Otto navigates treacherous landscapes, encounters fierce rivals, and faces personal hardships, he must learn the meaning of bravery, loyalty, and sacrifice. Howard Pyle's vivid descriptions and engaging narrative bring the medieval world to life, immersing readers in the struggles and triumphs of Otto's quest. Through the trials and tribulations faced by Otto, Howard Pyle explores themes of honor, family, and the pursuit of one's own path. Readers will witness the transformation of a young boy into a courageous knight, witnessing the power of resilience and the capacity for growth. Join Otto as he embarks on a thrilling adventure, encounters formidable foes, and discovers the true nature of the silver hand that holds the key to his destiny.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791041826025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7uXLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7uXLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7uXLEAAAQBAJ&printsec=frontcover&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7uXLEAAAQBAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_Of_The_Silver_Hand_Howard_Pyle.html?hl=&id=7uXLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Otto_Of_The_Silver_Hand_Howard_Pyle-sample-pdf.acsm?id=7uXLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7uXLEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This captivating book tells the story of Otto, a young nobleman&#39;s son, as he confronts challenges, discovers his true strength, and embraces his destiny."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aUqyYgEACAAJ",
+      "etag": "fVg/BxDCcME",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aUqyYgEACAAJ",
+      "volumeInfo": {
+        "title": "Otto of the Silver Hand. Written and Illustrated by Howard Pyle",
+        "authors": [
+          "Howard Pyle"
+        ],
+        "publishedDate": "1957*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:622580322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aUqyYgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aUqyYgEACAAJ&dq=Howard+Pyle+Otto+of+the+Silver+Hand&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Otto_of_the_Silver_Hand_Written_and_Illu.html?hl=&id=aUqyYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aUqyYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

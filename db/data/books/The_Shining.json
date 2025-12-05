@@ -1,0 +1,790 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zVq8BF_5vSUC",
+      "etag": "ZHL4XQgqc94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zVq8BF_5vSUC",
+      "volumeInfo": {
+        "title": "The Shining",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2007-05-31",
+        "description": "One of the true classics of horror, now with a new stunning cover look. THE SHINING is regarded as one of Stephen King's masterpieces. Danny is only five years old, but in the words of old Mr Hallorann he is a 'shiner', aglow with psychic voltage. When his father becomes caretaker of the Overlook Hotel, Danny's visions grow out of control. As winter closes in and blizzards cut them off, the hotel seems to develop a life of its own. It is meant to be empty. So who is the lady in Room 217 and who are the masked guests going up and down in the elevator? And why do the hedges shaped like animals seem so alive? Somewhere, somehow, there is an evil force in the hotel - and that, too, is beginning to shine . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848940994"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848940998"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 506,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.20.18.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zVq8BF_5vSUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zVq8BF_5vSUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zVq8BF_5vSUC&printsec=frontcover&dq=Stephen+King+The+Shining&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zVq8BF_5vSUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zVq8BF_5vSUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zVq8BF_5vSUC&rdid=book-zVq8BF_5vSUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Shining-sample-epub.acsm?id=zVq8BF_5vSUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zVq8BF_5vSUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of the true classics of horror, THE SHINING is regarded as one of Stephen King&#39;s masterpieces."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OjqoJpnLYYwC",
+      "etag": "FE6W966IpOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OjqoJpnLYYwC",
+      "volumeInfo": {
+        "title": "Discovering Stephen King's The Shining",
+        "subtitle": "Essays on the Bestselling Novel by America's Premier Horror Writer",
+        "authors": [
+          "Tony Magistrale"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "1998-01-01",
+        "description": "A survey of criticism on King's book and Kubrick's film adaptation \"The Shining.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781557421333"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1557421331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OjqoJpnLYYwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OjqoJpnLYYwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OjqoJpnLYYwC&printsec=frontcover&dq=Stephen+King+The+Shining&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OjqoJpnLYYwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OjqoJpnLYYwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OjqoJpnLYYwC&rdid=book-OjqoJpnLYYwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6000000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6000000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Discovering_Stephen_King_s_The_Shining-sample-pdf.acsm?id=OjqoJpnLYYwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OjqoJpnLYYwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A survey of criticism on King&#39;s book and Kubrick&#39;s film adaptation &quot;The Shining.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o9s4pwAACAAJ",
+      "etag": "+8IwlZJJ7n0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o9s4pwAACAAJ",
+      "volumeInfo": {
+        "title": "The Shining",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "New English Library",
+        "publishedDate": "2000-08-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340797665"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340797662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o9s4pwAACAAJ&dq=Stephen+King+The+Shining&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o9s4pwAACAAJ&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shining.html?hl=&id=o9s4pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o9s4pwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jack Torrance sees his stint as winter caretaker of a Colorado hotel as a way back from failure, his wife sees it as a chance to preserve their family, and their five-year-old son sees the evil waiting just for them, as they journey into a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UKYDogEACAAJ",
+      "etag": "y7K5Kdhzpa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UKYDogEACAAJ",
+      "volumeInfo": {
+        "title": "The Shining",
+        "subtitle": "STEPHEN KING NEW COVER SERIES No. 1",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2013-12-01",
+        "description": "This is the No. 1 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring THE SHINING. This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed by the artist. This original dust jacket fits The Shining, the current Doubleday hard cover edition, by Stephen King. This purchase includes: Original 2013 book cover painting of The Overlook Hotel by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Free acid-free book cover on your cover for complete protection. This purchase is only for this original dust jacket and does not feature a copy of the book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1623300614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781623300616"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UKYDogEACAAJ&dq=Stephen+King+The+Shining&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UKYDogEACAAJ&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shining.html?hl=&id=UKYDogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UKYDogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the No. 1 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring THE SHINING. This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-99zwEACAAJ",
+      "etag": "ruex+CV4RKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-99zwEACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's the shining",
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1346877318"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s-99zwEACAAJ&dq=Stephen+King+The+Shining&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s-99zwEACAAJ&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_the_shining.html?hl=&id=s-99zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-99zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P_FlAAAACAAJ",
+      "etag": "itYj2j9IEI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P_FlAAAACAAJ",
+      "volumeInfo": {
+        "title": "The Shining",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Signet Book",
+        "publishedDate": "1978",
+        "description": "The author's best-selling vision of horror in a winter-bound Colorado luxury hotel follows the Torrance family on a harrowing journey into the heart of evil. Reissue.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451160916"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451160911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 447,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P_FlAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P_FlAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P_FlAAAACAAJ&dq=Stephen+King+The+Shining&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P_FlAAAACAAJ&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shining.html?hl=&id=P_FlAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P_FlAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The author&#39;s best-selling vision of horror in a winter-bound Colorado luxury hotel follows the Torrance family on a harrowing journey into the heart of evil. Reissue."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TfSqugEACAAJ",
+      "etag": "NFa183SxWFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TfSqugEACAAJ",
+      "volumeInfo": {
+        "title": "The Shining",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Signet Book",
+        "publishedDate": "1980-05-20",
+        "description": "Jack Torrance sees his stint as winter caretaker of a Colorado hotel as a way back from failure, his wife sees it as a chance to preserve their family, and their five-year-old son sees the evil waiting just for them",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451092163"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451092168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 447,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TfSqugEACAAJ&dq=Stephen+King+The+Shining&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TfSqugEACAAJ&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shining.html?hl=&id=TfSqugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TfSqugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Evil forces try to destroy a boy with psychic powers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "drILi8pXwLkC",
+      "etag": "tvKt9fkzww4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/drILi8pXwLkC",
+      "volumeInfo": {
+        "title": "American Nightmares",
+        "subtitle": "The Haunted House Formula in American Popular Fiction",
+        "authors": [
+          "Dale Bailey"
+        ],
+        "publisher": "Popular Press",
+        "publishedDate": "1999-06-15",
+        "description": "Scholar and fantasy writer Bailey traces the motive from English gothic fiction through such luminaries as Poe and Hawthorne to Steven King and paperback potboilers of the present. After exploring the domestic, economic, and social significance of houses, he finds that in good hands, the haunted house becomes a subversive symbol of everything that has turned nightmare in the American Dream. Annotation copyrighted by Book News, Inc., Portland, OR",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0879727896"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780879727895"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=drILi8pXwLkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=drILi8pXwLkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=drILi8pXwLkC&pg=PA91&dq=Stephen+King+The+Shining&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=drILi8pXwLkC&dq=Stephen+King+The+Shining&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Nightmares.html?hl=&id=drILi8pXwLkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/American_Nightmares-sample-epub.acsm?id=drILi8pXwLkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/American_Nightmares-sample-pdf.acsm?id=drILi8pXwLkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=drILi8pXwLkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>STEPHEN KING&#39;S THE SHINING</b> 1 . When Stephen King sat down in 1974 to write The Shining , he was a young writer with one moderately successful novel , Carrie , 1 and a handful of short stories in lower - echelon men&#39;s magazines to his&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qRSBCgAAQBAJ",
+      "etag": "NVTguMFkR2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qRSBCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Stanley Kubrick",
+        "subtitle": "Essays on His Films and Legacy",
+        "authors": [
+          "Gary D. Rhodes"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2015-09-03",
+        "description": "Seventeen essays examine the career and films of director Stanley Kubrick from a variety of perspectives. Part I focuses on his early career, including his first newsreels, his photography for Look magazine, and his earliest films (Fear and Desire, Killer's Kiss). Part II examines his major or most popular films (Paths of Glory, The Shining, 2001: A Space Odyssey). Part III provides a thorough case study of Eyes Wide Shut, with four very different essays focusing on the film's use of sound, its representation of gender, its carnivalesque qualities, and its phenomenological nature. Finally, Part IV discusses Kubrick's ongoing legacy and his impact on contemporary filmmakers. Instructors considering this book for use in a course may request an examination copy here.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476610504"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476610509"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qRSBCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qRSBCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qRSBCgAAQBAJ&pg=PA155&dq=Stephen+King+The+Shining&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qRSBCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qRSBCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.85,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 14.85,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qRSBCgAAQBAJ&rdid=book-qRSBCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14850000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 14850000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stanley_Kubrick-sample-epub.acsm?id=qRSBCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stanley_Kubrick-sample-pdf.acsm?id=qRSBCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qRSBCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Stephen King 198 . 183. Robin Dougherty , “ Vanity , Thy Name Is Stephen King , &quot; review of <b>Stephen King&#39;s</b> “ <b>The Shining</b> , ” Salon , 25 Apr. 1997 , 9 Apr. 2005 , http://www.salon.com/april97/ shining970425.html . 184. Jenkins 1 . 185&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eWsXji5eV0YC",
+      "etag": "9lClHur/KKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eWsXji5eV0YC",
+      "volumeInfo": {
+        "title": "Hearths of Darkness",
+        "subtitle": "The Family in the American Horror Film",
+        "authors": [
+          "Tony Williams"
+        ],
+        "publisher": "Associated University Presse",
+        "publishedDate": "1996",
+        "description": "Hearths of Darkness: The Family in the American Horror Film is the first major book-length study of the family horror film. Far from being a marginal or nonexistent element in the horror genre, as some critics argue, author Tony Williams states that it is really one of the genre's most important features.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0838635644"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780838635643"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eWsXji5eV0YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eWsXji5eV0YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eWsXji5eV0YC&pg=PA293&dq=Stephen+King+The+Shining&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eWsXji5eV0YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eWsXji5eV0YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 23.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 15.57,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eWsXji5eV0YC&rdid=book-eWsXji5eV0YC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 23960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 15570000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Hearths_of_Darkness-sample-epub.acsm?id=eWsXji5eV0YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Hearths_of_Darkness-sample-pdf.acsm?id=eWsXji5eV0YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eWsXji5eV0YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Stephen King&#39;s The Shining</b> in The Shining Reader , 61-78 ; 81-104 . For King&#39;s view of childhood , see Magistrale , &quot; Inherited Haunts : Stephen King&#39;s Terrible Children &quot; in Landscape of Fear , 73-89 . King&#39;s fiction may even reveal&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "t-ArDgAAQBAJ",
+      "etag": "wwoJZmU6qiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t-ArDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-02-28",
+        "description": "After an almost fatal car crash, novelist Paul Sheldon finds himself being nursed by a deranged fan who holds him captive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501156748"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501156748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t-ArDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t-ArDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=t-ArDgAAQBAJ&printsec=frontcover&dq=Stephen+King+Misery&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=t-ArDgAAQBAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=t-ArDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t-ArDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After an almost fatal car crash, novelist Paul Sheldon finds himself being nursed by a deranged fan who holds him captive."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMeAEQAAQBAJ",
+      "etag": "7htmc/f4xGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMeAEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": "2025-08-15",
+        "description": "Paul Sheldon adalah novelis laris yang akhirnya bertemu penggemar nomor satunya. Annie Wilkes. Annie bukan hanya pembaca fanatik—dia juga merawat Paul yang tubuhnya remuk setelah kecelakaan mobil. Annie juga marah besar karena Paul membunuh Misery, tokoh favoritnya di buku terbaru. Maka Annie menyekap Paul di rumahnya. Annie ingin Paul menulis buku baru yang menghidupkan kembali Misery—khusus untuknya. Dan dia punya banyak cara untuk memaksa Paul menuruti keinginannya, yaitu dengan jarum suntik. Atau kapak. Kalau itu belum cukup, Annie bisa jauh lebih kejam.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786020683768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6020683761"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RMeAEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RMeAEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RMeAEQAAQBAJ&printsec=frontcover&dq=Stephen+King+Misery&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RMeAEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RMeAEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.85,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.88,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RMeAEQAAQBAJ&rdid=book-RMeAEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4850000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3880000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Misery-sample-epub.acsm?id=RMeAEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Misery-sample-pdf.acsm?id=RMeAEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMeAEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Annie Wilkes. Annie bukan hanya pembaca fanatik—dia juga merawat Paul yang tubuhnya remuk setelah kecelakaan mobil. Annie juga marah besar karena Paul membunuh Misery, tokoh favoritnya di buku terbaru."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1yJhPwAACAAJ",
+      "etag": "LKUR25mvUy0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1yJhPwAACAAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "subtitle": "Traduccion al español de maria mir",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Large Print Press",
+        "publishedDate": "2003",
+        "description": "Paul Sheldon es un novelista de gran exito, el cual tiene una admiradora secreta que al fin conocera, su nombre es Annie Wilkes y es la enfermera que lo cuida desde que tuvo un tragico accidente automovilistico. Annie mantiene secuestrado a Paul en su propia casa y quiere que escriba su mejor obra para ella, aunque para convencerlo tenga que usar otros metodos como una aguja, o una hacha y si no funciona, Annie puede ponerse realmente pesada.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0786250208"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786250202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "American fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1yJhPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1yJhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=1yJhPwAACAAJ&dq=Stephen+King+Misery&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1yJhPwAACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=1yJhPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1yJhPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul Sheldon es un novelista de gran exito, el cual tiene una admiradora secreta que al fin conocera, su nombre es Annie Wilkes y es la enfermera que lo cuida desde que tuvo un tragico accidente automovilistico."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rg2qPwAACAAJ",
+      "etag": "p9GKBjGRLxs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rg2qPwAACAAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Turtleback Books",
+        "publishedDate": "1988-06-03",
+        "description": "For use in schools and libraries only. Paul Sheldon, author of a series of historical romances, wakes up in a secluded farmhouse in Colorado with broken legs while Annie Wilkes, a disappointed fan, hovers over him with drugs, an ax, and a blowtorch, demanding he bring his heroine back to life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0606038590"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780606038591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fans (Persons)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rg2qPwAACAAJ&dq=Stephen+King+Misery&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rg2qPwAACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=rg2qPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rg2qPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xw5sEQAAQBAJ",
+      "etag": "5TjACybSMog",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xw5sEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2025-08-05",
+        "description": "Originally published: New York: Viking, 1987.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668094709"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668094703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xw5sEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xw5sEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Xw5sEQAAQBAJ&printsec=frontcover&dq=Stephen+King+Misery&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Xw5sEQAAQBAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=Xw5sEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xw5sEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The #1 New York Times bestselling tale of terror from master storyteller Stephen King about a famous novelist held hostage in a remote location by his “number one fan”—now featuring a stunning vintage cover!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SoVSzQEACAAJ",
+      "etag": "opAwiI6DFsg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SoVSzQEACAAJ",
+      "volumeInfo": {
+        "title": "Misery (Export)",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Scribner",
+        "publishedDate": "2020-05-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1982150807"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982150808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SoVSzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SoVSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SoVSzQEACAAJ&dq=Stephen+King+Misery&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SoVSzQEACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery_Export.html?hl=&id=SoVSzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SoVSzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T3epbwAACAAJ",
+      "etag": "SJvlDEIPORY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T3epbwAACAAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1988",
+        "description": "For use in schools and libraries only. Paul Sheldon, author of a series of historical romances, wakes up in a secluded farmhouse in Colorado with broken legs while Annie Wilkes, a disappointed fan, hovers over him with drugs, an ax, and a blowtorch, demanding he bring his heroine back to life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8401322561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788401322563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fans (Persons)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=T3epbwAACAAJ&dq=Stephen+King+Misery&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=T3epbwAACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=T3epbwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T3epbwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jBftoQEACAAJ",
+      "etag": "ehCR2AYYxKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jBftoQEACAAJ",
+      "volumeInfo": {
+        "title": "Misery - Waterstone's Loves Edition",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2011-09-28",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1444741292"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444741292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jBftoQEACAAJ&dq=Stephen+King+Misery&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jBftoQEACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery_Waterstone_s_Loves_Edition.html?hl=&id=jBftoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jBftoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zOT6tAEACAAJ",
+      "etag": "uHvY/Mp/VmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zOT6tAEACAAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "subtitle": "Numbered Edition",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2018-08-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0998864943"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780998864945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zOT6tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zOT6tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zOT6tAEACAAJ&dq=Stephen+King+Misery&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zOT6tAEACAAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=zOT6tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zOT6tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "absZEAAAQBAJ",
+      "etag": "BkZjDvjQutc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/absZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Misery",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "VINTAGE ESPAÑOL",
+        "publishedDate": "2019-11-26",
+        "description": "Estaba loca, pero él la necesitaba. Paul Sheldon es un escritor que sufre un grave accidente y recobra el conocimiento en una apartada casa, donde vive una misteriosa mujer, capaz de cometer los mayores horrores. Paul tendrá que luchar por su vida. Misery Chastain ha muerto. Paul Sheldon la ha matado. Con alivio y hasta con alegría. Misery lo ha hecho rico. Porque Misery es la protagonista de sus exitosos libros. Paul quiere volver a escribir. Algo diferente, algo auténtico. Pero entonces sufre un accidente y despierta inmóvil y atravesado por el dolor en una cama que no es la suya, tampoco la de un hospital. Annie Wilkes lo ha recogido y lo ha traído a su remota casa de la montaña. La buena noticia es que Annie había sido enfermera y tiene medicamentos analgésicos. La mala es que durante mucho tiempo ha sido la fan número uno de Paul. Y cuando descubre lo que le ha hecho a Misery Chastain, no le gusta. No le gusta en absoluto. Antes, Paul Sheldon escribía para ganarse la vida. Ahora, Paul Sheldon escribe para sobrevivir.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984898739"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1984898736"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=absZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=absZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=absZEAAAQBAJ&dq=Stephen+King+Misery&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=absZEAAAQBAJ&dq=Stephen+King+Misery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Misery.html?hl=&id=absZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=absZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul tendrá que luchar por su vida. Misery Chastain ha muerto. Paul Sheldon la ha matado. Con alivio y hasta con alegría. Misery lo ha hecho rico. Porque Misery es la protagonista de sus exitosos libros. Paul quiere volver a escribir."
+      }
+    }
+  ]
+}

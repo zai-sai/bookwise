@@ -1,0 +1,728 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TB15DwAAQBAJ",
+      "etag": "L/1BufY2zMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TB15DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "Tales of Terror and Mystery: Arthur Conan Doyle's Intriguing Stories",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2011-08-03",
+        "description": "Tales of Terror and Mystery by Arthur Conan Doyle: Immerse yourself in a collection of chilling tales that intertwine elements of terror and mystery, crafted by the master of detective fiction, Arthur Conan Doyle. Through these stories, readers are captivated by suspenseful narratives that keep them on the edge of their seats. Key Aspects of the Book \"Tales of Terror and Mystery by Arthur Conan Doyle\": Suspense and Intrigue: Doyle's mastery of suspenseful storytelling shines through in these tales, engaging readers with enigmatic plots and unexpected twists. Exploration of the Unknown: The narratives delve into the realms of the supernatural, the unexplained, and the eerie, inviting readers to confront the mysteries that lie beyond human understanding. Psychological Thrills: The stories often delve into the psychology of characters facing fear, uncertainty, and the unknown, adding layers of depth to the narratives. Arthur Conan Doyle was a British author best known for his creation of the iconic detective Sherlock Holmes. In Tales of Terror and Mystery, Doyle showcases his versatility as a storyteller by venturing into the realms of horror and the supernatural, captivating readers with his imaginative and suspenseful narratives.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TB15DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TB15DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TB15DwAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TB15DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TB15DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TB15DwAAQBAJ&rdid=book-TB15DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_Terror_and_Mystery-sample-epub.acsm?id=TB15DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_Terror_and_Mystery-sample-pdf.acsm?id=TB15DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TB15DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Key Aspects of the Book &quot;Tales of Terror and Mystery by Arthur Conan Doyle&quot;: Suspense and Intrigue: Doyle&#39;s mastery of suspenseful storytelling shines through in these tales, engaging readers with enigmatic plots and unexpected twists."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6VN3SHMgLjkC",
+      "etag": "babnr8b0ags",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6VN3SHMgLjkC",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Bukune",
+        "description": "Ruang Bawah Tanah Baru Dr. Julius Burger menemukan sebuah ruang bawah tanah berisi harta-harta berharga dari masa-masa Kristen awal. Di ruang bawah tanah tersebut ditemukan pula Mr. Kennedy dalam keadaan tak bernyawa—sosok yang tiba-tiba menghilang dari kamarnya di Corso. Dari kondisi kakinya, Kennedy sudah berjalan mengelilingi labirin di ruang itu selama berhari-hari. Apakah memang kematiannya hanya karena Dewi Fortuna tidak berpihak kepadanya, atau ada hubungannya dengan skandal pelariannya dengan tunangan orang lain? Hilangnya Kereta Khusus Pada 3 Juni 1890, Monsieur Louis Caratal menyewa kereta khusus untuk mengantarnya dari Liverpool menuju London untuk sebuah urusan mendesak. Namun, kereta itu tidak pernah mencapai tempat tujuannya tanpa meninggalkan jejak apa pun. Apalagi ternyata Monsieur Caratal adalah saksi kunci sebuah skandal politik dan keuangan besar di Paris. Terdapat 12 cerita horor dan misteri yang disajikan dengan sangat memikat oleh Sir Arthur Conan Doyle. Mulai dari alat penyiksaan berupa corong berbahan kulit yang mampu merekonstruksi peristiwa kejam zaman dulu, kasus Lady Sannox sang Penggoda yang tiba-tiba memutuskan menjadi biarawati, hingga misteri kematian lelaki dengan banyak jam di sebuah kereta penumpang. -Bukune-",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786022200673"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6022200679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6VN3SHMgLjkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6VN3SHMgLjkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.co.uk/books?id=6VN3SHMgLjkC&printsec=frontcover&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6VN3SHMgLjkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6VN3SHMgLjkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.12,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.76,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6VN3SHMgLjkC&rdid=book-6VN3SHMgLjkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2120000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1760000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_Terror_and_Mystery-sample-pdf.acsm?id=6VN3SHMgLjkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6VN3SHMgLjkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Apalagi ternyata Monsieur Caratal adalah saksi kunci sebuah skandal politik dan keuangan besar di Paris. Terdapat 12 cerita horor dan misteri yang disajikan dengan sangat memikat oleh Sir Arthur Conan Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b9yZLLtI_ycC",
+      "etag": "G1xuSQmh9uE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b9yZLLtI_ycC",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "House of Stratus",
+        "publishedDate": "2009-01-07",
+        "description": "Some of Sir Arthur Conan Doyle's unduly neglected masterworks of suspense are presented.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780755118977"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0755118979"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b9yZLLtI_ycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b9yZLLtI_ycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=b9yZLLtI_ycC&printsec=frontcover&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=b9yZLLtI_ycC&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=b9yZLLtI_ycC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_Terror_and_Mystery-sample-epub.acsm?id=b9yZLLtI_ycC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tales_of_Terror_and_Mystery-sample-pdf.acsm?id=b9yZLLtI_ycC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b9yZLLtI_ycC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Some of Sir Arthur Conan Doyle&#39;s unduly neglected masterworks of suspense are presented."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7c2swEACAAJ",
+      "etag": "1KUswG66AWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7c2swEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "By Sir Arthur Conan Doyle - Illustrated",
+        "authors": [
+          "Sir Arthur Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2017-07-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Tales of Terror and Mystery by Sir Arthur Conan Doyle The tales of terror and mystery is an extraordinary narrative which has been called the Joyce-Armstrong Fragment is an elaborate practical joke evolved by some unknown person, cursed by a perverted and sinister sense of humour, has now been abandoned by all who have examined the matter. The most macabre and imaginative of plotters would hesitate before linking his morbid fancies with the unquestioned and tragic facts which reinforce the statement. Though the assertions contained in it are amazing and even monstrous, it is none the less forcing itself upon the general intelligence that they are true, and that we must readjust our ideas to the new situation. This world of ours appears to be separated by a slight and precarious margin of safety from a most singular and unexpected danger. I will endeavour in this narrative, which reproduces the original document in its necessarily somewhat fragmentary form, to lay before the reader the whole of the facts up to date, prefacing my statement by saying that, if there be any who doubt the narrative of Joyce-Armstrong, there can be no question at all as to the facts concerning Lieutenant Myrtle, who undoubtedly met their end in the manner described.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521915717"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521915714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=q7c2swEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=q7c2swEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=q7c2swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7c2swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xpsbzgEACAAJ",
+      "etag": "EJWPLVlY3U4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xpsbzgEACAAJ",
+      "volumeInfo": {
+        "title": "Arthur Conan Doyle - Tales of Terror and Mystery",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-12-07",
+        "description": "This volume presents some of Conan Doyle s unduly neglected masterworks. Each begins in a quietly factual way, making all the more dramatic the crescendo of fear and puzzlement that ensues as each new circumstance is revealed. Even without his supremely logical brain child, Sherlock Holmes, Conan Doyle shows that his tales are unbeatable for thrills and excitement.Includes a biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798577831301"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xpsbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xpsbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xpsbzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xpsbzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arthur_Conan_Doyle_Tales_of_Terror_and_M.html?hl=&id=xpsbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xpsbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume presents some of Conan Doyle s unduly neglected masterworks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1qZ7zQEACAAJ",
+      "etag": "JYT6OC/SOxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1qZ7zQEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery (Annotated)",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-04-04",
+        "description": "Differentiated book- It has a historical context with research of the time-Tales of Terror and Mystery is a volume that contains 12 stories written by Arthur Conan Doyle, first published in 1922 by John Murray. The collection is divided into two parts: Tales of Terror with horror stories and Tales of Mystery with stories with strange schemes. Arthur Ignatius Conan Doyle (Edinburgh; May 22, 1859-Crowborough; July 7, 1930) was a British writer and physician, creator of the celebrated fictional detective Sherlock Holmes. He was a prolific author whose work includes science fiction stories, historical novels, theater, and poetry. Although he signed A. Conan Doyle, which might lead one to think that his surname was Conan Doyle, both the British Library and the Library of Congress catalog his works with the surname Doyle.Arthur Ignatius Conan Doyle was born on May 22, 1859 at number 11 Picardy Place, in the city of Edinburgh, Scotland. He belonged to an Irish Catholic family that had provided a saga of illustrators and cartoonists, started by his grandfather John Doyle and continued by his uncles, illustrator Richard Doyle, who designed the cover and head of Punch magazine, the antique dealer James Doyle and Henry E. Doyle, director of the National Gallery of Ireland.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798634073491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1qZ7zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1qZ7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1qZ7zQEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1qZ7zQEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery_Annotated.html?hl=&id=1qZ7zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1qZ7zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The collection is divided into two parts: Tales of Terror with horror stories and Tales of Mystery with stories with strange schemes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9SWhcQAACAAJ",
+      "etag": "9//ADHsDg7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9SWhcQAACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "12 of Sir Arthur Conan Doyle's Tales - Some Terror, Some Mystery (Timeless Classic Books)",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2010-08-05",
+        "description": "Though Sir Arthur Conan Doyle is best known for his detective stories, he also wrote other short stories which are masterpieces of mystery and suspense. In some of the stories in \"Tales of Terror and Mystery\", a suppressed uneasiness gradually builds up and evolves into sheer terror. In others, the story line unexpectedly changes and comes to a horrific conclusion.A Review from Amazon of just one of the stories:The New Catacomb: (4 stars)The good feature about this story is that it gives a twist of plot at the end. It starts with 2 archeologists in Rome, chatting about a catacomb discovered by one of them. In order for the latter to tell the former about the location of the catacomb he wanted to know about some private secret. In the catacomb a strange and interesting twist of plot takes place and the story ends in the best manner a writer can bring to end. Do not take me wrong, I figured this twist from the second page of the story, and I hope you do not, so that you can enjoy the ending.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1453726918"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781453726914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9SWhcQAACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9SWhcQAACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=9SWhcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9SWhcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In some of the stories in &quot;Tales of Terror and Mystery&quot;, a suppressed uneasiness gradually builds up and evolves into sheer terror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6MZkzgEACAAJ",
+      "etag": "BQaAEoJHUuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6MZkzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "Original Classics and Annotated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-10",
+        "description": "Sir Arthur Conan Doyle was born the third of ten siblings on 22 May 1859 in Edinburgh, Scotland. His father, Charles Altamont Doyle, a talented illustrator, was born in England of Irish descent, and his mother, born Mary Foley, was Irish. They were married in 1855.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798735813514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6MZkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6MZkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6MZkzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6MZkzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=6MZkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6MZkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sir Arthur Conan Doyle was born the third of ten siblings on 22 May 1859 in Edinburgh, Scotland. His father, Charles Altamont Doyle, a talented illustrator, was born in England of Irish descent, and his mother, born Mary Foley, was Irish."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "31N-vgEACAAJ",
+      "etag": "NH1PICzSyL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/31N-vgEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "Story Collection",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2018-11-12",
+        "description": "This collection bring together Sir Arthur Conan Doyle's Tales of Terror and Mystery along with ALL the Sherlock Holmes stories and novels all in a single, convenient, high quality, but extremely low priced Nook volume Sir Arthur Ignatius Conan Doyle KStJ DL (22 May 1859 - 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes. Originally a physician, in 1887 he published A Study in Scarlet, the first of four novels about Holmes and Dr. Watson. In addition, Doyle wrote over fifty short stories featuring the famous detective. The Sherlock Holmes stories are generally considered milestones in the field of crime fiction.Doyle was a prolific writer; his non-Sherlockian works include fantasy and science fiction stories about Professor Challenger and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction and historical novels. One of Doyle's early short stories, \"J. Habakuk Jephson's Statement,\" helped to popularise the mystery of the Mary Celeste.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1731239106"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781731239105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=31N-vgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=31N-vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=31N-vgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=31N-vgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=31N-vgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=31N-vgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection bring together Sir Arthur Conan Doyle&#39;s Tales of Terror and Mystery along with ALL the Sherlock Holmes stories and novels all in a single, convenient, high quality, but extremely low priced Nook volume!Sir Arthur Ignatius ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7wIWzgEACAAJ",
+      "etag": "LXEbnsoi+DE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7wIWzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Terror and Mystery",
+        "subtitle": "Revised Edition",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-12-04",
+        "description": "The idea that the extraordinary narrative which has been called the Joyce-Armstrong Fragment is an elaborate practical joke evolved by some unknown person, cursed by a perverted and sinister sense of humour, has now been abandoned by all who have examined the matter. The most macabre and imaginative of plotters would hesitate before linking his morbid fancies with the unquestioned and tragic facts which reinforce the statement.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798574745168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 488,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7wIWzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7wIWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7wIWzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7wIWzgEACAAJ&dq=Arthur+Conan+Doyle+Tales+of+Terror+and+Mystery&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Terror_and_Mystery.html?hl=&id=7wIWzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7wIWzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The idea that the extraordinary narrative which has been called the Joyce-Armstrong Fragment is an elaborate practical joke evolved by some unknown person, cursed by a perverted and sinister sense of humour, has now been abandoned by all ..."
+      }
+    }
+  ]
+}

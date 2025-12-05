@@ -1,0 +1,762 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vUcYEQAAQBAJ",
+      "etag": "+aQ6bhv0f6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vUcYEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cujo",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2024-09-03",
+        "description": "The classic tale of terror that “hits the jugular” (The New York Times) from #1 New York Times bestselling author and master storyteller Stephen King—now featuring a stunning vintage cover! Cujo used to be a big friendly dog, lovable and loyal to his trinity (THE MAN, THE WOMAN, and THE BOY) and everyone around him, and always did his best to not be a BAD DOG. But that all ends on the day this nearly two-hundred-pound Saint Bernard makes the mistake of chasing a rabbit into a hidden underground cave, setting off a tragic chain of events. Now Cujo is no longer himself as he is slowly overcome by a growing sickness, one that consumes his mind even as his once affable thoughts turn uncontrollably and inexorably to hatred and murder. Cujo is about to become the center of a horrifying vortex that will inescapably draw in everyone around him—a relentless reign of terror, fury, and madness from which no one in Castle Rock will truly be safe…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668075777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668075776"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vUcYEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vUcYEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vUcYEQAAQBAJ&printsec=frontcover&dq=Stephen+King+Cujo&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vUcYEQAAQBAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cujo.html?hl=&id=vUcYEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vUcYEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The classic tale of terror that “hits the jugular” (The New York Times) from #1 New York Times bestselling author and master storyteller Stephen King—now featuring a stunning vintage cover!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uplTJwVTJacC",
+      "etag": "c/QenjERYMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uplTJwVTJacC",
+      "volumeInfo": {
+        "title": "Cujo",
+        "subtitle": "Collectors Edition",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Plume Books",
+        "publishedDate": "1994",
+        "description": "The story that is as grisly as Carrie and as ominous as the Shining. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0452273285"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780452273283"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uplTJwVTJacC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uplTJwVTJacC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uplTJwVTJacC&q=Stephen+King+Cujo&dq=Stephen+King+Cujo&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uplTJwVTJacC&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cujo.html?hl=&id=uplTJwVTJacC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uplTJwVTJacC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story that is as grisly as Carrie and as ominous as the Shining. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Soe2uQAACAAJ",
+      "etag": "UwYPn/oAUY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Soe2uQAACAAJ",
+      "volumeInfo": {
+        "title": "Cujo",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Charnwood Pub",
+        "publishedDate": "1983",
+        "description": "The story that is as grisly as Carrie and as ominous as the Shining. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0708981232"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708981238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 475,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Soe2uQAACAAJ&dq=Stephen+King+Cujo&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Soe2uQAACAAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cujo.html?hl=&id=Soe2uQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Soe2uQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story that is as grisly as Carrie and as ominous as the Shining. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mKcFPL4Vn0IC",
+      "etag": "ksvLpCMskEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mKcFPL4Vn0IC",
+      "volumeInfo": {
+        "title": "Hollywood's Stephen King",
+        "authors": [
+          "Tony Magistrale"
+        ],
+        "publisher": "Palgrave Macmillan",
+        "publishedDate": "2003-11-22",
+        "description": "Tony Magistrale explores many of the movie versions of Stephen King's works and provides important insights into both the films and the fiction on which they are based.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312293216"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312293215"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mKcFPL4Vn0IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mKcFPL4Vn0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mKcFPL4Vn0IC&pg=PA55&dq=Stephen+King+Cujo&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mKcFPL4Vn0IC&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hollywood_s_Stephen_King.html?hl=&id=mKcFPL4Vn0IC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mKcFPL4Vn0IC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>King&#39;s</b> vision . His world depicts its dysfunctional and abusive nature &quot; ( 238 ) . This point is certainly aptly illustrated in Lewis Teague&#39;s film adap- tation of <b>Cujo</b> ( 1983 ) . Although the film centers its most impressive ener- gies&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IkSREAAAQBAJ",
+      "etag": "EtVEw53I964",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IkSREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cujo (Spanish Edition)",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020-02-04",
+        "description": "\"Justo cuando tu presión arterial vuelve a la normalidad, Stephen King ataca de nuevo\". -Kansas City Star Durante toda su vida Cujo fue un buen perro, un San Bernardo grandote, pacífico, juguetón y amante de los niños. Realmente se trataba de un perro bueno y feliz. Feliz hasta que le sucedió algo, y el cerebro de perro de Cujo se cubrió de una de esas oscuridades que se alimentan de sangre. Ahora, se ha convertido en un perro asesino; doblemente cruel por cuanto la gente no conoce su mutación y aún lo ve con su anterior bondad. Heraldo de un pequeño apocalipsis, Cujo desencadenará sobre un pueblo modélico un huracán de pánico y de muerte. ENGLISH DESCRIPTION The #1 New York Times bestseller, Cujo “hits the jugular” (The New York Times) with the story of a friendly Saint Bernard that is bitten by a bat. Get ready to meet the most hideous menace ever to terrorize the town of Castle Rock, Maine. Outside a peaceful town in central Maine, a monster is waiting. Cujo is a two-hundred-pound Saint Bernard, the best friend Brett Camber has ever had. One day, Cujo chases a rabbit into a cave inhabited by sick bats and emerges as something new altogether. Meanwhile, Vic and Donna Trenton, and their young son Tad, move to Maine. They are seeking peace and quiet, but life in this small town is not what it seems. As Tad tries to fend off the terror that comes to him at night from his bedroom closet, and as Vic and Donna face their own nightmare of a marriage on the rocks, there is no way they can know that a monster, infinitely sinister, waits in the daylight. What happens to Cujo, how he becomes a horrifying vortex inescapably drawing in all the people around him, makes for one of the most heart-stopping novels Stephen King has ever written. “A genuine page-turner that grabs you and holds you and won’t let go” (Chattanooga Times), Cujo will forever change how you view man’s best friend.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984898784"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1984898787"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IkSREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IkSREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=IkSREAAAQBAJ&dq=Stephen+King+Cujo&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IkSREAAAQBAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cujo_Spanish_Edition.html?hl=&id=IkSREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IkSREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION The #1 New York Times bestseller, Cujo “hits the jugular” (The New York Times) with the story of a friendly Saint Bernard that is bitten by a bat."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y5Y2swEACAAJ",
+      "etag": "Zuj2ixr+48E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y5Y2swEACAAJ",
+      "volumeInfo": {
+        "title": "Nope, Nothing Wrong Here",
+        "subtitle": "The Making of Cujo (Hardback)",
+        "authors": [
+          "Lee Gambin"
+        ],
+        "publisher": "BearManor Media",
+        "publishedDate": "2017-06-30",
+        "description": "Everything you have ever wanted to know about Stephen King's Cujo film is in this book!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "162933135X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781629331355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y5Y2swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y5Y2swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Y5Y2swEACAAJ&dq=Stephen+King+Cujo&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Y5Y2swEACAAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nope_Nothing_Wrong_Here.html?hl=&id=Y5Y2swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y5Y2swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Everything you have ever wanted to know about Stephen King&#39;s Cujo film is in this book!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dIRDnwEACAAJ",
+      "etag": "R9ZXWhwOhrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dIRDnwEACAAJ",
+      "volumeInfo": {
+        "title": "Cujo Special Sales",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2011-11-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1444753657"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444753653"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dIRDnwEACAAJ&dq=Stephen+King+Cujo&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dIRDnwEACAAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cujo_Special_Sales.html?hl=&id=dIRDnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dIRDnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RdMtk_z75-AC",
+      "etag": "QCSRYLmO2Pc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RdMtk_z75-AC",
+      "volumeInfo": {
+        "title": "Cujo",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2010-03-22",
+        "description": "With a stunning new cover look, King's classic tale of survival sees a young mother and her son trapped in a car by a horrifyingly familiar monster. Once upon a time, not so long ago, a monster came to the small town of Castle Rock, Maine . . . Cujo is a huge Saint Bernard dog, the best friend Brett Camber has ever had. Then one day Cujo chases a rabbit into a bolt-hole. Except it isn't a rabbit warren any more. It is a cave inhabited by rabid bats. And Cujo falls sick. Very sick. And the gentle giant who once protected the family becomes a vortex of horror inexorably drawing in all the people around him . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848940680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848940688"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RdMtk_z75-AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RdMtk_z75-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RdMtk_z75-AC&printsec=frontcover&dq=Stephen+King+Cujo&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RdMtk_z75-AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RdMtk_z75-AC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RdMtk_z75-AC&rdid=book-RdMtk_z75-AC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Cujo-sample-epub.acsm?id=RdMtk_z75-AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RdMtk_z75-AC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . Cujo is a huge Saint Bernard dog, the best friend Brett Camber has ever had. Then one day Cujo chases a rabbit into a bolt-hole. Except it isn&#39;t a rabbit warren any more. It is a cave inhabited by rabid bats. And Cujo falls sick."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3L1knXoI6R8C",
+      "etag": "2e7Vtt0Oh5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3L1knXoI6R8C",
+      "volumeInfo": {
+        "title": "The Many Facets of Stephen King",
+        "authors": [
+          "Michael R. Collings"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "1985-01-01",
+        "description": "A study of King's fiction, including a chapter on criticism and a chronology of King's works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780930261146"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0930261143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3L1knXoI6R8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3L1knXoI6R8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3L1knXoI6R8C&pg=PA48&dq=Stephen+King+Cujo&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3L1knXoI6R8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3L1knXoI6R8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3L1knXoI6R8C&rdid=book-3L1knXoI6R8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Many_Facets_of_Stephen_King-sample-pdf.acsm?id=3L1knXoI6R8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3L1knXoI6R8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>King</b> sees to that &quot; ( Maine Campus 23 July 1970 ) . The deadly sequence leading to Tad&#39;s death occurs because ... <b>Cujo</b> -- dogs do develop rabies and little boys do die . isn&#39;t pleasant ; it just is . or even The feeling that <b>Cujo</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "py1rAAAACAAJ",
+      "etag": "erD/KRHIWdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/py1rAAAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King",
+        "subtitle": "Christine, the Shining, Cujo",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "New Amer Library",
+        "publishedDate": "1995-09-15",
+        "description": "Titles include \"Christine, The Shining\" and \"Cujo\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451931378"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451931375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=py1rAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=py1rAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=py1rAAAACAAJ&dq=Stephen+King+Cujo&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=py1rAAAACAAJ&dq=Stephen+King+Cujo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King.html?hl=&id=py1rAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=py1rAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Titles include Christine, The Shining and Cujo."
+      }
+    }
+  ]
+}

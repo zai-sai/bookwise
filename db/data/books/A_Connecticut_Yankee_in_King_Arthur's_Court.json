@@ -1,0 +1,734 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tSPDAgAAQBAJ",
+      "etag": "tNLduO806Mo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tSPDAgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-04-10",
+        "description": "Hank Morgan finds himself transported back to England's Dark Ages, where he is immediately captured and sentenced to death at Camelot. His quick wit saves his life and turns him into a celebrity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486115153"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486115151"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "5.23.20.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tSPDAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tSPDAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tSPDAgAAQBAJ&printsec=frontcover&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tSPDAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tSPDAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.75,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.75,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tSPDAgAAQBAJ&rdid=book-tSPDAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 750000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 750000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Connecticut_Yankee_in_King_Arthur_s_Co-sample-epub.acsm?id=tSPDAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Connecticut_Yankee_in_King_Arthur_s_Co-sample-pdf.acsm?id=tSPDAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tSPDAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His quick wit saves his life and turns him into a celebrity. In this classic satiric novel, published in 1889, Hank Morgan, a supervisor in a Connecticut gun factory, falls unconscious after being whacked on the head."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Eun-tTNk0-UC",
+      "etag": "vUeUXGZRWcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Eun-tTNk0-UC",
+      "volumeInfo": {
+        "title": "The Works of Mark Twain: A Connecticut Yankee in King Arthur's court",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433079126896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 858,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Eun-tTNk0-UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Eun-tTNk0-UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Eun-tTNk0-UC&q=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Eun-tTNk0-UC&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Works_of_Mark_Twain_A_Connecticut_Ya.html?hl=&id=Eun-tTNk0-UC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eun-tTNk0-UC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9pTWDwAAQBAJ",
+      "etag": "EkMKXn1ddIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9pTWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur’s Court by Mark Twain - Delphi Classics (Illustrated)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘A Connecticut Yankee in King Arthur’s Court’ from the bestselling edition of ‘The Complete Works of Mark Twain’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Twain includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘A Connecticut Yankee in King Arthur’s Court’ * Beautifully illustrated with images related to Twain’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786568052"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786568055"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9pTWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9pTWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9pTWDwAAQBAJ&printsec=frontcover&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9pTWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9pTWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9pTWDwAAQBAJ&rdid=book-9pTWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Connecticut_Yankee_in_King_Arthur_s_Co-sample-epub.acsm?id=9pTWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Connecticut_Yankee_in_King_Arthur_s_Co-sample-pdf.acsm?id=9pTWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9pTWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook features the unabridged text of ‘A Connecticut Yankee in King Arthur’s Court’ from the bestselling edition of ‘The Complete Works of Mark Twain’."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DReZwAEACAAJ",
+      "etag": "iYoCOvDpj6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DReZwAEACAAJ",
+      "volumeInfo": {
+        "title": "Connecticut Yankee in King Arthur's Court",
+        "subtitle": "By Mark Twain",
+        "description": "Presents the text of \"A Connecticut Yankee in King Arthur's Court,\" written by Mark Twain (1835-1910) and published as part of the Online Literature Library. Offers access to each chapter and to other Twain works.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:44200760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Electronic book"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DReZwAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DReZwAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Connecticut_Yankee_in_King_Arthur_s_Cour.html?hl=&id=DReZwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DReZwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SC2RtAEACAAJ",
+      "etag": "UKECXAAHON4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SC2RtAEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2014-11-15",
+        "description": "Mark Twain Classics - Brand New Edition. A Connecticut Yankee in King Arthur's Court. By Mark Twain. A Connecticut Yankee in King Arthur's Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur.In it, a Yankee engineer from Connecticut is accidentally transported back in time to the court of King Arthur, where he fools the inhabitants of that time into thinking he is a magician—and soon uses his knowledge of modern technology to become a \"magician\" in earnest, stunning the English of the Early Middle Ages with such feats as demolitions, fireworks and the shoring up of a holy well. He attempts to modernize the past, but in the end he is unable to prevent the death of Arthur and an interdict against him by the Catholic Church of the time, which grows fearful of his power.Twain wrote the book as a burlesque of Romantic notions of chivalry after being inspired by a dream in which he was a knight himself, and severely inconvenienced by the weight and cumbersome nature of his armor.The novel is a satirical comedy that looks at 6th-Century England and its medieval culture through the eyes of Hank Morgan, a 19th-century resident of Hartford, Connecticut, who, after a blow to the head, awakens to find himself inexplicably transported back in time to early medieval England at the time of the legendary King Arthur. The fictional Mr. Morgan, who had an image of that time that had been colored over the years by romantic myths, takes on the task of analyzing the problems and sharing his knowledge from 1300 years in the future to modernize, Americanize, and improve the lives of the people.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1503241254"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781503241251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SC2RtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SC2RtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SC2RtAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SC2RtAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=SC2RtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SC2RtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Connecticut Yankee in King Arthur&#39;s Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur&#39;s Court. Some early editions are titled A Yankee at the Court of King Arthur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RPe7yQEACAAJ",
+      "etag": "+iHx2m/YL4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RPe7yQEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "subtitle": "Vintage Classics ( Annotated ) By Mark Twain.",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2019-09-16",
+        "description": "This is the tale of a 19th-century citizen of Hartford, Connecticut who awakens to find himself inexplicably transported back in time to early medieval England at the time of the legendary King Arthur in AD 528.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1693557258"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781693557255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RPe7yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RPe7yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RPe7yQEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RPe7yQEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=RPe7yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RPe7yQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the tale of a 19th-century citizen of Hartford, Connecticut who awakens to find himself inexplicably transported back in time to early medieval England at the time of the legendary King Arthur in AD 528."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1NVvuAEACAAJ",
+      "etag": "6OnSwYEyrAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1NVvuAEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court( 1889). by",
+        "subtitle": "Mark Twain: A Novel (Illustrated), Original Classics",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-06",
+        "description": "A Connecticut Yankee in King Arthur's Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur. In the book, a Yankee engineer from Connecticut is accidentally transported back in time to the court of King Arthur, where he fools the inhabitants of that time into thinking that he is a magician, and soon uses his knowledge of modern technology to become a \"magician\" in earnest, stunning the English of the Early Middle Ages with such feats as demolitions, fireworks, and the shoring up of a holy well. He attempts to modernize the past, but in the end he is unable to prevent the death of Arthur and an interdict against him by the Catholic Church of the time, which grows fearful of his power. Twain wrote the book as a burlesque of Romantic notions of chivalry after being inspired by a dream in which he was a knight himself, severely inconvenienced by the weight and cumbersome nature of his armor.The novel is a comedy that sees 6th-Century England and its medieval culture through Hank Morgan's view; he is a 19th-century resident of Hartford, Connecticut, who, after a blow to the head, awakens to find himself inexplicably transported back in time to early medieval England where he meets King Arthur himself. The fictional Mr. Morgan, who had an image of that time that had been colored over the years by romantic myths, takes on the task of analyzing the problems and sharing his knowledge from 1300 years in the future to modernize, Americanize, and improve the lives of the people. In addition, many passages are quoted directly from Sir Thomas Malory's Le Morte d'Arthur, a medieval Arthurian collection of legends and one of the earlier sources. The narrator who finds the Yankee in the \"modern times\" of Twain's nineteenth century is reading the book in the museum in which they both meet; later, characters in the story retell parts of it in Malory's original language. A chapter on medieval hermits also draws from the work of William Edward Hartpole Lecky.. Samuel Langhorne Clemens (November 30, 1835 - April 21, 1910), better known by his pen name Mark Twain, was an American writer, entrepreneur, publisher and lecturer. Among his novels are The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1885), the latter often called \"The Great American Novel.\" Twain was raised in Hannibal, Missouri, which later provided the setting for Tom Sawyer and Huckleberry Finn. After an apprenticeship with a printer, Twain worked as a typesetter and contributed articles to the newspaper of his older brother, Orion Clemens. He later became a riverboat pilot on the Mississippi River before heading west to join Orion in Nevada. He referred humorously to his lack of success at mining, turning to journalism for the Virginia City Territorial Enterprise.In 1865, his humorous story \"The Celebrated Jumping Frog of Calaveras County\" was published, based on a story he heard at Angels Hotel in Angels Camp, California, where he had spent some time as a miner. The short story brought international attention, and was even translated into classic Greek.His wit and satire, in prose and in speech, earned praise from critics and peers, and he was a friend to presidents, artists, industrialists, and European royalty.Though Twain earned a great deal of money from his writings and lectures, he invested in ventures that lost a great deal of money, notably the Paige Compositor, a mechanical typesetter, which failed because of its complexity and imprecision. In the wake of these financial setbacks, he filed for protection from his creditors via bankruptcy, and with the help of Henry Huttleston Rogers eventually overcame his financial troubles. Twain chose to pay all his pre-bankruptcy creditors in full, though he had no legal responsibility to do so....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539950824"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539950820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1NVvuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1NVvuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1NVvuAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1NVvuAEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=1NVvuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1NVvuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Connecticut Yankee in King Arthur&#39;s Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur&#39;s Court. Some early editions are titled A Yankee at the Court of King Arthur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P4ZwzgEACAAJ",
+      "etag": "H2LSqfYuSII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P4ZwzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court By Mark Twain Illustrated (Penguin Classics)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2021-05-06",
+        "description": "\"A Connecticut Yankee in king Arthur's Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur.In the book, a Yankee engineer from Connecticut named Hank Morgan receives a severe blow to the head and is somehow transported in time and space to England during the reign of King Arthur. After some initial confusion and his capture by one of Arthur's knights, Hank realizes that he is actually in the past, and he uses his knowledge to make people believe that he is a powerful magician. He attempts to modernize the past in order to make people's lives better, but in the end he is unable to prevent the death of Arthur and an interdict against him by the Catholic Church of the time, which grows fearful of his power.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798749772661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P4ZwzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P4ZwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P4ZwzgEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P4ZwzgEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=P4ZwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P4ZwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A Connecticut Yankee in king Arthur&#39;s Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur&#39;s Court."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NBuRvgEACAAJ",
+      "etag": "zt3U+aQqewM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NBuRvgEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "subtitle": "By Mark Twain - Illustrated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2017-03-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About A Connecticut Yankee In King Arthur's Court by Mark Twain A Connecticut Yankee in King Arthur's Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur. In the book, a Yankee engineer from Connecticut is accidentally transported back in time to the court of King Arthur, where he fools the inhabitants of that time into thinking he is a magician--and soon uses his knowledge of modern technology to become a \"magician\" in earnest, stunning the English of the Early Middle Ages with such feats as demolitions, fireworks and the shoring up of a holy well. He attempts to modernize the past, but in the end he is unable to prevent the death of Arthur and an interdict against him by the Catholic Church of the time, which grows fearful of his power. Twain wrote the book as a burlesque of Romantic notions of chivalry after being inspired by a dream in which he was a knight himself, and severely inconvenienced by the weight and cumbersome nature of his armor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152083408X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520834085"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NBuRvgEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NBuRvgEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=NBuRvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NBuRvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8tXXvQEACAAJ",
+      "etag": "ocbG/ucyI5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8tXXvQEACAAJ",
+      "volumeInfo": {
+        "title": "A Connecticut Yankee in King Arthur's Court by Mark Twain",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2020-04-25",
+        "description": "A Connecticut Yankee in King Arthur's Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur. In the book, a Yankee engineer from Connecticut named Hank Morgan receives a severe blow to the head and is somehow transported in time and space to England during the reign of King Arthur. After some initial confusion and his capture by one of Arthur's knights, Hank realizes that he is actually in the past, and he uses his knowledge to make people believe that he is a powerful magician. He attempts to modernize the past in order to make people's lives better, but in the end he is unable to prevent the death of Arthur and an interdict against him by the Catholic Church of the time, which grows fearful of his power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2491704501"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782491704506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8tXXvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8tXXvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8tXXvQEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8tXXvQEACAAJ&dq=Mark+Twain+A+Connecticut+Yankee+in+King+Arthur%27s+Court&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Connecticut_Yankee_in_King_Arthur_s_Co.html?hl=&id=8tXXvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8tXXvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Connecticut Yankee in King Arthur&#39;s Court is an 1889 novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur&#39;s Court. Some early editions are titled A Yankee at the Court of King Arthur."
+      }
+    }
+  ]
+}

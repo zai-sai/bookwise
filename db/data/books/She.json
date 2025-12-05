@@ -1,0 +1,663 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MYfRJQu-XAEC",
+      "etag": "J/rgdGtndeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MYfRJQu-XAEC",
+      "volumeInfo": {
+        "title": "She",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1998",
+        "description": "'My empire is of the imagination' These are the words of Ayesha, the mysterious white queen of a Central African tribe, whose dread title, She-who-must-be-obeyed, testifies to her undying beauty and magical powers; but they serve equally well to describe the hold of her author, Henry Rider Haggard, on generations of readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192835505"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192835505"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MYfRJQu-XAEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MYfRJQu-XAEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MYfRJQu-XAEC&printsec=frontcover&dq=H.+Rider+Haggard+She&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MYfRJQu-XAEC&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She.html?hl=&id=MYfRJQu-XAEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/She-sample-epub.acsm?id=MYfRJQu-XAEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/She-sample-pdf.acsm?id=MYfRJQu-XAEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MYfRJQu-XAEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is intended for general; students in colleges of further education, teachers of children&#39;s literature, students on such courses, Victorian fiction studies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "14L9XwAACAAJ",
+      "etag": "YEDy3IHkOFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/14L9XwAACAAJ",
+      "volumeInfo": {
+        "title": "The Works of H. Rider Haggard",
+        "subtitle": "She : a History of Adventure",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:310809119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=14L9XwAACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=14L9XwAACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Works_of_H_Rider_Haggard.html?hl=&id=14L9XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=14L9XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mvpPBeQIoHIC",
+      "etag": "lgsblv/XqrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mvpPBeQIoHIC",
+      "volumeInfo": {
+        "title": "She",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "Oxford Paperbacks",
+        "publishedDate": "2008-06-12",
+        "description": "'My empire is of the imagination.' These are the words of Ayesha, the mysterious white queen of a Central African tribe, whose dread title, 'She-who-must-be-obeyed', testifies to her undying beauty and magical powers; but they serve equally well to describe the hold of her author, Henry Rider Haggard, on generations of readers. Writing 'at white heat', and in the flush of success after the publication of King Solomon's Mines, Haggard drew again on his knowledge of Africa and of ancient legends, but also on something deeper and more disturbing. To the Englishmen who journey through shipwreck, fever, and cannibals to her hidden realm, 'She' is the goal of a quest bequeathed to them two thousand years before; to Haggard's readers, 'She' is the embodiment of one of the most potent and ambivalent figures of Western mythology, a female who is both monstrous and desirable - and, without question, deadlier than the male. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191504334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191504335"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mvpPBeQIoHIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mvpPBeQIoHIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mvpPBeQIoHIC&dq=H.+Rider+Haggard+She&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mvpPBeQIoHIC&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She.html?hl=&id=mvpPBeQIoHIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mvpPBeQIoHIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; These are the words of Ayesha, the mysterious white queen of a Central African tribe, whose dread title, &#39;She-who-must-be-obeyed&#39;, testifies to her undying beauty and magical powers; but they serve equally well to describe the hold of her ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RX7YxwEACAAJ",
+      "etag": "0dqjzQFD2yE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RX7YxwEACAAJ",
+      "volumeInfo": {
+        "title": "She",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:655974394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RX7YxwEACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RX7YxwEACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She.html?hl=&id=RX7YxwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RX7YxwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r5mmYcCqVmEC",
+      "etag": "LlD5y05lJv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r5mmYcCqVmEC",
+      "volumeInfo": {
+        "title": "She",
+        "subtitle": "A History of Adventure",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2006-02-01",
+        "description": "First published in 1886–87, H. Rider Haggard’s imperial romance follows its English heroes from the quiet rooms of Cambridge to the uncharted interior of Africa in search of a legendary lost city with an ageless white queen. The two men find their way to the ancient city of Kôr, where the beautiful and mysterious Ayesha, “She-who-must-be-obeyed,” rules. Despite her cruelty, both men become fascinated by Ayesha, who leads them on a harrowing journey to bathe in the underground “River of Life.” A thrilling “history of adventure,” She also reveals the complexity of Victorian attitudes towards race, gender, exploration, and empire. This Broadview edition presents the novel in its original illustrated Graphic magazine version, never before republished, and includes a critical introduction and supporting materials that demonstrate the novel’s relationship to late-Victorian issues such as imperialism, archaeology, race, evolution, and the rise of the “New Woman.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1551116472"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551116471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r5mmYcCqVmEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r5mmYcCqVmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r5mmYcCqVmEC&printsec=frontcover&dq=H.+Rider+Haggard+She&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=r5mmYcCqVmEC&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She.html?hl=&id=r5mmYcCqVmEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/She-sample-pdf.acsm?id=r5mmYcCqVmEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r5mmYcCqVmEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Broadview edition presents the novel in its original illustrated Graphic magazine version, never before republished, and includes a critical introduction and supporting materials that demonstrate the novel’s relationship to late ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oVddjgEACAAJ",
+      "etag": "Ik3+0ZMeW88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oVddjgEACAAJ",
+      "volumeInfo": {
+        "title": "She",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2015-09-29",
+        "description": "She - subtitled A History of Adventure - is a novel by H. Rider Haggard (1856-1925), first serialised in The Graphic magazine from October 1886 to January 1887. This book includes illustrations by E. K. Johnson.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1517535247"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781517535247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oVddjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oVddjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oVddjgEACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oVddjgEACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She.html?hl=&id=oVddjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oVddjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She - subtitled A History of Adventure - is a novel by H. Rider Haggard (1856-1925), first serialised in The Graphic magazine from October 1886 to January 1887. This book includes illustrations by E. K. Johnson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x8wbzgEACAAJ",
+      "etag": "wAQdrxnijzI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x8wbzgEACAAJ",
+      "volumeInfo": {
+        "title": "She, A History of Adventure Annotated",
+        "authors": [
+          "H Rider Haggard"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-12-12",
+        "description": "She, subtitled A History of Adventure, is a novel by the English writer H. Rider Haggard, published in book form in 1887 following serialisation in The Graphic magazine between October 1886 and January 1887. She was extraordinarily popular upon its release and has never been out of print.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798580465463"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x8wbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x8wbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=x8wbzgEACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=x8wbzgEACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She_A_History_of_Adventure_Annotated.html?hl=&id=x8wbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x8wbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She, subtitled A History of Adventure, is a novel by the English writer H. Rider Haggard, published in book form in 1887 following serialisation in The Graphic magazine between October 1886 and January 1887."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WY05tAEACAAJ",
+      "etag": "97qDWQVoMRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WY05tAEACAAJ",
+      "volumeInfo": {
+        "title": "H. RIDER HAGGARD (She: the Complete Collection) She, Ayesha: the Return of She, She and Allan, Wisdoms Daughter",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2018-01-11",
+        "description": "This volume collects the complete Collection (four novels) of the amazing saga of She, a saga related to the Allan Quatermain series (starting with the classic King Solomon Mines), written by Sir Henry Rider Haggard, English writer of adventure novels set predominantly in Africa, and a pioneer of the Lost World literary genre.She is a first-person narrative that follows the journey of Horace Holly and his ward Leo Vincey to a lost kingdom in the African interior. There they encounter a primitive race of natives and a mysterious white queen named Ayesha who reigns as the all-powerful \"She\", or \"She-who-must-be-obeyed\"(She: ) She Ayesha: The Return of SheShe and AllanWisdom's Daughter",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "198375420X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781983754203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 828,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WY05tAEACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WY05tAEACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/H_RIDER_HAGGARD_She_the_Complete_Collect.html?hl=&id=WY05tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WY05tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume collects the complete Collection (four novels) of the amazing saga of She, a saga related to the Allan Quatermain series (starting with the classic King Solomon Mines), written by Sir Henry Rider Haggard, English writer of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rViWDAEACAAJ",
+      "etag": "E2OW4RGiGYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rViWDAEACAAJ",
+      "volumeInfo": {
+        "title": "She: a History of Adventure",
+        "subtitle": "By H. Rider Haggard : Illustrated and Unabridged",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2016-05-01",
+        "description": "Why buy our paperbacks? Unabridged (100% Original content) Printed in USA on High Quality Paper 30 Days Money Back Guarantee Standard Font size of 10 for all books Fulfilled by Amazon Expedited shipping BEWARE OF LOW-QUALITY SELLERS Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. About She: A History of Adventure by H. Rider Haggard She - subtitled A History of Adventure - is a novel by H. Rider Haggard (1856-1925), first serialised in The Graphic magazine from October 1886 to January 1887. She is one of the classics of imaginative literature, and one of the best-selling books of all time, with over 83 million copies sold in 44 different languages as of 1965. She was extraordinarily popular upon its release and has never been out of print. According to literary historian Andrew M. Stauffer, \"She has always been Rider Haggard's most popular and influential novel, challenged only by King Solomon's Mines in this regard\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1532871430"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532871436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rViWDAEACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rViWDAEACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She_a_History_of_Adventure.html?hl=&id=rViWDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rViWDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About She: A History of Adventure by H. Rider Haggard She - subtitled A History of Adventure - is a novel by H. Rider Haggard (1856-1925), first serialised in The Graphic magazine from October 1886 to January 1887."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SA3MAQAACAAJ",
+      "etag": "yDeoSPfX5Yw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SA3MAQAACAAJ",
+      "volumeInfo": {
+        "title": "She: a History of Adventure",
+        "subtitle": "By H. Rider Haggard - Illustrated",
+        "authors": [
+          "H. Rider H. Rider Haggard"
+        ],
+        "publishedDate": "2017-03-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About She: A History of Adventure by H. Rider Haggard She -- subtitled A History of Adventure -- is a novel by H. Rider Haggard (1856-1925), first serialised in The Graphic magazine from October 1886 to January 1887. She is one of the classics of imaginative literature, and one of the best-selling books of all time, with over 83 million copies sold in 44 different languages as of 1965. She was extraordinarily popular upon its release and has never been out of print. According to literary historian Andrew M. Stauffer, \"She has always been Rider Haggard's most popular and influential novel, challenged only by King Solomon's Mines in this regard\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520883420"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520883427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SA3MAQAACAAJ&dq=H.+Rider+Haggard+She&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SA3MAQAACAAJ&dq=H.+Rider+Haggard+She&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She_a_History_of_Adventure.html?hl=&id=SA3MAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SA3MAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    }
+  ]
+}

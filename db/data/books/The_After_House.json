@@ -1,0 +1,648 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DYL1zgEACAAJ",
+      "etag": "0PPsZRkp6n8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DYL1zgEACAAJ",
+      "volumeInfo": {
+        "title": "Mary Roberts Rinehart's Crime Book; The After House ...[and Others].",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1296650081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DYL1zgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DYL1zgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Roberts_Rinehart_s_Crime_Book_The_A.html?hl=&id=DYL1zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DYL1zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u6qKEAAAQBAJ",
+      "etag": "crNgbrkvtyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u6qKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The After House",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-09-16",
+        "description": "Mary Roberts Rinehart's 'The After House' is a classic amalgam of mystery and romance, intricately woven into a maritime setting that enriches the plot with an atmospheric suspense. The literary style of Rinehart, often acknowledged as the American Agatha Christie, marries the tautness of a thriller with the descriptive elegance characteristic of early 20th-century literature. This novel, finely reconstructed for modern readers by DigiCat Publishing, encapsulates the tumult and change of post-World War I America, lending it a historical context that adds layers to its narrative and thematic structure. In examining the journey of Mary Roberts Rinehart to the creation of 'The After House,' one cannot overlook her background as a nurse and a wife of a doctor, which exposed her to the depths of human emotion and the idiosyncrasies of behavior under pressure—themes frequently explored in her works. Rinehart's experiences, combined with her travels, provide fertile ground for crafting the carefully plotted and psychologically compelling tales for which she is renowned. Her ability to intertwine domestic life with suspense undoubtedly contributed to the intrigue and authenticity found within the pages of 'The After House.' For those on the trail of classic mysteries with a historic twist, 'The After House' is not merely a book but an experience. Readers are invited to traverse the creaking decks and shadowy corridors of the novel, engaging in a literary voyage steered by Rinehart's adept storytelling. This edition serves both the enthusiast of period piece whodunits and the newcomer curious to explore the foundations of the genre. Rinehart's work is a classic that navigates the choppy waters of human psyche with poise, making 'The After House' a recommended harbor for enthusiasts of mystery and history alike.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547369745"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u6qKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u6qKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u6qKEAAAQBAJ&printsec=frontcover&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=u6qKEAAAQBAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House.html?hl=&id=u6qKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_After_House-sample-epub.acsm?id=u6qKEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_After_House-sample-pdf.acsm?id=u6qKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u6qKEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel, finely reconstructed for modern readers by DigiCat Publishing, encapsulates the tumult and change of post-World War I America, lending it a historical context that adds layers to its narrative and thematic structure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTdszgEACAAJ",
+      "etag": "+8svFWgJAwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTdszgEACAAJ",
+      "volumeInfo": {
+        "title": "The After House Mary Roberts Rinehart (Mystery, Thriller & Suspense, Literature) [Annotated]",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2021-05-02",
+        "description": "\"An astonishing story of love and mystery, which equals if not surpasses in interest those other lively stories of Mrs. Rinehart's. The novel is one of the sprightliest of the season and will add to the author's reputation as an inventor of 'queer' plots.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798747525702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qTdszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qTdszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qTdszgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qTdszgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House_Mary_Roberts_Rinehart_My.html?hl=&id=qTdszgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTdszgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rinehart&#39;s. The novel is one of the sprightliest of the season and will add to the author&#39;s reputation as an inventor of &#39;queer&#39; plots."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DQtkzgEACAAJ",
+      "etag": "l+d7mJf27LU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DQtkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The After House Illustrated",
+        "subtitle": "Mary Roberts Rinehart [Fiction, Thriller, Story, Novel]",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2021-03-29",
+        "description": "\"An astonishing story of love and mystery, which equals if not surpasses in interest those other lively stories of Mrs. Rinehart's. The novel is one of the sprightliest of the season and will add to the author's reputation as an inventor of 'queer' plots.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798730112254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DQtkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DQtkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DQtkzgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DQtkzgEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House_Illustrated.html?hl=&id=DQtkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DQtkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rinehart&#39;s. The novel is one of the sprightliest of the season and will add to the author&#39;s reputation as an inventor of &#39;queer&#39; plots."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Brj4jwEACAAJ",
+      "etag": "3fOsSYNirMo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Brj4jwEACAAJ",
+      "volumeInfo": {
+        "title": "The After House",
+        "subtitle": "Mary Roberts Rinehart (Mystery, Thriller & Suspense, Literature) [Annotated]",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2020-10-26",
+        "description": "As part of ClassicReader.com, Stephane Theroux presents the full text of the book entitled \"The After House.\" The book was written by American novelist and playwright Mary Roberts Rinehart (1876-1958). It is a mystery story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798553544560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Brj4jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Brj4jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Brj4jwEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Brj4jwEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House.html?hl=&id=Brj4jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Brj4jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rinehart&#39;s. The novel is one of the sprightliest of the season and will add to the author&#39;s reputation as an inventor of &#39;queer&#39; plots."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d4HBswEACAAJ",
+      "etag": "F5/F/c07+iI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d4HBswEACAAJ",
+      "volumeInfo": {
+        "title": "The After House by Mary Roberts Rinehart",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "The After House by Mary Roberts Rinehart",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "197382213X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973822134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d4HBswEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d4HBswEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House_by_Mary_Roberts_Rinehart.html?hl=&id=d4HBswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d4HBswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The After House by Mary Roberts Rinehart"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2V1tzQEACAAJ",
+      "etag": "Fh6XlglYCa0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2V1tzQEACAAJ",
+      "volumeInfo": {
+        "title": "The After House (Annotated)",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2020-03-15",
+        "description": "Rinehart served as a war correspondent during World War I and later described her experiences in several books, notably Kings, Queens and Pawns (1915). She produced as well a number of romances and nine plays. Most of the plays were written in collaboration with Avery Hopwood; her greatest successes were Seven Days, produced in New York in 1909, and The Bat, derived from The Circular Staircase",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798625549622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2V1tzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2V1tzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2V1tzQEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2V1tzQEACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_After_House_Annotated.html?hl=&id=2V1tzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2V1tzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rinehart served as a war correspondent during World War I and later described her experiences in several books, notably Kings, Queens and Pawns (1915)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "czl23De4aZMC",
+      "etag": "VOen55ffrQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/czl23De4aZMC",
+      "volumeInfo": {
+        "title": "Mary Roberts Rinehart's Crime Book",
+        "subtitle": "The After House; The Buckled Bag; Locked Doors; The Red Lamp; The Window at the White Cat",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P101092012021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=czl23De4aZMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=czl23De4aZMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=czl23De4aZMC&q=Mary+Roberts+Rinehart+The+After+House&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=czl23De4aZMC&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Roberts_Rinehart_s_Crime_Book.html?hl=&id=czl23De4aZMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=czl23De4aZMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QO36MAAACAAJ",
+      "etag": "CP2nzk78w70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QO36MAAACAAJ",
+      "volumeInfo": {
+        "title": "Mary Roberts Rinehart - the After House",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "2016-11-10",
+        "description": "Known as the \"American Agatha Christie,\" author Mary Roberts Rinehart produced a vast array of top-notch mysteries over the course of her career, with occasional incursions into other genres. The After House is a gripping whodunit that revolves around a series of grisly axe murders. Set on board a ship, this murder mystery is sure to leave you on the edge of your seat.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154032351X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540323514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QO36MAAACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QO36MAAACAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Roberts_Rinehart_the_After_House.html?hl=&id=QO36MAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QO36MAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Known as the &quot;American Agatha Christie,&quot; author Mary Roberts Rinehart produced a vast array of top-notch mysteries over the course of her career, with occasional incursions into other genres."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NT8PAAAAMAAJ",
+      "etag": "AcM2XaWE3Xw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NT8PAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Mary Roberts Rinehart's Crime Book",
+        "subtitle": "Containing Three Complete Stories: The After House; Locked Doors; The Red Lamp",
+        "authors": [
+          "Mary Roberts Rinehart"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015002717927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 742,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NT8PAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NT8PAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NT8PAAAAMAAJ&q=Mary+Roberts+Rinehart+The+After+House&dq=Mary+Roberts+Rinehart+The+After+House&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NT8PAAAAMAAJ&dq=Mary+Roberts+Rinehart+The+After+House&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Roberts_Rinehart_s_Crime_Book.html?hl=&id=NT8PAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NT8PAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

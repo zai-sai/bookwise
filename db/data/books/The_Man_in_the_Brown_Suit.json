@@ -1,0 +1,728 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sSA-EAAAQBAJ",
+      "etag": "llrmaPh/HVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sSA-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-29",
+        "description": "The Man in the Brown Suit Agatha Christie - Pretty, young Anne came to London looking for adventure. In fact, adventure comes looking for her—and finds her immediately at Hyde Park Corner tube station. Anne is present on the platform when a thin man, reeking of mothballs, loses his balance and is electrocuted on the rails. The Scotland Yard verdict is accidental death. But Anne is not satisfied. After all, who was the man in the brown suit who examined the body? And why did he race off, leaving a cryptic message behind: \"17-122 Kilmorden Castle\"? Mystery? Intrigue? Romance? The Man in the Brown Suit has it all. It's a thrilling adventure featuring young heroine, Anne Beddingfield. Anne witnesses a mysterious death in London and throws herself head-first into the investigation, travelling to South Africa. While following Anne's quest for the truth, we meet several interesting personalities, from a well-meaning socialite to a mysterious dancer, to the bright former spy, Colonel Race, who will reappear in later novels by Christie.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985944255"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985944253"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sSA-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sSA-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sSA-EAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sSA-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sSA-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sSA-EAAAQBAJ&rdid=book-sSA-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_in_the_Brown_Suit-sample-epub.acsm?id=sSA-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_in_the_Brown_Suit-sample-pdf.acsm?id=sSA-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sSA-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After all, who was the man in the brown suit who examined the body? And why did he race off, leaving a cryptic message behind: &quot;17-122 Kilmorden Castle&quot;? Mystery? Intrigue? Romance? The Man in the Brown Suit has it all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xgOPzQEACAAJ",
+      "etag": "JfgdJT/aKak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xgOPzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit",
+        "subtitle": "Agatha Christie",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-04-15",
+        "description": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00.The character Colonel Race is introduced in this novel. Anne Beddingfeld is on her own and ready for adventures when one comes her way. She sees a man die in a tube station and picks up a piece of paper dropped nearby. The message on the paper leads her to South Africa as she fits more pieces of the puzzle together about the death she witnessed. There is a murder in England the next day, and the murderer attempts to kill her on the ship en route to Cape Town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2491704382"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782491704384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xgOPzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xgOPzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xgOPzQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xgOPzQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit.html?hl=&id=xgOPzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xgOPzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00.The character Colonel Race is introduced in this novel. Anne Beddingfeld is on her own and ready for adventures when one comes her way."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RkDByQEACAAJ",
+      "etag": "oCTKWubiAyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RkDByQEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "William Morrow Paperbacks",
+        "publishedDate": "2020-06-16",
+        "description": "\"Pretty, young Anne came to London looking for adventure. In fact, adventure comes looking for her-and finds her immediately at Hyde Park Corner tube station. Anne is present on the platform when a thin man, reeking of mothballs, loses his balance and is electrocuted on the rails. The Scotland Yard verdict is accidental death. But Anne is not satisfied. After all, who was the man in the brown suit who examined the body? And why did he race off, leaving a cryptic message behind: \"17-122 Kilmorden Castle\"?\"--Page 4 of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062986406"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062986405"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RkDByQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RkDByQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RkDByQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RkDByQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit.html?hl=&id=RkDByQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RkDByQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Scotland Yard verdict is accidental death. But Anne is not satisfied. After all, who was the man in the brown suit who examined the body? And why did he race off, leaving a cryptic message behind: &quot;17-122 Kilmorden Castle&quot;?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AVDmEAAAQBAJ",
+      "etag": "4ZMwUomgg8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AVDmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit",
+        "subtitle": "Enriched edition. Detective Mystery Novel",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2023-12-11",
+        "description": "In 'The Man in the Brown Suit,' Agatha Christie weaves a tantalizing tale of intrigue and suspense, featuring her signature blend of mystery, adventure, and a touch of romance. The narrative follows Anne Beddingfeld, a young woman whose life takes a thrilling turn when a mysterious death on a train leads her into an international conspiracy. Set against the vibrant backdrop of 1920s England and South Africa, Christie employs a keen eye for detail and an engaging prose style that captivates readers while exploring themes of identity, deception, and the quest for truth. This novel artfully combines the characteristics of a classic whodunit with a dash of exotic flair, showcasing Christie's skill in constructing elaborate plots filled with red herrings and surprising resolutions. Agatha Christie, often referred to as the 'Queen of Crime,' draws upon her own experiences traveling and her keen understanding of human nature to create compelling narratives. Her background, including her upbringing during the Edwardian era and her personal encounters with the complexities of human relationships, richly informs her characters and plots. In 'The Man in the Brown Suit,' Christie emphasizes the role of the perceptive and resolute woman, a reflection of her own progressive views on gender roles in her time. This enthralling novel is highly recommended for readers seeking a gripping mystery that not only entertains but also engages the mind. Christie's masterful plotting and clever twists are sure to captivate fans of the genre, while new readers will find themselves immersed in a world where nothing is as it seems. 'The Man in the Brown Suit' stands as a testament to Christie's enduring legacy as one of literature's greatest storytellers. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - An Author Biography reveals milestones in the author's life, illuminating the personal insights behind the text. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand‐picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547774983"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AVDmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AVDmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AVDmEAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AVDmEAAAQBAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit.html?hl=&id=AVDmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_in_the_Brown_Suit-sample-epub.acsm?id=AVDmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_in_the_Brown_Suit-sample-pdf.acsm?id=AVDmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AVDmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel artfully combines the characteristics of a classic whodunit with a dash of exotic flair, showcasing Christie&#39;s skill in constructing elaborate plots filled with red herrings and surprising resolutions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q_LKzQEACAAJ",
+      "etag": "v03iKQ1VjnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q_LKzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit Illustrated",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-09-04",
+        "description": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924[1] and in the US by Dodd, Mead and Company later in the same year.[2] The UK edition retailed at seven shillings and sixpence (7/6)[3] and the US edition at $2.00.[2] The character Colonel Race is introduced in this novel.Anne Beddingfeld is on her own and ready for adventures when one comes her way. She sees a man die in a tube station and picks up a piece of paper dropped nearby. The message on the paper leads her to South Africa as she fits more pieces of the puzzle together about the death she witnessed. There is a murder in England the next day, and the murderer attempts to kill her on the ship en route to Cape Town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798682784738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q_LKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q_LKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Q_LKzQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Q_LKzQEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit_Illustrated.html?hl=&id=Q_LKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q_LKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924[1] and in the US by Dodd, Mead and Company later in the same year.[2] The UK edition ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MMMfzgEACAAJ",
+      "etag": "nre4wkZtO6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MMMfzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit By Agatha Christie Annotated Novel",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-12-25",
+        "description": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence and the US edition at $2.00",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798586473370"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MMMfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MMMfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MMMfzgEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MMMfzgEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit_By_Agatha_Chri.html?hl=&id=MMMfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MMMfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The UK edition retailed at seven shillings and sixpence and the US edition at $2.00"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XS0eQwAACAAJ",
+      "etag": "wwGLECVzse4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XS0eQwAACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit",
+        "subtitle": "Agatha Christie",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459262582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XS0eQwAACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XS0eQwAACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit.html?hl=&id=XS0eQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XS0eQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NmsJzgEACAAJ",
+      "etag": "lii6SzGn8Ao",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NmsJzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit Illustrated",
+        "authors": [
+          "Agatha Chirstie"
+        ],
+        "publishedDate": "2020-10-21",
+        "description": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924 and in the US by Dodd, Mead and Company later in the same year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798551062905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NmsJzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NmsJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NmsJzgEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NmsJzgEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit_Illustrated.html?hl=&id=NmsJzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NmsJzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924 and in the US by Dodd, Mead and Company later in the same year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yr2VEAAAQBAJ",
+      "etag": "9g02m90+XkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yr2VEAAAQBAJ",
+      "volumeInfo": {
+        "title": "THE MAN IN THE BROWN SUIT",
+        "subtitle": "UNABRIDGED ORIGINAL CLASSIC",
+        "authors": [
+          "AGATHA CHRISTIE"
+        ],
+        "publisher": "PURE SNOW PUBLISHING",
+        "publishedDate": "2022-10-18",
+        "description": "THE MAN IN THE BROWN SUIT BY AGATHA CHRISTIE Newly-orphaned Anne Beddingfeld is a nice English girl looking for a bit of adventure in London. But she stumbles upon more than she bargained for! Anne is on the platform at Hyde Park Corner tube station when a man falls onto the live track, dying instantly. A doctor examines the man, pronounces him dead, and leaves, dropping a note on his way. Anne picks up the note, which reads \"17.1 22 Kilmorden Castle\". The next day the newspapers report that a beautiful ballet dancer has been found dead there-- brutally strangled. A fabulous fortune in diamonds has vanished. And now, aboard the luxury liner Kilmorden Castle, mysterious strangers pillage her cabin and try to strangle her. What are they looking for? Why should they want her dead? Lovely Anne is the last person on earth suited to solve this mystery... and the only one who can! Anne's journey to unravel the mystery takes her as far afield as Africa and the tension mounts with every step... and Anne finds herself struggling to unmask a faceless killer known only as 'The Colonel' KEY FEATURES OF THIS BOOK · Unabridged reprint of the original content · Available in multiple formats: eBook, original paperback, large print paperback, hardcover and audiobook · Proper paragraph formatting with Indented first lines and Justified Paragraphs · Properly formatted for aesthetics and ease of reading. · Custom Table of Contents and Design elements for each chapter · The Copyright page has been placed at the end of the book, as to not impede the content and flow of the book. ABOUT THE BOOK: Original publication: 1924 Book 5 of 7 Chapters 36 Words: 76,000 This book is great for schools, teachers and students or for the casual reader, and makes a wonderful addition to any classic literary library ABOUT US: At Pure Snow Publishing we have taken the time and care into formatting this book to make it the best possible reading experience. With more than 500 book listings, we specialize in publishing classic books and have been publishing books since 2014. Enjoy!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yr2VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yr2VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yr2VEAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yr2VEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yr2VEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yr2VEAAAQBAJ&rdid=book-yr2VEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yr2VEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anne&#39;s journey to unravel the mystery takes her as far afield as Africa and the tension mounts with every step... and Anne finds herself struggling to unmask a faceless killer known only as &#39;The Colonel&#39; KEY FEATURES OF THIS BOOK · ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lm8nzwEACAAJ",
+      "etag": "MjbVDUvKpvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lm8nzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Man in the Brown Suit (Esprios Classics)",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Blurb",
+        "publishedDate": "2022-04-04",
+        "description": "The Man in the Brown Suit is a work of detective fiction by British writer Agatha Christie, first published in the UK by The Bodley Head on 22 August 1924 and in the US by Dodd, Mead and Company later in the same year. The character Colonel Race is introduced in this novel. Anne Beddingfeld is on her own and ready for adventures when one comes her way. She sees a man die in a tube station and picks up a piece of paper dropped nearby. The message on the paper leads her to South Africa as she fits more pieces of the puzzle together about the death she witnessed. There is a murder in England the next day, and the murderer attempts to kill her on the ship en route to Cape Town. The setting for the early chapters is London. Later chapters are set in Cape Town, Bulawayo, and on a fictional island in the Zambezi.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798210189448"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lm8nzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lm8nzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Lm8nzwEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Lm8nzwEACAAJ&dq=Agatha+Christie+The+Man+in+the+Brown+Suit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_Brown_Suit_Esprios_Classi.html?hl=&id=Lm8nzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lm8nzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The character Colonel Race is introduced in this novel. Anne Beddingfeld is on her own and ready for adventures when one comes her way. She sees a man die in a tube station and picks up a piece of paper dropped nearby."
+      }
+    }
+  ]
+}

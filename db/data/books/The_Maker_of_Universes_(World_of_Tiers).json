@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "eqhEAqdg3jQC",
+      "etag": "ZyJ3B20+tVs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eqhEAqdg3jQC",
+      "volumeInfo": {
+        "title": "A Checklist of Phantasia Press",
+        "authors": [
+          "Christopher P. Stephens"
+        ],
+        "publisher": "Ultramarine Publishing",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0893662011"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780893662011"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.16.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eqhEAqdg3jQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eqhEAqdg3jQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eqhEAqdg3jQC&pg=PA8&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eqhEAqdg3jQC&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Checklist_of_Phantasia_Press.html?hl=&id=eqhEAqdg3jQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Checklist_of_Phantasia_Press-sample-epub.acsm?id=eqhEAqdg3jQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Checklist_of_Phantasia_Press-sample-pdf.acsm?id=eqhEAqdg3jQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eqhEAqdg3jQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Philip Jose</b> . <b>World of Tiers</b> Series , Volume One : The <b>Maker Of Universes</b> . one ( originally published by Ace in 1965 ) . of 1000 copies . 220 pp . paper over boards . dust jacket illustration by Doug Beekman . published at $ 15.00 8b&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K6NaAAAAMAAJ",
+      "etag": "gfsgBAnTk94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K6NaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Maker of Universes",
+        "authors": [
+          "Philip José Farmer"
+        ],
+        "publishedDate": "1965",
+        "description": "Robert Wolff finds a horn that has the power to open a door through space-time to a universe of tiers that are made up of ascending worlds. At the top is the being who created the whole thing, who may just be a madman, an imposter, or a super-criminal.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015025036388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Life on other planets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K6NaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K6NaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=K6NaAAAAMAAJ&q=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=K6NaAAAAMAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Maker_of_Universes.html?hl=&id=K6NaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K6NaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Philip José Farmer. IN THE <b>WORLD OF TIERS</b> This is a novel science fiction adventure on the grand scale , a story of excite- ment , color , and constant action , told as only Philip ... <b>MAKER OF UNIVERSES PHILIP JOSE</b> FARMER A SF ace."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DuhOD2O-O2wC",
+      "etag": "ijWgjcilkV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DuhOD2O-O2wC",
+      "volumeInfo": {
+        "title": "Science Fiction and Fantasy Literature, Vol 1",
+        "authors": [
+          "R. Reginald"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "2010-09-01",
+        "description": "Science Fiction and Fantasy Literature, A Checklist, 1700-1974, Volume one of Two, contains an Author Index, Title Index, Series Index, Awards Index, and the Ace and Belmont Doubles Index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780941028752"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0941028755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 802,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DuhOD2O-O2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DuhOD2O-O2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DuhOD2O-O2wC&pg=PA758&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DuhOD2O-O2wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DuhOD2O-O2wC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.42,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.42,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DuhOD2O-O2wC&rdid=book-DuhOD2O-O2wC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7420000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7420000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Science_Fiction_and_Fantasy_Literature_V-sample-pdf.acsm?id=DuhOD2O-O2wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DuhOD2O-O2wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>WORLD</b> SERIES ( Andre Norton ) ESTCARP CYCLE : WATER WAGON SERIES ( W. C. Gibson &amp; Bert Les- ton Taylor ) # 1 The log ... <b>TIERS</b> ( <b>Philip Jose</b> Farmer ) # 231 The <b>maker of universes</b> . ( 1965 ) DEL WHITBY ( John Morressy ) # 1 Starbrat&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JEHgAAAAMAAJ",
+      "etag": "M2n//YhxQfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JEHgAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Science Fiction, Fantasy & Horror",
+        "publishedDate": "1991",
+        "description": "A comprehensive bibliography of books and short fiction published in the English language.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015079872159"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JEHgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JEHgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JEHgAAAAMAAJ&pg=PA26&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JEHgAAAAMAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_Fantasy_Horror.html?hl=&id=JEHgAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JEHgAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G44UAQAAIAAJ",
+      "etag": "CD1IlG4ShYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G44UAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Index to Science Fiction Anthologies and Collections",
+        "authors": [
+          "William Contento"
+        ],
+        "publisher": "Boston : G.K. Hall, c1978-c1984",
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105026048053"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G44UAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G44UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G44UAQAAIAAJ&pg=PA99&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=G44UAQAAIAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Index_to_Science_Fiction_Anthologies_and.html?hl=&id=G44UAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G44UAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QL4SAQAAMAAJ",
+      "etag": "fuzn01cwqRU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QL4SAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Whole Story",
+        "subtitle": "3000 Years of Sequels and Sequences",
+        "authors": [
+          "John E. Simkin"
+        ],
+        "publisher": "K. G. Saur",
+        "publishedDate": "1996",
+        "description": "This work is the only comprehensive guide to sequels in English, with over 84,000 works by 12,500 authors in 17,000 sequences.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015003033363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1226,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QL4SAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QL4SAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QL4SAQAAMAAJ&pg=PA587&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QL4SAQAAMAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Whole_Story.html?hl=&id=QL4SAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QL4SAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YGlYAAAAYAAJ",
+      "etag": "aqcxO8OpV90",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YGlYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Major 20th-century Writers",
+        "subtitle": "A Selection of Sketches from Contemporary Authors",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000018948073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 840,
+        "printType": "BOOK",
+        "categories": [
+          "Literature, Modern"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YGlYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YGlYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YGlYAAAAYAAJ&q=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YGlYAAAAYAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Major_20th_century_Writers.html?hl=&id=YGlYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YGlYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Philip Jose</b> Farmer , or The Wares of Simple Simon&#39;s Custard Pie and Space ... <b>Editor</b> under name <b>Philip Jose</b> Farmer ; author under pseud- onym John H ... <b>WORLD OF TIERS</b> &quot; SERIES The <b>Maker of Universes</b> , Ace , 1965 , revised&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eoPfAAAAMAAJ",
+      "etag": "0l+CIKhjQMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eoPfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Science Fiction and Fantasy Literature: Indexes to the literature",
+        "authors": [
+          "R. Reginald"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015078270801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 808,
+        "printType": "BOOK",
+        "categories": [
+          "Authors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eoPfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eoPfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eoPfAAAAMAAJ&pg=PA758&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eoPfAAAAMAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_and_Fantasy_Literature_I.html?hl=&id=eoPfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eoPfAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YUIvAAAAMAAJ",
+      "etag": "aYKsu+DuO0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YUIvAAAAMAAJ",
+      "volumeInfo": {
+        "title": "AB Bookman's Weekly",
+        "subtitle": "For the Specialist Book World",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015049896692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Antiquarian booksellers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YUIvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YUIvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YUIvAAAAMAAJ&q=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YUIvAAAAMAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/AB_Bookman_s_Weekly.html?hl=&id=YUIvAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YUIvAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Philip</b> K. The World Jones Made . St. Clair , Margaret , ACE Double D - 150 ... <b>Jose</b> . A Woman a Day . Beacon Book # 291 , original , very sl ... Tiers . <b>World of Tiers</b> . First 4 vols . Vol . 1 still in orig . wraps- <b>Maker of Universes</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hXGLAAAAIAAJ",
+      "etag": "/N/2FtAi7Jc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hXGLAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Exports of Developing Countries",
+        "subtitle": "How Direction Affects Performance",
+        "authors": [
+          "Oleh Havrylyshyn"
+        ],
+        "publisher": "World Bank Publications",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040850211"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hXGLAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hXGLAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hXGLAAAAIAAJ&q=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hXGLAAAAIAAJ&dq=Philip+Jos+The+Maker+of+Universes+(World+of+Tiers)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exports_of_Developing_Countries.html?hl=&id=hXGLAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hXGLAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... tier model , &quot; he told me of another series of novels by the same author dealing with the &quot; <b>World of Tiers</b> , &quot; the first of which series appeared in <b>Philip Jose</b> Farmer , The <b>Maker of Universes</b> ( New York : Ace , 1965 ) . The models are&nbsp;..."
+      }
+    }
+  ]
+}

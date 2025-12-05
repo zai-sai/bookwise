@@ -1,0 +1,713 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m0FRwNhjGEgC",
+      "etag": "fP6dvOg+M1s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m0FRwNhjGEgC",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles",
+        "subtitle": "A Detective Story",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "2003-12-09",
+        "description": "Who poisoned the wealthy Emily Inglethorpe, and how did the murderer penetrate and escape from her locked bedroom? Sus-pects abound in the quaint village of Styles St. Mary—from the heiress’s fawning new husband to her two stepsons, her volatile housekeeper, and a pretty nurse who works in a hospital dispensary. Making his unforgettable debut, the brilliant Belgian detective Hercule Poirot is on the case. “The key to the success of this style of detective novel,” writes Elizabeth George in her Introduction, “lies in how the author deals with both the clues and the red herrings, and it has to be said that no one bettered Agatha Christie at this game.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781588363947"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1588363945"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m0FRwNhjGEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m0FRwNhjGEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=m0FRwNhjGEgC&printsec=frontcover&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=m0FRwNhjGEgC&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles.html?hl=&id=m0FRwNhjGEgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mysterious_Affair_at_Styles-sample-epub.acsm?id=m0FRwNhjGEgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mysterious_Affair_at_Styles-sample-pdf.acsm?id=m0FRwNhjGEgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m0FRwNhjGEgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Making his unforgettable debut, the brilliant Belgian detective Hercule Poirot is on the case. “The key to the success of this style of detective novel,” writes Elizabeth George in her Introduction, “lies in how the author deals with ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E_y8AQAACAAJ",
+      "etag": "KwUF73KXrBk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E_y8AQAACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-22",
+        "description": "Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery. Agatha Christie is the best-selling author of all time. She wrote eighty crime novels and story collections, fourteen plays, and several other books. Her books have sold roughly four billion copies and have been translated into 45 languages. She is the creator of the two most enduring figures in crime literature-Hercule Poirot and Miss Jane Marple-and author of The Mousetrap, the longest-running play in the history of modern theatre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543282954"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543282955"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E_y8AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E_y8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=E_y8AQAACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=E_y8AQAACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles.html?hl=&id=E_y8AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E_y8AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.Agatha Christie is the best-selling author of all time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-VLCspotgMsC",
+      "etag": "QBCmlqu7xo0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-VLCspotgMsC",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Berkley",
+        "publishedDate": "1948",
+        "description": "Hercule Poirot: The first investigation. Agatha Christie: The first lady of crime. A woman utters the name of her late husband as she lays dying. Why? It'll take a master detective to answer that question. Introducing Hercule Poirot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0425129616"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425129616"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-VLCspotgMsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-VLCspotgMsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-VLCspotgMsC&q=Agatha+Christie+The+Mysterious+Affair+at+Styles&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-VLCspotgMsC&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles.html?hl=&id=-VLCspotgMsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-VLCspotgMsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hercule Poirot: The first investigation. Agatha Christie: The first lady of crime. A woman utters the name of her late husband as she lays dying. Why? It&#39;ll take a master detective to answer that question. Introducing Hercule Poirot."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z-j8zQEACAAJ",
+      "etag": "rub9a8Ibmvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z-j8zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles",
+        "subtitle": "Annotated",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-10-10",
+        "description": "The Mysterious Affair at Styles by Agatha Christie The book begins at Styles Court, located in Essex, UK. The mansion has several people living in it, including Emily Inglethorp, the elderly owner of the estate. When the rest of the people who live there wake up in the morning, they find that Emily has died and it looks like she was poisoned. In one of Christie's novels about Hercule Poirot, the famous detective discovers that Emily had great wealth, providing a highly probable motive for the murder. The suspects included Alfred Inglethorp, a younger man Emily just married, the Cavendish family, which includes Emily's stepchildren, and Cynthia and Evelyn, both Emily's friends. John Cavendish, according to Emily's will, is the one who will get the majority stake in the mansion, so at first, this points the suspicious finger at her. However, it is said that, on the day of the murder, Emily had argued with John and Alfred and changed him will. No one can find any evidence that such a newly created will exists. The crime investigator is Inspector Japp, who believes that Alfred is the one who committed the murder. He refuses to provide an alibi, and he's the one with the most to gain (they found an updated version of Emily's will, in which Alfred inherits the mansion). Because he is so young, it seems that he is simply a man looking for easy money. Alfred is found guilty of the murder and he did it in coordination with Evelyn. Apparently, he had written a letter about Emily's murder, and this is what made Emily so angry on the day of the murder. Not being able to go another day without her telling someone, he decided to kill her that night.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798696099897"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z-j8zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z-j8zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Z-j8zQEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Z-j8zQEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles.html?hl=&id=Z-j8zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z-j8zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Mysterious Affair at Styles by Agatha Christie The book begins at Styles Court, located in Essex, UK. The mansion has several people living in it, including Emily Inglethorp, the elderly owner of the estate."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oE1IvQEACAAJ",
+      "etag": "5/jzWLpkryM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oE1IvQEACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles Illustrated",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-10-08",
+        "description": "The Mysterious Affair at Styles is a detective novel by British writer Agatha Christie. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920[1] and in the United Kingdom by The Bodley Head (John Lane's UK company) on 21 January 1921.[2] The US edition retailed at $2.00[1] and the UK edition at seven shillings and sixpence (7/6).[2]Styles was Christie's first published novel. It introduced Hercule Poirot, Inspector (later, Chief Inspector) Japp, and Arthur Hastings.[3] Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery. This is also the setting of Curtain, Poirot's last case.The book includes maps of the house, the murder scene, and a drawing of a fragment of a will. The true first publication of the novel was as a weekly serial in The Times, including the maps of the house and other illustrations included in the book. This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers. An analysis in 1990 was positive about the plot, considered the novel one of the few by Christie that is well-anchored in time and place, a story that knows it describes the end of an era, and mentions that the plot is clever. Christie had not mastered cleverness in her first novel, as \"too many clues tend to cancel each other out\"; this was judged a difficulty \"which Conan Doyle never satisfactorily overcame, but which Christie would",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1726847942"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726847940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oE1IvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oE1IvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oE1IvQEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oE1IvQEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles_Illustra.html?hl=&id=oE1IvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oE1IvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yxyYEAAAQBAJ",
+      "etag": "+m3J3gsf6zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yxyYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "THE MYSTERIOUS AFFAIR AT STYLES",
+        "subtitle": "UNABRIDGED ORIGINAL CLASSIC",
+        "authors": [
+          "AGATHA CHRISTIE"
+        ],
+        "publisher": "PURE SNOW PUBLISHING",
+        "publishedDate": "2022-10-27",
+        "description": "THE MYSTERIOUS AFFAIR AT STYLES, BY AGATHA CHRISTIE Agatha Christie's debut novel was also the first to feature Hercule Poirot, her famously eccentric Belgian detective. A refugee of the Great War, Poirot has settled in England near Styles Court, the country estate of his wealthy benefactor, the elderly Emily Inglethorp. When Emily is poisoned and the authorities are baffled, Poirot puts his prodigious sleuthing skills to work. Suspects are plentiful, including the victim’s much younger husband, her resentful stepsons, her longtime hired companion, a young family friend working as a nurse, and a London specialist on poisons who just happens to be visiting the nearby village. All of them have secrets they are desperate to keep, but none can outwit Poirot as he navigates the ingenious red herrings and plot twists that contribute to Agatha Christie's well-deserved reputation as the queen of mystery. KEY FEATURES OF THIS BOOK · Unabridged reprint of the original content · Available in multiple formats: eBook, original paperback, large print paperback, hardcover and audiobook · Proper paragraph formatting with Indented first lines and Justified Paragraphs · Properly formatted for aesthetics and ease of reading. · Custom Table of Contents and Design elements for each chapter · The Copyright page has been placed at the end of the book, as to not impede the content and flow of the book. ABOUT THE BOOK: Original publication: 1920 Book 1 of the Agatha Christie Collection Chapters: 13 Words: 57,000 This book is great for schools, teachers and students or for the casual reader, and makes a wonderful addition to any classic literary library ABOUT US: At Pure Snow Publishing we have taken the time and care into formatting this book to make it the best possible reading experience. With more than 500 book listings, we specialize in publishing classic books and have been publishing books since 2014. Enjoy!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yxyYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yxyYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yxyYEAAAQBAJ&printsec=frontcover&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yxyYEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yxyYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yxyYEAAAQBAJ&rdid=book-yxyYEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yxyYEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ABOUT THE BOOK: Original publication: 1920 Book 1 of the Agatha Christie Collection Chapters: 13 Words: 57,000 This book is great for schools, teachers and students or for the casual reader, and makes a wonderful addition to any classic ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MnzdzgEACAAJ",
+      "etag": "21u0+xeYf9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MnzdzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles by Agatha Christie :(Annotated Edition)",
+        "authors": [
+          "Agatha Agatha Christie"
+        ],
+        "publishedDate": "2021-06-24",
+        "description": "The Mysterious Affair at Styles is a detective novel by British writer Agatha Christie. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920 and in the United Kingdom by The Bodley Head (John Lane's UK company) on 21 January 1921.Styles was Christie's first published novel. It introduced Hercule Poirot, Inspector (later, Chief Inspector) Japp, and Arthur Hastings.Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.The book includes maps of the house, the murder scene, and a drawing of a fragment of a will. The true first publication of the novel was as a weekly serial in The Times, including the maps of the house and other illustrations included in the book. This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers. An analysis in 1990 was positive about the plot, considered the novel one of the few by Christie that is well-anchored in time and place, a story that knows it describes the end of an era, and mentions that the plot is clever. Christie had not mastered cleverness in her first novel, as \"too many clues tend to cancel each other out\"; this was judged a difficulty \"which Conan Doyle never satisfactorily overcame, but which Christie would",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798525924086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MnzdzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MnzdzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles_by_Agath.html?hl=&id=MnzdzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MnzdzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fHg6zgEACAAJ",
+      "etag": "sRHJWmoOUVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fHg6zgEACAAJ",
+      "volumeInfo": {
+        "title": "Agatha Christie The Mysterious Affair at Styles (classics Illustrated)",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-01-24",
+        "description": "\"The Mysterious Affair at Styles is a detective novel by British writer Agatha Christie. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920 and in the United Kingdom by The Bodley Head (John Lane's UK company) on 21 January 1921.Styles was Christie's first published novel. It introduced Hercule Poirot, Inspector (later, Chief Inspector) Japp, and Arthur Hastings. Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.The book includes maps of the house, the murder scene, and a drawing of a fragment of a will. The true first publication of the novel was as a weekly serial in The Times, including the maps of the house and other illustrations included in the book. This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers. An analysis in 1990 was positive about the plot, considered the novel one of the few by Christie that is well-anchored in time and place, a story that knows it describes the end of an era, and mentions that the plot is clever. Christie had not mastered cleverness in her first novel, as \"\"too many clues tend to cancel each other out\"\"; this was judged a difficulty \"\"which Conan Doyle never satisfactorily overcame, but which Christie would\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798599484745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fHg6zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fHg6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fHg6zgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fHg6zgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Agatha_Christie_The_Mysterious_Affair_at.html?hl=&id=fHg6zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fHg6zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel was one of the first ten books published by Penguin Books when it began in 1935.This first mystery novel by Agatha Christie was well received by reviewers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_aqbzgEACAAJ",
+      "etag": "xH9pmATSGFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_aqbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles Agatha Christie",
+        "subtitle": "Original Ending",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-08-18",
+        "description": "The Mysterious Affair at Styles Agatha Christie's first novel, The Mysterious Affair at Styles, was the result of a dare from her sister Madge who challenged her to write a story. The story begins when Hastings is sent back to England from the First World War due to injury and is invited to spend his sick leave at the beautiful Styles Court by his old friend John Cavendish. Here, Hastings meets John's step-mother, Mrs Inglethorp, and her new husband, Alfred. Despite the tranquil surroundings Hastings begins to realise that all is not right. When Mrs Inglethorp is found poisoned, suspicion falls on the family, and another old friend, Hercule Poirot, is invited to investigate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798459577662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_aqbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_aqbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_aqbzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_aqbzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles_Agatha_C.html?hl=&id=_aqbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_aqbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story begins when Hastings is sent back to England from the First World War due to injury and is invited to spend his sick leave at the beautiful Styles Court by his old friend John Cavendish."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SfsKzgEACAAJ",
+      "etag": "nwqtwnPrK8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SfsKzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Affair at Styles",
+        "subtitle": "Hercule Poirot's First Case (Special Edition)illustrated",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "publishedDate": "2020-11-10",
+        "description": "\"The Mysterious Affair at Styles is a detective novel by British writer Agatha Christie. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920[1] and in the United Kingdom by The Bodley Head (John Lane's UK company) on 21 January 1921.[2]Styles was Christie's first published novel. It introduced Hercule Poirot, Inspector (later, Chief Inspector) Japp, and Arthur Hastings.[3] Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798562382894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SfsKzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SfsKzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SfsKzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SfsKzgEACAAJ&dq=Agatha+Christie+The+Mysterious+Affair+at+Styles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mysterious_Affair_at_Styles.html?hl=&id=SfsKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SfsKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Mysterious Affair at Styles is a detective novel by British writer Agatha Christie."
+      }
+    }
+  ]
+}

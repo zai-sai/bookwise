@@ -1,0 +1,749 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mDmMDwAAQBAJ",
+      "etag": "ctmGWBP4Nz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mDmMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2019-03",
+        "description": "The haunting tale of a young woman being seduced by a female vampire, Joseph Sheridan Le Fanu's Carmilla still manages to enthrall its readers almost two centuries later. Predating Dracula by some 26 years, Carmilla (1871) is the first and perhaps greatest of vampire stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359474332"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359474330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mDmMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mDmMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mDmMDwAAQBAJ&printsec=frontcover&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mDmMDwAAQBAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=mDmMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Carmilla-sample-pdf.acsm?id=mDmMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mDmMDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The haunting tale of a young woman being seduced by a female vampire, Joseph Sheridan Le Fanu&#39;s Carmilla still manages to enthrall its readers almost two centuries later."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9CBMvgAACAAJ",
+      "etag": "J8hPmn667gc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9CBMvgAACAAJ",
+      "volumeInfo": {
+        "title": "Joseph Sheridan Le Fanu - Carmilla",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publishedDate": "2016-09-14",
+        "description": "This Gothic novella tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. Carmilla predates Bram Stoker's Dracula by 25 years, and has been adapted many times for cinema. Although Carmilla is a lesser known and far shorter Gothic vampire story than the generally-considered master work of that genre, Dracula, the latter is heavily influenced by Le Fanu's short story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537526448"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537526447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9CBMvgAACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9CBMvgAACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joseph_Sheridan_Le_Fanu_Carmilla.html?hl=&id=9CBMvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9CBMvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Gothic novella tells the story of a young woman&#39;s susceptibility to the attentions of a female vampire named Carmilla."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3Xl8CgAAQBAJ",
+      "etag": "PCRQ8Sia71w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Xl8CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Joseph Sheridan Le Fanu's Carmilla",
+        "subtitle": "The First Female Vampire",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publisher": "Read Books Ltd",
+        "publishedDate": "2014-12-03",
+        "description": "In a chilling world of dark seduction and supernatural terror, this classic gothic novella is an early work of vampire fiction and a haunting feminist romance. Laura is a young and naïve girl, living alone with her father in an isolated yet beautiful castle. Surrounded by woodland, Laura's home is a lonely, almost impenetrable fortress, but when a carriage crashes outside its walls, she and her father offer their hospitality to the injured Carmilla. Mysterious and alluring, Carmilla tells Laura nothing of her life, but the two girls are inexplicably drawn to each other. As their relationship blossoms, Laura begins to experience unsettling dreams and her health rapidly declines. First published in 1872, Carmilla explores themes of forbidden desire and female sexuality, blurring the line between reality and fantasy. A masterpiece of gothic literature, Joseph Sheridan Le Fanu's eerie novella is a must-read for fans of horror and the supernatural.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781447480389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1447480384"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3Xl8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3Xl8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3Xl8CgAAQBAJ&printsec=frontcover&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3Xl8CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3Xl8CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3Xl8CgAAQBAJ&rdid=book-3Xl8CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joseph_Sheridan_Le_Fanu_s_Carmilla-sample-epub.acsm?id=3Xl8CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joseph_Sheridan_Le_Fanu_s_Carmilla-sample-pdf.acsm?id=3Xl8CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Xl8CgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A masterpiece of gothic literature, Joseph Sheridan Le Fanu&#39;s eerie novella is a must-read for fans of horror and the supernatural."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uzjAAwAAQBAJ",
+      "etag": "24bEmCwtV14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uzjAAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Carmilla By J. Sheridan Le Fanu",
+        "authors": [
+          "J. Sheridan Le Fanu"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-06-06",
+        "description": "Upon a paper attached to the Narrative which follows, Doctor Hesselius has written a rather elaborate note, which he accompanies with a reference to his Essay on the strange subject which the MS. illuminates. This mysterious subject he treats, in that Essay, with his usual learning and acumen, and with remarkable directness and condensation. It will form but one volume of the series of that extraordinary man's collected papers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736815452"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "373681545X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.106.100.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uzjAAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uzjAAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uzjAAwAAQBAJ&printsec=frontcover&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uzjAAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uzjAAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uzjAAwAAQBAJ&rdid=book-uzjAAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uzjAAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This mysterious subject he treats, in that Essay, with his usual learning and acumen, and with remarkable directness and condensation. It will form but one volume of the series of that extraordinary man&#39;s collected papers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "77nGzgEACAAJ",
+      "etag": "wbgRQ0rEYv0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/77nGzgEACAAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "subtitle": "Joseph Sheridan Le Fanu (Horror, Short Stories, Ghost, Classics, Literature) [Annotated]",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publishedDate": "2021-10-25",
+        "description": "\"Carmilla\" is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. \"Carmilla\" predates Bram Stoker's Dracula by 25 years and has been adapted many times for cinema.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798753479976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=77nGzgEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=77nGzgEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=77nGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=77nGzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Carmilla&quot; is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman&#39;s susceptibility to the attentions of a female vampire named Carmilla."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "koaiAgAAQBAJ",
+      "etag": "TaeqpbjTbJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/koaiAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "subtitle": "A Critical Edition",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publisher": "Syracuse University Press",
+        "publishedDate": "2013-05-15",
+        "description": "First serialized in the journal \"The Dark Blue\" and published shortly thereafter in the short story collection In a Glass Darkly, Le Fanu’s 1872 vampire tale is in many ways the overlooked older sister of Bram Stoker’s more acclaimed Dracula. A thrilling gothic tale, Carmilla tells the story of a young woman lured by the charms of a female vampire. This edition includes a student-oriented introduction, tracing the major critical responses to Carmilla, and four interdisciplinary essays by leading scholars who analyze the story from a variety of theoretical perspectives. Ranging from politics to gender, Gothicism to feminism, and nineteenth-century aestheticism to contemporary film studies, these critical yet accessible articles model the diverse ways that scholars can approach a single text. With a glossary, biography, bibliography, and explanatory notes on the text, this edition is ideal for students of Irish and British nineteenth-century literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780815652045"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0815652046"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=koaiAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=koaiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=koaiAgAAQBAJ&printsec=frontcover&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=koaiAgAAQBAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=koaiAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Carmilla-sample-epub.acsm?id=koaiAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Carmilla-sample-pdf.acsm?id=koaiAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=koaiAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition includes a student-oriented introduction, tracing the major critical responses to Carmilla, and four interdisciplinary essays by leading scholars who analyze the story from a variety of theoretical perspectives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ouxozgEACAAJ",
+      "etag": "WHrVH9zf35E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxozgEACAAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "subtitle": "Joseph Sheridan Le Fanu (Romance, Horror, Short Stories, Ghost, Classics, Literature) [Annotated]",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publishedDate": "2021-04-22",
+        "description": "\"Carmilla\" is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. \"Carmilla\" predates Bram Stoker's Dracula by 25 years and has been adapted many times for cinema.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798742613664"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ouxozgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ouxozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ouxozgEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ouxozgEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=ouxozgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ouxozgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Carmilla&quot; is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman&#39;s susceptibility to the attentions of a female vampire named Carmilla."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SGzpswEACAAJ",
+      "etag": "0H0vGjySBY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SGzpswEACAAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "authors": [
+          "Joseph Sheridan Le Fanu"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-08-05",
+        "description": "\"Carmilla\" is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. \"Carmilla\" predates Bram Stoker's Dracula by twenty five years, had a strong influence on Stoker's famous novel and has been adapted many times for cinema. Carmilla, the title character, is the original prototype for a legion of female and lesbian vampires.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "197428218X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974282180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SGzpswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SGzpswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SGzpswEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SGzpswEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=SGzpswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SGzpswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Carmilla&quot; is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman&#39;s susceptibility to the attentions of a female vampire named Carmilla."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1ylZMQAACAAJ",
+      "etag": "BbHt+UWnpyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1ylZMQAACAAJ",
+      "volumeInfo": {
+        "title": "Carmilla",
+        "authors": [
+          "J. Sheridan Le Fanu"
+        ],
+        "publishedDate": "2017-01-23",
+        "description": "\"Carmilla\" is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. \"Carmilla\" predates Bram Stoker's Dracula by 25 years and has been adapted many times for cinema.Sheridan Le Fanu was born at No. 45 Lower Dominick Steet, Dublin, into a literary family of Huguenot origins. Both his grandmother Alicia Sheridan Le Fanu and his great-uncle Richard Brinsley Sheridan were playwrights. His niece Rhoda Broughton would become a very successful novelist. Within a year of his birth his family moved to the Royal Hibernian Military School in Phoenix Park, where his father, an Anglican clergyman, was the chaplain of the establishment. Phoenix Park and the adjacent village and parish church of Chapelizod were to feature in Le Fanu's later stories.Le Fanu studied law at Trinity College in Dublin, where he was elected Auditor of the College Historical Society. He was called to the bar in 1839, but he never practised and soon abandoned law for journalism. In 1838 he began contributing stories to the Dublin University Magazine, including his first ghost story, entitled \"A Strange Event in the Life of Schalken the Painter\" (1839). He became owner of several newspapers from 1840, including the Dublin Evening Mail and the Warder.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542556317"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542556316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1ylZMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1ylZMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1ylZMQAACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1ylZMQAACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla.html?hl=&id=1ylZMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1ylZMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Carmilla&quot; is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman&#39;s susceptibility to the attentions of a female vampire named Carmilla."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dXuqtAEACAAJ",
+      "etag": "HbGnkvSwhNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dXuqtAEACAAJ",
+      "volumeInfo": {
+        "title": "Carmilla by J. Sheridan Le Fanu",
+        "subtitle": "Carmilla by J. Sheridan Lefanu",
+        "authors": [
+          "J. Sheridan LeFanu"
+        ],
+        "publishedDate": "2018-01-12",
+        "description": "Carmilla is a Gothic novella by Joseph Sheridan Le Fanu and one of the early works of vampire fiction, predating Bram Stoker's Dracula (1897) by 26 years. First published as a serial in The Dark Blue (1871-72), the story is narrated by a young woman preyed upon by a female vampire named Carmilla, later revealed to be Mircalla, Countess Karnstein (Carmilla is an anagram of Mircalla). The story is often anthologized and has been adapted many times in film and other media.Le Fanu presents the story as part of the casebook of Dr. Hesselius, whose departures from medical orthodoxy rank him as the first occult detective in literature.Laura, the teenage protagonist, narrates, beginning with her childhood in a \"picturesque and solitary\" castle amid an extensive forest in Styria, where she lives with her father, a wealthy English widower retired from service to the Austrian Empire. When she was six, Laura had a vision of a beautiful visitor in her bedchamber. She later claims to have been punctured in her breast, although no wound was found.Twelve years later, Laura and her father are admiring the sunset in front of the castle when her father tells her of a letter from his friend, General Spielsdorf. The General was supposed to bring his niece, Bertha Rheinfeldt, to visit the two, but the niece suddenly died under mysterious circumstances. The General ambiguously concludes that he will discuss the circumstances in detail when they meet later.Laura, saddened by the loss of a potential friend, longs for a companion. A carriage accident outside Laura's home unexpectedly brings a girl of Laura's age into the family's care. Her name is Carmilla. Both girls instantly recognize the other from the \"dream\" they both had when they were young.Carmilla appears injured after her carriage accident, but her mysterious mother informs Laura's father that her journey is urgent and cannot be delayed. She arranges to leave her daughter with Laura and her father until she can return in three months. Before she leaves, she sternly notes that her daughter will not disclose any information whatsoever about her family, past, or herself, and that Carmilla is of sound mind. Laura comments that this information seems needless to say, and her father laughs it off.Carmilla and Laura grow to be very close friends, but occasionally Carmilla's mood abruptly changes. She sometimes makes romantic advances towards Laura. Carmilla refuses to tell anything about herself, despite questioning by Laura. Her secrecy is not the only mysterious thing about Carmilla; she never joins the household in its prayers, she sleeps much of the day, and she seems to sleepwalk outside at night.Meanwhile, young women and girls in the nearby towns have begun dying from an unknown malady. When the funeral procession of one such victim passes by the two girls, Laura joins in the funeral hymn. Carmilla bursts out in rage and scolds Laura, complaining that the hymn hurts her ears.When a shipment of restored heirloom paintings arrives, Laura finds a portrait of her ancestor, Mircalla, Countess Karnstein, dated 1698. The portrait resembles Carmilla exactly, down to the mole on her neck. Carmilla says she might be descended from the Karnsteins even though the family died out centuries before.During Carmilla's stay, Laura has nightmares of a large cat-like beast entering her room and biting her on the chest. The beast then takes the form of a female figure and disappears through the door without opening it. In another nightmare, Laura hears a voice say, \"Your mother warns you to beware of the assassin,\" and a sudden light reveals Carmilla standing at the foot of her bed, her nightdress drenched in blood. Laura's health declines, and her father has a doctor examine her. He finds a small blue spot on her chest and speaks privately with her father, only asking that Laura never be unattended.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1983776807"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781983776809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dXuqtAEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dXuqtAEACAAJ&dq=Sheridan+Le+Fanu+Carmilla&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carmilla_by_J_Sheridan_Le_Fanu.html?hl=&id=dXuqtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dXuqtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is often anthologized and has been adapted many times in film and other media.Le Fanu presents the story as part of the casebook of Dr. Hesselius, whose departures from medical orthodoxy rank him as the first occult detective in ..."
+      }
+    }
+  ]
+}

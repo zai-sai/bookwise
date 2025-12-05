@@ -1,0 +1,765 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ifHNG87JMlAC",
+      "etag": "ONcnRE4j6PY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifHNG87JMlAC",
+      "volumeInfo": {
+        "title": "William Shakespeare's Othello",
+        "authors": [
+          "Harold Bloom",
+          "Sterling Professor of Humanities Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2010",
+        "description": "A collection of critical essays on the Shakespeare play, Othello, arranged in chronological order of publication.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438132754"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438132751"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifHNG87JMlAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifHNG87JMlAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ifHNG87JMlAC&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ifHNG87JMlAC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_Othello.html?hl=&id=ifHNG87JMlAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Othello-sample-epub.acsm?id=ifHNG87JMlAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Othello-sample-pdf.acsm?id=ifHNG87JMlAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ifHNG87JMlAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A collection of critical essays on the Shakespeare play, Othello, arranged in chronological order of publication."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M_uMERq5bfIC",
+      "etag": "euTOZF40YQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M_uMERq5bfIC",
+      "volumeInfo": {
+        "title": "Othello",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2011-08-23",
+        "description": "In Othello, Shakespeare creates powerful drama from a marriage between the exotic Moor Othello and the Venetian lady Desdemona that begins with elopement and mutual devotion and ends with jealous rage and death. Shakespeare builds many differences into his hero and heroine, including race, age, and cultural background. Yet most readers and audiences believe the couple's strong love would overcome these differences were it not for Iago, who sets out to destroy Othello. Iago's false insinuations about Desdemona's infidelity draw Othello into his schemes, and Desdemona is subjected to Othello's horrifying verbal and physical assaults. The authoritative edition of Othello from The Folger Shakespeare Library, the trusted and widely used Shakespeare series for students and general readers, is now available as an ebook. Features include: · The exact text of the printed book for easy cross-reference · Hundreds of hypertext links for instant navigation · Freshly edited text based on the best early printed version of the play · Full explanatory notes conveniently placed on pages facing the text of the play · Scene-by-scene plot summaries · A key to famous lines and phrases · An introduction to reading Shakespeare’s language · Illustrations from the Folger Shakespeare Library’s vast holdings of rare books · An essay by a leading Shakespeare scholar providing a modern perspective on the pla",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781439116913"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1439116911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M_uMERq5bfIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M_uMERq5bfIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M_uMERq5bfIC&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=M_uMERq5bfIC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Othello.html?hl=&id=M_uMERq5bfIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Othello-sample-pdf.acsm?id=M_uMERq5bfIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M_uMERq5bfIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The authoritative edition of Othello from The Folger Shakespeare Library, the trusted and widely used Shakespeare series for students and general readers, is now available as an ebook."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTVtDwAAQBAJ",
+      "etag": "JDwSyKohAKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTVtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Othello",
+        "authors": [
+          "Emma Smith"
+        ],
+        "publishedDate": "2005-07-31",
+        "description": "In this study Emma Smith teases out instances of doubleness, duplication and paradox in Othello.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780746310823"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "074631082X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTVtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTVtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FTVtDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FTVtDwAAQBAJ&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Othello.html?hl=&id=FTVtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Othello-sample-pdf.acsm?id=FTVtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTVtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this study Emma Smith teases out instances of doubleness, duplication and paradox in Othello."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2wP9PnTsSysC",
+      "etag": "peAr8Y6zqb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2wP9PnTsSysC",
+      "volumeInfo": {
+        "title": "CliffsNotes on Shakespeare’s Othello",
+        "authors": [
+          "Gary K Carey",
+          "Helen McCulloch"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2002-05-02",
+        "description": "The original CliffsNotes study guides offer expert commentary on major themes, plots, characters, literary devices, and historical background. The latest generation of titles in the series also feature glossaries and visual elements that complement the classic, familiar format. Betrayal and manipulation lie at the heart of Othello. Keep up with all the crosses and double-crosses of this tragic play with the CliffsNotes version of the play, which will help you form your own opinions about Iago's schemes, Othello's motives, and Desdemona's loyalty. Other features that help you study include Background information about the life and times of William Shakespeare to help you understand his influences A character map that graphically illustrates the relationships among the characters Glossaries to help you comprehend Shakespeare’s language Critical essays on the character pairs and major themes of the play A review section that tests your knowledge Classic literature or modern-day treasure—you'll understand it all with expert information and insight from CliffsNotes study guides.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544183148"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544183142"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2wP9PnTsSysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2wP9PnTsSysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2wP9PnTsSysC&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2wP9PnTsSysC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/CliffsNotes_on_Shakespeare_s_Othello.html?hl=&id=2wP9PnTsSysC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/CliffsNotes_on_Shakespeare_s_Othello-sample-epub.acsm?id=2wP9PnTsSysC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/CliffsNotes_on_Shakespeare_s_Othello-sample-pdf.acsm?id=2wP9PnTsSysC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2wP9PnTsSysC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The latest generation of titles in the series also feature glossaries and visual elements that complement the classic, familiar format. Betrayal and manipulation lie at the heart of Othello."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MPmZCgAAQBAJ",
+      "etag": "zs9TR+GzuXE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MPmZCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for William Shakespeare's Othello",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-09-24",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410334954"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410334953"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MPmZCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MPmZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MPmZCgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MPmZCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MPmZCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MPmZCgAAQBAJ&rdid=book-MPmZCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-epub.acsm?id=MPmZCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-pdf.acsm?id=MPmZCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MPmZCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2uCy0cegH6oC",
+      "etag": "xtYbpVaSHa0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2uCy0cegH6oC",
+      "volumeInfo": {
+        "title": "William Shakespeare",
+        "subtitle": "Othello",
+        "authors": [
+          "Nick Potter",
+          "Nicholas Potter"
+        ],
+        "publisher": "Columbia University Press",
+        "publishedDate": "2000",
+        "description": "\"Othello\" is perhaps Shakespeare's most troublesome tragedy. While it has retained its popularity on the stage, many critics have struggled to come to terms with it. The Romantics warmed to the figure of Othello himself and wrung their hands over the plight of Desdemona; the Modernists looked down on the play as an achievement of Shakespeare's stagecraft rather than of his imagination. Excerpting and discussing the critical history of the play from the earliest pronouncements to present-day criticism, this guide does justice to the variety of opinion and points out significant themes and recurring critical concerns, without glossing over the ugly racism of many critical accounts and the inadequacy of many attempts to face up to the issues raised by the play.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0231124295"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780231124294"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2uCy0cegH6oC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2uCy0cegH6oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2uCy0cegH6oC&dq=William+Shakespeare+Othello&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2uCy0cegH6oC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare.html?hl=&id=2uCy0cegH6oC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2uCy0cegH6oC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Excerpting and discussing the critical history of the play from the earliest pronouncements to present-day criticism, this guide does justice to the variety of opinion and points out significant themes and recurring critical concerns, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Neb-8400OmQC",
+      "etag": "FfSQlBXcSlk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Neb-8400OmQC",
+      "volumeInfo": {
+        "title": "The Oxford Shakespeare: Othello",
+        "subtitle": "The Moor of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2006-03-16",
+        "description": "This is the first scholarly edition of Othello to give full attention to the work's bold treatment of racial themes. Shakespeare's decision to place a sympathetic black hero at the centre of his tragedy was unique in its time; but, as the lively introduction shows, the play's relationship to the history of racial thinking remains controversial. Designed to meet the needs of theatre professionals, as well as general readers, the edition includes an extensive performancehistory, a commentary illuminating the complexities of Shakespeare's language, and an indispensable appendix on the music in the play.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0198129203"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198129202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 503,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Neb-8400OmQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Neb-8400OmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Neb-8400OmQC&printsec=frontcover&dq=William+Shakespeare+Othello&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Neb-8400OmQC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Shakespeare_Othello.html?hl=&id=Neb-8400OmQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Oxford_Shakespeare_Othello-sample-pdf.acsm?id=Neb-8400OmQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Neb-8400OmQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also makes fulluse of the Second Quarto (1632) a text which, although it is without independent authority, preserves important textual decisions made by an intelligent and well-informed editor nearly contemporary with the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lSXgje0qYBEC",
+      "etag": "ADXt8/VkXXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lSXgje0qYBEC",
+      "volumeInfo": {
+        "title": "William Shakespeare’s Othello",
+        "authors": [
+          "Jibesh Bhattacharyya"
+        ],
+        "publisher": "Atlantic Publishers & Dist",
+        "publishedDate": "2006",
+        "description": "William Shakespeare Is Considered The Best Poet And Dramatist Of All Ages. His Tragic Drama Othello Has Been Popular Since Its First Perfor¬Mance At The Beginning Of The Seventeenth Century, With Both The Audience And The Readers. The Play Is Still Performed And Several Film Versions Have Also Appeared. The Play Generated Much Controversy And At The Same Time Created Some Genuine Interest In It. It Is, However, In The Theatre That We Can Fully Appreciate The Genius Of Shakespeare As A Dramatist. But In Order To Have A Proper Assessment Of A Play By Shakespeare, We Must Also Be Ready To Study It As Literature, Welcoming The Observations Of The Critics And Scholars, As They Help Us Come Closer To The Proper Meaning Of The Play.An Attempt Has Been Made In This Critical Study To Provide The Readers Of Othello With That Clear Insight Which May Help Them Comprehend The Play Properly, Enhancing Their Enjoyment Of The Play. Besides Discussing The Various Problems Connected With The Play, This Study Provides A Detailed Critical Analysis Of The Play, Scene By Scene, And Various Critical Approaches To The Play From The Seventeenth Century Upto The Modern Times. The Debates About The Real Identity Of The Dramatist, Continuing From The Beginning Right Up To The Present Time, Have Been Discussed And The Curious May Find In Them Enough Food For Thought. A Select Bibliography Has Also Been Provided For The Discerning Readers Who Want To Know More About The Play. A Number Of Questions Have Been Given At The End To Stimulate The Readers Interest In The Drama. As An Aid To The Smooth Reading Of The Play, A Glossary Of Difficult And Obscure Words And Terms Has Been Appended To The Book.It Is Hoped That The Present Book Will Prove Highly Useful To Both Students And Researchers Of English Literature. Even Those Engaged In Teaching Shakespearian Plays Will Find It Informative And Valuable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8126901160"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788126901166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lSXgje0qYBEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lSXgje0qYBEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lSXgje0qYBEC&dq=William+Shakespeare+Othello&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lSXgje0qYBEC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_Othello.html?hl=&id=lSXgje0qYBEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lSXgje0qYBEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As An Aid To The Smooth Reading Of The Play, A Glossary Of Difficult And Obscure Words And Terms Has Been Appended To The Book.It Is Hoped That The Present Book Will Prove Highly Useful To Both Students And Researchers Of English Literature ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AfVzzLknnNsC",
+      "etag": "DBQGAwbnsm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AfVzzLknnNsC",
+      "volumeInfo": {
+        "title": "William Shakespeare's Othello",
+        "authors": [
+          "Michael A. Modugno"
+        ],
+        "publisher": "Research & Education Assoc.",
+        "publishedDate": "1996",
+        "description": "REA's MAXnotes for William Shakespeare's Othello The MAXnotes offers a comprehensive summary and analysis of Othello and a biography of William Shakespeare. Places the events of the play in historical context and discusses each act in detail. Includes study questions and answers along with topics for papers and sample outlines.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0878910387"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780878910380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AfVzzLknnNsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AfVzzLknnNsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AfVzzLknnNsC&dq=William+Shakespeare+Othello&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AfVzzLknnNsC&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_Othello.html?hl=&id=AfVzzLknnNsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AfVzzLknnNsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Our MAXnotes for William Shakespeare&#39;s Othello study guide includes an overall summary, character lists, explanation and discussion of the plot, overview of the work&#39;s historical context, and a biography of the author."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "13xlAAAAMAAJ",
+      "etag": "GkFSQDnObXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/13xlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Critical Essays on Shakespeare's Othello",
+        "authors": [
+          "Anthony Gerard Barthelemy"
+        ],
+        "publisher": "Macmillan Reference USA",
+        "publishedDate": "1994",
+        "description": "\"Othello\" has been called the greatest of Shakespeare's plays and also condemned as the most flawed of his major works. This collection of critical essays centres on race as the main concern of the play, highlighting the area as central to the understandin",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015031826095"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=13xlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=13xlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=13xlAAAAMAAJ&q=William+Shakespeare+Othello&dq=William+Shakespeare+Othello&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=13xlAAAAMAAJ&dq=William+Shakespeare+Othello&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Critical_Essays_on_Shakespeare_s_Othello.html?hl=&id=13xlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=13xlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection of critical essays centres on race as the main concern of the play, highlighting the area as central to the understandin"
+      }
+    }
+  ]
+}

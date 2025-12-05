@@ -1,0 +1,769 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "n8ULQFTGiMYC",
+      "etag": "EtQz5axyfs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n8ULQFTGiMYC",
+      "volumeInfo": {
+        "title": "Frankenstein, Or, The Modern Prometheus : with Connections",
+        "authors": [
+          "Mary Wollstonecraft Shelley"
+        ],
+        "publisher": "Holt McDougal",
+        "publishedDate": "1999",
+        "description": "The California edition of the Pennyroyal Press \"Frankenstein\" unites the dark side of Barry Moser's art with the classic 1818 text of Mary Shelley's tale of moral transfiguration. In a vivid sequence of woodcuts, the reader witnesses the birth of the \"monster\" as Moser shapes him from darkness and gives him a form simultaneously ghastly in its malice and transfixing in its suffering.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0030564727"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780030564727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n8ULQFTGiMYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n8ULQFTGiMYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=n8ULQFTGiMYC&q=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=n8ULQFTGiMYC&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein_Or_The_Modern_Prometheus_wi.html?hl=&id=n8ULQFTGiMYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n8ULQFTGiMYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The California edition of the Pennyroyal Press &quot;Frankenstein&quot; unites the dark side of Barry Moser&#39;s art with the classic 1818 text of Mary Shelley&#39;s tale of moral transfiguration."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UL6Cwv2Z1iQC",
+      "etag": "D6DwKCUZXHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UL6Cwv2Z1iQC",
+      "volumeInfo": {
+        "title": "Frankenstein",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-05",
+        "description": "\"Includes detailed explanatory notes, an overview of key themes, and more\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743487580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743487583"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.12.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UL6Cwv2Z1iQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UL6Cwv2Z1iQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UL6Cwv2Z1iQC&printsec=frontcover&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UL6Cwv2Z1iQC&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein.html?hl=&id=UL6Cwv2Z1iQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Frankenstein-sample-epub.acsm?id=UL6Cwv2Z1iQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UL6Cwv2Z1iQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Includes detailed explanatory notes, an overview of key themes, and more&quot;--Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pWzGwwEACAAJ",
+      "etag": "4G4pJ1oMDjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pWzGwwEACAAJ",
+      "volumeInfo": {
+        "title": "Frankenstein: (or the Modern Prometheus)",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-02-21",
+        "description": "Mary Shelley's Frankenstein. A classic. When Victor Frankenstein creates his \"Daemon,\" his life is then haunted by the creature, a killer, whom Frankenstein himself is guilty of unleashing. Or is he? With a new foreword by Sofie Couch, there may be more to Victor Frankenstein's monster than readers remember from their school days.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1797748246"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781797748245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pWzGwwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pWzGwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pWzGwwEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pWzGwwEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein_or_the_Modern_Prometheus.html?hl=&id=pWzGwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pWzGwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mary Shelley&#39;s Frankenstein. A classic. When Victor Frankenstein creates his &quot;Daemon,&quot; his life is then haunted by the creature, a killer, whom Frankenstein himself is guilty of unleashing. Or is he?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FQ1cvQEACAAJ",
+      "etag": "yW3rML+K/T0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FQ1cvQEACAAJ",
+      "volumeInfo": {
+        "title": "Frankenstein; Or, the Modern Prometheus",
+        "subtitle": "Large Print",
+        "authors": [
+          "Mary Wollstonecraft Shelley"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-10-11",
+        "description": "Frankenstein; Or, The Modern Prometheus: Large Print By Mary Wollstonecraft Shelley Mary Wollstonecraft Shelley was an English novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel Frankenstein: or, The Modern Prometheus. She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1727668545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781727668544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FQ1cvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FQ1cvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FQ1cvQEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FQ1cvQEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein_Or_the_Modern_Prometheus.html?hl=&id=FQ1cvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FQ1cvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rE-7zgEACAAJ",
+      "etag": "g/9r0UbmVyQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rE-7zgEACAAJ",
+      "volumeInfo": {
+        "title": "FRANKENSTEIN; OR, THE MODERN PROMETHEUS. by Mary Wollstonecraft (Godwin) Shelley",
+        "subtitle": "( The 1818 Text - The Complete Uncensored Edition - by Mary Shelley ) Hardcover",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Gopublish",
+        "publishedDate": "2021-10-08",
+        "description": "Mary Wollstonecraft Shelley (Godwin) (30 August 1797 - 1 February 1851) was an English novelist who wrote the Gothic novel Frankenstein; or, The Modern Prometheus (1818), which is considered an early example of science fiction. She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley. Her father was the political philosopher William Godwin and her mother was the philosopher and feminist activist Mary Wollstonecraft. Shelley's mother died less than a month after giving birth to her. She was raised by her father, who provided her with a rich if informal education, encouraging her to adhere to his own anarchist political theories. When she was four, her father married a neighbor, Mary Jane Clairmont, with whom Shelley came to have a troubled relationship. In 1814, Shelley began a romance with one of her father's political followers, Percy Bysshe Shelley, who was already married. Together with her stepsister, Claire Clairmont, she and Percy left for France and travelled through Europe. Upon their return to England, Shelley was pregnant with Percy's child. Over the next two years, she and Percy faced ostracism, constant debt and the death of their prematurely born daughter. They married in late 1816, after the suicide of Percy Shelley's first wife, Harriet. In 1816, the couple and her stepsister famously spent a summer with Lord Byron and John William Polidori near Geneva, Switzerland, where Shelley conceived the idea for her novel Frankenstein. The Shelleys left Britain in 1818 for Italy, where their second and third children died before Shelley gave birth to her last and only surviving child, Percy Florence Shelley. In 1822, her husband drowned when his sailing boat sank during a storm near Viareggio. A year later, Shelley returned to England and from then on devoted herself to the upbringing of her son and a career as a professional author. The last decade of her life was dogged by illness, most likely caused by the brain tumor which killed her at age 53. Until the 1970s, Shelley was known mainly for her efforts to publish her husband's works and for her novel Frankenstein, which remains widely read and has inspired many theatrical and film adaptations. Recent scholarship has yielded a more comprehensive view of Shelley's achievements. Scholars have shown increasing interest in her literary output, particularly in her novels, which include the historical novels Valperga (1823) and Perkin Warbeck (1830), the apocalyptic novel The Last Man (1826) and her final two novels, Lodore (1835) and Falkner (1837). Studies of her lesser-known works, such as the travel book Rambles in Germany and Italy (1844) and the biographical articles for Dionysius Lardner's Cabinet Cyclopaedia (1829-1846), support the growing view that Shelley remained a political radical throughout her life. Shelley's works often argue that cooperation and sympathy, particularly as practiced by women in the family, were the ways to reform civil society. This view was a direct challenge to the individualistic Romantic ethos promoted by Percy Shelley and the Enlightenment political theories articulated by her father, William Godwin.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3755100150"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783755100157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rE-7zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rE-7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rE-7zgEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rE-7zgEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/FRANKENSTEIN_OR_THE_MODERN_PROMETHEUS_by.html?hl=&id=rE-7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rE-7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mary Wollstonecraft Shelley (Godwin) (30 August 1797 - 1 February 1851) was an English novelist who wrote the Gothic novel Frankenstein; or, The Modern Prometheus (1818), which is considered an early example of science fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9J61ugEACAAJ",
+      "etag": "9dYlucj87VA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9J61ugEACAAJ",
+      "volumeInfo": {
+        "title": "Frankenstein, Or the Modern Prometheus",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-13",
+        "description": "A Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, Frankenstein tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein. Frankenstein, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1725505673"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781725505674"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9J61ugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9J61ugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9J61ugEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9J61ugEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein_Or_the_Modern_Prometheus.html?hl=&id=9J61ugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9J61ugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, Frankenstein tells the story of committed science student Victor Frankenstein."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MUAEMQAACAAJ",
+      "etag": "TvKrdpmhDPY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MUAEMQAACAAJ",
+      "volumeInfo": {
+        "title": "Frankenstein. Or the Modern Prometheus (a Novel)",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-03",
+        "description": "A terrifying vision of scientific progress without moral limits, Mary Shelley's \"Frankenstein\" leads the reader on an unsettling journey from the sublime beauty of the Swiss alps to the desolate waste of the arctic circle. Obsessed with the idea of creating life itself, Victor Frankenstein plunders graveyards for the material with which to fashion a new being, shocking his creation to life with electricity. But this botched creature, rejected by its creator and denied human companionship, sets out to destroy Frankenstein and all that he holds dear. Mary Shelley's chilling gothic tale was conceived when she was only eighteen, living with her lover Percy Shelley near Lord Byron's villa on Lake Geneva. It would become the world's most famous work of Gothic horror, and Frankenstein's monster an instantly-recognisable symbol of the limits of human creativity. FOR OTHER CLASSICS OF LITERATURE CLICK ON BI CLASSICS OR JUS TYPE \"BI CLASSICS\" ON THE AMAZON SEARCH BAR!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539900517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539900511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MUAEMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MUAEMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MUAEMQAACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MUAEMQAACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frankenstein_Or_the_Modern_Prometheus_a.html?hl=&id=MUAEMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MUAEMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mary Shelley&#39;s chilling gothic tale was conceived when she was only eighteen, living with her lover Percy Shelley near Lord Byron&#39;s villa on Lake Geneva."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UQc52fOn3hUC",
+      "etag": "t2r93p/qRgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UQc52fOn3hUC",
+      "volumeInfo": {
+        "title": "Frankenstein - Third Edition",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2012-06-20",
+        "description": "D.L. Macdonald and Kathleen Scherf’s edition of Frankenstein has been widely acclaimed as an outstanding edition of the novel—for the general reader and the student as much as for the scholar. The editors use as their copy-text the original 1818 version, and detail in an appendix all of Shelley’s later revisions. They also include a range of contemporary documents that shed light on the historical context from which this unique masterpiece emerged. New to this edition is a discussion of Percy Shelley’s role in contributing to the first draft of the novel. Recent scholarship has provoked considerable interest in the degree to which Percy Shelley contributed to Mary Shelley’s original text, and this edition’s updated introduction discusses this scholarship. A new appendix also includes Lord Byron’s “A Fragment” and John William Polidori’s The Vampyre, works that are engaging in their own right and that also add further insights into the literary context of Frankenstein.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781770483408"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1770483403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 359,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UQc52fOn3hUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UQc52fOn3hUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UQc52fOn3hUC&printsec=frontcover&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UQc52fOn3hUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UQc52fOn3hUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.36,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.04,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UQc52fOn3hUC&rdid=book-UQc52fOn3hUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10360000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7040000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 8810000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6340000,
+              "currencyCode": "GBP"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 180
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Frankenstein_Third_Edition-sample-epub.acsm?id=UQc52fOn3hUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Frankenstein_Third_Edition-sample-pdf.acsm?id=UQc52fOn3hUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UQc52fOn3hUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New to this edition is a discussion of Percy Shelley’s role in contributing to the first draft of the novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sjhMugEACAAJ",
+      "etag": "5J1nTp8A2Jw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sjhMugEACAAJ",
+      "volumeInfo": {
+        "title": "Mary Shelley, Frankenstein",
+        "subtitle": "Or, Modern Prometheus",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-07-31",
+        "description": "In a series of letters, Robert Walton, the captain of a ship bound for the North Pole, recounts to his sister back in England the progress of his dangerous mission. Successful early on, the mission is soon interrupted by seas full of impassable ice. Trapped, Walton encounters Victor Frankenstein, who has been traveling by dog-drawn sledge across the ice and is weakened by the cold. Walton takes him aboard ship, helps nurse him back to health, and hears the fantastic tale of the monster that Frankenstein created.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1724626752"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781724626752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sjhMugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sjhMugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sjhMugEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sjhMugEACAAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Shelley_Frankenstein.html?hl=&id=sjhMugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sjhMugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Walton takes him aboard ship, helps nurse him back to health, and hears the fantastic tale of the monster that Frankenstein created."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7u6HEQAAQBAJ",
+      "etag": "AV1ojc446Ls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7u6HEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Mary Shelley: Frankenstein",
+        "subtitle": "or The Modern Prometheus (English Edition)",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2025-09-18",
+        "description": "Mary Shelley’s Frankenstein; or, The Modern Prometheus — selected by the BBC as one of the 100 Novels That Shaped Our World — is the timeless tale of a young scientist who creates life and recoils in horror at his own work. The abandoned creature turns against its maker, and their struggle unfolds across icy landscapes and shadowed laboratories. Blending Gothic terror with deep philosophical reflection, Shelley’s masterpiece explores ambition, responsibility, and the limits of human progress. Mary Shelley’s Frankenstein is still widely studied and referenced today. This is the English-language paperback edition of her classic novel, following the definitive 1831 text and incorporating all of the author’s final revisions. Mary Shelley. Frankenstein; or, The Modern Prometheus. First published: Lackington, Hughes, Harding, Mavor and Jones, London 1818. The text of this edition follows: Henry Colburn and Richard Bentley, London 1831. Neuausgabe, LIWI Literatur- und Wissenschaftsverlag, Göttingen 2025.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753801254"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753801259"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7u6HEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7u6HEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7u6HEQAAQBAJ&printsec=frontcover&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7u6HEQAAQBAJ&dq=Mary+Shelley+Frankenstein+or+The+Modern+Prometheus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mary_Shelley_Frankenstein.html?hl=&id=7u6HEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Mary_Shelley_Frankenstein-sample-pdf.acsm?id=7u6HEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7u6HEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the English-language paperback edition of her classic novel, following the definitive 1831 text and incorporating all of the author’s final revisions. Mary Shelley. Frankenstein; or, The Modern Prometheus."
+      }
+    }
+  ]
+}

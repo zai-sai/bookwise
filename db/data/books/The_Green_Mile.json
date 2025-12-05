@@ -1,0 +1,711 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "v-IoDwAAQBAJ",
+      "etag": "jpLf/xYeBks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v-IoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "The Complete Serial Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-06-27",
+        "description": "Contains all six installments of the serialized horror novel about death row prisoner John Coffey and his fellow inmates and guards in the Green Mile wing of Cold Mountain Penitentiary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501160448"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501160443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v-IoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v-IoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=v-IoDwAAQBAJ&printsec=frontcover&dq=Stephen+King+The+Green+Mile&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=v-IoDwAAQBAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=v-IoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v-IoDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contains all six installments of the serialized horror novel about death row prisoner John Coffey and his fellow inmates and guards in the Green Mile wing of Cold Mountain Penitentiary."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1lJmPwAACAAJ",
+      "etag": "IZNZxnD4Sj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1lJmPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Orion Publishing Group",
+        "publishedDate": "2000",
+        "description": "The Green Mile: those who walk it do not return, because at the end of that walk is the room in which sits Cold Mountain penitentiary's electric chair. In 1932 the newest resident on death row is John Coffey, a giant black man convicted of the brutal murder of two little girls. But nothing is as it seems with John Coffey, and around him unfolds a bizarre and horrifying story. Evil murderer or holy innocent - whichever he is - Coffey has strange powers which may yet offer salvation to others, even if they can do nothing to save him. THE AUTHOR",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0752834223"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780752834221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": [
+          "Coffey, John (Fictitious character)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1lJmPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1lJmPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1lJmPwAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1lJmPwAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=1lJmPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1lJmPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Green Mile: those who walk it do not return, because at the end of that walk is the room in which sits Cold Mountain penitentiary&#39;s electric chair."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F6gOAQAAMAAJ",
+      "etag": "ke1b5pYpVgk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F6gOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "The Complete Serial Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Scribner Book Company",
+        "publishedDate": "2000-10-03",
+        "description": "Set in the 1930s at the Cold Mountain Penitentiary's death-row facility, The Green Mile is the riveting and tragic story of John Coffey, a giant, preternaturally gentle inmate condemned to death for the rape and murder of twin nine-year-old girls. It is a story narrated years later by Paul Edgecomb, the ward superintendent compelled to help every prisoner spend his last days peacefully and every man walk the green mile to execution with his humanity intact. Edgecomb has sent seventy-eight inmates to their date with \"old sparky,\" but he's never encountered one like Coffey -- a man who wants to die, yet has the power to heal. And in this place of ultimate retribution, Edgecomb discovers the terrible truth about Coffey's gift, a truth that challenges his most cherished beliefs -- and ours. Originally published in 1996 in six self-contained monthly installments, The Green Mile is an astonishingly rich and complex novel that delivers over and over again. Each individual volume became a huge success when first published, and all six were on the New York Times bestseller list simultaneously. Three years later, when Frank Darabont made The Green Mile into an award-winning movie starring Tom Hanks and Michael Clarke Duncan, the book returned to the bestseller list -- and stayed there for months. And now -- with a new introduction by King's foreign agent Ralph Vicinanza, as well as the author's own foreword -- we have the first hardcover edition of this magnificent novel in which \"King surpasses our expectations, leaves us spellbound and hungry for the next twist of plot\" (The Boston Globe). With illustrations and a new frontispiece for this edition by Mark Geyer.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015002591056"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F6gOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F6gOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=F6gOAQAAMAAJ&q=Stephen+King+The+Green+Mile&dq=Stephen+King+The+Green+Mile&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=F6gOAQAAMAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=F6gOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F6gOAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Masterfully told and as suspenseful as it is haunting, The Green Mile is Stephen King’s classic #1 New York Times bestselling dramatic serial novel and inspiration for the Oscar-nominated film starring Tom Hanks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P12BPwAACAAJ",
+      "etag": "Sph4RXreKlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P12BPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "A Novel in Six Parts",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1998",
+        "description": "The Green Mile. Those who walk it do not return -- because at the end of that walk, at the Cold Mountain penitentiary, is the room in which sits the electric chair.It is 1932. The newest inhabitant of Death Row is a giant black man, John Coffey, convicted -- apparently on his own admission -- of the senseless and brutal murder of two little girls. Executing a man is never easy, but at first sight taking society¿s revenge on Coffey is one of the easier jobs chief guard Paul Edgecombe and his fellow warders have had to do.But nothing is as it seems with John Coffey, and around him unfolds a story both bizarre and horrifying. Whether he is an evil murderer or a holy innocent, Coffey has strange powers, which may yet offer salvation to others, even if they can do nothing to save him.THE GREEN MILE is perhaps the finest novel yet by one of the world¿s greatest storytellers, by turns warmly human and shatteringly horrific, and unputdownable from first page to last.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0752841238"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780752841236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Coffey, John (Fictitious character)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P12BPwAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P12BPwAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=P12BPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P12BPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE GREEN MILE is perhaps the finest novel yet by one of the world s greatest storytellers, by turns warmly human and shatteringly horrific, and unputdownable from first page to last."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PosfvgAACAAJ",
+      "etag": "h7PKhn+ZQvI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PosfvgAACAAJ",
+      "volumeInfo": {
+        "title": "Coffey on the Mile",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2016-08-20",
+        "description": "The Green Mile, Stephen King's #1 New York Times bestselling novel, was first published twenty years ago in six original paperback installments. Inspiration for the Oscar-nominated film starring Tom Hanks about an innocent man on death row, The Green Mile is now available for the first time in e-serial form. Coffey on the Mile is Volume Six.Cold Mountain Penitentiary has seen its share of men drawing their last breaths, with many of them claiming to be innocent until the very end. In this final chapter of the six-part novel, we learn both John Coffey's fate and the terrible truth Paul Edgecombe discovers about him. The story also brings us farther into the present as Paul recounts the events of his life after Cold Mountain-and the lives of all he encountered there. The gentle giant with healing hands. The little mouse that softened a murderer's heart. The corrupt man capable of more evil than any of those he guarded. And all the wonderful and horrible men and moments in that place of ultimate retribution, the well-worn stretch of linoleum they called the Green Mile.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537176501"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537176505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PosfvgAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PosfvgAACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coffey_on_the_Mile.html?hl=&id=PosfvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PosfvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story also brings us farther into the present as Paul recounts the events of his life after Cold Mountain-and the lives of all he encountered there. The gentle giant with healing hands. The little mouse that softened a murderer&#39;s heart."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "luDQvgEACAAJ",
+      "etag": "5Ba2G3PMVfk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/luDQvgEACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "The Complete Six Part Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "New Amer Library",
+        "publishedDate": "1996",
+        "description": "At Col Mountain Penitentiary, along the lonely stretch of cells known as the Green Mile, killers as depraved as the psychopathic \"Billy the Kid\" Wharton and the possessed Eduard Delacroix await death strapped in \"Old Sparky.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451933028"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451933027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=luDQvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=luDQvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=luDQvgEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=luDQvgEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=luDQvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=luDQvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Convicted killers sit on death row at Cold Mountain Penitentiary. Is new prisoner John Coffey a devil in human form, or is he a victim of circumstance?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b2l6DZRKW_cC",
+      "etag": "FbGSPM2lwm0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b2l6DZRKW_cC",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "Roman",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Heyne Verlag",
+        "publishedDate": "2011-02-18",
+        "description": "Die letzte Hinrichtung »The Green Mile« – so nennt sich der Todestrakt des Staatsgefängnisses Cold Mountain. John Coffey wurde zum Tode verurteilt, weil er zwei Mädchen missbraucht und ermordet haben soll. Dem Hünen wohnt aber auch eine übernatürliche Kraft inne ... Kann ein Mörder zugleich ein begnadeter Heiler sein? Und wenn ja, darf oder sollte man ihn dann töten? Verfilmt mit Oscar-Preisträger Tom Hanks. »So betörend und berührend wie gleichzeitig verstörend.« Entertainment Weekly",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641053420"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641053420"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.28.29.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b2l6DZRKW_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b2l6DZRKW_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=b2l6DZRKW_cC&printsec=frontcover&dq=Stephen+King+The+Green+Mile&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b2l6DZRKW_cC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b2l6DZRKW_cC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b2l6DZRKW_cC&rdid=book-b2l6DZRKW_cC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Green_Mile-sample-epub.acsm?id=b2l6DZRKW_cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Green_Mile-sample-pdf.acsm?id=b2l6DZRKW_cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b2l6DZRKW_cC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Die letzte Hinrichtung »The Green Mile« – so nennt sich der Todestrakt des Staatsgefängnisses Cold Mountain."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0sQ70AEACAAJ",
+      "etag": "ec9SkoqIQUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0sQ70AEACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "The Two Dead Girls",
+        "authors": [
+          "Stephen King"
+        ],
+        "description": "This is the first volume of a serial novel by Stephen King, set on Death Row of a southern American prison.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1200487683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0sQ70AEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0sQ70AEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=0sQ70AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0sQ70AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first volume of a serial novel by Stephen King, set on Death Row of a southern American prison."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aEe9oAEACAAJ",
+      "etag": "vfwZTOfPiho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aEe9oAEACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "subtitle": "The Bad Death of Eduard Delacroix",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1996",
+        "description": "Eduard Delacroix awaits death at the Cold Mountain Penetentiary and is unaware of a developing revenge plot against him.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:320571798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Death row inmates"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aEe9oAEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aEe9oAEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=aEe9oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aEe9oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the fourth volume of a serial novel by Stephen King, set on Death Row of a southern American prison."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GdLPtQEACAAJ",
+      "etag": "qBDSYEGzyvA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GdLPtQEACAAJ",
+      "volumeInfo": {
+        "title": "The Green Mile",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2000",
+        "description": "Prison guard Paul Edgecombe recounts his experiences working in the death row cell block of Cold Mountain Penitentiary.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776240088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 399,
+        "printType": "BOOK",
+        "categories": [
+          "Correctional personnel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GdLPtQEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GdLPtQEACAAJ&dq=Stephen+King+The+Green+Mile&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Green_Mile.html?hl=&id=GdLPtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GdLPtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

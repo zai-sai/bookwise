@@ -1,0 +1,840 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5LlddZgi6iYC",
+      "etag": "ga3QhCpAMuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5LlddZgi6iYC",
+      "volumeInfo": {
+        "title": "Madame Bovary",
+        "authors": [
+          "Gustave Flaubert"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2003",
+        "description": "Madame Bovary tells the tragic tale of a beautiful young woman who tries to escape the narrow confines of her life and marriage through a series of passionate affairs--all in hopes of finding the romantic ideal she has always longed for. But her recklessness comes back to haunt her, and the strong-willed and independent Emma finds herself in a desperate fight for existence. Flaubert's daring depiction of adultery caused a national scandal when it was first published, and the author was put on trial for offending public morality. One hundred and fifty years later, this masterpiece of realist literature has lost none of its impact. The world's greatest works of literature are now available in these beautiful keepsake volumes. Bound in real cloth, and featuring gilt edges and ribbon markers, these beautifully produced books are a wonderful way to build a handsome library of classic literature. These are the essential novels that belong in every home. They'll transport readers to imaginary worlds and provide excitement, entertainment, and enlightenment for years to come. All of these novels feature attractive illustrations and have an unequalled period feel that will grace the library, the bedside table or bureau.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904633099"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904633099"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5LlddZgi6iYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5LlddZgi6iYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5LlddZgi6iYC&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5LlddZgi6iYC&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Madame_Bovary.html?hl=&id=5LlddZgi6iYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Madame_Bovary-sample-epub.acsm?id=5LlddZgi6iYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Madame_Bovary-sample-pdf.acsm?id=5LlddZgi6iYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5LlddZgi6iYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bound in real cloth, and featuring gilt edges and ribbon markers, these beautifully produced books are a wonderful way to build a handsome library of classic literature. These are the essential novels that belong in every home."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IA-B164o5wUC",
+      "etag": "3+ZU46EDXpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IA-B164o5wUC",
+      "volumeInfo": {
+        "title": "Flaubert: Madame Bovary",
+        "authors": [
+          "Stephen Heath"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1992-04-09",
+        "description": "Madame Bovary was one of the most influential literary achievements of the nineteenth century and gained immediate notoriety through its questioning of marriage, sex, and the role of women. Stephen Heath shows how this landmark text captures and articulates a fundamental experience of the post-romantic, commercial-industrial, emotional-democratic period. He explains how Madame Bovary represents Flaubert's intense personal engagement with the tragedy of bourgeois culture, while at the same time exemplyfying the author's commitment to the impersonality of Art and the transcendence of style. The novel is set in its literary and historical context and there is a guide to further reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521314836"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521314831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IA-B164o5wUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IA-B164o5wUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IA-B164o5wUC&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IA-B164o5wUC&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flaubert_Madame_Bovary.html?hl=&id=IA-B164o5wUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Flaubert_Madame_Bovary-sample-pdf.acsm?id=IA-B164o5wUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IA-B164o5wUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is set in its literary and historical context and there is a guide to further reading. This textbook series is ambitious in scope."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mUX0AAAAQBAJ",
+      "etag": "Vp/G4vOUAYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mUX0AAAAQBAJ",
+      "volumeInfo": {
+        "title": "Madame Bovary: A Play in Three Acts",
+        "authors": [
+          "Gaston Baty",
+          "Gustave Flaubert"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "2013-01-15",
+        "description": "Based on the classic novel by Gustave Flaubert, Madame Bovary tells the tale of Emma Bovary, who is romantic by nature, and believes herself the equal of the heroines depicted in the romantic novels she reads. When she moves to a rural town in France, she finds herself utterly bored by country and small-town life. Although her husband is a good man, Emma has no respect for him. Eventually she takes a lover, and wants him to give up everything for her, so they can run away together--but he fails to appear on the day set for their elopement. She then finds solace in the arms of a third man, but when this affair also collapses, she has nothing left to live for. A great tragedy of French life and customs, effectively dramatized by Gaston Baty!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781434447470"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1434447472"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mUX0AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mUX0AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mUX0AAAAQBAJ&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mUX0AAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mUX0AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mUX0AAAAQBAJ&rdid=book-mUX0AAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Madame_Bovary_A_Play_in_Three_Acts-sample-epub.acsm?id=mUX0AAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mUX0AAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on the classic novel by Gustave Flaubert, Madame Bovary tells the tale of Emma Bovary, who is romantic by nature, and believes herself the equal of the heroines depicted in the romantic novels she reads."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-IxqbKRthVMC",
+      "etag": "l5uIku3Hc1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-IxqbKRthVMC",
+      "volumeInfo": {
+        "title": "Madame Bovary",
+        "authors": [
+          "Gustave Flaubert"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "2013-08-13",
+        "description": "A new translation by Adam Thorpe Gustave Flaubert once said of his heroine, “Emma Bovary, c’est moi.” In this acclaimed new translation, Adam Thorpe brings readers closer than ever before to Flaubert’s peerless text and, by extension, the author himself. Emma, a passionate dreamer raised in the French countryside, is ready for her life to take off when she marries the decent, dull Dr. Charles Bovary. Marriage, however, fails to live up to her expectations, which are fueled by sentimental novels, and she turns disastrously to love affairs. The story of Emma’s adultery scandalized France when Madame Bovary was first published. Today, the heartbreaking story of Emma’s financial ruin remains just as compelling. Translator Adam Thorpe, an accomplished author in his own right, pays careful attention to the “complex music” of Flaubert’s language, with its elegant, finely wrought sentences and closely observed detail. This exquisite Modern Library edition is sure to set a new standard for an enduring classic. Praise for Adam Thorpe’s translation of Madame Bovary “What leaves me reeling with each rereading (and Adam Thorpe’s new translation is, pardon the pun, to die for) is the use of language. There can be no doubt as to the reason for Flaubert’s brain popping at the top of the stairs when he was fifty-eight. He broke it scouring for perfect sentences, words, le mot juste.”—Russell Kane, The Independent “Flaubert described his great work as a poem, so it is fitting that a poet and novelist of Thorpe’s stature should turn his hand to it.”—Robin Robertson, The Herald (Scotland)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812985214"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812985214"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-IxqbKRthVMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-IxqbKRthVMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-IxqbKRthVMC&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-IxqbKRthVMC&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Madame_Bovary.html?hl=&id=-IxqbKRthVMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-IxqbKRthVMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story of Emma’s adultery scandalized France when Madame Bovary was first published. Today, the heartbreaking story of Emma’s financial ruin remains just as compelling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a0qJLvmPe5YC",
+      "etag": "mX7p2nmut0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a0qJLvmPe5YC",
+      "volumeInfo": {
+        "title": "Madame Bovary",
+        "subtitle": "Provincial Manners",
+        "authors": [
+          "Gustave Flaubert",
+          "Mark Overstall"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2004-04-08",
+        "description": "Emma Bovary yearns for a life of luxury and passion of the kind she reads about in romantic novels. But life with her country doctor husband in the provinces is unutterably boring, and she embarks on love affairs to realize her fantasies. This new translation by Margaret Mauldon perfectly captures Flaubert's distinctive style. - ;'Would this misery go on forever? Was there no escape? And yet she was every bit as good as all those other women who led happy lives!' When Emma Rouault marries Charles Bovary she imagines she will pass into the life of luxury and passion that she reads about in sentimental novels and women's magazines. But Charles is a dull country doctor, and provincial life is very different from the romantic excitement for which she yearns. In her quest to realize her dreams she takes a lover, and begins a devastating spiral into deceit and despair. Flaubert's novel scandalized its readers when it was first published in 1857, and it remains unsurpassed in its unveiling of character and society. In this new translation Margaret Mauldon perfectly captures the tone that makes Flaubert's style so distinct and admired. - ;A superb new translation. s -",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192840394"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192840398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 363,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a0qJLvmPe5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a0qJLvmPe5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a0qJLvmPe5YC&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a0qJLvmPe5YC&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Madame_Bovary.html?hl=&id=a0qJLvmPe5YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Madame_Bovary-sample-pdf.acsm?id=a0qJLvmPe5YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a0qJLvmPe5YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But life with her country doctor husband in the provinces is unutterably boring, and she embarks on love affairs to realize her fantasies. This new translation by Margaret Mauldon perfectly captures Flaubert&#39;s distinctive style."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MkPQ_KcQGfMC",
+      "etag": "qlVc+rO2S5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MkPQ_KcQGfMC",
+      "volumeInfo": {
+        "title": "Madame Bovary",
+        "subtitle": "Provincial Ways",
+        "authors": [
+          "Gustave Flaubert"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2010",
+        "description": "Emma Bovary, beautiful and ambitious but bored by her life in the provinces and her marriage to a country doctor, craves passion in her life. She tries to escape into sentimental novels and to find glamour in expensive fashion and an elaborately decorated home. Her self-obsession and romantic fantasies lead her into two disappointing affairs and escalating debt as Emma struggles to make her life everything she believes it should be, and her efforts lead only to disaster and ruin. Deemed so lifelike that many women claimed they were the model for his heroine, Flaubert instead insisted- 'Madame Bovary, c'est moi'. This new translation by Lydia Davis captures the modern tone that Flaubert developed to reflect the weight and complexity of Emma's psychology. It also renders the richness of the original text and the subtleties of Flaubert's celebrated style.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781846141041"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1846141044"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MkPQ_KcQGfMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MkPQ_KcQGfMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MkPQ_KcQGfMC&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MkPQ_KcQGfMC&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Madame_Bovary.html?hl=&id=MkPQ_KcQGfMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Madame_Bovary-sample-epub.acsm?id=MkPQ_KcQGfMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MkPQ_KcQGfMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It also renders the richness of the original text and the subtleties of Flaubert&#39;s celebrated style."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ssezAwAAQBAJ",
+      "etag": "ZDyl18TX+NE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ssezAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Madame Bovary By Gustave Flaubert",
+        "authors": [
+          "Gustave Flaubert"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-05-08",
+        "description": "We were in class when the head-master came in, followed by a \"new fellow,\" not wearing the school uniform, and a school servant carrying a large desk. Those who had been asleep woke up, and every one rose as if just surprised at his work. The head-master made a sign to us to sit down. Then, turning to the class-master, he said to him in a low voice— \"Monsieur Roger, here is a pupil whom I recommend to your care; he'll be in the second. If his work and conduct are satisfactory, he will go into one of the upper classes, as becomes his age.\" The \"new fellow,\" standing in the corner behind the door so that he could hardly be seen, was a country lad of about fifteen, and taller than any of us. His hair was cut square on his forehead like a village chorister's; he looked reliable, but very ill at ease. Although he was not broad-shouldered, his short school jacket of green cloth with black buttons must have been tight about the arm-holes, and showed at the opening of the cuffs red wrists accustomed to being bare. His legs, in blue stockings, looked out from beneath yellow trousers, drawn tight by braces, He wore stout, ill-cleaned, hob-nailed boots.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736807815"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736807813"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 493,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ssezAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ssezAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ssezAwAAQBAJ&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ssezAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ssezAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ssezAwAAQBAJ&rdid=book-ssezAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ssezAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The head-master made a sign to us to sit down. Then, turning to the class-master, he said to him in a low voice— &quot;Monsieur Roger, here is a pupil whom I recommend to your care; he&#39;ll be in the second."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xObEEAAAQBAJ",
+      "etag": "g1py0n6/HhY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xObEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Gustave Flaubert's Madame Bovary",
+        "subtitle": "A Reference Guide",
+        "authors": [
+          "Laurence M. Porter",
+          "Eugene F. Gray"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2002-12-30",
+        "description": "This comprehensive reference begins with an introductory chapter that overviews Flaubert's life and career. A detailed summary of the novel's plot is followed by a close examination of the novel's genesis, its publication history, and the merits of various editions and translations. Later chapters discuss the social and cultural contexts informing the work, Flaubert's literary craftsmanship, and the novel's critical reception. The volume concludes with extensive bibliographic information. Flaubert's determination to achieve stylistic and structural perfection led to the creation of his masterpiece, Madame Bovary. The achievement was long considered the exemplary novel in Western literature, and writers remain deeply indebted to its legacy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780313092978"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0313092974"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 227,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xObEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xObEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xObEEAAAQBAJ&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xObEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xObEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 35.8,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xObEEAAAQBAJ&rdid=book-xObEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54000000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 35800000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Gustave_Flaubert_s_Madame_Bovary-sample-pdf.acsm?id=xObEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xObEEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Later chapters discuss the social and cultural contexts informing the work, Flaubert&#39;s literary craftsmanship, and the novel&#39;s critical reception. The volume concludes with extensive bibliographic information."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o-eTswEACAAJ",
+      "etag": "3wPFX9Lf5YU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o-eTswEACAAJ",
+      "volumeInfo": {
+        "title": "Madame Bovary",
+        "subtitle": "By Gustave Flaubert - Illustrated",
+        "authors": [
+          "Gustave Flaubert"
+        ],
+        "publishedDate": "2017-10-23",
+        "description": "Why buy our paperbacks? Expedited shipping High Quality Paper Made in USA Standard Font size of 10 for all books 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated Madame Bovary by Gustave Flaubert Madame Bovary (1856) is the French writer Gustave Flaubert's debut novel. The story focuses on a doctor's wife, Emma Bovary, who has adulterous affairs and lives beyond her means in order to escape the banalities and emptiness of provincial life. Though the basic plot is rather simple, even archetypal, the novel's true art lies in its details and hidden patterns. Flaubert was a notorious perfectionist and claimed always to be searching for le mot juste (\"the precise word\"). When the novel was first serialized in La Revue de Paris between 1 October 1856 and 15 December 1856, public prosecutors attacked the novel for obscenity. The resulting trial in January 1857 made the story notorious. After Flaubert's acquittal on 7 February 1857, Madame Bovary became a bestseller in April 1857 when it was published as a single volume. The novel is now considered Flaubert's masterpiece, as well as a seminal work of literary realism and one of the most influential novels. British critic James Wood writes in How Fiction Works: \"Flaubert established for good or ill, what most readers think of as modern realist narration and his influence is almost too familiar to be visible\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1975640268"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781975640262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o-eTswEACAAJ&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o-eTswEACAAJ&dq=Gustave+Flaubert+Madame+Bovary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Madame_Bovary.html?hl=&id=o-eTswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o-eTswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Unabridged (100% Original content) Font adjustments &amp; biography included Illustrated Madame Bovary by Gustave Flaubert Madame Bovary (1856) is the French writer Gustave Flaubert&#39;s debut novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b5t_CgAAQBAJ",
+      "etag": "ApDrfpypOL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b5t_CgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for Gustave Flaubert's Madame Bovary",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-03-13",
+        "description": "A Study Guide for Gustave Flaubert's \"Madame Bovary,\" excerpted from Gale's acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Novels for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410336200"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410336204"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b5t_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b5t_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=b5t_CgAAQBAJ&printsec=frontcover&dq=Gustave+Flaubert+Madame+Bovary&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b5t_CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b5t_CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b5t_CgAAQBAJ&rdid=book-b5t_CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Gustave_Flaubert_s_Mad-sample-epub.acsm?id=b5t_CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Gustave_Flaubert_s_Mad-sample-pdf.acsm?id=b5t_CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b5t_CgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for Gustave Flaubert&#39;s &quot;Madame Bovary,&quot; excerpted from Gale&#39;s acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions ..."
+      }
+    }
+  ]
+}

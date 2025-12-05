@@ -1,0 +1,812 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NabUcREeMHYC",
+      "etag": "h43+bIFYEpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NabUcREeMHYC",
+      "volumeInfo": {
+        "title": "William Shakespeare's King Lear",
+        "authors": [
+          "Ratri Ray"
+        ],
+        "publisher": "Atlantic Publishers & Dist",
+        "publishedDate": "2007",
+        "description": "King Lear Is One Of The Most Difficult Plays Of Shakespeare. It Takes Ordinary Jealousies, Demand For Love, Sibling Rivalries, Desire For Money And Power, And Petty Cruelties To The Extreme On One Hand And Portrays Old Age In All Its Vulnerability, Helplessness, Pride And Wisdom On The Other. The Present Study Aims At Making It More Accessible To The Serious Student Of Shakespeare. Besides Providing The Socio-Political Background Of Shakespeare S Milieu, It Gives A Scene-Wise Summary Of The Text, Along With Critical Comments. It Has Numerous Citations From The Text, Thus Providing Ample Opportunity For The Reader To Become Familiar With The Text. The Analyses Of The Different Elements Of Drama Are Accompanied With The Views Of Renowned Critics. Classical Theories Of Tragedy As Well As Elizabethan Connections Have Been Lucidly And Briefly Explained. A Select Bibliography Has Been Provided At The End. The Book Is Highly Readable, Self-Contained And Comprehensive. It Will Undoubtedly Prove An Invaluable Reference Book For Both Students And Teachers Of English Literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8126907843"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788126907847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Shakespeare, William"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NabUcREeMHYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NabUcREeMHYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NabUcREeMHYC&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NabUcREeMHYC&dq=William+Shakespeare+King+Lear&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_King_Lear.html?hl=&id=NabUcREeMHYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_King_Lear-sample-pdf.acsm?id=NabUcREeMHYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NabUcREeMHYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Classical Theories Of Tragedy As Well As Elizabethan Connections Have Been Lucidly And Briefly Explained. A Select Bibliography Has Been Provided At The End. The Book Is Highly Readable, Self-Contained And Comprehensive."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ncspfarrUNkC",
+      "etag": "DGHlrZYZQ+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ncspfarrUNkC",
+      "volumeInfo": {
+        "title": "King Lear",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8809020871"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788809020870"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ncspfarrUNkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ncspfarrUNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ncspfarrUNkC&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ncspfarrUNkC&dq=William+Shakespeare+King+Lear&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Lear.html?hl=&id=ncspfarrUNkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear-sample-epub.acsm?id=ncspfarrUNkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear-sample-pdf.acsm?id=ncspfarrUNkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ncspfarrUNkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TWhHAQAAMAAJ",
+      "etag": "EivkJOWH34g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TWhHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Works of William Shakespeare: King Lear",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858020800722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TWhHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TWhHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TWhHAQAAMAAJ&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TWhHAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TWhHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=TWhHAQAAMAAJ&rdid=book-TWhHAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_William_Shakespeare_King_Le.epub?id=TWhHAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TWhHAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "22wdAwAAQBAJ",
+      "etag": "0AeD6b0jUos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/22wdAwAAQBAJ",
+      "volumeInfo": {
+        "title": "King Lear (李爾王)",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-09-15",
+        "description": "King Lear is a tragedy by William Shakespeare, believed to have been written between 1603 and 1606, and is considered one of his greatest works. The play is based on the legend of King Leir of Britain. It has been widely adapted for stage and screen, with the part of Lear being played by many of the world's most accomplished actors.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 747,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=22wdAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=22wdAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=22wdAwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=22wdAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=22wdAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=22wdAwAAQBAJ&rdid=book-22wdAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear_%E6%9D%8E%E7%88%BE%E7%8E%8B-sample-epub.acsm?id=22wdAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear_%E6%9D%8E%E7%88%BE%E7%8E%8B-sample-pdf.acsm?id=22wdAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=22wdAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "King Lear is a tragedy by William Shakespeare, believed to have been written between 1603 and 1606, and is considered one of his greatest works."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GV-qCgAAQBAJ",
+      "etag": "hjpTjKV7YA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GV-qCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for William Shakespeare's King Lear",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-09-15",
+        "description": "A Study Guide for William Shakespeare's \"King Lear,\" excerpted from Gale's acclaimed Shakespeare for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Shakespeare for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410336958"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410336956"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GV-qCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GV-qCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GV-qCgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GV-qCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GV-qCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GV-qCgAAQBAJ&rdid=book-GV-qCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-epub.acsm?id=GV-qCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_William_Shakespeare_s-sample-pdf.acsm?id=GV-qCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GV-qCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for William Shakespeare&#39;s &quot;King Lear,&quot; excerpted from Gale&#39;s acclaimed Shakespeare for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PZNuzgEACAAJ",
+      "etag": "j3EVxWlBHJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PZNuzgEACAAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare : King Lear",
+        "authors": [
+          "Terence Hawkes"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1245992933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Tragedy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PZNuzgEACAAJ&dq=William+Shakespeare+King+Lear&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PZNuzgEACAAJ&dq=William+Shakespeare+King+Lear&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_King_Lear.html?hl=&id=PZNuzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PZNuzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HT8RAgAAQBAJ",
+      "etag": "f3Hc6hEdkeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HT8RAgAAQBAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare, King Lear",
+        "authors": [
+          "Susan Bruce"
+        ],
+        "publisher": "Humanities-Ebooks",
+        "publishedDate": "1998-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847602909"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1847602908"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HT8RAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HT8RAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HT8RAgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HT8RAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HT8RAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HT8RAgAAQBAJ&rdid=book-HT8RAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_King_Lear-sample-epub.acsm?id=HT8RAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_King_Lear-sample-pdf.acsm?id=HT8RAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HT8RAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0IlStxewP7MC",
+      "etag": "9XxTJE7jklM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0IlStxewP7MC",
+      "volumeInfo": {
+        "title": "King Lear",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BML:37001105581669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0IlStxewP7MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0IlStxewP7MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0IlStxewP7MC&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0IlStxewP7MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0IlStxewP7MC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0IlStxewP7MC&rdid=book-0IlStxewP7MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/King_Lear.epub?id=0IlStxewP7MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0IlStxewP7MC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ek7Ey7ETfDEC",
+      "etag": "RCuJA2VaAak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ek7Ey7ETfDEC",
+      "volumeInfo": {
+        "title": "King Lear In Plain and Simple English (A Modern Translation and the Original Version)",
+        "authors": [
+          "BookCaps Study Guides Staff"
+        ],
+        "publisher": "BookCaps Study Guides",
+        "publishedDate": "2012",
+        "description": "King Lear descends into madness after foolishly disposing of his estate between two of his three daughters based on their flattery, bringing tragic consequences for all. Sound like a good story? It is...if you can understand it. If you have struggled in the past reading Shakespeare, then BookCaps can help you out. This book is a modern translation of King Lear. The original text is also presented in the book, along with a comparable version of both text. We all need refreshers every now and then. Whether you are a student trying to cram for that big final, or someone just trying to understand a book more, BookCaps can help. We are a small, but growing company, and are adding titles every month.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781621072898"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1621072894"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 780,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ek7Ey7ETfDEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ek7Ey7ETfDEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ek7Ey7ETfDEC&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ek7Ey7ETfDEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ek7Ey7ETfDEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ek7Ey7ETfDEC&rdid=book-Ek7Ey7ETfDEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear_In_Plain_and_Simple_English_A-sample-epub.acsm?id=Ek7Ey7ETfDEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear_In_Plain_and_Simple_English_A-sample-pdf.acsm?id=Ek7Ey7ETfDEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ek7Ey7ETfDEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you have struggled in the past reading Shakespeare, then BookCaps can help you out. This book is a modern translation of King Lear. The original text is also presented in the book, along with a comparable version of both text."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V_dyEAAAQBAJ",
+      "etag": "utKbL60OxWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V_dyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "King Lear",
+        "subtitle": "Including \"The Life of William Shakespeare\"",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-05-25",
+        "description": "King Lear is a tragedy by William Shakespeare written between 1603 and 1606 and later revised. Shakespeare's earlier version, The True Chronicle of the History of the Life and Death of King Lear and His Three Daughters, was published in quarto in 1608. The Tragedy of King Lear, a more theatrical version, was included in the 1623 First Folio. The title character descends into madness after disposing of his estate between two of his three daughters based on their flattery, bringing tragic consequences for all. The play is based on the legend of Leir of Britain, a mythological pre-Roman Celtic king. Life of William Shakespeare is a biography of William Shakespeare by the eminent critic Sidney Lee. This book was one of the first major biographies of the Bard of Avon. It was published in 1898, based on the article contributed to the Dictionary of National Biography. William Shakespeare (1564 – 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. Sir Sidney Lee (1859 – 1926) was an English biographer and critic. He was a lifelong scholar and enthusiast of Shakespeare. His article on Shakespeare in the fifty-first volume of the Dictionary of National Biography formed the basis of his Life of William Shakespeare. This full-length life is often credited as the first modern biography of the poet.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547002369"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 629,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V_dyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V_dyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V_dyEAAAQBAJ&printsec=frontcover&dq=William+Shakespeare+King+Lear&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V_dyEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V_dyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=V_dyEAAAQBAJ&rdid=book-V_dyEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear-sample-epub.acsm?id=V_dyEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Lear-sample-pdf.acsm?id=V_dyEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V_dyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Life of William Shakespeare is a biography of William Shakespeare by the eminent critic Sidney Lee. This book was one of the first major biographies of the Bard of Avon."
+      }
+    }
+  ]
+}

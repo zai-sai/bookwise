@@ -1,0 +1,750 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "f8ANAAAAQAAJ",
+      "etag": "1C8LVn9vilE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f8ANAAAAQAAJ",
+      "volumeInfo": {
+        "title": "A Christmas Carol",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1858",
+        "description": "Everyone is familiar with this classic Christmas story. Ebenezer Scrooge is a miserly, unpleasant man who despises Christmas and overworks his clerk Bob Cratchit. As he prepares for another Christmas Eve without celebration, Scrooge is greeted by his dead business partner, Jacob Marley who warns him that his greed will not go unpunished. At first, Scrooge doesn't heed Marley's warning, but soon he is visited by the Ghosts of Christmas Past, Present, and Christmas Yet to Come. He is made to face his cruel nature, and to consider whether he should change his ways. This is a free digital copy of a book that has been carefully scanned by Google as part of a project to make the world's books discoverable online. To make this print edition available as an ebook, we have extracted the text using Optical Character Recognition (OCR) technology and submitted it to a review process to ensure its accuracy and legibility across different screen sizes and devices. Google is proud to partner with libraries to make this book available to readers everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:503683436"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Christmas stories"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 105,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f8ANAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f8ANAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=f8ANAAAAQAAJ&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f8ANAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f8ANAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=f8ANAAAAQAAJ&rdid=book-f8ANAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/A_Christmas_Carol.epub?id=f8ANAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/A_Christmas_Carol.pdf?id=f8ANAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1B43qmUsZWhbKYtzrUgx0OaEVB0A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f8ANAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Everyone is familiar with this classic Christmas story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kU2KDgAAQBAJ",
+      "etag": "lvEfvmrf/xA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kU2KDgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Christmas Carol",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1991",
+        "description": "Ebenezer Scrooge, a miserly businessman, learns the true meaning of Christmas after he is visited by the ghosts of Christmases past, present, and future",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486268651"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486268659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 81,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kU2KDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kU2KDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kU2KDgAAQBAJ&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kU2KDgAAQBAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Christmas_Carol.html?hl=&id=kU2KDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Christmas_Carol-sample-pdf.acsm?id=kU2KDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kU2KDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ebenezer Scrooge, a miserly businessman, learns the true meaning of Christmas after he is visited by the ghosts of Christmases past, present, and future"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JpvP1yPvsZoC",
+      "etag": "nBiJH4/bePI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JpvP1yPvsZoC",
+      "volumeInfo": {
+        "title": "A Christmas Carol and Its Adaptations",
+        "subtitle": "A Critical Examination of Dickens's Story and Its Productions on Screen and Television",
+        "authors": [
+          "Fred Guida"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2006-08-16",
+        "description": "Over 150 years after its original composition, Charles Dickens' A Christmas Carol continues to delight readers. The figure of Ebenezer Scrooge has become a cultural icon, and Tiny Tim's \"God Bless Us Every One\" is as familiar as \"Merry Christmas.\" It is not surprising that Dickens' \"ghostly little book,\" as he called it, has proved popular with playwrights and screenwriters. In everything from elegant literary treatments to animated musicals, the role of Scrooge has been essayed by actors from George C. Scott to Mr. Magoo. This critical account of the story's history and its various adaptations examines first the original writing of the story, including its political, economic, and historical context. The major interpretations are analyzed within their various media: stage, magic lantern shows, silent film, talkies, and television. Dickens' other, lesser known Christmas stories, like \"The Cricket on the Hearth,\" are also examined and compared to the immortal Carol. Finally, a complete annotated filmography of all film and television productions based on A Christmas Carol is included, with commentary on each version's loyalty to the original text. The book includes 25 previously unpublished photos as well as analysis of previously undocumented productions. The text includes a foreword by the distinguished film and literary scholar Edward Wagenknecht, a bibliography and an index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786428403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0786428406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JpvP1yPvsZoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JpvP1yPvsZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JpvP1yPvsZoC&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JpvP1yPvsZoC&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Christmas_Carol_and_Its_Adaptations.html?hl=&id=JpvP1yPvsZoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Christmas_Carol_and_Its_Adaptations-sample-pdf.acsm?id=JpvP1yPvsZoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JpvP1yPvsZoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book includes 25 previously unpublished photos as well as analysis of previously undocumented productions. The text includes a foreword by the distinguished film and literary scholar Edward Wagenknecht, a bibliography and an index."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KdOKMwjfXoYC",
+      "etag": "n+gN5YWy7TA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KdOKMwjfXoYC",
+      "volumeInfo": {
+        "title": "A Christmas Carol in Prose",
+        "subtitle": "Being a Ghost Story of Christmas",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108006157112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Christmas stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KdOKMwjfXoYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KdOKMwjfXoYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KdOKMwjfXoYC&q=Charles+Dickens+A+Christmas+Carol&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KdOKMwjfXoYC&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Christmas_Carol_in_Prose.html?hl=&id=KdOKMwjfXoYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KdOKMwjfXoYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eN1hEAAAQBAJ",
+      "etag": "mBbsvuSPXV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eN1hEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Complete Christmas Books of Charles Dickens",
+        "subtitle": "A Christmas Carol, The Chimes, The Cricket on the Hearth, A Christmas Tree, A House to Let…",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2021-11-18",
+        "description": "e-artnow presents to you the Charles Dickens Christmas collection with the complete novels and stories author dedicated to this most beloved holiday:_x000D_ A Christmas Carol_x000D_ The Chimes_x000D_ The Cricket on the Hearth_x000D_ The Battle of Life_x000D_ The Haunted Man_x000D_ A Christmas Tree_x000D_ What Christmas Is As We Grow Older_x000D_ The Poor Relation's Story_x000D_ The Child's Story_x000D_ The Schoolboy's Story_x000D_ Nobody's Story_x000D_ The Seven Poor Travellers_x000D_ The Holly-Tree_x000D_ The Wreck of the Golden Mary_x000D_ The Perils of Certain English Prisoners_x000D_ A House to Let_x000D_ The Haunted House_x000D_ A Message From the Sea_x000D_ Tom Tiddler's Ground_x000D_ Somebody's Luggage_x000D_ Mrs. Lirriper's Lodgings_x000D_ Mrs. Lirriper's Legacy_x000D_ Doctor Marigold's Prescriptions_x000D_ Mugby Junction_x000D_ No Thoroughfare_x000D_ Christmas at Fezziwig's Warehouse",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4066338119605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1938,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eN1hEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eN1hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eN1hEAAAQBAJ&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eN1hEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eN1hEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.79,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.79,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eN1hEAAAQBAJ&rdid=book-eN1hEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 790000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 790000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Complete_Christmas_Books_of_Charles-sample-epub.acsm?id=eN1hEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Complete_Christmas_Books_of_Charles-sample-pdf.acsm?id=eN1hEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eN1hEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "e-artnow presents to you the Charles Dickens Christmas collection with the complete novels and stories author dedicated to this most beloved holiday:_x000D_ A Christmas Carol_x000D_ The Chimes_x000D_ The Cricket on the Hearth_x000D_ The ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "szzUzgEACAAJ",
+      "etag": "Q1a7gbaFSQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/szzUzgEACAAJ",
+      "volumeInfo": {
+        "title": "Charles Dickens' A Christmas Carol",
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1285473892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "categories": [
+          "Avarice"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=szzUzgEACAAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=szzUzgEACAAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charles_Dickens_A_Christmas_Carol.html?hl=&id=szzUzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=szzUzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9HMqAQAAIAAJ",
+      "etag": "e0ZrFht+W9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9HMqAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Man who Invented Christmas",
+        "subtitle": "How Charles Dickens's A Christmas Carol Rescued His Career and Revived Our Holiday Spirits",
+        "authors": [
+          "Les Standiford"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2008",
+        "description": "With warmth, wit, and good cheer, Standiford shows how the unlikely success of A Christmas Carol revitalized Charles Dickens's languishing career and revived the celebration of the near-forgotten Christmas holiday.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106019807418"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9HMqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9HMqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9HMqAQAAIAAJ&q=Charles+Dickens+A+Christmas+Carol&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9HMqAQAAIAAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_who_Invented_Christmas.html?hl=&id=9HMqAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9HMqAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With warmth, wit, and good cheer, Standiford shows how the unlikely success of A Christmas Carol revitalized Charles Dickens&#39;s languishing career and revived the celebration of the near-forgotten Christmas holiday."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LelLAAAAcAAJ",
+      "etag": "tMuRZwazb6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LelLAAAAcAAJ",
+      "volumeInfo": {
+        "title": "A Christmas Carol in Prose",
+        "subtitle": "Being a Ghost Story of Christmas",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "1843",
+        "description": "Marley was dead: to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it: and Scrooge's name was good upon 'Change, for anything he chose to put his hand to. Old Marley was as dead as a door-nail. Mind! I don't mean to say that I know, of my own knowledge, what there is particularly dead about a door-nail. I might have been inclined, myself, to regard a coffin-nail as the deadest piece of ironmongery in the trade. But the wisdom of our ancestors is in the simile; and my unhallowed hands shall not disturb it, or the Country's done for. You will therefore permit me to repeat, emphatically, that Marley was as dead as a door-nail.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB10746134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LelLAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LelLAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LelLAAAAcAAJ&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LelLAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LelLAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LelLAAAAcAAJ&rdid=book-LelLAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/A_Christmas_Carol_in_Prose.epub?id=LelLAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/A_Christmas_Carol_in_Prose.pdf?id=LelLAAAAcAAJ&hl=&output=pdf&sig=ACfU3U1Yb8WcGUcqlSQk_T39D6y4VDlBVg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LelLAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Marley was dead: to begin with."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p_QCEQAAQBAJ",
+      "etag": "3DZKE/mZ2Qc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p_QCEQAAQBAJ",
+      "volumeInfo": {
+        "title": "\"a Christmas Carol\", By Charles Dickens",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Clube de Autores",
+        "publishedDate": "2024-04-05",
+        "description": "A Christmas Carol is a timeless tale written by Charles Dickens. Set in Victorian England, it follows the story of Ebenezer Scrooge, a miserly old man who is visited by the ghosts of Christmas Past, Present, and Yet to Come. Through these spectral visits, Scrooge is shown the error of his ways and the impact of his selfishness on those around him, particularly his overworked and underpaid clerk, Bob Cratchit, and his kind-hearted nephew, Fred. As Scrooge confronts his past, present circumstances, and potential future, he undergoes a profound transformation, rediscovering the true spirit of Christmas and the joy of generosity and compassion. Through its poignant storytelling and memorable characters, A Christmas Carol continues to resonate with audiences, reminding us of the importance of kindness, empathy, and redemption.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:3410006628998"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p_QCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p_QCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=p_QCEQAAQBAJ&printsec=frontcover&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p_QCEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p_QCEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=p_QCEQAAQBAJ&rdid=book-p_QCEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/a_Christmas_Carol_By_Charles_Dickens-sample-epub.acsm?id=p_QCEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/a_Christmas_Carol_By_Charles_Dickens-sample-pdf.acsm?id=p_QCEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p_QCEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Christmas Carol is a timeless tale written by Charles Dickens. Set in Victorian England, it follows the story of Ebenezer Scrooge, a miserly old man who is visited by the ghosts of Christmas Past, Present, and Yet to Come."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9OoXwAEACAAJ",
+      "etag": "7mXYrr1XHZw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9OoXwAEACAAJ",
+      "volumeInfo": {
+        "title": "A Christmas Carol",
+        "subtitle": "By Charles Dickens - Illustrated",
+        "authors": [
+          "Charles Charles Dickens"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About A Christmas Carol by Charles Dickens A Christmas Carol is a novella by Charles Dickens, first published in London by Chapman & Hall on 19 December 1843. The novella met with instant success and critical acclaim. A Christmas Carol tells the story of a bitter old miser named Ebenezer Scrooge and his transformation into a gentler, kindlier man after visitations by the ghost of his former business partner Jacob Marley and the Ghosts of Christmas Past, Present and Yet to Come. The book was written at a time when the British were examining and exploring Christmas traditions from the past as well as new customs such as Christmas cards and Christmas trees. Carol singing took a new lease on life during this time.[2] Dickens' sources for the tale appear to be many and varied, but are, principally, the humiliating experiences of his childhood, his sympathy for the poor, and various Christmas stories and fairy tales. A Christmas Carol remains popular--having never been out of print--and has been adapted many times to film, stage, opera, and other media.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521906947"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521906941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9OoXwAEACAAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9OoXwAEACAAJ&dq=Charles+Dickens+A+Christmas+Carol&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Christmas_Carol.html?hl=&id=9OoXwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9OoXwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    }
+  ]
+}

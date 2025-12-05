@@ -1,0 +1,754 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hC9qEAAAQBAJ",
+      "etag": "msxdd1HOClE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hC9qEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Firestarter",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2022-05-10",
+        "description": "Master storyteller Stephen King presents the classic #1 New York Times bestseller—now a major motion picture! Andy McGee and Vicky Tomlinson were once college students looking to make some extra cash, volunteering as test subjects for an experiment orchestrated by the clandestine government organization known as The Shop. But the outcome unlocked exceptional latent psychic talents for the two of them—manifesting in even more terrifying ways when they fell in love and had a child. Their daughter, Charlie, has been gifted with the most extraordinary and uncontrollable power ever seen—pyrokinesis, the ability to create fire with her mind. Now the merciless agents of The Shop are in hot pursuit to apprehend this unexpected genetic anomaly for their own diabolical ends by any means necessary...including violent actions that may well ignite the entire world around them as Charlie retaliates with a fury of her own...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668009925"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668009927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hC9qEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hC9qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hC9qEAAAQBAJ&printsec=frontcover&dq=Stephen+King+Firestarter&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hC9qEAAAQBAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter.html?hl=&id=hC9qEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hC9qEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Charlie, an eight-year-old girl, has the ability to start fires by pyrokinesis. Now a government agency is after her and wants to use her as a weapon."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-35vPwAACAAJ",
+      "etag": "shNFvYDL+fo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-35vPwAACAAJ",
+      "volumeInfo": {
+        "title": "Firestarter",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Turtleback Books",
+        "publishedDate": "1981-08",
+        "description": "For use in schools and libraries only. Andy and Vicky McGee's eight-year-old daughter, Charlie, has the ability to set things on fire with her mind, and a secret government agency is determined to make use of Charlie's horrifyingly destructive gift.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0881037257"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780881037258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-35vPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-35vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-35vPwAACAAJ&dq=Stephen+King+Firestarter&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-35vPwAACAAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter.html?hl=&id=-35vPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-35vPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WQ5sEQAAQBAJ",
+      "etag": "oeUSVuozgYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WQ5sEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Firestarter",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2025-08-05",
+        "description": "Master storyteller Stephen King presents the classic #1 New York Times bestselling thriller, “his highest Fahrenheit reading yet” (Time)—now featuring a stunning vintage cover! Andy McGee and Vicky Tomlinson were once college students looking to make some extra cash, volunteering as test subjects for an experiment orchestrated by the clandestine government organization known as the Shop. But the outcome unlocked exceptional latent psychic talents for the two of them—manifesting in even more terrifying ways when they fell in love and had a child. Their daughter, Charlie, has been gifted with the most extraordinary and uncontrollable power ever seen—pyrokinesis, the ability to create fire with her mind. Now the merciless agents of the Shop are in hot pursuit to apprehend this unexpected genetic anomaly for their own diabolical ends by any means necessary...including violent actions that may well ignite the entire world around them as Charlie retaliates with a fury of her own...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668094747"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668094746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WQ5sEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WQ5sEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WQ5sEQAAQBAJ&printsec=frontcover&dq=Stephen+King+Firestarter&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WQ5sEQAAQBAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter.html?hl=&id=WQ5sEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WQ5sEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Young Charlie McGee is a very special girl."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gaFEzwEACAAJ",
+      "etag": "E11ksunFABM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gaFEzwEACAAJ",
+      "volumeInfo": {
+        "title": "Firestarter /by Stephen King",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1326813114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gaFEzwEACAAJ&dq=Stephen+King+Firestarter&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gaFEzwEACAAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter_by_Stephen_King.html?hl=&id=gaFEzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gaFEzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "52V4PwAACAAJ",
+      "etag": "OaU5f58+DHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/52V4PwAACAAJ",
+      "volumeInfo": {
+        "title": "Firestarter",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Charnwood Pub",
+        "publishedDate": "1982",
+        "description": "Eight-year-old Charlie was born with the most destructive personality power a human being has ever commanded. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0708980864"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708980866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=52V4PwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=52V4PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=52V4PwAACAAJ&dq=Stephen+King+Firestarter&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=52V4PwAACAAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter.html?hl=&id=52V4PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=52V4PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eight-year-old Charlie was born with the most destructive personality power a human being has ever commanded. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LvKNPwAACAAJ",
+      "etag": "n6FZCbwj/Y8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LvKNPwAACAAJ",
+      "volumeInfo": {
+        "title": "Firestarter",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Signet",
+        "publishedDate": "1981-08-01",
+        "description": "Eight-year-old Charlie was born with the most destructive personality power a human being has ever commanded. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451150317"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451150318"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Fire"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LvKNPwAACAAJ&dq=Stephen+King+Firestarter&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LvKNPwAACAAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firestarter.html?hl=&id=LvKNPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LvKNPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eight-year-old Charlie was born with the most destructive personality power a human being has ever commanded. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LRtYvgAACAAJ",
+      "etag": "q7kKSaTUbpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LRtYvgAACAAJ",
+      "volumeInfo": {
+        "title": "STEPHEN KING NEW COVER SERIES No. 16 Firestarter",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2016-11-01",
+        "description": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for FIRESTARTER This is No. 16 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring FIRESTARTER original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits FIRESTARTER Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of FIRESTARTER by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1623300916"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781623300913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LRtYvgAACAAJ&dq=Stephen+King+Firestarter&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LRtYvgAACAAJ&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/STEPHEN_KING_NEW_COVER_SERIES_No_16_Fire.html?hl=&id=LRtYvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LRtYvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for FIRESTARTER This is No. 16 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring FIRESTARTER original cover art. This is a dust jacket only."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2BcECkYB7uoC",
+      "etag": "Uco71aLrYfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2BcECkYB7uoC",
+      "volumeInfo": {
+        "title": "Stephen King from A to Z",
+        "subtitle": "An Encyclopedia of His Life and Work",
+        "authors": [
+          "George Beahm",
+          "Beahm"
+        ],
+        "publisher": "Andrews McMeel Publishing",
+        "publishedDate": "1998-09",
+        "description": "Contains hundreds of alphabetically arranged entries that provide information about various aspects of the life and work of popular novelist Stephen King.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0836269144"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780836269147"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2BcECkYB7uoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2BcECkYB7uoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2BcECkYB7uoC&pg=PA76&dq=Stephen+King+Firestarter&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2BcECkYB7uoC&dq=Stephen+King+Firestarter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_from_A_to_Z.html?hl=&id=2BcECkYB7uoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King_from_A_to_Z-sample-pdf.acsm?id=2BcECkYB7uoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2BcECkYB7uoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>King</b> said he had never thought of it that way and put an end to her ire by dropping the idea of an expurgated <b>Firestarter</b> immediately . <b>Firestarter</b> ( film ) , 1984 Never have so many labored so hard for so many hours with so many&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ztmuv17TKFoC",
+      "etag": "jYBOLbcI9nE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ztmuv17TKFoC",
+      "volumeInfo": {
+        "title": "The Many Facets of Stephen King",
+        "authors": [
+          "Michael R. Collings"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "2008-08-01",
+        "description": "A study of King's fiction, including a chapter on criticism and a chronology of King's works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780893709235"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0893709239"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ztmuv17TKFoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ztmuv17TKFoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ztmuv17TKFoC&pg=PA55&dq=Stephen+King+Firestarter&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ztmuv17TKFoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ztmuv17TKFoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ztmuv17TKFoC&rdid=book-ztmuv17TKFoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Many_Facets_of_Stephen_King-sample-pdf.acsm?id=ztmuv17TKFoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ztmuv17TKFoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>King</b> accentuates the realis- tic tone of the novel . a Similarly , brief reference to Harrison Beach ( Ch . 1 ... <b>Firestarter</b> ( 1980 ) . Again , these touches subtly reinforce the strength of The Dead Zone by giving the novel&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T8SxEAAAQBAJ",
+      "etag": "B4HrU3skSoE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T8SxEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Stephen King's Filmography (2020)",
+        "authors": [
+          "Steve Hutchison"
+        ],
+        "publisher": "Tales of Terror",
+        "publishedDate": "2023-03-03",
+        "description": "This book contains the synopses and reviews of the darkest films in Stephen King’s filmography. The movies are ranked.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781778871146"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1778871143"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T8SxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T8SxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=T8SxEAAAQBAJ&pg=PT38&dq=Stephen+King+Firestarter&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T8SxEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T8SxEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=T8SxEAAAQBAJ&rdid=book-T8SxEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T8SxEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Stephen King</b>, <b>Firestarter</b> tells the dramatic story of a telekinetic hypnotist and his daughter, a telepathic pyrokineticist, running away from a ruthless government agency that experiments with psychic abilities. King decides to&nbsp;..."
+      }
+    }
+  ]
+}

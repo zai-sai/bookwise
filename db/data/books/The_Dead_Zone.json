@@ -1,0 +1,711 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DlWQDQAAQBAJ",
+      "etag": "FKQ/mvt8HEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DlWQDQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dead Zone",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-11-29",
+        "description": "Johnny Smith is an ordinary young man with an engaging grin, a talent for teaching, and a new girl. As he takes Sarah to a carnival, life looks very good. But is his bizarre run of luck on the Wheel of Fortune really a blessing?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501143816"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501143816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DlWQDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DlWQDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DlWQDQAAQBAJ&printsec=frontcover&dq=Stephen+King+The+Dead+Zone&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DlWQDQAAQBAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dead_Zone.html?hl=&id=DlWQDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DlWQDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Johnny Smith is an ordinary young man with an engaging grin, a talent for teaching, and a new girl. As he takes Sarah to a carnival, life looks very good. But is his bizarre run of luck on the Wheel of Fortune really a blessing?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oET9EAAAQBAJ",
+      "etag": "fbpMdl9zPU4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oET9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dead Zone",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2024",
+        "description": "After four and a half years in a coma, Johnny Smith awakens with a knowledge of the death zone and an ability to see the future, a horrible power that he does not want and cannot escape.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668035078"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668035073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Coma"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oET9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oET9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oET9EAAAQBAJ&printsec=frontcover&dq=Stephen+King+The+Dead+Zone&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oET9EAAAQBAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dead_Zone.html?hl=&id=oET9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oET9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After four and a half years in a coma, Johnny Smith awakens with a knowledge of the death zone and an ability to see the future, a horrible power that he does not want and cannot escape."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mWsGGiAs5QYC",
+      "etag": "BRuiyp0De0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mWsGGiAs5QYC",
+      "volumeInfo": {
+        "title": "The Dead Zone",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1979",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mWsGGiAs5QYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mWsGGiAs5QYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mWsGGiAs5QYC&q=Stephen+King+The+Dead+Zone&dq=Stephen+King+The+Dead+Zone&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mWsGGiAs5QYC&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dead_Zone.html?hl=&id=mWsGGiAs5QYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mWsGGiAs5QYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b7iwQgAACAAJ",
+      "etag": "/Yzakp4b8b4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b7iwQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Dead Zone",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Charnwood Pub",
+        "publishedDate": "1983",
+        "description": "A supernatural thriller that plunges the reader into the fate awaiting all mankind -- The Dead Zone. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0708981577"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708981573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 646,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=b7iwQgAACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=b7iwQgAACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dead_Zone.html?hl=&id=b7iwQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b7iwQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A supernatural thriller that plunges the reader into the fate awaiting all mankind -- The Dead Zone. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E3dqHQAACAAJ",
+      "etag": "jFzOtBiTCAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E3dqHQAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's The Dead Zone",
+        "authors": [
+          "Christopher Walken",
+          "Brooke Adams",
+          "Tom Skerritt",
+          "David Cronenberg",
+          "Paramount Pictures Corporation"
+        ],
+        "publishedDate": "1983",
+        "description": "Press kit includes 1 booklet and 9 photographs.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:64574630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=E3dqHQAACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=E3dqHQAACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_The_Dead_Zone.html?hl=&id=E3dqHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E3dqHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Press kit includes 1 booklet and 9 photographs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6ntbvgEACAAJ",
+      "etag": "VjF2dRcj4e4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ntbvgEACAAJ",
+      "volumeInfo": {
+        "title": "Dead zone : (l'accident)",
+        "subtitle": "",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "LGF/Le Livre de Poche",
+        "publishedDate": "1983",
+        "description": "Greg Stillson, candidat à la Maison Blanche, est un fou criminel, grand admirateur d'Hitler et d'autres maniaques de l'extermination. Quand il sera élu, ce sera l'Apocalypse. Un seul homme le sait : John Smith, car il est doué d'un étrange pouvoir qui lui attire pas mal d'ennuis, il devine l'avenir. Il n'y a rien de réjouissant à cela. Il peut prévoir les accidents, les catastrophes, les hécatombes. On ne le croit pas, ou alors on le croit trop. John Smith n'a encore rien dit de ses prémonitions. Pourtant, le candidat à la présidence des Etats-Unis est un dément. Que fera John Smith pour son pays ? \" ...suspense, psychologie des personnages astucieusement mise en place, intrigue très éclatée, très cinématographique, pour finalement laisser son lecteur groggy et content ! \" Jean-Claude Perrier, Le Quotidien de Paris \" Grâces soient rendues à Stephen King de nous rappeler que \" suspense \" et \" sentiments \" commencent par la même lettre. \" Michel Grisolia, l'Express",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2253035262"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782253035268"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 477,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6ntbvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6ntbvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=6ntbvgEACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6ntbvgEACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dead_zone_l_accident.html?hl=&id=6ntbvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6ntbvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greg Stillson, candidat à la Maison Blanche, est un fou criminel, grand admirateur d&#39;Hitler et d&#39;autres maniaques de l&#39;extermination."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3hpo0QEACAAJ",
+      "etag": "rTh2M2tXoB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3hpo0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Dead Zone Screenplay Based on the Novel by Stephen King and Directed by David Cronenberg",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1518564564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Coma"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3hpo0QEACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3hpo0QEACAAJ&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dead_Zone_Screenplay_Based_on_the_No.html?hl=&id=3hpo0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3hpo0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "giKIEAAAQBAJ",
+      "etag": "chi7RMxoEzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/giKIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Stephen King",
+        "subtitle": "A Complete Exploration of His Work, Life, and Influences",
+        "authors": [
+          "Bev Vincent"
+        ],
+        "publisher": "becker&mayer! books ISBN",
+        "publishedDate": "2022-09-13",
+        "description": "Take an intimate tour through the life and works of Stephen King, made vivid with rare photos and ephemera from King’s personal collection. Even if you are a die-hard fan, you will find something new in this beautifully packaged Stephen King reference that you will return to again and again. Timed to celebrate Stephen King’s 75th birthday on September 21, 2022, Stephen King: A Complete Exploration of His Work, Life, and Influences reveals the inspiration behind the prolific author’s brilliant works of horror through a combination of photos and documents from King’s archives and an engaging account of the stories behind how his novels, novellas, short stories, and adaptations came to be. It might sound like a tall tale that Stephen King once met a bartender named Grady in an empty hotel in Colorado, or that the celebrated author helped his young daughter bury her cat in a nearby “pets sematary” after it was killed on a busy roadway. In this book, discover how King drew on these and more real personal experiences and mundane life events, then employed his extraordinary imagination to twist them into something horrific. From impoverished university student to struggling schoolteacher to one of the best-selling—and most recognizable—authors of all time, this engrossing book reveals the evolution and influences of Stephen King’s body of work over his nearly 50-year career, and how the themes of his writing reflect the changing times and events within his life. An expansion of Stephen King expert Bev Vincent’s The Stephen King Illustrated Companion, this fully revised, redesigned, and updated book includes: A review of King’s complete body of work, including Fairy Tale, published in September 2022. A wealth of rare memorabilia from King’s own collection, including personal and professional correspondences, handwritten manuscript pages, book covers, movie stills, and never-before-seen excerpts from one of his poems and an unpublished short story. Interludes on specific topics such as real-life settings that inspired King’s writing, the editor who discovered him, his life as a Boston Red Sox fan, and the many awards and honors he has received. Insightful quotes from King from interviews over the decades. Celebrate the beloved King of Horror with this informational and entertaining look inside King’s most iconic titles and the culture they have created.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780760376829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0760376824"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=giKIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=giKIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=giKIEAAAQBAJ&pg=PA228&dq=Stephen+King+The+Dead+Zone&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 25.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=giKIEAAAQBAJ&rdid=book-giKIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 25990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King-sample-epub.acsm?id=giKIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King-sample-pdf.acsm?id=giKIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=giKIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Stephen King</b> on His 10 Longest Novels,” Gilbert Cruz,. 1. Interview with Mike Farren, Interview XVI, no. 2 (1986) ... <b>Dead Zone</b>” by Bev Vincent, The Poetry Foundation, May 2018. https://www.poetryfoundation.org/articles/146551/ the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9bvky2rFTZMC",
+      "etag": "RJ4DvpbSeMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9bvky2rFTZMC",
+      "volumeInfo": {
+        "title": "HSA Books and Manuscripts Dallas Auction Catalog #682",
+        "authors": [
+          "Sandra Palomino"
+        ],
+        "publisher": "Heritage Capital Corporation",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1599672170"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781599672175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9bvky2rFTZMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9bvky2rFTZMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9bvky2rFTZMC&pg=PA78&dq=Stephen+King+The+Dead+Zone&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9bvky2rFTZMC&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HSA_Books_and_Manuscripts_Dallas_Auction.html?hl=&id=9bvky2rFTZMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/HSA_Books_and_Manuscripts_Dallas_Auction-sample-pdf.acsm?id=9bvky2rFTZMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9bvky2rFTZMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... STEPHEN KING <b>Stephen King DEAD ZONE</b> 162126/31 36 2 7 12/17/22 2323813 A Novel by the Author of THE STAND 56876 This special first edition of THE DARK TOWER II : THE DRAWING OF THE THREE is signed by author Stephen King and artist Phil&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QM-TDlYLEsIC",
+      "etag": "Uj7/SD4Ykvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QM-TDlYLEsIC",
+      "volumeInfo": {
+        "title": "The Complete Stephen King Encyclopedia",
+        "subtitle": "The Definitive Guide to the Works of America's Master of Horror",
+        "authors": [
+          "Stephen J. Spignesi"
+        ],
+        "publisher": "McGraw-Hill/Contemporary",
+        "publishedDate": "1991",
+        "description": "Now fans, researchers, and collectors can have easy access to all things King with this definitive sourcebook. This one-of-a-kind encyclopedia, now in paperback, features an exhaustive 18,000-entry concordance covering the people, places, and things mentioned in King's novels and stories, as well as helpful reference guides, sidebars, and never-before-available information. 50 photographs. 20 line drawings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0809238187"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780809238187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 804,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QM-TDlYLEsIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QM-TDlYLEsIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QM-TDlYLEsIC&pg=PA576&dq=Stephen+King+The+Dead+Zone&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QM-TDlYLEsIC&dq=Stephen+King+The+Dead+Zone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Stephen_King_Encyclopedia.html?hl=&id=QM-TDlYLEsIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QM-TDlYLEsIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

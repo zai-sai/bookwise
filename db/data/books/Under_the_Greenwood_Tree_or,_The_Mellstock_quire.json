@@ -1,0 +1,713 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "jJZy_0y-HtgC",
+      "etag": "beU/GRYUHzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jJZy_0y-HtgC",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree (EasyRead Super Large 20pt Edition)",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781427035844"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1427035849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jJZy_0y-HtgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jJZy_0y-HtgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jJZy_0y-HtgC&printsec=frontcover&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jJZy_0y-HtgC&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree_EasyRead_Super.html?hl=&id=jJZy_0y-HtgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Under_the_Greenwood_Tree_EasyRead_Super-sample-pdf.acsm?id=jJZy_0y-HtgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jJZy_0y-HtgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mIfbJVKwdPMC",
+      "etag": "7pFr+qeu0gY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mIfbJVKwdPMC",
+      "volumeInfo": {
+        "title": "Under the greenwood tree; or the Mellstock quire",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCI:31970010816871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mIfbJVKwdPMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mIfbJVKwdPMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mIfbJVKwdPMC&q=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mIfbJVKwdPMC&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_greenwood_tree_or_the_Mellstoc.html?hl=&id=mIfbJVKwdPMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mIfbJVKwdPMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wVWJ_OpmS4sC",
+      "etag": "XryHVRRmAc4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wVWJ_OpmS4sC",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree",
+        "subtitle": "Or the Mellstock Quire: a Rural Painting of the Dutch School",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2011-01-01",
+        "description": "Known for such novels as Tess of the d'Urbervilles and Far from the Madding Crowd, Thomas Hardy delves deeper into the genre of historical romance in this stirring portrait of the various entanglements and amorous intrigues that arise among a group of church musicians in rural England. Hearts are broken along the way, and though the novel ends with a wedding, did the right pair find each other in time? Under the Greenwood Tree is an engaging read that fans of historical romance will enjoy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775450832"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "177545083X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wVWJ_OpmS4sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wVWJ_OpmS4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wVWJ_OpmS4sC&printsec=frontcover&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wVWJ_OpmS4sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wVWJ_OpmS4sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wVWJ_OpmS4sC&rdid=book-wVWJ_OpmS4sC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Under_the_Greenwood_Tree-sample-epub.acsm?id=wVWJ_OpmS4sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wVWJ_OpmS4sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hearts are broken along the way, and though the novel ends with a wedding, did the right pair find each other in time? Under the Greenwood Tree is an engaging read that fans of historical romance will enjoy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EfVqzQEACAAJ",
+      "etag": "X1sXpHCupbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EfVqzQEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree",
+        "subtitle": "The Mellstock Quire",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-03-13",
+        "description": "To dwellers in a wood almost every species of tree has its voice as well as its feature. At the passing of the breeze the fir-trees sob and moan no less distinctly than they rock; the holly whistles as it battles with itself; the ash hisses amid its quiverings; the beech rustles while its flat boughs rise and fall. And winter, which modifies the note of such trees as shed their leaves, does not destroy its individuality.On a cold and starry Christmas-eve within living memory a man was passing up a lane towards Mellstock Cross in the darkness of a plantation that whispered thus distinctively to his intelligence. All the evidences of his nature were those afforded by the spirit of his footsteps, which succeeded each other lightly and quickly, and by the liveliness of his voice as he sang in a rural cadence: The lonely lane he was following connected one of the hamlets of Mellstock parish with Upper Mellstock and Lewgate, and to his eyes, casually glancing upward, the silver and black-stemmed birches with their characteristic tufts, the pale grey boughs of beech, the dark-creviced elm, all appeared now as black and flat outlines upon the sky, wherein the white stars twinkled so vehemently that their flickering seemed like the flapping of wings. Within the woody pass, at a level anything lower than the horizon, all was dark as the grave. The copse-wood forming the sides of the bower interlaced its branches so densely, even at this season of the year, that the draught from the north-east flew along the channel with scarcely an interruption from lateral breezes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798621503680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EfVqzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EfVqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EfVqzQEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EfVqzQEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree.html?hl=&id=EfVqzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EfVqzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To dwellers in a wood almost every species of tree has its voice as well as its feature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yJWdEAAAQBAJ",
+      "etag": "gKe8HEoY5zM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yJWdEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree; Or, The Mellstock Quire; A Rural Painting of the Dutch School",
+        "subtitle": "in large print",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-11-24",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368320201"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368320203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yJWdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yJWdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yJWdEAAAQBAJ&printsec=frontcover&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yJWdEAAAQBAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree_Or_The_Mellstoc.html?hl=&id=yJWdEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Under_the_Greenwood_Tree_Or_The_Mellstoc-sample-pdf.acsm?id=yJWdEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yJWdEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6rxVtAEACAAJ",
+      "etag": "DbAJ/fmLhu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6rxVtAEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree Or The Mellstock Quire",
+        "subtitle": "A Rural Painting of the Dutch School",
+        "authors": [
+          "Thomas Hardy (Schriftsteller, Grossbritannien)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:731582292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6rxVtAEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6rxVtAEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree_Or_The_Mellstoc.html?hl=&id=6rxVtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6rxVtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tpkRzQEACAAJ",
+      "etag": "N922/HPUsRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tpkRzQEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree, by Thomas Hardy a Novel",
+        "subtitle": "Under the Greenwood Tree, Or, the Mellstock Quire; A Rural Painting of the Dutch School",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-24",
+        "description": "Thomas Hardy, (2 June 1840 - 11 January 1928) was an English novelist and poet. A Victorian realist in the tradition of George Eliot, he was influenced both in his novels and in his poetry by Romanticism, especially William Wordsworth.Charles Dickens was another important influence.Like Dickens, he was highly critical of much in Victorian society, though Hardy focused more on a declining rural society. Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, published anonymously in 1872. It was Hardy's second published novel, the last to be printed without his name, and the first of his great series of Wessex novels. Whilst Hardy originally thought of simply calling it The Mellstock Quire, he settled on a title taken from a song in Shakespeare's As You Like It .The plot concerns the activities of a group of church musicians, the Mellstock parish choir, one of whom, Dick Dewy, becomes romantically entangled with a comely new school mistress, Fancy Day. The novel opens with the fiddlers and singers of the choir-including Dick, his father Reuben Dewy, and grandfather William Dewy-making the rounds in Mellstock village on Christmas Eve. When the little band plays at the schoolhouse, young Dick falls for Fancy at first sight. Dick, smitten, seeks to insinuate himself into her life and affections, but Fancy's beauty has gained her other suitors, including a rich farmer and the new vicar at the parish church. The vicar, Mr. Maybold, informs the choir that he intends Fancy, an accomplished organ player, to replace their traditional musical accompaniment to Sunday services. The tranter and the rest of the band visit the vicar's home to negotiate, but reluctantly give way to the more modern organ. Meanwhile, Dick seems to win Fancy's heart, and she discovers an effective strategem to overcome her father's objection to the potential marriage. After the two are engaged secretly, however, vicar Maybold impetuously asks Fancy to marry him and lead a life of relative affluence; racked by guilt and temptation, she accepts. The next day, however, at a chance meeting with the as-yet-unaware Dick, surprised Maybold learns from him of his engagement to Fancy. The vicar follows by prompting her by letter, while expressing being taken aback by such news, to be honest to Dewy and withdraw her commitment to him if she indeed intended to become married to Maybold. Fancy responds by withdrawing her consent to marry Maybold and asking him to keep her initial acceptance of his proposal forever a secret. Maybold replies by urging her again to be honest with Dick and admit she accepted the vicar despite having already committed herself to the young tranter, assuring her she would be forgiven. However, as she marries Dewy who is so in love he readily dismisses what he previously (rightly) considered exhibits of her fickleness and rejoices at what he perceives at the prospect of a happy union based on honesty, given Fancy's effusive and seemingly frank admission to some (minor) infidelities, while he assumes they would never keep any secrets from each other, she resolves never to disclose the truly incontrovertible and damning evidence against her character in her having so readily accepted Maybold despite her engagement to Dewy. The novel ends with a humorous portrait of Reuben, William, Mr. Day, and the rest of the Mellstock rustics as they celebrate the couple's wedding day. The mood is joyful, but at the end of the final chapter, the reader is reminded that Fancy has married with \"a secret she would never tell\" (her final flirtation and brief engagement to the vicar). While Under the Greenwood Tree is often seen as Hardy's gentlest and most pastoral novel, this final touch introduces a faint note of melancholy to the conclusion......",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533431515"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533431516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tpkRzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tpkRzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tpkRzQEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tpkRzQEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree_by_Thomas_Hardy.html?hl=&id=tpkRzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tpkRzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel opens with the fiddlers and singers of the choir-including Dick, his father Reuben Dewy, and grandfather William Dewy-making the rounds in Mellstock village on Christmas Eve."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FgqtngEACAAJ",
+      "etag": "AAUdncxIo6Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FgqtngEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree",
+        "subtitle": "The Mellstock Quire; a Rural Painting of the Dutch School",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-10",
+        "description": "Under the Greenwood Tree or The Mellstock Quire A Rural Painting of the Dutch School By Thomas Hardy Complete English Classics Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, published anonymously in 1872. It was Hardy's second published novel, the last to be printed without his name, and the first of his great series of Wessex novels. Whilst Hardy originally thought of simply calling it The Mellstock Quire, he settled on a title taken from a song in Shakespeare's As You Like It (Act II, Scene V). Thomas Hardy, OM (2 June 1840 – 11 January 1928) was an English novelist and poet. A Victorian realist in the tradition of George Eliot, he was influenced both in his novels and in his poetry by Romanticism, especially William Wordsworth. Charles Dickens was another important influence. Like Dickens, he was highly critical of much in Victorian society, though Hardy focused more on a declining rural society. While Hardy wrote poetry throughout his life and regarded himself primarily as a poet, his first collection was not published until 1898. Initially, therefore, he gained fame as the author of novels, including Far from the Madding Crowd (1874), The Mayor of Casterbridge (1886), Tess of the d'Urbervilles (1891), and Jude the Obscure (1895). However, beginning in the 1950s Hardy has been recognized as a major poet; he had a significant influence on the Movement poets of the 1950s and 1960s, including Phillip Larkin.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492950971"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492950974"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FgqtngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FgqtngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FgqtngEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FgqtngEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree.html?hl=&id=FgqtngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FgqtngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Under the Greenwood Tree or The Mellstock Quire - A Rural Painting of the Dutch School by Thomas Hardy - Complete English Classics - Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, published ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JX_3swEACAAJ",
+      "etag": "w+dcs0yBdzI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JX_3swEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-06-03",
+        "description": "Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, [1] published anonymously in 1872. It was Hardy's second published novel, the last to be printed without his name, and the first of his great series of Wessex novels. Whilst Hardy originally thought of simply calling it The Mellstock Quire, he settled on a title taken from a song in Shakespeare's As You Like It (Act II, Scene V)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1547126981"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781547126989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JX_3swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JX_3swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JX_3swEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JX_3swEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree.html?hl=&id=JX_3swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JX_3swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, [1] published anonymously in 1872."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xIvrywEACAAJ",
+      "etag": "bKvarGt/exE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xIvrywEACAAJ",
+      "volumeInfo": {
+        "title": "Under the Greenwood Tree; Or, The Mellstock Quire",
+        "subtitle": "Novel",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-11-15",
+        "description": "Under the Greenwood Tree: A Rural Painting of the Dutch School is a novel by Thomas Hardy, published anonymously in 1872. It was Hardy's second published novel, the last to be printed without his name, and the first of his great series of Wessex novels. Whilst Hardy originally thought of simply calling it The Mellstock Quire, he settled on a title taken from a song in Shakespeare's As You Like It (Act II, Scene V). PlotThe plot concerns the activities of a group of church musicians, the Mellstock parish choir, one of whom, Dick Dewy, becomes romantically entangled with a comely new schoolmistress, Fancy Day. The novel opens with the fiddlers and singers of the choir--including Dick, his father Reuben Dewy, and grandfather William Dewy--making the rounds in Mellstock village on Christmas Eve. When the little band plays at the schoolhouse, young Dick falls for Fancy at first sight. Dick, smitten, seeks to insinuate himself into her life and affections, but Fancy's beauty has gained her other suitors, including a rich farmer and the new vicar at the parish church.The vicar, Mr Maybold, informs the choir that he intends Fancy, an accomplished organ player, to replace their traditional musical accompaniment to Sunday services. The tranter and the rest of the band visit the vicar's home to negotiate, but reluctantly give way to the more modern organ. Meanwhile, Dick seems to win Fancy's heart, and she discovers an effective strategem to overcome her father's objection to the potential marriage. After the two are engaged secretly, however, vicar Maybold impetuously asks Fancy to marry him and lead a life of relative affluence; racked by guilt and temptation, she accepts. The next day, however, at a chance meeting with the as-yet-unaware Dick, surprised Maybold learns from him of his engagement to Fancy. The vicar follows by prompting her by letter, while expressing being taken aback by such news, to be honest to Dewy and withdraw her commitment to him if she indeed intended to become married to Maybold. Fancy responds by withdrawing her consent to marry Maybold and asking him to keep her initial acceptance of his proposal forever a secret. Maybold replies by urging her again to be honest with Dick and admit she accepted the vicar despite having already committed herself to the young tranter, assuring her she would be forgiven. However, as she marries Dewy who is so in love he readily dismisses what he previously (rightly) considered exhibits of her fickleness and rejoices at what he perceives at the prospect of a happy union based on honesty, given Fancy's effusive and seemingly frank admission to some (minor) infidelities, while he assumes they would never keep any secrets from each other, she resolves never to disclose the truly incontrovertible and damning evidence against her character in her having so readily accepted Maybold despite her engagement to Dewy.The novel ends with a humorous portrait of Reuben, William, Mr Day and the rest of the Mellstock rustics as they celebrate the couple's wedding day. The mood is joyful, but at the end of the final chapter, the reader is reminded that Fancy has married with \"a secret she would never tell\" (her final flirtation and brief engagement to the vicar). While Under the Greenwood Tree is often seen as Hardy's gentlest and most pastoral novel, this final touch introduces a faint note of melancholy to the conclusion. ...Thomas Hardy OM (2 June 1840 - 11 January 1928) was an English novelist and poet. A Victorian realist in the tradition of George Eliot, he was influenced both in his novels and in his poetry by Romanticism, especially William Wordsworth.He was highly critical of much in Victorian society, especially on the declining status of rural people in Britain, such as those from his native South West England.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1708697799"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781708697792"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xIvrywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xIvrywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xIvrywEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xIvrywEACAAJ&dq=Thomas+Hardy+Under+the+Greenwood+Tree+or,+The+Mellstock+quire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Greenwood_Tree_Or_The_Mellstoc.html?hl=&id=xIvrywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xIvrywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel opens with the fiddlers and singers of the choir-including Dick, his father Reuben Dewy, and grandfather William Dewy-making the rounds in Mellstock village on Christmas Eve."
+      }
+    }
+  ]
+}

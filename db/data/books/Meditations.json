@@ -1,0 +1,798 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VVsmU-4YwFsC",
+      "etag": "HD7p/tg5PrU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VVsmU-4YwFsC",
+      "volumeInfo": {
+        "title": "Meditations",
+        "authors": [
+          "Marcus Aurelius"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1997",
+        "description": "The \"Meditations\" of Roman Emperor Marcus Aurelius are a readable exposition of the system of metaphysics known as stoicism. Stoics maintained that by putting aside great passions, unjust thoughts and indulgence, man could acquire virtue and live at one with nature. The Meditations were composed in periods of inaction during the wars which Marcus hated but was compelled to fight.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853264865"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853264863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VVsmU-4YwFsC&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VVsmU-4YwFsC&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Meditations.html?hl=&id=VVsmU-4YwFsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-pdf.acsm?id=VVsmU-4YwFsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VVsmU-4YwFsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The &quot;Meditations&quot; of Roman Emperor Marcus Aurelius are a readable exposition of the system of metaphysics known as stoicism."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G3VCAQAAIAAJ",
+      "etag": "eUdiZAw5rn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G3VCAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Meditations of Marcus Aurelius",
+        "authors": [
+          "Marcus Aurelius (Emperor of Rome)"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B360612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Latin"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G3VCAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G3VCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G3VCAQAAIAAJ&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G3VCAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G3VCAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=G3VCAQAAIAAJ&rdid=book-G3VCAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Meditations_of_Marcus_Aurelius.epub?id=G3VCAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Meditations_of_Marcus_Aurelius.pdf?id=G3VCAQAAIAAJ&hl=&output=pdf&sig=ACfU3U1-oI3j266Kk5NSyVClze1MXRgJmQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G3VCAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "udApd8ZGlV0C",
+      "etag": "YWyoHxe/4n8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/udApd8ZGlV0C",
+      "volumeInfo": {
+        "title": "Meditations",
+        "authors": [
+          "Marcus Aurelius"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2006-04-27",
+        "description": "'Their icy blasts are refreshing and restorative. They tell you the worst. And having heard the worst, you feel less bad' Blake Morrison Written in Greek by the only Roman emperor who was also a philosopher, without any intention of publication, the Meditations of Marcus Aurelius offer a remarkable series of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe. While the Meditations were composed to provide personal consolation and encouragement, Marcus Aurelius also created one of the greatest of all works of philosophy: a timeless collection that has been consulted and admired by statesmen, thinkers and readers throughout the centuries. Translated with notes by MARTIN HAMMOND with an Introduction by DISKIN CLAY",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141910819"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "014191081X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 237,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.14.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=udApd8ZGlV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=udApd8ZGlV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=udApd8ZGlV0C&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=udApd8ZGlV0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=udApd8ZGlV0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=udApd8ZGlV0C&rdid=book-udApd8ZGlV0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-epub.acsm?id=udApd8ZGlV0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=udApd8ZGlV0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While the Meditations were composed to provide personal consolation and encouragement, Marcus Aurelius also created one of the greatest of all works of philosophy: a timeless collection that has been consulted and admired by statesmen, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "24a_o-VJvGsC",
+      "etag": "p4cL2dKhWWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/24a_o-VJvGsC",
+      "volumeInfo": {
+        "title": "Meditations",
+        "subtitle": "A New Translation",
+        "authors": [
+          "Marcus Aurelius"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "2002-05-14",
+        "description": "NATIONAL BESTSELLER • Timeless insights into what it takes to lead a meaningful life—still profoundly relevant nearly two thousand years later. Now featuring a brand-new foreword from Ryan Holiday, #1 New York Times bestselling author of The Obstacle Is the Way! “Meditations offers a glimpse into [Marcus Aurelius’s] mind, his habits, and his approach to life. . . . I think any reader would find something useful to take away from it.”—James Clear, #1 New York Times bestselling author of Atomic Habits “It is unbelievable to see how the emperor’s words have stood the test of time. . . . Read a page or two anytime you feel like the world is too much.”—Arnold Schwarzenegger, The Wall Street Journal Your ability to control your thoughts—treat it with respect. It’s all that protects your mind from false perceptions—false to your nature, and that of all rational beings. A series of spiritual exercises filled with wisdom, practical guidance, and profound understanding of human behavior, Marcus Aurelius’s Meditations remains one of the greatest works of spiritual and ethical reflection ever written. With bite-size insights and advice on everything from living in the world to coping with adversity and interacting with others, Meditations has become required reading not only for statesmen and philosophers alike, but also for generations of readers who responded to the straightforward intimacy of his style. In Gregory Hays’s translation—the first in nearly four decades—Marcus’s thoughts speak with a new immediacy. In fresh and unencumbered English, Hays vividly conveys the spareness and compression of the original Greek text. Never before have Marcus’s insights been so directly and powerfully presented. With an Introduction that outlines Marcus’s life and career, the essentials of Stoic doctrine, the style and construction of the Meditations, and the work’s ongoing influence, this edition makes it possible to fully rediscover the thoughts of one of the most enlightened and intelligent leaders of any era.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781588361738"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "158836173X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=24a_o-VJvGsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=24a_o-VJvGsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=24a_o-VJvGsC&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=24a_o-VJvGsC&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Meditations.html?hl=&id=24a_o-VJvGsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-epub.acsm?id=24a_o-VJvGsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-pdf.acsm?id=24a_o-VJvGsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=24a_o-VJvGsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With an Introduction that outlines Marcus’s life and career, the essentials of Stoic doctrine, the style and construction of the Meditations, and the work’s ongoing influence, this edition makes it possible to fully rediscover the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "27ti0f6UlLYC",
+      "etag": "ZXV67KN1pcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/27ti0f6UlLYC",
+      "volumeInfo": {
+        "title": "Meditations",
+        "authors": [
+          "Marcus Aurelius"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2011-03-01",
+        "description": "Dive into a collection of thought-provoking essays from one of the most remarkable figures in history, Roman emperor Marcus Aurelius. In Meditations, Marcus Aurelius lays out his personal philosophy of stoicism, which involves honing one's discipline and eschewing base or excessive sensual pleasures. A must-read for fans of ancient history and philosophy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775451938"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1775451933"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=27ti0f6UlLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=27ti0f6UlLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=27ti0f6UlLYC&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=27ti0f6UlLYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=27ti0f6UlLYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.29,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.29,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=27ti0f6UlLYC&rdid=book-27ti0f6UlLYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3290000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3290000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-epub.acsm?id=27ti0f6UlLYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=27ti0f6UlLYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Meditations, Marcus Aurelius lays out his personal philosophy of stoicism, which involves honing one&#39;s discipline and eschewing base or excessive sensual pleasures. A must-read for fans of ancient history and philosophy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pNirzgEACAAJ",
+      "etag": "cAuwSlxyp2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pNirzgEACAAJ",
+      "volumeInfo": {
+        "title": "Marcus Aurelius - Meditations",
+        "subtitle": "Adapted for the Contemporary Reader",
+        "authors": [
+          "Marcus Aurelius"
+        ],
+        "publishedDate": "2021-09-15",
+        "description": "Meditations is a series of personal writings by Marcus Aurelius, Roman Emperor from 161 to 180 AD, recording his private notes to himself and ideas on Stoic philosophy. ★ Marcus Aurelius wrote the 12 books of the Meditations as a source for his own guidance and self-improvement. ★ These books have been carefully adapted into Modern English to allow for easy reading. ✓ ENJOY",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798477866403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pNirzgEACAAJ&dq=Marcus+Aurelius+Meditations&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pNirzgEACAAJ&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Marcus_Aurelius_Meditations.html?hl=&id=pNirzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pNirzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Meditations is a series of personal writings by Marcus Aurelius, Roman Emperor from 161 to 180 AD, recording his private notes to himself and ideas on Stoic philosophy. ★ Marcus Aurelius wrote the 12 books of the Meditations as a source ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BXncAAAAQBAJ",
+      "etag": "aA4KWqikvJw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BXncAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Marcus Aurelius: Meditations, Books 1-6",
+        "authors": [
+          "Marcus Aurelius (Emperor of Rome)"
+        ],
+        "publishedDate": "2013-09",
+        "description": "Christopher Gill provides a new translation and commentary on the first half of Marcus Aurelius' Meditations, and a full introduction to this unique and remarkable work: a reflective diary or notebook by a Roman emperor, whose content is based on Stoic philosophy but presented in a highly distinctive way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199694839"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199694834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BXncAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BXncAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BXncAAAAQBAJ&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BXncAAAAQBAJ&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Marcus_Aurelius_Meditations_Books_1_6.html?hl=&id=BXncAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Marcus_Aurelius_Meditations_Books_1_6-sample-pdf.acsm?id=BXncAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BXncAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Christopher Gill provides a new translation and commentary on the first half of Marcus Aurelius&#39; Meditations, and a full introduction to this unique and remarkable work: a reflective diary or notebook by a Roman emperor, whose content is ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aDubQFDT-RkC",
+      "etag": "nWmK5BYHcoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aDubQFDT-RkC",
+      "volumeInfo": {
+        "title": "The Meditations of Marcus Aurelius Antoninus",
+        "authors": [
+          "Marcus Aurelius (Emperor of Rome)",
+          "Arthur Spenser Loat Farquharson"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1998",
+        "description": "A. S. L. Farquharson's translation was originally published in 1944, as part of a major commentary on Marcus Aurelius' work. In this volume, Farquharson's work is brought up to date and supplied with an introduction and notes for the student and general reader. A selection of lively letters from Marcus to his tutor Fronto, most of which date from his earlier years, is also included.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192839071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192839077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aDubQFDT-RkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aDubQFDT-RkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aDubQFDT-RkC&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aDubQFDT-RkC&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Meditations_of_Marcus_Aurelius_Anton.html?hl=&id=aDubQFDT-RkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Meditations_of_Marcus_Aurelius_Anton-sample-pdf.acsm?id=aDubQFDT-RkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aDubQFDT-RkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this volume, Farquharson&#39;s work is brought up to date and supplied with an introduction and notes for the student and general reader."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jY4RkgAACAAJ",
+      "etag": "NemCFhcT/lU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jY4RkgAACAAJ",
+      "volumeInfo": {
+        "title": "Meditations",
+        "authors": [
+          "Marcus Aurelius",
+          "Marcus"
+        ],
+        "publishedDate": "2010-09",
+        "description": "Marcus Aurelius wrote 'Meditations' around 170 - 180, whilst on a campaign in central Europe, most probably in what is now Serbia, Hungary and Austria. The 12 books that make up 'Meditations' were not written as an exercise in explaining his philosophy but rather as a personal notebook for self-improvement and study.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1907661719"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781907661716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jY4RkgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jY4RkgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jY4RkgAACAAJ&dq=Marcus+Aurelius+Meditations&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jY4RkgAACAAJ&dq=Marcus+Aurelius+Meditations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Meditations.html?hl=&id=jY4RkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jY4RkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 12 books that make up &#39;Meditations&#39; were not written as an exercise in explaining his philosophy but rather as a personal notebook for self-improvement and study."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rG5qDwAAQBAJ",
+      "etag": "2rEfki2VP9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rG5qDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Meditations",
+        "subtitle": "Marcus Aurelius",
+        "authors": [
+          "Marcus Aurelius",
+          "Marcus Aurelius Antoninus"
+        ],
+        "publisher": "Strelbytskyy Multimedia Publishing",
+        "publishedDate": "2020-01-14",
+        "description": "Meditations Marcus Aurelius Antoninus is a collection of aphoristic thoughts and arguments by Roman Emperor and philosopher, Marcus Aurelius. Due to the exceptional position of Marcus Aurelius and his developed literary skill, this document, that allows (the most unique case in the history of the antique literature) to observe not so much personal life as personal intense work in achievement of the ancient stoic tradition, eventually, became one of the most read masterpieces of the world literature. Meditation Marcus Aurelius is one of the best works on stoic philosophy. Stoicism, stoic",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:SMP2300000058499"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rG5qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rG5qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rG5qDwAAQBAJ&printsec=frontcover&dq=Marcus+Aurelius+Meditations&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rG5qDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rG5qDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.25,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.25,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rG5qDwAAQBAJ&rdid=book-rG5qDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 250000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 250000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-epub.acsm?id=rG5qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Meditations-sample-pdf.acsm?id=rG5qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rG5qDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Meditation Marcus Aurelius is one of the best works on stoic philosophy. Stoicism, stoic"
+      }
+    }
+  ]
+}

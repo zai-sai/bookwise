@@ -1,0 +1,781 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "eXRRNzjlXrkC",
+      "etag": "VgPNkQlU8DM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eXRRNzjlXrkC",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1997",
+        "description": "Sent to prison on a false accusation in 1815, Edmond Dantes escapes many years later and finds a treasure which he uses to exact his revenge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853267333"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853267338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 932,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eXRRNzjlXrkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eXRRNzjlXrkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eXRRNzjlXrkC&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eXRRNzjlXrkC&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Count_of_Monte_Cristo.html?hl=&id=eXRRNzjlXrkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo-sample-pdf.acsm?id=eXRRNzjlXrkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eXRRNzjlXrkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edmond Dantes, a young, energetic sailor, is falsely accused of treason on his wedding day and incarcerated until his escape years later when he exacts his revenge on those who wronged him"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "noMwEAAAQBAJ",
+      "etag": "KVGqwxy9jfM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/noMwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "THE COUNT OF MONTE CRISTO",
+        "subtitle": "UNABRIDGED ORIGINAL CLASSIC",
+        "authors": [
+          "ALEXANDRE DUMAS"
+        ],
+        "publisher": "PURE SNOW PUBLISHING",
+        "description": "\"The Count of Monte Cristo\" - a sizeable adventure novel by Alexandre Dumas - with a huge cast of characters, all revolving around the young sailor Edmond Dantès. Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of the island prison, Chateau d'If. He survives years of cramped confinement and eventually befriends another prisoner, an Italian who knows the location of a vast treasure on the island of Monte Cristo. After an intrepid escape, Dantès makes plans to unearth the treasure, become a count, and use his new found wealth to plot the destruction of the three men responsible for his incarceration. “The Count of Monte Cristo” is an ageless tale of adventure filled with revenge, mercy, courage, and hope. It endures as one of the classics of world literature, and is one of Alexandre Dumas’ most loved stories.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=noMwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=noMwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=noMwEAAAQBAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=noMwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=noMwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=noMwEAAAQBAJ&rdid=book-noMwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=noMwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Count of Monte Cristo&quot; - a sizeable adventure novel by Alexandre Dumas - with a huge cast of characters, all revolving around the young sailor Edmond Dantès."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xwu8AwAAQBAJ",
+      "etag": "s6qsHVEfTD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xwu8AwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo (Annotated)",
+        "subtitle": "Complete Five Volumes",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-06-05",
+        "description": "The Count of Monte Cristo : Complete 5 volumes by Alexander Dumas, first published in 1889. Alexandre Dumas (1802–1870) also known as Alexandre Dumas, père, was a French writer. His works have been translated into nearly 100 languages, and he is one of the most widely read French authors. Riveting tale of romantic rivalries, struggles for power, daring escapes, clever disguises, buried treasure, and solemn promises. What more could an adventurous reader desire? Dumas's hero Edmond Dantes is a man on a mission, tasked with delivering a letter whose contents he does not know, but whose impact, when discovered by the wrong man, could be deadly. Thrown into a dangerous chain of events, Dantes must face his fate alone, forced to rely on his wits, courage, and a strong dose of good luck as he seeks justice against those whose greed and wickedness nearly cost him his life. A story so evil, so clever, and so violent that future reads will just be boring. To seek justice for the three men who so selfishly stole 14 years of his life, Edmund Dantes uses deception to emotionally and financially destroy his foes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736815209"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736815204"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 2034,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xwu8AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xwu8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xwu8AwAAQBAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xwu8AwAAQBAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Count_of_Monte_Cristo_Annotated.html?hl=&id=xwu8AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo_Annotated-sample-epub.acsm?id=xwu8AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo_Annotated-sample-pdf.acsm?id=xwu8AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xwu8AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Count of Monte Cristo : Complete 5 volumes by Alexander Dumas, first published in 1889. Alexandre Dumas (1802–1870) also known as Alexandre Dumas, père, was a French writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MVtoAwAAQBAJ",
+      "etag": "CE3ZXyeK118",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MVtoAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo",
+        "authors": [
+          "Alexander Dumas"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2019-06-28",
+        "description": "The Count of Monte Cristo is an adventure novel by French author Alexandre Dumas. It is one of the author's most popular works, along with The Three Musketeers. Like many of his novels, it is expanded from plot outlines suggested by his collaborating ghostwriter Auguste Maquet. The story takes place in France, Italy and islands in the Mediterranean during the historical events of 1815–1838. It begins from just before the Hundred Days period (when Napoleon returned to power after his exile) and spans through to the reign of Louis-Philippe of France. The historical setting is a fundamental element of the book. An adventure story primarily concerned with themes of hope, justice, vengeance, mercy and forgiveness, it focuses on a man who is wrongfully imprisoned, escapes from jail, acquires a fortune and sets about getting revenge on those responsible for his imprisonment. However, his plans have devastating consequences for the innocent as well as the guilty. In addition, it is a story that involves romance, loyalty, betrayal and selfishness, shown throughout the story as characters slowly reveal their true inner nature. The book is considered a literary classic today. According to Luc Sante, \"The Count of Monte Cristo has become a fixture of Western civilization's literature, as inescapable and immediately identifiable as Mickey Mouse, Noah's flood, and the story of Little Red Riding Hood.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736801370"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736801378"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 2000,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.33.26.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MVtoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MVtoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MVtoAwAAQBAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MVtoAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MVtoAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MVtoAwAAQBAJ&rdid=book-MVtoAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MVtoAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In addition, it is a story that involves romance, loyalty, betrayal and selfishness, shown throughout the story as characters slowly reveal their true inner nature. The book is considered a literary classic today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YiEEAAAAQAAJ",
+      "etag": "oPDxlCihB7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YiEEAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte-Cristo",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publishedDate": "1846",
+        "description": "The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by French author Alexandre Dumas completed in 1844. It is one of the author's most popular works, along with The Three Musketeers. Like many of his novels, it is expanded from plot outlines suggested by his collaborating ghostwriter Auguste Maquet.The story takes place in France, Italy, and islands in the Mediterranean during the historical events of 1815-1839: the era of the Bourbon Restoration through the reign of Louis-Philippe of France. It begins just before the Hundred Days period (when Napoleon returned to power after his exile). The historical setting is a fundamental element of the book, an adventure story primarily concerned with themes of hope, justice, vengeance, mercy, and forgiveness. It centres around a man who is wrongfully imprisoned, escapes from jail, acquires a fortune, and sets about getting revenge on those responsible for his imprisonment. However, his plans have devastating consequences for the innocent as well as the guilty. In addition, it is a story that involves romance, loyalty, betrayal, and selfishness, shown throughout the story as characters slowly reveal their true inner nature.The book is considered a literary classic today. According to Luc Sante, \"The Count of Monte Cristo has become a fixture of Western civilization's literature, as inescapable and immediately identifiable as Mickey Mouse, Noah's flood, and the story of Little Red Riding Hood.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:555009792"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 30,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.15.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YiEEAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YiEEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YiEEAAAAQAAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YiEEAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YiEEAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YiEEAAAAQAAJ&rdid=book-YiEEAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo.epub?id=YiEEAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo.pdf?id=YiEEAAAAQAAJ&hl=&output=pdf&sig=ACfU3U31TQr3ft89NlCNddJyK8fML64Qmg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YiEEAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "According to Luc Sante, &quot;The Count of Monte Cristo has become a fixture of Western civilization&#39;s literature, as inescapable and immediately identifiable as Mickey Mouse, Noah&#39;s flood, and the story of Little Red Riding Hood."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rgUEAAAAYAAJ",
+      "etag": "Bih+UmzwuiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rgUEAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Works of Alexandre Dumas: The Count of Monte Cristo",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HXPNJ8"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rgUEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rgUEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rgUEAAAAYAAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rgUEAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rgUEAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rgUEAAAAYAAJ&rdid=book-rgUEAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Alexandre_Dumas_The_Count_o.epub?id=rgUEAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Alexandre_Dumas_The_Count_o.pdf?id=rgUEAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3cFtk3JkpnK8QjOe7D5M6RKDqbEg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rgUEAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D2b9zgEACAAJ",
+      "etag": "K2qRL4gknWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D2b9zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo",
+        "subtitle": "By Alexandre Dumas",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:819587586"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=D2b9zgEACAAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=D2b9zgEACAAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Count_of_Monte_Cristo.html?hl=&id=D2b9zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D2b9zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LJbWDwAAQBAJ",
+      "etag": "WcDfiB+Se3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LJbWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo by Alexandre Dumas - Delphi Classics (Illustrated)",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘The Count of Monte Cristo’ from the bestselling edition of ‘The Collected Works of Alexandre Dumas’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Dumas includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Count of Monte Cristo’ * Beautifully illustrated with images related to Dumas’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786568946"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786568942"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1690,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LJbWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LJbWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LJbWDwAAQBAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LJbWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LJbWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LJbWDwAAQBAJ&rdid=book-LJbWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo_by_Alexandre_D-sample-epub.acsm?id=LJbWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo_by_Alexandre_D-sample-pdf.acsm?id=LJbWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LJbWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook features the unabridged text of ‘The Count of Monte Cristo’ from the bestselling edition of ‘The Collected Works of Alexandre Dumas’."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G5AyAwAAQBAJ",
+      "etag": "f5O7fChs0ZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G5AyAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo",
+        "subtitle": "Abridged Edition",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2007-02-27",
+        "description": "Falsely accused of treason, Edmond Dantès is imprisoned in the bleak Chateau d'If. After a hair-raising escape, he launches an elaborate plot to extract a bitter revenge against those who betrayed him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486456430"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486456439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G5AyAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G5AyAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G5AyAwAAQBAJ&printsec=frontcover&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=G5AyAwAAQBAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Count_of_Monte_Cristo.html?hl=&id=G5AyAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Count_of_Monte_Cristo-sample-pdf.acsm?id=G5AyAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G5AyAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Falsely accused of treason, Edmond Dantès is imprisoned in the bleak Chateau d&#39;If. After a hair-raising escape, he launches an elaborate plot to extract a bitter revenge against those who betrayed him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CUqrywEACAAJ",
+      "etag": "NGZFD/iJT1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CUqrywEACAAJ",
+      "volumeInfo": {
+        "title": "The Count of Monte Cristo (100 Copy Collector's Edition)",
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "publisher": "Royal Classics",
+        "publishedDate": "2019-11-12",
+        "description": "On the day of his wedding, Edmond Dantès is falsely accused of treason, arrested, and imprisoned without trial. A fellow prisoner inspires Dantès to escape and guides him to a fortune in treasure. Dantès returns home under the pseudonym of the mysterious Count of Monte Cristo, in order to avenge himself on the men who conspired to destroy him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1772268259"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781772268256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CUqrywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CUqrywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CUqrywEACAAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CUqrywEACAAJ&dq=Alexandre+Dumas+The+Count+of+Monte+Cristo&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Count_of_Monte_Cristo_100_Copy_Colle.html?hl=&id=CUqrywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CUqrywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On the day of his wedding, Edmond Dantès is falsely accused of treason, arrested, and imprisoned without trial."
+      }
+    }
+  ]
+}

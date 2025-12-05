@@ -1,0 +1,711 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ta1uaL7RF5gC",
+      "etag": "6ZrY18MicFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ta1uaL7RF5gC",
+      "volumeInfo": {
+        "title": "Gulliver's Travels",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publishedDate": "1826",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015078565911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "6.1.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ta1uaL7RF5gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ta1uaL7RF5gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ta1uaL7RF5gC&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ta1uaL7RF5gC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ta1uaL7RF5gC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ta1uaL7RF5gC&rdid=book-ta1uaL7RF5gC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels.epub?id=ta1uaL7RF5gC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels.pdf?id=ta1uaL7RF5gC&hl=&output=pdf&sig=ACfU3U1tf-K3n9zKJ96EPdA7Sf-4IhBDFw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ta1uaL7RF5gC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6NgVm1VC5tsC",
+      "etag": "8VbwOK47lYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6NgVm1VC5tsC",
+      "volumeInfo": {
+        "title": "Gulliver's Travels - Jonathan Swift, New Edition",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2009",
+        "description": "Presents a collection of essays analyzing Jonathan Swift's Gulliver's travels, including a chronology of the author's works and life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438113906"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438113900"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "categories": [
+          "Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6NgVm1VC5tsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6NgVm1VC5tsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6NgVm1VC5tsC&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6NgVm1VC5tsC&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gulliver_s_Travels_Jonathan_Swift_New_Ed.html?hl=&id=6NgVm1VC5tsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels_Jonathan_Swift_New_Ed-sample-epub.acsm?id=6NgVm1VC5tsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels_Jonathan_Swift_New_Ed-sample-pdf.acsm?id=6NgVm1VC5tsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6NgVm1VC5tsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a collection of essays analyzing Jonathan Swift&#39;s Gulliver&#39;s travels, including a chronology of the author&#39;s works and life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WWBccP5LebcC",
+      "etag": "k5+u0jzHnVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WWBccP5LebcC",
+      "volumeInfo": {
+        "title": "Gulliver's Travels and A Modest Proposal",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2005-08",
+        "description": "Enduring Literature Illuminated by Practical Scholarship By turns a children's fantasy and a social satire for adults, Gulliver's Travels is one of the most popular adventure tales of all time. \"A Modest Proposal,\" also an imaginative, enduring work, is political lampoonery at its finest. This Enriched Classic Edition includes: • A concise introduction that gives readers important background information • A chronology of the author's life and work • A timeline of significant events that provides the book's historical context • An outline of key themes and plot points to help readers form their own interpretations • Detailed explanatory notes • Critical analysis, including contemporary and modern perspectives on the work • Discussion questions to promote lively classroom and book group interaction • A list of recommended related books and films to broaden the reader's experience Enriched Classics offer readers affordable editions of great works of literature enhanced by helpful notes and insightful commentary. The scholarship provided in Enriched Classics enables readers to appreciate, understand, and enjoy the world's finest books to their full potential. Series edited by Cynthia Brantley Johnson",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416500391"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416500391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 419,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WWBccP5LebcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WWBccP5LebcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WWBccP5LebcC&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WWBccP5LebcC&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gulliver_s_Travels_and_A_Modest_Proposal.html?hl=&id=WWBccP5LebcC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WWBccP5LebcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Enriched Classic Edition includes: A concise introduction that gives readers important background information A chronology of the author&#39;s life and work A timeline of significant events that provides the book&#39;s historical context An ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QUsUAAAAYAAJ",
+      "etag": "VqA2xLb+1Z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QUsUAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Works of Jonathan Swift: Gulliver's travels. Directions to servants",
+        "authors": [
+          "Jonathan Swift",
+          "Walter Scott"
+        ],
+        "publishedDate": "1814",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HXG9BK"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 490,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QUsUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QUsUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QUsUAAAAYAAJ&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QUsUAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QUsUAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QUsUAAAAYAAJ&rdid=book-QUsUAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Jonathan_Swift_Gulliver_s_t.epub?id=QUsUAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Jonathan_Swift_Gulliver_s_t.pdf?id=QUsUAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3erioiSNuazSjVlLcEeDvJ-o1pmQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUsUAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3KTxJd9j3zIC",
+      "etag": "ru0swR+JGuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3KTxJd9j3zIC",
+      "volumeInfo": {
+        "title": "Gulliver's Travels",
+        "subtitle": "With an Introduction and Contemporary Criticism",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publisher": "Ignatius Press",
+        "publishedDate": "2010",
+        "description": "Gulliver's Travels by Jonathan Swift is one of the greatest satirical works ever written. Through the misadventures of Lemuel Gulliver, his hopelessly \"modern\" protagonist, Swift exposes many of the follies of the English Enlightenment, from its worship of science to its neglect of traditional philosophy and theology. In Swift's eighteenth century, as in our twenty-first, a war being fought between the \"ancients\"and the \"moderns\", between those rooted in the traditions of the West and those seeking to uproot tradition to make way for dangerous and ultimatcly destructive new ideas. Swift's satire on the threats posed by the Enlightenment and the embryonic spirit of secular fundamentalism makes Gulliver's Travels priceless reading for today's defenders of tradition. Yet Swift's subtlety has bemused many modern critics, with the lamentable of result that this classic of western civilization is often misread and misunderstood. This new critical edition, edited by Dutton kearney of Aquinas College in Nashville, contains detailed notes to the text, bringing it to life for today's reader, and a selection of tradition-oriented essays by some of the finest contemporay Swift scholars. The Ignatius Critical Editions Series represents a tradition-oriented approach to reading the Classics of world literature. While many modern critical editions have succumbed to the fads of modernism and post-modernism, this series concentrates on critical examinations informed by our Judco-Christian heritage as passed down through the ages---the same heritage that provided the crucible in which the great authors formed these classic works. Edited by acclaimed literary biographer Joseph Pearce, the lgnatius Critical Editions ensure that readings of the works are filtered through the richness of Western tradition, meeting the authors in their clement, instead of the currently popular method of deconstructing a classic to fit a modern mindsct---a lamentable flaw that often proliferates in other series of critical editions. The Series is ideal for anyone wishing to understand the great works of Western Civilization, enabling the modern reader to enjoy these classics in the company of some of the finest literature professors alive today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781586173951"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1586173952"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3KTxJd9j3zIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3KTxJd9j3zIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3KTxJd9j3zIC&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3KTxJd9j3zIC&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gulliver_s_Travels.html?hl=&id=3KTxJd9j3zIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3KTxJd9j3zIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gulliver&#39;s Travels by Jonathan Swift is one of the greatest satirical works ever written."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SBkTDQAAQBAJ",
+      "etag": "DxRBH1fkcXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SBkTDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Gulliver's Travels",
+        "subtitle": "Easy to Read Classics",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publisher": "EDCON Publishing Group",
+        "description": "Bring The Classics To Life Series. These novels have been adapted into 10 short chapters that will excite the reluctant reader as well as the enthusiastic one. Let the Classics introduce Kipling, Stevenson, and H.G. Wells. Readers will embrace the notion of Crusoe's lonely reflections, the psychological reactions of a Civil War soldier at Chancellorsville, and the tragedy of the Jacobite Cause in 18th Century Scotland. Knowledge of Classics is a cultural necessity and these will improve fluency, vocabulary and comprehension through a high Interest / low readability format. Each eBook is divided into 10 short high quality illustrated chapters - Was written using McGraw-Hill's Core Vocabulary - Has been measured by the Fry Readability Formula - Defines and uses in context new vocabulary, prior to each chapter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780848111830"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0848111834"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SBkTDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SBkTDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SBkTDQAAQBAJ&printsec=frontcover&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SBkTDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SBkTDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.68,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.68,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SBkTDQAAQBAJ&rdid=book-SBkTDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6680000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6680000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels-sample-epub.acsm?id=SBkTDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Gulliver_s_Travels-sample-pdf.acsm?id=SBkTDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SBkTDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bring The Classics To Life Series. These novels have been adapted into 10 short chapters that will excite the reluctant reader as well as the enthusiastic one. Let the Classics introduce Kipling, Stevenson, and H.G. Wells."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uZZpzgEACAAJ",
+      "etag": "9u4wBVmDLwg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uZZpzgEACAAJ",
+      "volumeInfo": {
+        "title": "Gullivers Travels Annotated",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publishedDate": "2020-11-13",
+        "description": "Jonathan Swift's novel Gulliver's Travels delivers an intricate, biting critique of 18th-century Europe and humanity in general. First published in England in 1726, the novel satirizes the travel narrative, a popular genre in the literature of the Augustan period. The story details the adventures of the intelligent and observant, yet relatable everyman, Lemuel Gulliver. Constantly pulled to a life of travel and adventure, Gulliver spends very little time in his hometown of Nottinghamshire, England. However, his eye-opening experiences abroad allow Gulliver to comment on the various problems plaguing European society, everywhere from empty scientific advancement to the horrors of the colonial mentality. Due to many controversial topics, Gulliver's Travels was not published with all of Swift's sarcastic and thought-provoking criticism until 1735 when it was re-published with the original content in Dublin. Among many things, Gulliver's Travels is a story about perspective. Swift uses his wit and insight to take readers on a journey that explores the strangest and darkest aspects of human nature from all sides.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798564114189"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uZZpzgEACAAJ&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uZZpzgEACAAJ&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gullivers_Travels_Annotated.html?hl=&id=uZZpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uZZpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story details the adventures of the intelligent and observant, yet relatable everyman, Lemuel Gulliver. Constantly pulled to a life of travel and adventure, Gulliver spends very little time in his hometown of Nottinghamshire, England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ifkc1DXKot4C",
+      "etag": "J9CvzR+x2L4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ifkc1DXKot4C",
+      "volumeInfo": {
+        "title": "Gulliver's Travels",
+        "authors": [
+          "Jonathan Swift"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2003-02-25",
+        "description": "A wickedly clever satire uses comic inversions to offer telling insights into the nature of man and society. Nominated as one of America’s best-loved novels by PBS’s The Great American Read Gulliver's Travels describes the four voyages of Lemuel Gulliver, a ship's surgeon. In Lilliput he discovers a world in miniature; towering over the people and their city, he is able to view their society from the viewpoint of a god. However, in Brobdingnag, a land of giants, tiny Gulliver himself comes under observation, exhibited as a curiosity at markets and fairs. In Laputa, a flying island, he encounters a society of speculators and projectors who have lost all grip on everyday reality; while they plan and calculate, their country lies in ruins. Gulliver's final voyage takes him to the land of the Houyhnhnms, gentle horses whom he quickly comes to admire - in contrast to the Yahoos, filthy bestial creatures who bear a disturbing resemblance to humans. This text, based on the first edition of 1726, reproduces all the original illustrations and includes an introduction by Robert Demaria, Jr, which discusses the ways Gulliver's Travels has been interpreted since its first publication. Jonathan Swift (1667-1745) was born in Dublin. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141439491"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141439495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ifkc1DXKot4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ifkc1DXKot4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ifkc1DXKot4C&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Ifkc1DXKot4C&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gulliver_s_Travels.html?hl=&id=Ifkc1DXKot4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ifkc1DXKot4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text, based on the first edition of 1726, reproduces all the original illustrations and includes an introduction by Robert Demaria, Jr, which discusses the ways Gulliver&#39;s Travels has been interpreted since its first publication."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wXA80AEACAAJ",
+      "etag": "Q6O/+k7sVIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wXA80AEACAAJ",
+      "volumeInfo": {
+        "title": "Gulliver's Travels",
+        "publishedDate": "1700",
+        "description": "Book review of Jonathan Swift's Gulliver's travels.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:873537552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wXA80AEACAAJ&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wXA80AEACAAJ&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gulliver_s_Travels.html?hl=&id=wXA80AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wXA80AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book review of Jonathan Swift&#39;s Gulliver&#39;s travels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ve4dAQAAIAAJ",
+      "etag": "QTYmtrEHy+Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ve4dAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Jonathan Swift's Gulliver's Travels",
+        "authors": [
+          "Liz Bellamy"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105002335250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ve4dAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ve4dAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ve4dAQAAIAAJ&q=Jonathan+Swift+Gulliver%27s+Travels&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Ve4dAQAAIAAJ&dq=Jonathan+Swift+Gulliver%27s+Travels&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jonathan_Swift_s_Gulliver_s_Travels.html?hl=&id=Ve4dAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ve4dAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

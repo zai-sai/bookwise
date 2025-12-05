@@ -1,0 +1,656 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LobiCgAAQBAJ",
+      "etag": "pI6f7Y3lTIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LobiCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Jules Verne - Voyage au centre de la terre",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "By Label AA-Prod/Edits (Artmusiclitte) 2015 ",
+        "publishedDate": "2015-11-07",
+        "description": "Voyage au centre de la Terre est un roman de science-fiction, écrit par Jules Verne en 1864. L’action commence en Allemagne à la fin du XIXè siècle : ayant découvert un manuscrit runique ancien, le savant Otto Lidenbrock, son neveu et leur guide décident d’entreprendre un voyage vers le centre de la Terre en y entrant par un volcan islandais éteint…Version audio disponible chez: Musiclittéartmuse.com Donneur de voix : Damien Genevois | Durée : 6h 44min | Genre : Romans.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LobiCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LobiCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=LobiCgAAQBAJ&printsec=frontcover&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LobiCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LobiCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.11,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.11,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LobiCgAAQBAJ&rdid=book-LobiCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6110000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6110000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jules_Verne_Voyage_au_centre_de_la_terre-sample-pdf.acsm?id=LobiCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LobiCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Voyage au centre de la Terre est un roman de science-fiction, écrit par Jules Verne en 1864."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RdcgvgEACAAJ",
+      "etag": "GQpb+IggEFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RdcgvgEACAAJ",
+      "volumeInfo": {
+        "title": "Jules Verne - Voyage Au Centre de la Terre - Roman Aventure",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2018-09-11",
+        "description": "À Hambourg, le professeur Lidenbrock, géologue et minéralogiste, vit avec son jeune neveu, Axel, et sa filleule, Graüben, dont Axel est amoureux. Un jour, le professeur découvre dans un manuscrit un cryptogramme datant du XVIe siècle : l'alchimiste islandais Arne Saknussemm y rapporte comment, en passant par le cratère d'un volcan éteint d'Islande, le Sneffels, il a pénétré jusqu'au centre de la Terre. Aussitôt, accompagné de son neveu et d'un guide islandais, Hans, Lidenbrock se rend sur les lieux et s'engage dans la voie indiquée par l'alchimiste. Commence alors un voyage souterrain aux multiples péripéties : tenaillés par la soif, les trois explorateurs sont bientôt séparés (Axel s'égare, erre longuement, et frôle la mort), avant de se retrouver sur la rive d'une mer intérieure éclairée par un mystérieux phénomène électrique, où ils découvrent une flore et une faune préhistoriques, et assistent au combat d'un ichtyosaure et d'un plésiosaure. Embarqués sur cette mer, ils échappent à une tempête, abordent un autre rivage où ils découvrent un fossile humain, puis rencontrent une créature vivante, mi-homme mi-singe. Ils finissent par retrouver les traces de Saknussemm.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1720220107"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781720220107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=RdcgvgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RdcgvgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jules_Verne_Voyage_Au_Centre_de_la_Terre.html?hl=&id=RdcgvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RdcgvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "À Hambourg, le professeur Lidenbrock, géologue et minéralogiste, vit avec son jeune neveu, Axel, et sa filleule, Graüben, dont Axel est amoureux."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hD8A0AEACAAJ",
+      "etag": "tuTOsBtZ24A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hD8A0AEACAAJ",
+      "volumeInfo": {
+        "title": "Les œuvres de Jules Verne: Voyage au centre de la terre",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:687985251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=hD8A0AEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hD8A0AEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_%C5%93uvres_de_Jules_Verne_Voyage_au_cen.html?hl=&id=hD8A0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hD8A0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTt70QEACAAJ",
+      "etag": "2eCBkQcuL7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTt70QEACAAJ",
+      "volumeInfo": {
+        "title": "Les oeuvres de Jules Verne",
+        "subtitle": "Voyage au centre de la terre",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:310448727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=qTt70QEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qTt70QEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_oeuvres_de_Jules_Verne.html?hl=&id=qTt70QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTt70QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YVb6twAACAAJ",
+      "etag": "1SL7wTSxUUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YVb6twAACAAJ",
+      "volumeInfo": {
+        "title": "Les Oeuvres de Jules Verne",
+        "subtitle": "Voyage au centre de la terre",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:310448727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=YVb6twAACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YVb6twAACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_Oeuvres_de_Jules_Verne.html?hl=&id=YVb6twAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YVb6twAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W0I08tmCSkAC",
+      "etag": "9NViKzktPdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W0I08tmCSkAC",
+      "volumeInfo": {
+        "title": "Les voyages extraordinaires par Jules Verne",
+        "subtitle": "Voyage au centre de la terre",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IBNN:BNLP000038754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W0I08tmCSkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W0I08tmCSkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=W0I08tmCSkAC&printsec=frontcover&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W0I08tmCSkAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W0I08tmCSkAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=W0I08tmCSkAC&rdid=book-W0I08tmCSkAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Les_voyages_extraordinaires_par_Jules_Ve.epub?id=W0I08tmCSkAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Les_voyages_extraordinaires_par_Jules_Ve.pdf?id=W0I08tmCSkAC&hl=&output=pdf&sig=ACfU3U0S6FNa8fF17kuJwxxydv98ZwvwJw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W0I08tmCSkAC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zB81zgEACAAJ",
+      "etag": "bUyTC04mq1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zB81zgEACAAJ",
+      "volumeInfo": {
+        "title": "A Journey Into the Center of the Earth Annotated",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2021-02-11",
+        "description": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798707949920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zB81zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zB81zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zB81zgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zB81zgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Journey_Into_the_Center_of_the_Earth_A.html?hl=&id=zB81zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zB81zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the &quot;center of the Earth&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RkTFyAEACAAJ",
+      "etag": "Cq0tRxF6vFk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RkTFyAEACAAJ",
+      "volumeInfo": {
+        "title": "A Journey Into the Center of the Earth (Annotated)",
+        "subtitle": "Jules Verne",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2019-08-21",
+        "description": "Journey to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne. The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth. He, his nephew Axel, and their guide Hans descend into the Icelandic volcano Snaefellsjokull, encountering many adventures, including prehistoric animals and natural hazards, before eventually coming to the surface again in southern Italy, at the Stromboli volcano.About Verne: Jules Verne, a 19th century French author, is famed for such revolutionary science-fiction novels as 'Around the World in Eighty Days' and 'Twenty Thousand Leagues Under the Sea.' Born in Nantes, France, in 1828, Jules Verne pursued a writing career after finishing law school. He hit his stride after meeting publisher Pierre-Jules Hetzel, who nurtured many of the works that would comprise the author's Voyages Extraordinaires. Often referred to as the \"Father of Science Fiction,\" Verne wrote books about a variety of innovations and technological advancements years before they were practical realities. Although he died in 1905, his works continued to be published well after his death, and he became the second most translated author in the world. Jules Verne was born on February 8, 1828, in Nantes, France, a busy maritime port city. There, Verne was exposed to vessels departing and arriving, sparking his imagination for travel and adventure. While attending boarding school, he began to write short stories and poetry. Afterward, his father, a lawyer, sent his oldest son to Paris to study law",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1687662800"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781687662804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RkTFyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RkTFyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RkTFyAEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RkTFyAEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Journey_Into_the_Center_of_the_Earth_A.html?hl=&id=RkTFyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RkTFyAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qX5nzgEACAAJ",
+      "etag": "mePmBH3ePcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qX5nzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Journey Into the Center of the Earth",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2021-04-22",
+        "description": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798742266846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qX5nzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qX5nzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qX5nzgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qX5nzgEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Journey_Into_the_Center_of_the_Earth.html?hl=&id=qX5nzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qX5nzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the &quot;center of the Earth&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-nxuzQEACAAJ",
+      "etag": "4ZzYiKEVaD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-nxuzQEACAAJ",
+      "volumeInfo": {
+        "title": "A Journey Into the Center of the Earth",
+        "subtitle": "Illustrator",
+        "authors": [
+          "Sujata Biswas",
+          "Jules Verne"
+        ],
+        "publishedDate": "2020-03-18",
+        "description": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798627486352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-nxuzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-nxuzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-nxuzQEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-nxuzQEACAAJ&dq=Jules+Verne+Voyage+au+Centre+de+la+Terre&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Journey_Into_the_Center_of_the_Earth.html?hl=&id=-nxuzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-nxuzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the &quot;center of the Earth&quot;."
+      }
+    }
+  ]
+}

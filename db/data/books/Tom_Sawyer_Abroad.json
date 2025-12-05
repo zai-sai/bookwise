@@ -1,0 +1,681 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ySVvvgEACAAJ",
+      "etag": "B7LB9bKPHl8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ySVvvgEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad",
+        "subtitle": "By Mark Twain - IIlustrated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2017-04-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Tom Sawyer Abroad by Mark Twain Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521135657"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521135655"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ySVvvgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ySVvvgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad.html?hl=&id=ySVvvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ySVvvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About Tom Sawyer Abroad by Mark Twain Tom Sawyer Abroad is a novel by Mark Twain published in 1894."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Clh7AQAACAAJ",
+      "etag": "KIZPzXFm4nw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Clh7AQAACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad",
+        "subtitle": "By Mark Twain - Illustrated",
+        "authors": [
+          "Mark Mark Twain"
+        ],
+        "publishedDate": "2017-02-18",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About Tom Sawyer Abroad by Mark Twain Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152064082X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520640822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Clh7AQAACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Clh7AQAACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad.html?hl=&id=Clh7AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Clh7AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About Tom Sawyer Abroad by Mark Twain Tom Sawyer Abroad is a novel by Mark Twain published in 1894."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PwmYnQAACAAJ",
+      "etag": "9zsy+V7TdT8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PwmYnQAACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad Mark Twain",
+        "authors": [
+          "Abroad Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-14",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of Jules Verne-esque adventure stories. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154311122X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543111224"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PwmYnQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PwmYnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PwmYnQAACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PwmYnQAACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_Mark_Twain.html?hl=&id=PwmYnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PwmYnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world&#39;s greatest wonders, including the Pyramids and the Sphinx."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mUpyzgEACAAJ",
+      "etag": "6aEiz99PyLw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mUpyzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad By Mark Twain Illustrated (Penguin Classics)",
+        "subtitle": "(Tom Sawyer & Huckleberry Finn Book 3)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2021-05-06",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894.In the story Tom Huck and Jim travel to Africa in a futuristic hot air balloon where they survive encounters with lions robbers and fleas to see some of the world greatest wonders including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798749794120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mUpyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mUpyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mUpyzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mUpyzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_By_Mark_Twain_Illustra.html?hl=&id=mUpyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mUpyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel set in the time following the title story of the Tom Sawyer series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lq77jwEACAAJ",
+      "etag": "fL4uRLeD4oY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lq77jwEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad (1894) by",
+        "subtitle": "Mark Twain(novel)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-03-14",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of Jules Verne-esque adventure stories. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530539978"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530539970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lq77jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lq77jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Lq77jwEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Lq77jwEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_1894_by.html?hl=&id=Lq77jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lq77jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world&#39;s greatest wonders, including the Pyramids and the Sphinx."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ye8MzgEACAAJ",
+      "etag": "Z8YuoEDHons",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ye8MzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad Annotated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2020-11-21",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894.In the story Tom Huck and Jim travel to Africa in a futuristic hot air balloon where they survive encounters with lions robbers and fleas to see some of the world greatest wonders including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798568968740"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ye8MzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ye8MzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ye8MzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Ye8MzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_Annotated.html?hl=&id=Ye8MzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ye8MzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel set in the time following the title story of the Tom Sawyer series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_jZEAAAQBAJ",
+      "etag": "hAJSuG2iLXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_jZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2023-09-28",
+        "description": "\"Tom Sawyer Abroad\" is a classic novel written by Mark Twain, following the adventures of the iconic character Tom Sawyer, along with his friends Huck Finn and Jim, as they embark on a fantastical journey across the globe. This novel is a sequel to Twain's earlier works, \"The Adventures of Tom Sawyer\" and \"Adventures of Huckleberry Finn.\" In \"Tom Sawyer Abroad,\" Tom, Huck, and Jim find themselves in St. Petersburg, Missouri, reminiscing about their previous adventures. They come across a scientific lecture by Professor Challenger, who claims that humans have the ability to fly. Tom becomes captivated by the idea of flight and persuades his friends to join him on a balloon trip to explore the world. The trio sets off on a grand adventure, but things take an unexpected turn when their hot air balloon is caught in a storm and carried away. They find themselves traveling over vast oceans and encountering various challenges and surprises along the way. From navigating uncharted territories to meeting strange and humorous characters, the story takes readers on a whirlwind tour of the world. \"Tom Sawyer Abroad\" combines Twain's trademark wit, humor, and social commentary with a fantastical and adventurous narrative. It explores themes of curiosity, exploration, and the unpredictability of life's journeys. As the trio faces the unknown, they learn valuable lessons about friendship, courage, and the importance of adaptability.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791041953455"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i_jZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i_jZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=i_jZEAAAQBAJ&printsec=frontcover&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=i_jZEAAAQBAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad.html?hl=&id=i_jZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tom_Sawyer_Abroad-sample-pdf.acsm?id=i_jZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_jZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel is a sequel to Twain&#39;s earlier works, &quot;The Adventures of Tom Sawyer&quot; and &quot;Adventures of Huckleberry Finn."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OVepzwEACAAJ",
+      "etag": "zex4rxIxhco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OVepzwEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad",
+        "subtitle": "Tom Sawyer, Detective, and Other Stories. By: Mark Twain (Children's NOVEL )",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-30",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne.In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542845769"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542845762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OVepzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OVepzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OVepzwEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OVepzwEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad.html?hl=&id=OVepzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OVepzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TLI1zgEACAAJ",
+      "etag": "gQCeTSjFrec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TLI1zgEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad Illustrated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2021-02",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798703095690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TLI1zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TLI1zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TLI1zgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TLI1zgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_Illustrated.html?hl=&id=TLI1zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TLI1zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EwFlzgEACAAJ",
+      "etag": "Vfpx6tzkx14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EwFlzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tom Sawyer Abroad Annotated",
+        "authors": [
+          "Mark Mark"
+        ],
+        "publishedDate": "2021-04-06",
+        "description": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of Jules Verne.In the story, Tom, Huck, and Jim travel to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733928944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EwFlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EwFlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EwFlzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EwFlzgEACAAJ&dq=Mark+Twain+Tom+Sawyer+Abroad&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tom_Sawyer_Abroad_Annotated.html?hl=&id=EwFlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EwFlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn. It is a sequel, set in the time following the title story of the Tom Sawyer series."
+      }
+    }
+  ]
+}

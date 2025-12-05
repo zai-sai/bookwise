@@ -1,0 +1,718 @@
+{
+  "key": "/subjects/scifi",
+  "name": "scifi",
+  "subject_type": "subject",
+  "solr_query": "subject_key:\"scifi\"",
+  "work_count": 55,
+  "works": [
+    {
+      "key": "/works/OL16800608W",
+      "title": "Wool",
+      "edition_count": 25,
+      "cover_id": 14369537,
+      "cover_edition_key": "OL48590101M",
+      "subject": [
+        "Scifi",
+        "Dystopia",
+        "Post Apocalyptic",
+        "Apocalyptic",
+        "Science Fiction",
+        "Dystopias",
+        "Subterranean Civilization",
+        "Fiction",
+        "Fiction, science fiction, general",
+        "Fiction, dystopian",
+        "nyt:trade-fiction-paperback=2013-03-31",
+        "New York Times bestseller",
+        "American fiction",
+        "Choice",
+        "Truth",
+        "Revolutions",
+        "Underground areas",
+        "Sheriffs",
+        "Large type books",
+        "Long Now Manual for Civilization"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL27161382M",
+      "lending_identifier": "yangmaojiwool0000howe",
+      "authors": [
+        {
+          "key": "/authors/OL7168505A",
+          "name": "Hugh Howey"
+        }
+      ],
+      "first_publish_year": 2011,
+      "ia": "yangmaojiwool0000howe",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "yangmaojiwool0000howe",
+        "isbn": "9789868670150",
+        "oclc": null,
+        "openlibrary_work": "OL16800608W",
+        "openlibrary_edition": "OL27161382M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL510447W",
+      "title": "World of Ptavvs",
+      "edition_count": 23,
+      "cover_id": 6675716,
+      "cover_edition_key": null,
+      "subject": [
+        "Science Fiction in English",
+        "Fiction in English",
+        "Fiction, science fiction, general",
+        "Science Fiction",
+        "scifi"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL10682955M",
+      "lending_identifier": "worldofptavvs0000larr",
+      "authors": [
+        {
+          "key": "/authors/OL33881A",
+          "name": "Larry Niven"
+        }
+      ],
+      "first_publish_year": 1966,
+      "ia": "worldofptavvs0000larr",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "worldofptavvs0000larr",
+        "isbn": "9780345275431",
+        "oclc": null,
+        "openlibrary_work": "OL510447W",
+        "openlibrary_edition": "OL10682955M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL69300W",
+      "title": "My Teacher Fried My Brains",
+      "edition_count": 16,
+      "cover_id": 9300904,
+      "cover_edition_key": null,
+      "subject": [
+        "My Teacher Fried My Brains",
+        "Series",
+        "Book 2",
+        "My Teacher is an Alien",
+        "Bruce Colville",
+        "YA",
+        "Young adult",
+        "Children",
+        "Children's",
+        "Kid's",
+        "Tween's",
+        "Juvenile",
+        "Fiction",
+        "Literature",
+        "Stories",
+        "Books",
+        "Chapter books",
+        "Teachers",
+        "School",
+        "Schools",
+        "Grade 5",
+        "Middle grade",
+        "Humor",
+        "SciFi",
+        "Science fiction",
+        "Fantasy",
+        "Aliens",
+        "Extraterrestrial beings",
+        "Life on other planets",
+        "Juvenile fiction",
+        "Children's fiction",
+        "Teachers, fiction",
+        "Schools, fiction",
+        "School attendance, fiction",
+        "Adventure and adventurers, fiction"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL23704A",
+          "name": "Bruce Coville"
+        }
+      ],
+      "first_publish_year": 1991,
+      "ia": "myteacherfriedmy0000covi",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "private",
+        "available_to_browse": false,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": false,
+        "is_previewable": true,
+        "identifier": "myteacherfriedmy0000covi",
+        "isbn": "0671727109",
+        "oclc": null,
+        "openlibrary_work": "OL69300W",
+        "openlibrary_edition": "OL46534503M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": false,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL35832776W",
+      "title": "The Expanse",
+      "edition_count": 10,
+      "cover_id": 14747261,
+      "cover_edition_key": "OL52232260M",
+      "subject": [
+        "SciFi"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL1438708A",
+          "name": "Andy Diggle"
+        },
+        {
+          "key": "/authors/OL9828662A",
+          "name": "Rubine"
+        }
+      ],
+      "first_publish_year": 2023,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL17046882W",
+      "title": "Tomorrow and Tomorrow",
+      "edition_count": 5,
+      "cover_id": 7288705,
+      "cover_edition_key": "OL25616073M",
+      "subject": [
+        "noir mystery",
+        "SciFi",
+        "Survival",
+        "Dystopias",
+        "Archivists",
+        "Terrorism",
+        "Fiction",
+        "Science-Fiction-Literatur",
+        "FICTION",
+        "Literary",
+        "Science Fiction",
+        "General",
+        "Suspense",
+        "Amerikanisches Englisch",
+        "FICTION / Literary",
+        "FICTION / Science Fiction / General",
+        "FICTION / Suspense",
+        "Pittsburgh (pa.), fiction",
+        "Fiction, science fiction, general"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "tulsacc-ol"
+      ],
+      "printdisabled": true,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL7225857A",
+          "name": "Thomas Sweterlitsch"
+        }
+      ],
+      "first_publish_year": 2014,
+      "ia": "tomorrowtomorrow0000swet_z0k4",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "private",
+        "available_to_browse": false,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": false,
+        "is_previewable": true,
+        "identifier": "tomorrowtomorrow0000swet_z0k4",
+        "isbn": "9781472214874",
+        "oclc": null,
+        "openlibrary_work": "OL17046882W",
+        "openlibrary_edition": "OL25616074M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": false,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL27718462W",
+      "title": "Into Shadow's Fire",
+      "edition_count": 4,
+      "cover_id": 12723017,
+      "cover_edition_key": "OL37821627M",
+      "subject": [
+        "science fiction",
+        "scifi",
+        "pilgrims",
+        "strangers",
+        "adventure",
+        "fantasy",
+        "Christian",
+        "young adult"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL8527571A",
+          "name": "Mark Castleberry"
+        }
+      ],
+      "first_publish_year": 2022,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL42477494W",
+      "title": "1984",
+      "edition_count": 3,
+      "cover_id": 14840224,
+      "cover_edition_key": "OL57643843M",
+      "subject": [
+        "Dystopies",
+        "SciFi"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "first_publish_year": 1960,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL9466389W",
+      "title": "The Cunningham Equations",
+      "edition_count": 2,
+      "cover_id": 8085763,
+      "cover_edition_key": null,
+      "subject": [
+        "SciFi",
+        "American Science fiction"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL10684748M",
+      "lending_identifier": "cunninghamequati00gced",
+      "authors": [
+        {
+          "key": "/authors/OL2067978A",
+          "name": "G. C. Edmondson"
+        },
+        {
+          "key": "/authors/OL13824958A",
+          "name": "C. M. Kotlan"
+        }
+      ],
+      "first_publish_year": 1986,
+      "ia": "cunninghamequati00gced",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "cunninghamequati00gced",
+        "isbn": "0345330374",
+        "oclc": null,
+        "openlibrary_work": "OL9466389W",
+        "openlibrary_edition": "OL10684748M",
+        "last_loan_date": "2020-07-27T03:51:42Z",
+        "num_waitlist": "0",
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL21786570W",
+      "title": "Petrovitch Trilogy",
+      "edition_count": 2,
+      "cover_id": 14592916,
+      "cover_edition_key": "OL29670426M",
+      "subject": [
+        "Fiction, general",
+        "SciFi",
+        "Fiction, science fiction, cyberpunk"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL3089782A",
+          "name": "Simon Morden"
+        }
+      ],
+      "first_publish_year": 2013,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL554262W",
+      "title": "Mirage",
+      "edition_count": 2,
+      "cover_id": 726038,
+      "cover_edition_key": "OL1574900M",
+      "subject": [
+        "Fiction",
+        "Gay men",
+        "Life on other planets",
+        "Science Fiction",
+        "SciFi"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL1574900M",
+      "lending_identifier": "mirage00bras",
+      "authors": [
+        {
+          "key": "/authors/OL40737A",
+          "name": "Perry Brass"
+        }
+      ],
+      "first_publish_year": 1991,
+      "ia": "mirage00bras",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "mirage00bras",
+        "isbn": "9780962712319",
+        "oclc": null,
+        "openlibrary_work": "OL554262W",
+        "openlibrary_edition": "OL1574900M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL17856759W",
+      "title": "Questions of Faith",
+      "edition_count": 2,
+      "cover_id": 8158722,
+      "cover_edition_key": "OL26441008M",
+      "subject": [
+        "spirituality",
+        "supernatural",
+        "occult",
+        "dystopia",
+        "mystery",
+        "mysticism",
+        "adventure",
+        "scifi"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL7411226A",
+          "name": "Sarah Wallin-Huff"
+        }
+      ],
+      "first_publish_year": 2017,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL8127110W",
+      "title": "Slow Freight",
+      "edition_count": 1,
+      "cover_id": 8345404,
+      "cover_edition_key": null,
+      "subject": [
+        "Science Fiction",
+        "SciFi",
+        "Adult",
+        "Fiction",
+        "Space"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "unb-ol"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL7825097M",
+      "lending_identifier": "slowfreight00fmbu",
+      "authors": [
+        {
+          "key": "/authors/OL839240A",
+          "name": "F. M. Busby"
+        }
+      ],
+      "first_publish_year": 1991,
+      "ia": "slowfreight00fmbu",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": true,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "slowfreight00fmbu",
+        "isbn": "0553291106",
+        "oclc": null,
+        "openlibrary_work": "OL8127110W",
+        "openlibrary_edition": "OL7825097M",
+        "last_loan_date": "2020-09-09T04:23:22Z",
+        "num_waitlist": "0",
+        "last_waitlist_date": "2019-05-17T21:13:34Z",
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL8606435W",
+      "title": "The Official Alien Abductee's Handbook",
+      "edition_count": 1,
+      "cover_id": 636282,
+      "cover_edition_key": "OL8201986M",
+      "subject": [
+        "humor",
+        "satire",
+        "funny",
+        "aliens",
+        "scifi",
+        "Alien abduction",
+        "Humor"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL2892776A",
+          "name": "Joe Tripician"
+        }
+      ],
+      "first_publish_year": 1997,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    },
+    {
+      "key": "/works/OL8138136W",
+      "title": "Mega Man 2",
+      "edition_count": 1,
+      "cover_id": 8642277,
+      "cover_edition_key": "OL7540394M",
+      "subject": [
+        "Video Games",
+        "Adventure",
+        "Scifi",
+        "Robots",
+        "Mega Maan",
+        "Dr. Light",
+        "Dr. Wily",
+        "Nintendo Entertainment System",
+        "NES",
+        "Capcom",
+        "Mega Man 2 (Game)",
+        "Fiction",
+        "Children's fiction",
+        "Adventure and adventurers, fiction"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL7540394M",
+      "lending_identifier": "megaman2novelbas0000mile",
+      "authors": [
+        {
+          "key": "/authors/OL2711784A",
+          "name": "F. X. Nine"
+        },
+        {
+          "key": "/authors/OL1385745A",
+          "name": "Ellen Miles"
+        }
+      ],
+      "first_publish_year": 1990,
+      "ia": "megaman2novelbas0000mile",
+      "public_scan": false,
+      "has_fulltext": true,
+      "availability": {
+        "status": "borrow_available",
+        "available_to_browse": true,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": true,
+        "is_readable": false,
+        "is_lendable": true,
+        "is_previewable": true,
+        "identifier": "megaman2novelbas0000mile",
+        "isbn": "0590437720",
+        "oclc": null,
+        "openlibrary_work": "OL8138136W",
+        "openlibrary_edition": "OL7540394M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": true,
+        "is_browseable": true,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL15344941W",
+      "title": "The Maker of Universes (World of Tiers)",
+      "edition_count": 1,
+      "cover_id": null,
+      "cover_edition_key": null,
+      "subject": [
+        "SciFi"
+      ],
+      "ia_collection": [
+        ""
+      ],
+      "printdisabled": false,
+      "lending_edition": "",
+      "lending_identifier": "",
+      "authors": [
+        {
+          "key": "/authors/OL220398A",
+          "name": "Philip José Farmer"
+        }
+      ],
+      "first_publish_year": 1997,
+      "ia": null,
+      "public_scan": false,
+      "has_fulltext": false
+    }
+  ]
+}

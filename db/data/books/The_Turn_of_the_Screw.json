@@ -1,0 +1,731 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PZEaAwAAQBAJ",
+      "etag": "rPmblmLL+vk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PZEaAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw (碧廬冤孽)",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-04-15",
+        "description": "The Aspern Papers is the story of an American scholar who pursues the papers of Jeffrey Aspern, and is built from an anecdote from James' own life. With deft craftsmanship James touches the most intricate workings of the human mind.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 720,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PZEaAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PZEaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PZEaAwAAQBAJ&printsec=frontcover&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PZEaAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PZEaAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PZEaAwAAQBAJ&rdid=book-PZEaAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Turn_of_the_Screw_%E7%A2%A7%E5%BB%AC%E5%86%A4%E5%AD%BD-sample-epub.acsm?id=PZEaAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Turn_of_the_Screw_%E7%A2%A7%E5%BB%AC%E5%86%A4%E5%AD%BD-sample-pdf.acsm?id=PZEaAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PZEaAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Aspern Papers is the story of an American scholar who pursues the papers of Jeffrey Aspern, and is built from an anecdote from James&#39; own life. With deft craftsmanship James touches the most intricate workings of the human mind."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MkxoAgAAQBAJ",
+      "etag": "GEQZWNwVkkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MkxoAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw and Other Stories",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2008-04-17",
+        "description": "A young, inexperienced governess is charged with the care of Miles and Flora, two small children abandoned by their uncle at his grand country house. She sees the figure of an unknown man on the tower and his face at the window. It is Peter Quint, the master's dissolute valet, and he has come for little Miles. But Peter Quint is dead. Like the other tales collected here - `Sir Edmund Orme', `Owen Wingrave', and `The Friends of the Friends' - `The Turn of the Screw' is to all immediate appearances a ghost story. But are the appearances what they seem? Is what appears to the governess a ghost or a hallucination? Who else sees what she sees? The reader may wonder whether the children are victims of corruption from beyond the grave, or victims of the governess's `infernal imagination', which torments but also entrals her? `The Turn of the Screw' is probably the most famous, certainly the most eerily equivocal, of all ghostly tales. Is it a subtle, self-conscious exploration of the haunted house of Victorian culture, filled with echoes of sexual and social unease? Or is it simply, `the most hopelessly evil story that we have ever read'? The texts are those of the New York Edition, with a new Introduction and Notes. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191636165"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191636169"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MkxoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MkxoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MkxoAgAAQBAJ&printsec=frontcover&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MkxoAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MkxoAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.82,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.19,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MkxoAgAAQBAJ&rdid=book-MkxoAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5820000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4190000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Turn_of_the_Screw_and_Other_Stories-sample-pdf.acsm?id=MkxoAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MkxoAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The texts are those of the New York Edition, with a new Introduction and Notes. ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hviRHAAACAAJ",
+      "etag": "NicueDwP+aE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hviRHAAACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Bedford/St. Martin's",
+        "publishedDate": "2003-11-06",
+        "description": "This volume presents the text of the New York Edition of James’s classic 1898 short novel along with critical essays that read The Turn of the Screw from contemporary reader-response, psychoanalytic, gender, and Marxist perspectives. An additional essay demonstrates how several critical perspectives can be combined. As in the first edition, the text and essays are complemented by biographical and critical introductions, bibliographies, and a glossary of critical and theoretical terms. Two of the six essays are new to the second edition, as is a selection of cultural documents and illustrations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312406916"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312406912"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hviRHAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hviRHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hviRHAAACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hviRHAAACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw.html?hl=&id=hviRHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hviRHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume presents the text of the New York Edition of James’s classic 1898 short novel along with critical essays that read The Turn of the Screw from contemporary reader-response, psychoanalytic, gender, and Marxist perspectives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eVHbAQAACAAJ",
+      "etag": "s0EqO2RmHd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eVHbAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw",
+        "subtitle": "By Henry James - Illustrated",
+        "authors": [
+          "Henry Henry James"
+        ],
+        "publishedDate": "2017-03-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Turn of the Screw by Henry James The Turn of the Screw, originally published in 1898, is a gothic ghost story novella written by Henry James. Due to its original content, the novella became a favourite text of academics who subscribe to New Criticism. The novella has had differing interpretations, often mutually exclusive. Many critics have tried to determine the exact nature of the evil hinted at by the story. However, others have argued that the true brilliance of the novella comes with its ability to create an intimate confusion and suspense for the reader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520870051"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520870052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eVHbAQAACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eVHbAQAACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw.html?hl=&id=eVHbAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eVHbAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_IpqzgEACAAJ",
+      "etag": "mpvmW7w+cn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_IpqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw By Henry James (Illustrated Edition)",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2021-04-28",
+        "description": "The Turn of the Screw is a short novel or a novella written by American writer Henry James. Originally published in 1898, it is ostensibly a ghost story that has lent itself well to operatic and film adaptation. Due to its ambiguous content and narrative skill The Turn of the Screw became a favorite text of New Criticism. The account has lent itself to dozens of different interpretations, often mutually exclusive, including those of a Freudian nature. Many critics have tried to determine what exactly is the nature of evil within the story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798745589188"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_IpqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_IpqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_IpqzgEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_IpqzgEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw_By_Henry_James_Ill.html?hl=&id=_IpqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_IpqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The account has lent itself to dozens of different interpretations, often mutually exclusive, including those of a Freudian nature. Many critics have tried to determine what exactly is the nature of evil within the story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B2-htAEACAAJ",
+      "etag": "irDW0H1s2yc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B2-htAEACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw by Henry James",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2017-07-29",
+        "description": "The Turn of the Screw is a short novel or a novella written by American writer Henry James. Originally published in 1898, it is ostensibly a ghost story that has lent itself well to operatic and film adaptation. Due to its ambiguous content and narrative skill, The Turn of the Screw became a favorite text of New Criticism.The account has lent itself to dozens of different interpretations, often mutually exclusive, including those of a Freudian nature. Many critics have tried to determine what exactly is the nature of evil within the story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1974036561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974036561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=B2-htAEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=B2-htAEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw_by_Henry_James.html?hl=&id=B2-htAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B2-htAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many critics have tried to determine what exactly is the nature of evil within the story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "37jUzQEACAAJ",
+      "etag": "65nol4ELFpM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/37jUzQEACAAJ",
+      "volumeInfo": {
+        "title": "THE TURN OF THE SCREW By Henry James Illustrated Novel",
+        "authors": [
+          "Henry James"
+        ],
+        "publishedDate": "2020-08-23",
+        "description": "The Turn of the Screw is an 1898 horror novella by Henry James that first appeared in serial format in Collier's Weekly magazine. In October 1898 it appeared in The Two Magics, a book published by Macmillan in New York City and Heinemann in London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798678385888"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=37jUzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=37jUzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=37jUzQEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=37jUzQEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/THE_TURN_OF_THE_SCREW_By_Henry_James_Ill.html?hl=&id=37jUzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=37jUzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Turn of the Screw is an 1898 horror novella by Henry James that first appeared in serial format in Collier&#39;s Weekly magazine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fXwHxVr5NVwC",
+      "etag": "l3esaylj69U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fXwHxVr5NVwC",
+      "volumeInfo": {
+        "title": "The Turn of the Screw",
+        "publisher": "Evans Brothers",
+        "publishedDate": "2010-07-31",
+        "description": "This is one in a series of books that offers a quick way into a range of exciting stories. Fast-moving and accessible, each story is a shortened, dramatically illustrated version of the classic novel which loses none of the strength and flavour of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780237541101"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0237541106"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fXwHxVr5NVwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fXwHxVr5NVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fXwHxVr5NVwC&printsec=frontcover&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fXwHxVr5NVwC&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw.html?hl=&id=fXwHxVr5NVwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Turn_of_the_Screw-sample-epub.acsm?id=fXwHxVr5NVwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Turn_of_the_Screw-sample-pdf.acsm?id=fXwHxVr5NVwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fXwHxVr5NVwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one in a series of books that offers a quick way into a range of exciting stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9KjAzQEACAAJ",
+      "etag": "FC/xdG9bVgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9KjAzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw (Illustrated)",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-08-22",
+        "description": "The Turn of the Screw is an 1898 horror novella by Henry James. In October 1898 it appeared in The Two Magics, a book published by Macmillan in New York City and Heinemann in London. Classified as both gothic fiction and a ghost story, the book focuses on a governess who, caring for two children at a remote estate, becomes convinced that the grounds are haunted.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798677783791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9KjAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9KjAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9KjAzQEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9KjAzQEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw_Illustrated.html?hl=&id=9KjAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9KjAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Classified as both gothic fiction and a ghost story, the book focuses on a governess who, caring for two children at a remote estate, becomes convinced that the grounds are haunted."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SmGcDAEACAAJ",
+      "etag": "AGVPKaJH7KY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SmGcDAEACAAJ",
+      "volumeInfo": {
+        "title": "The Turn of the Screw (1898) by Henry James",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-03-20",
+        "description": "No, no-there are depths, depths! The more I go over it, the more I see in it, and the more I see in it, the more I fear. I don't know what I don't see-what I don't fear!\".... Henry James In \"The Turn of the Screw\", Henry James has created a different kind of ghost story; what he later described as \"the strange and sinister embroidered on the very type of the normal and easy.\" Although the imagery is reminiscent of the gothic genre, the approach is more subtle, inviting the reader to ponder the true nature of the evil that may be present.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530637597"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530637591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SmGcDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SmGcDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SmGcDAEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SmGcDAEACAAJ&dq=Henry+James+The+Turn+of+the+Screw&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Turn_of_the_Screw_1898_by_Henry_Jame.html?hl=&id=SmGcDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SmGcDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;.... Henry James In &quot;The Turn of the Screw&quot;, Henry James has created a different kind of ghost story; what he later described as &quot;the strange and sinister embroidered on the very type of the normal and easy."
+      }
+    }
+  ]
+}
