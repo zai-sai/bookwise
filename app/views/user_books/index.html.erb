@@ -2,12 +2,12 @@
   <h1>My Books :)</h1>
 
   <div class="row">
-    <div class="col-4">
-      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button">All books</button>
+    <div class="col-4" data-controller="user-books-index">
+      <button type="button" class="btn btn-outline-primary active" data-bs-toggle="button" aria-pressed="true" data-user-books-index-target="allBooks" data-action="click->user-books-index#showAllBooks">All books</button>
 
-      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button">Read</button>
+      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button" data-user-books-index-target="readBooks" data-action="click->user-books-index#toggleReadBooks">Read</button>
 
-      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button">Unread</button>
+      <button type="button" class="btn btn-outline-primary" data-bs-toggle="button" data-user-books-index-target="unreadBooks" data-action="click->user-books-index#toggleUnreadBooks">Unread</button>
     </div>
   </div>
 
