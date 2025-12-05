@@ -106,7 +106,7 @@ def seed_from_apis
     unless book_links.nil?
       book_image_link = book_links["smallThumbnail"]
     else
-      book_image_link = "no link found"
+      book_image_link = "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?semt=ais_hybrid&w=740&q=80"
       # book_image_link = items[1]["volumeInfo"]["imageLinks"]["smallThumbnail"]
     end
     Book.create(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
