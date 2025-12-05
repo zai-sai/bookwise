@@ -1,0 +1,688 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "p5XZEAAAQBAJ",
+      "etag": "g/Xs90BRR+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p5XZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sky Island",
+        "subtitle": "Adventures of Trot and Cap'n Bill After Their Visit to the Sea Fairies",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2023-09-18",
+        "description": "\"Sky Island\" by L. Frank Baum. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547579601"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p5XZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p5XZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=p5XZEAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Sky+Island&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=p5XZEAAAQBAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island.html?hl=&id=p5XZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sky_Island-sample-epub.acsm?id=p5XZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sky_Island-sample-pdf.acsm?id=p5XZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p5XZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Sky Island&quot; by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SP9WzQEACAAJ",
+      "etag": "PO02oW8yjtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SP9WzQEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island",
+        "subtitle": "Original Text",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-03-05",
+        "description": "Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum, and published in 1912-the same constellation of forces that produced the Oz books in the first decades of the twentieth century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798621465889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SP9WzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SP9WzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SP9WzQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SP9WzQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island.html?hl=&id=SP9WzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SP9WzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, and published in 1912-the same constellation of forces that produced the Oz books in the first ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xgXLzgEACAAJ",
+      "etag": "BryBWUHCwi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xgXLzgEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island: Illustrated Edition",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2021-10-20",
+        "description": "Sky Island: Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798750408955"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xgXLzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xgXLzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island_Illustrated_Edition.html?hl=&id=xgXLzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xgXLzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sky Island: Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nbjZzQEACAAJ",
+      "etag": "FzurnFG9eaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nbjZzQEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-09-10",
+        "description": "\"Sky Island: Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1912 by the Reilly & Britton Company[1]-the same constellation of forces that produced the Oz books in the first decades of the twentieth century.As the full title indicates, Sky Island is a sequel to Baum's The Sea Fairies of 1911. Both books were intended as parts of a projected long-running fantasy series to replace the Oz books. Given the relatively tepid reception of the first book in the series, however, Baum tried to attract young readers by including two characters from his Oz mythos in Sky Island-Button-Bright and Polychrome, originally introduced in The Road to Oz (1909).\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798684913709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nbjZzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nbjZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nbjZzQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nbjZzQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island_Illustrated.html?hl=&id=nbjZzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nbjZzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Sky Island: Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1912 by the Reilly &amp; Britton ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ocwszgEACAAJ",
+      "etag": "khNHQNOOGvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ocwszgEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island Illustrated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-01-17",
+        "description": "Sky Island: Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1912 by the Reilly & Britton Company[1]-the same constellation of forces that produced the Oz books in the first decades of the twentieth century.As the full title indicates, Sky Island is a sequel to Baum's The Sea Fairies of 1911. Both books were intended as parts of a projected long-running fantasy series to replace the Oz books. Given the relatively tepid reception of the first book in the series, however, Baum tried to attract young readers by including two characters from his Oz mythos in Sky Island-Button-Bright and Polychrome, originally introduced in The Road to Oz (1909).The book was dedicated to the author's sister, Mary Louise Baum Brewster.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798595779203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ocwszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ocwszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ocwszgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ocwszgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island_Illustrated.html?hl=&id=ocwszgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ocwszgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sky Island: Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1912 by the Reilly &amp; Britton ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JAIVvQEACAAJ",
+      "etag": "ZmzQrGKiDUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JAIVvQEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-10-07",
+        "description": "Sky Island L. Frank Baum Lyman Frank Baum (May 15, 1856 - May 6, 1919) is one of America's most read authors, and he is widely considered one of the premier authors of children's books. Baum wrote dozens of novels and short stories, as well as hundreds of poems, and he even foresaw technological innovations such as computers, televisions and mobile phones, all of which made their way into his writing. Baum, however, is still best known and best regarded for The Wonderful Wizard of Oz, and several other titles that took place in the fantasy world of Oz. Every American is familiar with Dorothy and Toto, and Oz has been adapted for movies, screenplays, and more ever since.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1727678273"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781727678277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JAIVvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JAIVvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JAIVvQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JAIVvQEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island.html?hl=&id=JAIVvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JAIVvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sky Island L. Frank Baum Lyman Frank Baum (May 15, 1856 - May 6, 1919) is one of America&#39;s most read authors, and he is widely considered one of the premier authors of children&#39;s books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PF5nCwAAQBAJ",
+      "etag": "CExojPRB8vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PF5nCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sky Island",
+        "subtitle": "American Literature",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "VM eBooks",
+        "publishedDate": "2016-01-19",
+        "description": "Chapter 1. \"Hello,\" said the boy. \"Hello,\" answered Trot, looking up surprised. \"Where did you come from?\" \"Philadelphia,\" said he. \"Dear me,\" said Trot; \"you're a long way from home, then.\" \"'Bout as far as I can get, in this country,\" the boy replied, gazing out over the water. \"Isn't this the Pacific Ocean?\" \"Of course.\" \"Why of course?\" he asked. \"Because it's the biggest lot of water in all the world.\" \"How do you know?\" \"Cap'n Bill told me,\" she said. \"Who's Cap'n Bill?\" \"An old sailorman who's a friend of mine. He lives at my house, too--the white house you see over there on the bluff.\" \"Oh; is that your home?\" \"Yes,\" said Trot, proudly. \"Isn't it pretty?\" \"It's pretty small, seems to me,\" answered the boy. \"But it's big enough for mother and me, an' for Cap'n Bill,\" said Trot. \"Haven't you any father?\" \"Yes, 'ndeed; Cap'n Griffith is my father; but he's gone, most of the time, sailin' on his ship. You mus' be a stranger in these parts, little boy, not to know 'bout Cap'n Griffith,\" she added, looking at her new acquaintance intently. Trot wasn't very big herself, but the boy was not quite as big as Trot. He was thin, with a rather pale complexion and his blue eyes were round and earnest. He wore a blouse waist, a short jacket and knickerbockers. Under his arm he held an old umbrella that was as tall as he was. Its covering had once been of thick brown cloth, but the color had faded to a dull drab, except in the creases, and Trot thought it looked very old-fashioned and common. The handle, though, was really curious. It was of wood and carved to resemble an elephant's head. The long trunk of the elephant was curved to make a crook for the handle. The eyes of the beast were small red stones, and it had two tiny tusks of ivory.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PF5nCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PF5nCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PF5nCwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Sky+Island&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PF5nCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PF5nCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PF5nCwAAQBAJ&rdid=book-PF5nCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sky_Island-sample-epub.acsm?id=PF5nCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sky_Island-sample-pdf.acsm?id=PF5nCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PF5nCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chapter 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VxYNzgEACAAJ",
+      "etag": "hbr/xXzP/BI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VxYNzgEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island",
+        "subtitle": "Pocket Edition - Beyond World's Classics",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2020-08-15",
+        "description": "WITH \"The Sea Fairies,\" my book for 1911, I ventured into a new field of fairy literature and to my delight the book was received with much approval by my former readers, many of whom have written me that they like Trot \"almost as well as Dorothy.\" As Dorothy was an old, old friend and Trot a new one, I think this is very high praise for Cap'n Bill's little companion. Cap'n Bill is also a new character who seems to have won approval, and so both Trot and the old sailor are again introduced in the present story, which may be called the second of the series of adventures of Trot and Cap'n Bill.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798675412075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VxYNzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VxYNzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island.html?hl=&id=VxYNzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VxYNzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; As Dorothy was an old, old friend and Trot a new one, I think this is very high praise for Cap&#39;n Bill&#39;s little companion."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ExF0zgEACAAJ",
+      "etag": "KG1wuP6cH3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ExF0zgEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island Annotated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-05-22",
+        "description": "Sky Island: Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum. A captivating tale by the master of make-believe recounts the further adventures of a little girl named Trot; Cap'n Bill; and their new friend, Button-Bright. Transported by a magic umbrella to an island in the sky, they meet six snub-nosed princesses, discover the King's treasure chamber, and meet Tourmaline the poverty Queen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798508263157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ExF0zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ExF0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ExF0zgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ExF0zgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island_Annotated.html?hl=&id=ExF0zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ExF0zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sky Island: Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UC9CzgEACAAJ",
+      "etag": "90Fws4PDiJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UC9CzgEACAAJ",
+      "volumeInfo": {
+        "title": "Sky Island Annotated",
+        "subtitle": "Penguin Classics",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-02-21",
+        "description": "Sky Island: Being the Further Adventures of Trot and Cap'n Bill after Their Visit to the Sea Fairies is a children's fantasy novel written by L. Frank Baum. A captivating tale by the master of make-believe recounts the further adventures of a little girl named Trot; Cap'n Bill; and their new friend, Button-Bright. Transported by a magic umbrella to an island in the sky, they meet six snub-nosed princesses, discover the King's treasure chamber, and meet Tourmaline the poverty Queen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798712122493"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UC9CzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UC9CzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UC9CzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UC9CzgEACAAJ&dq=L.+Frank+Baum+Sky+Island&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sky_Island_Annotated.html?hl=&id=UC9CzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UC9CzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sky Island: Being the Further Adventures of Trot and Cap&#39;n Bill after Their Visit to the Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum."
+      }
+    }
+  ]
+}

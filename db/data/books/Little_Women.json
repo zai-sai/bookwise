@@ -1,0 +1,847 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WMjHdhYI8F4C",
+      "etag": "OOel1QFOVm0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMjHdhYI8F4C",
+      "volumeInfo": {
+        "title": "Little Women",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-01-01",
+        "description": "Louisa May Alcott wrote Little Women in two parts, each resoundingly popular and receiving critical acclaim. The novel follows the lives of the four March sisters, Meg, Jo, Beth and Amy, from childhood into maturity. The journey is not an easy one, and each is humbled and ultimately uplifted by her encounters with love, society and death. The work is based loosely on Alcott's experiences growing up with three sisters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781877527937"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1877527939"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 927,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMjHdhYI8F4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMjHdhYI8F4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WMjHdhYI8F4C&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMjHdhYI8F4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMjHdhYI8F4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WMjHdhYI8F4C&rdid=book-WMjHdhYI8F4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women-sample-epub.acsm?id=WMjHdhYI8F4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMjHdhYI8F4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Louisa May Alcott wrote Little Women in two parts, each resoundingly popular and receiving critical acclaim. The novel follows the lives of the four March sisters, Meg, Jo, Beth and Amy, from childhood into maturity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mRX160l72-UC",
+      "etag": "Sg2pwbtpkKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRX160l72-UC",
+      "volumeInfo": {
+        "title": "Louisa May Alcott",
+        "subtitle": "The Woman Behind Little Women",
+        "authors": [
+          "Harriet Reisen"
+        ],
+        "publisher": "Macmillan + ORM",
+        "publishedDate": "2010-10-25",
+        "description": "PBS and HBO documentary scriptwriter Harriet Reisen reveals the extraordinary woman behind the beloved American classic as never before. Louisa May Alcott is the perfect gift for fans of Little Women and of Greta Gerwig's adaptation starring Meryl Streep, Emma Watson, and Saoirse Ronan. “At last, Louisa May Alcott has the biography that admirers of Little Women might have hoped for.” —The Wall Street Journal's 10 Best Books of the Year A fresh, modern take on the remarkable Louisa May Alcott, Harriet Reisen's vivid biography explores the author's life in the context of her works, many of which are to some extent autobiographical. Although Alcott secretly wrote pulp fiction, harbored radical abolitionist views, and served as a Civil War nurse, her novels went on to sell more copies than those of Herman Melville and Henry James. Stories and details culled from Alcott's journals, together with revealing letters to family, friends, and publishers, plus recollections of her famous contemporaries, provide the basis for this lively account of the author's classic rags-to-riches tale.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429928816"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1429928816"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.12.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mRX160l72-UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mRX160l72-UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mRX160l72-UC&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mRX160l72-UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mRX160l72-UC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mRX160l72-UC&rdid=book-mRX160l72-UC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Louisa_May_Alcott-sample-epub.acsm?id=mRX160l72-UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRX160l72-UC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;At last, Louisa May Alcott has the biography that admirers of Little Women might have hoped for.&quot; — The Wall Street Journal&#39;s Best 10 Books of the Year A fresh, modern take on the remarkable Louisa May Alcott, Harriet Reisen&#39;s vivid ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9iZaAAAAMAAJ",
+      "etag": "m/5aAXXrjg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9iZaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "A Hunger for Home",
+        "subtitle": "Louisa May Alcott and Little Women",
+        "authors": [
+          "Sarah Elbert"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008229638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9iZaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9iZaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9iZaAAAAMAAJ&q=Louisa+May+Alcott+Little+Women&dq=Louisa+May+Alcott+Little+Women&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9iZaAAAAMAAJ&dq=Louisa+May+Alcott+Little+Women&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Hunger_for_Home.html?hl=&id=9iZaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9iZaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a1LhEAAAQBAJ",
+      "etag": "N0QwN1LieuM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a1LhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Women",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "Hesperus Press",
+        "publishedDate": "2014-09-01",
+        "description": "A beautiful new edition of this timeless family favorite, following the lives of the four March sisters—pretty Meg, tomboy Jo, shy Beth, and vain Amy—as they grow into young ladies in 19th century New England The four March sisters, Meg, Jo, Beth, and Amy, live in Concord, Massachussetts, with their beloved mother while their father is stationed far away as an army chaplain. Although not well off financially, they are nonetheless well known in the neighborhood for their charitable work. The girls amuse themselves at home with imaginative fun and games, including performing plays and writing sketches. They are the picture of a loving family and each daughter has her own part to play in it. The March girls are so deftly and vividly drawn that everyone who reads this book will identify with one sister in the story, whether they are reading Little Women for the first time as a child or rereading it for the 100th time as an adult. Includes an extended character profile of Meg.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781780943237"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1780943237"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a1LhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a1LhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a1LhEAAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=a1LhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=a1LhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=a1LhEAAAQBAJ&rdid=book-a1LhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women-sample-epub.acsm?id=a1LhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women-sample-pdf.acsm?id=a1LhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a1LhEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The March girls are so deftly and vividly drawn that everyone who reads this book will identify with one sister in the story, whether they are reading Little Women for the first time as a child or rereading it for the 100th time as an adult ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AlPdDwAAQBAJ",
+      "etag": "IgBsYSgAyNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AlPdDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Women",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "Mizan Qanita",
+        "publishedDate": "2020-04-17",
+        "description": "Karya klasik yang tak lekang oleh waktu ini bercerita tentang kehidupan empat bersaudari, suatu masa di Concord, Massachusetts. Meg, si Cantik keibuan yang bermimpi menjadi ratu bergaun indah. Jo, si Tomboi yang sangat mencintai buku dan sastra. Beth, si Pendiam yang begitu berbakat memainkan piano. Dan Amy, Michel angelo kecil dengan sketsa-sketsa memukau di kertas gambarnya. Hari-hari mereka sederhana, tapi dilingkupi kehangatan. Walaupun tak pernah luput dari masalah, kesedihan, ketidakpuasan, bahkan pertengkaran, mereka tak pernah berhenti saling mencintai dan teramat bersyukur memiliki satu sama lain. Sang Ibu yang selalu berada di samping mereka memberi banyak inspirasi dan semangat, sementara bocah laki-laki kaya bernama Laurie, yang ikut serta dalam setiap petualangan keempat gadis itu, membawa keceriaan tak tergantikan. Diterbitkan padaabad ke-19, novel ini disebut sebagai karya paling realistis di antara novel-novel sejenis yang lebih menawarkan mimpi dan idealisme. Lewat Little Women, Louisa May Alcott menyuratkan kebahagiaan dalam kesederhanaan, dan menunjukkan bahwa rumah mungil pun dapat menjadi istana indah dengan kehadiran orang-orang tercinta. [Mizan, Mizan Publishing, Qanita, Novel, Dewasa, Indonesia]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786024021689"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6024021682"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AlPdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AlPdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.co.uk/books?id=AlPdDwAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AlPdDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AlPdDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.45,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.45,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AlPdDwAAQBAJ&rdid=book-AlPdDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2450000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2450000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women-sample-pdf.acsm?id=AlPdDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AlPdDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lewat Little Women, Louisa May Alcott menyuratkan kebahagiaan dalam kesederhanaan, dan menunjukkan bahwa rumah mungil pun dapat menjadi istana indah dengan kehadiran orang-orang tercinta. [Mizan, Mizan Publishing, Qanita, Novel, Dewasa, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oiZaAAAAMAAJ",
+      "etag": "7D14AWr+j2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oiZaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Louisa May Alcott and Little Women Biography, Critique, Publications, Poems, Songs and Contemporary Relevance",
+        "authors": [
+          "Gloria T. Delamar"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "1990-09-15",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015018937329"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oiZaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oiZaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oiZaAAAAMAAJ&q=Louisa+May+Alcott+Little+Women&dq=Louisa+May+Alcott+Little+Women&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oiZaAAAAMAAJ&dq=Louisa+May+Alcott+Little+Women&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Louisa_May_Alcott_and_Little_Women_Biogr.html?hl=&id=oiZaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oiZaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Aip7DwAAQBAJ",
+      "etag": "dDS9SAqxOL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Aip7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Women by Louisa May Alcott. / a classic children's novel /",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2018-11-16",
+        "description": "Little Women is a novel by American author Louisa May Alcott (1832-1888), which was originally published in two volumes in 1868 and 1869. Alcott wrote the books over several months at the request of her publisher. Following the lives of the four March sisters--Meg, Jo, Beth and Amy--the novel details their passage from childhood to womanhood and is loosely based on the author and her three sisters.Little Women was an immediate commercial and critical success with readers demanding to know more about the characters. Alcott quickly completed a second volume (entitled Good Wives in the United Kingdom, although this name originated from the publisher and not from Alcott). It was also successful. The two volumes were issued in 1880 as a single novel entitled Little Women.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359230099"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359230091"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Aip7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Aip7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Aip7DwAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Aip7DwAAQBAJ&dq=Louisa+May+Alcott+Little+Women&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Little_Women_by_Louisa_May_Alcott_a_clas.html?hl=&id=Aip7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women_by_Louisa_May_Alcott_a_clas-sample-pdf.acsm?id=Aip7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Aip7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Little Women is a novel by American author Louisa May Alcott (1832-1888), which was originally published in two volumes in 1868 and 1869. Alcott wrote the books over several months at the request of her publisher."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FgamAgAAQBAJ",
+      "etag": "rUGA2HRC8Uw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FgamAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Beyond Little Women",
+        "subtitle": "A Story about Louisa May Alcott",
+        "authors": [
+          "Susan Bivin Aller"
+        ],
+        "publisher": "LernerClassroom",
+        "publishedDate": "2004-01-01",
+        "description": "Recalls Louisa May Alcott's life, beginning with her learning the importance of giving over receiving, a lesson she would recount throughout her life as her family's sole breadwinner, and ending with the success of Little Women.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781575056364"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1575056364"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FgamAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FgamAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FgamAgAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FgamAgAAQBAJ&dq=Louisa+May+Alcott+Little+Women&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beyond_Little_Women.html?hl=&id=FgamAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Beyond_Little_Women-sample-pdf.acsm?id=FgamAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FgamAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Recalls Louisa May Alcott&#39;s life, beginning with her learning the importance of giving over receiving, a lesson she would recount throughout her life as her family&#39;s sole breadwinner, and ending with the success of Little Women."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RmAwEAAAQBAJ",
+      "etag": "N8bw0tOH+pw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RmAwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Women - Louisa May Alcott",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "Lumbreras Classics Books",
+        "publishedDate": "2021-06-05",
+        "description": "Little Women is a coming-of-age novel written by American novelist Louisa May Alcott (18321888) which was originally published in two volumes in 1868 and 1869. Alcott wrote the book over several months at the request of her publisher. The story follows the lives of the four March sistersMeg, Jo, Beth, and Amyand details their passage from childhood to womanhood. It is loosely based on the lives of the author and her three sisters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985513048"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "398551304X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RmAwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RmAwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RmAwEAAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RmAwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RmAwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RmAwEAAAQBAJ&rdid=book-RmAwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women_Louisa_May_Alcott-sample-epub.acsm?id=RmAwEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Little_Women_Louisa_May_Alcott-sample-pdf.acsm?id=RmAwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RmAwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alcott wrote the book over several months at the request of her publisher. The story follows the lives of the four March sistersMeg, Jo, Beth, and Amyand details their passage from childhood to womanhood."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jiWIEQAAQBAJ",
+      "etag": "aOxzUpWu1X0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jiWIEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Louisa May Alcott: Little Women (English Edition)",
+        "authors": [
+          "Louisa May Alcott"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2025-11-25",
+        "description": "Few novels have touched readers’ hearts as deeply as Louisa May Alcott’s Little Women and its continuation Good Wives. Together they tell the unforgettable tale of the March sisters, whose hopes, struggles, and joys capture the universal journey from youth to maturity. With its blend of tenderness, humor, and moral insight, this beloved classic has been cherished for generations and remains a source of comfort and inspiration today. This is the English-language paperback edition of Little Women, including Good Wives, presented in one complete volume. Louisa May Alcott. Little Women. First published in two parts: Roberts Brothers, Boston, USA 1868 (1st volume) / 1869 (2nd volume) . Neuausgabe beider Teile in einem Band, LIWI Literatur- und Wissenschaftsverlag, Göttingen 2025.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753801292"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753801291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jiWIEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jiWIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jiWIEQAAQBAJ&printsec=frontcover&dq=Louisa+May+Alcott+Little+Women&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jiWIEQAAQBAJ&dq=Louisa+May+Alcott+Little+Women&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Louisa_May_Alcott_Little_Women_English_E.html?hl=&id=jiWIEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Louisa_May_Alcott_Little_Women_English_E-sample-pdf.acsm?id=jiWIEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jiWIEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the English-language paperback edition of Little Women, including Good Wives, presented in one complete volume. Louisa May Alcott. Little Women."
+      }
+    }
+  ]
+}

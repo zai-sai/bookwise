@@ -1,0 +1,731 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3FkUf4Vd6sAC",
+      "etag": "bH9CI9UygWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3FkUf4Vd6sAC",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2001-04-03",
+        "description": "Jane Austen’s first published novel, Sense and Sensibility, is a witty satire of the sentimental novel, a popular genre in Britain throughout the 1790s and the Regency. When it first appeared in 1811, the words in its title carried significant cultural weight beyond the confines of the novel, and into both popular and learned discourse. Through her dual heroines, Austen addresses, and satirizes, notions of sense and sensibility, and engages with the issues of inheritance, marriage, and love. The story concerns two sisters: the level-headed Elinor and the passionate and impulsive Marianne. When their father dies, his son by a previous marriage assumes possession of the family home. Marianne and Elinor, left to the care of their mercenary brother John and his wife Fanny, must remove to a cottage with their mother. Each sister meets a man in whom she is interested, and as with other Austen novels, requited love does not come easily. This newly annotated edition offers a thorough and perceptive introduction and a wide range of carefully selected contextual materials that further explore the term “sensibility.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "155111125X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551111254"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3FkUf4Vd6sAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3FkUf4Vd6sAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3FkUf4Vd6sAC&printsec=frontcover&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3FkUf4Vd6sAC&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_and_Sensibility.html?hl=&id=3FkUf4Vd6sAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility-sample-epub.acsm?id=3FkUf4Vd6sAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility-sample-pdf.acsm?id=3FkUf4Vd6sAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3FkUf4Vd6sAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This newly annotated edition offers a thorough and perceptive introduction and a wide range of carefully selected contextual materials that further explore the term “sensibility.” Jane Austen’s first published novel, Sense and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bcUNAAAAQAAJ",
+      "etag": "VPRlqSbcCgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bcUNAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "subtitle": "a Novel",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Richard Bentley",
+        "publishedDate": "1833",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590040791"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.7.12.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bcUNAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bcUNAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bcUNAAAAQAAJ&printsec=frontcover&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bcUNAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bcUNAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bcUNAAAAQAAJ&rdid=book-bcUNAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility.epub?id=bcUNAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility.pdf?id=bcUNAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2lWC1UBC2wFz44o0UWJY8GIyujTA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bcUNAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cgIUDAAAQBAJ",
+      "etag": "GmL1Swtpk4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cgIUDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "authors": [
+          "Jane Austen",
+          "Claire Lamont"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2008-04-17",
+        "description": "For Elinor Dashwood, sensible and sensitive, and her romantic younger sister Marianne, the propect of marrying the men they love appears remote. In a world ruled by money and self-interest, the Dashwood sisters have neither fortune nor connections.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199535576"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199535574"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cgIUDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cgIUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cgIUDAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cgIUDAAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_and_Sensibility.html?hl=&id=cgIUDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility-sample-pdf.acsm?id=cgIUDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cgIUDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For Elinor Dashwood, sensible and sensitive, and her romantic younger sister Marianne, the propect of marrying the men they love appears remote."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nItPEAAAQBAJ",
+      "etag": "TWCtajJcLoQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nItPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2003-04-29",
+        "description": "Jane Austen's first published work, meticulously constructed and sparkling with her unique wit Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of love - and its threatened loss - the sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love. This edition also includes explanatory notes and textual variants between first and second edition. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141439662"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141439661"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nItPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nItPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nItPEAAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nItPEAAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_and_Sensibility.html?hl=&id=nItPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nItPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also includes explanatory notes and textual variants between first and second edition. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2-sdAQAAIAAJ",
+      "etag": "NBoBnE8yZBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2-sdAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Jane Austen's Sense and Sensibility",
+        "authors": [
+          "Gene W. Ruoff"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105002335276"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2-sdAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2-sdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2-sdAQAAIAAJ&q=Jane+Austen+Sense+and+Sensibility&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2-sdAQAAIAAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_s_Sense_and_Sensibility.html?hl=&id=2-sdAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2-sdAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "olExDwAAQBAJ",
+      "etag": "+mjTHQtgTJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/olExDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2017",
+        "description": "\"Two sisters, one practical and conventional and the other emotional and sentimental, set their sights on men who will perfectly match their disparate personalities, with unexpected results\"--NoveList Plus.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198807452"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198807457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=olExDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=olExDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=olExDwAAQBAJ&printsec=frontcover&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=olExDwAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_and_Sensibility.html?hl=&id=olExDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility-sample-pdf.acsm?id=olExDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=olExDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Two sisters, one practical and conventional and the other emotional and sentimental, set their sights on men who will perfectly match their disparate personalities, with unexpected results&quot;--NoveList Plus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_f7iAAAACAAJ",
+      "etag": "53yBIbeBpF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_f7iAAAACAAJ",
+      "volumeInfo": {
+        "title": "Sense/Sensibility 27",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1996-02-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451933052"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451933058"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_f7iAAAACAAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_f7iAAAACAAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_Sensibility_27.html?hl=&id=_f7iAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_f7iAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JoHkJ7m-dVoC",
+      "etag": "OZk9c+fuMTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JoHkJ7m-dVoC",
+      "volumeInfo": {
+        "title": "Sense and Sensibility",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Bantam Classics",
+        "publishedDate": "1983",
+        "description": "In nineteenth-century England, two sisters are drawn into unhappy romances despite the cool judgement of one and the emotional intensity of the other",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553213348"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553213342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JoHkJ7m-dVoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JoHkJ7m-dVoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JoHkJ7m-dVoC&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JoHkJ7m-dVoC&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sense_and_Sensibility.html?hl=&id=JoHkJ7m-dVoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JoHkJ7m-dVoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; This Modern Library Paperback Classics edition contains a new Introduction by Pulitzer Prize finalist David Gates, in addition to new explanatory notes. &quot;From the Trade Paperback edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QvCMEAAAQBAJ",
+      "etag": "d6BSFmWk+LM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QvCMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Annotated Sense and Sensibility",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-05-03",
+        "description": "From the editor of the popular Annotated Pride and Prejudice comes an annotated edition of Jane Austen’s Sense and Sensibility that makes this tale of two sisters in love an even more enjoyable read. Here is the complete text of the novel with more than 2,000 annotations on facing pages, including: -Explanations of historical context -Citations from Austen’s life, letters, and other writings -Definitions and clarifications -Literary comments and analysis -Multiple maps of England and London -An introduction, bibliography, and detailed chronology of events -More than 100 informative illustrations Filled with fascinating information about everything from the rules of inheritance that could leave a wealthy man’s daughters almost penniless to the fashionable cult of sensibility that Austen so brilliantly satirizes, David M. Shapard’s Annotated Sense and Sensibility is an entertaining and edifying delight.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307390769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307390764"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QvCMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QvCMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QvCMEAAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QvCMEAAAQBAJ&dq=Jane+Austen+Sense+and+Sensibility&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Annotated_Sense_and_Sensibility.html?hl=&id=QvCMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QvCMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the editor of the popular Annotated Pride and Prejudice comes an annotated edition of Jane Austen’s Sense and Sensibility that makes this tale of two sisters in love an even more enjoyable read."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SmAwEAAAQBAJ",
+      "etag": "9yybwtvXsj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SmAwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sense and Sensibility - Jane Austen",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-06-10",
+        "description": "Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of loveand its threatened lossthe sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.This edition includes explanatory notes, textual variants between the first and second editions, and Tony Tanner's introduction to the original Penguin Classic edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985940080"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985940088"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SmAwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SmAwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SmAwEAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Sense+and+Sensibility&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SmAwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SmAwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SmAwEAAAQBAJ&rdid=book-SmAwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility_Jane_Austen-sample-epub.acsm?id=SmAwEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sense_and_Sensibility_Jane_Austen-sample-pdf.acsm?id=SmAwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SmAwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through their parallel experience of loveand its threatened lossthe sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.This edition includes ..."
+      }
+    }
+  ]
+}

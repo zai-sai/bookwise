@@ -1,0 +1,693 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "djf_RQAACAAJ",
+      "etag": "T6T0acrsf6c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/djf_RQAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2010-01-01",
+        "description": "\"Harry Potter thinks he is an ordinary boy. He lives with Uncle Vernon, Aunt Petunia and his cousin, Dudley, who make him sleep in a cupboard under the stairs. Then Harry starts receiving mysterious letters and his life is changed for ever. He is whisked away by a beetle-eyed giant of a man and enrolled in Hogwarts School of Witchcraft and Wizardry. The reason: Harry Potter is a wizard!\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408810549"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408810545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=djf_RQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=djf_RQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=djf_RQAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=djf_RQAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=djf_RQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=djf_RQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harry Potter thinks he is an ordinary boy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kTH6zAEACAAJ",
+      "etag": "MUIriMy7JcY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kTH6zAEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "1997",
+        "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0590353403"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780590353403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kTH6zAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kTH6zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kTH6zAEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kTH6zAEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=kTH6zAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kTH6zAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YQNbEAAAQBAJ",
+      "etag": "4d18RLPbHak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQNbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2015",
+        "description": "Harry Potter lives in a cupboard under the stairs at his Aunt and Uncle's house. He is bullied by them and his spoilt cousin, and lives a very unremarkable life. But then Harry is transported to a world of magic and excitement.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408845646"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408845644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YQNbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YQNbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YQNbEAAAQBAJ&printsec=frontcover&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YQNbEAAAQBAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=YQNbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Harry_Potter_and_the_Philosopher_s_Stone-sample-pdf.acsm?id=YQNbEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQNbEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare to be spellbound by Jim Kay&#39;s dazzling depiction of the wizarding world and much loved characters in this full-colour illustrated hardback edition of the nation&#39;s favourite children&#39;s book - Harry Potter and the Philosopher&#39;s Stone."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZiJMzwEACAAJ",
+      "etag": "XJHjKjhnEco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZiJMzwEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Scholastic Incorporated",
+        "publishedDate": "2023-05-02",
+        "description": "Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley - a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry - and anyone who reads about him - will find unforgettable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1338878921"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338878929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZiJMzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZiJMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZiJMzwEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZiJMzwEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Sorcerer_s_Stone_Ha.html?hl=&id=ZiJMzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZiJMzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NyT4zgEACAAJ",
+      "etag": "LvKg6RT43k8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NyT4zgEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling (Book Analysis)",
+        "subtitle": "Detailed Summary, Analysis and Reading Guide",
+        "authors": [
+          "Bright Summaries"
+        ],
+        "publishedDate": "2018-02-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "280800737X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782808007375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NyT4zgEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NyT4zgEACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=NyT4zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NyT4zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o9wSAAAACAAJ",
+      "etag": "izKVjB7OOcM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o9wSAAAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "subtitle": "Top Notes",
+        "authors": [
+          "Bronwyn Stanners"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1741301823"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781741301823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Potter, Harry (Fictitious character)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o9wSAAAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o9wSAAAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=o9wSAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o9wSAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jrg5vgAACAAJ",
+      "etag": "aFSDy51NA/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jrg5vgAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone - Slytherin Edition",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Bloomsbury Children's Books",
+        "publishedDate": "2017-06",
+        "description": "Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started.Harry Potter and the Philosopher's Stonehasbeen read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury has published four House Editions of J.K. Rowling's modern classic. These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold. Exciting new extra content includes fact files and profiles of favourite characters, and each book has sprayed edges in the house colours. Available for a limited period only, these highly collectable editions are a must-have for all Harry Potter fans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408883767"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408883761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jrg5vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jrg5vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Jrg5vgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Jrg5vgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=Jrg5vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jrg5vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mqdrQgAACAAJ",
+      "etag": "22hgcpwqWcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mqdrQgAACAAJ",
+      "volumeInfo": {
+        "title": "Harrius Potter et Philosophi Lapis",
+        "subtitle": "(Harry Potter and the Philosopher's Stone)",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Bloomsbury USA Childrens",
+        "publishedDate": "2003-07-04",
+        "description": "Latin translation of the first Harry Potter book, Harry Potter and the Philosopher's Stone in which Harry Potter, a normal eleven-year-old boy, discovers that he is a wizard. Long ago, Harry's parents were killed in a battle with the evil Lord Voldemort. When we first meet Harry, he is living miserably with his repulsive and non-magical (or Muggle) Aunt Petunia and Uncle Vernon Dursley, and their even more revolting son, Dudley. Following a bizarre but hilarious chain of events, Harry finds himself at Hogwarts School of Witchcraft and Wizardry, with an outrageous cast of characters, including super-smart Hermione Granger, vile Draco Malfoy, sinister Professor Snape, and the wise Headmaster Albus Dumbledore. Adventures galore ensue.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1582348251"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781582348254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mqdrQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mqdrQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mqdrQgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mqdrQgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harrius_Potter_et_Philosophi_Lapis.html?hl=&id=mqdrQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mqdrQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In case you don&#39;t remember, Harry Potter is an eleven year old wizard."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0w_NXwAACAAJ",
+      "etag": "TRGrcnQrKhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0w_NXwAACAAJ",
+      "volumeInfo": {
+        "title": "J.K. Rowling's Harry Potter and the Philosopher's Stone",
+        "subtitle": "New Classic of Children's Literature ?",
+        "authors": [
+          "Mélanie Dancel"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492007105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0w_NXwAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0w_NXwAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_K_Rowling_s_Harry_Potter_and_the_Philo.html?hl=&id=0w_NXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0w_NXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZUAvvgAACAAJ",
+      "etag": "VsAn4ERh72Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUAvvgAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Philosopher's Stone - Ravenclaw Edition",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Bloomsbury Children's Books",
+        "publishedDate": "2017-06",
+        "description": "Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury has published four House Editions of J.K. Rowling's modern classic. These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold. Exciting new extra content includes fact files and profiles of favourite characters, and each book has sprayed edges in the house colours. Available for a limited period only, these highly collectable editions are a must-have for all Harry Potter fans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408883783"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408883785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUAvvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUAvvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZUAvvgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZUAvvgAACAAJ&dq=J.K.+Rowling+Harry+Potter+and+the+Philosopher%27s+Stone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=ZUAvvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUAvvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold."
+      }
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bWUb0QEACAAJ",
+      "etag": "RS8fX1BxPCU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bWUb0QEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "185326105X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853261053"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bWUb0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bWUb0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bWUb0QEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bWUb0QEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines.html?hl=&id=bWUb0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bWUb0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fHOdAQAACAAJ",
+      "etag": "6kbRVyvdDZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fHOdAQAACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines, by H. Rider Haggard, ...",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457553110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fHOdAQAACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fHOdAQAACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines_by_H_Rider_Haggard.html?hl=&id=fHOdAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fHOdAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OpxXIDxVWwwC",
+      "etag": "LbCJ2yxnYWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OpxXIDxVWwwC",
+      "volumeInfo": {
+        "title": "King Solomon's Mines",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "2007-12-18",
+        "description": "Touted by its 1885 publisher as “the most amazing story ever written,” King Solomon’s Mines was one of the bestselling novels of the nineteenth century. H. Rider Haggard’s thrilling saga of elephant hunter Allan Quatermain and his search for fabled treasure is more than just an adventure story, though: As Alexandra Fuller explains in her Introduction, in its vivid portrayal of the alliances and battles of white colonials and African tribesmen, King Solomon’s Mines “brings us the world of extremes, of the absurdly tall tales and of the illogical loyalty between disparate people that still informs this part of the world.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307431349"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307431347"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OpxXIDxVWwwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OpxXIDxVWwwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OpxXIDxVWwwC&printsec=frontcover&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OpxXIDxVWwwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OpxXIDxVWwwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.22,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.22,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OpxXIDxVWwwC&rdid=book-OpxXIDxVWwwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3220000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3220000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Solomon_s_Mines-sample-epub.acsm?id=OpxXIDxVWwwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/King_Solomon_s_Mines-sample-pdf.acsm?id=OpxXIDxVWwwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OpxXIDxVWwwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Touted by its 1885 publisher as “the most amazing story ever written,” King Solomon’s Mines was one of the bestselling novels of the nineteenth century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8D9QzwEACAAJ",
+      "etag": "EfI7hj8pKZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8D9QzwEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines",
+        "subtitle": "By H. Rider Haggard [Etc.].",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1335767978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8D9QzwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8D9QzwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines.html?hl=&id=8D9QzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8D9QzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ATcYtAEACAAJ",
+      "etag": "W1QMkTNSnd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ATcYtAEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines by H. Rider Haggard",
+        "authors": [
+          "H. Haggard"
+        ],
+        "publishedDate": "2017-09-21",
+        "description": "King Solomon's Mines by H. Rider Haggard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976089360"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976089367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ATcYtAEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ATcYtAEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines_by_H_Rider_Haggard.html?hl=&id=ATcYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ATcYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "King Solomon&#39;s Mines by H. Rider Haggard"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vS0knwEACAAJ",
+      "etag": "y9WkIj4bKfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vS0knwEACAAJ",
+      "volumeInfo": {
+        "title": "H. Rider Haggard Combo #1",
+        "subtitle": "King Solomon's Mines/Allan Quatermain",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-10",
+        "description": "Collected in the first Combo edition are the first two books in the classic Allan Quatermain adventure series: King Solomon's Mines Allan Quatermain",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1493521268"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781493521265"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vS0knwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vS0knwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vS0knwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vS0knwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/H_Rider_Haggard_Combo_1.html?hl=&id=vS0knwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vS0knwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collected in the first Combo edition are the first two books in the classic Allan Quatermain adventure series: King Solomon&#39;s Mines Allan Quatermain"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xAGftAEACAAJ",
+      "etag": "rO0N8Nf0Mfk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xAGftAEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines by Henry Rider Haggard",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publishedDate": "2017-08-23",
+        "description": "King Solomon's Mines by Henry Rider Haggard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1975723082"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781975723088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xAGftAEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xAGftAEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines_by_Henry_Rider_Hagg.html?hl=&id=xAGftAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xAGftAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "King Solomon&#39;s Mines by Henry Rider Haggard"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QEznjwEACAAJ",
+      "etag": "4s73tX5OXuA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QEznjwEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomons Mine",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-06",
+        "description": "King Solomon's Mines is the narrative of Allan Quatermain, elephant hunter and explorer, and his adventures in the company of Danish man of action Sir Henry Curtis and Royal Navy officer Captain Good. Sir Henry Curtis hires Quatermain to use his knowledge of Africa and his skills as a hunter to lead an expedition in search of Sir Henry's lost brother, George Neville. George vanished while seeking the long-lost diamond mines of King Solomon in an unexplored part of Africa. The possibility of riches, along with a stipulation that Sir Henry will provide for Quatermain's medical student son should he meet his end, persuades Quatermain to take the job.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533125880"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533125880"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QEznjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QEznjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QEznjwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QEznjwEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomons_Mine.html?hl=&id=QEznjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QEznjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "King Solomon&#39;s Mines is the narrative of Allan Quatermain, elephant hunter and explorer, and his adventures in the company of Danish man of action Sir Henry Curtis and Royal Navy officer Captain Good."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WLZMygEACAAJ",
+      "etag": "4KwGFH14RyI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WLZMygEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines",
+        "subtitle": "Perfect For Readers ( Annotated ) By Henry Rider Haggard.",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2019-09-28",
+        "description": "Size: 6\" x 9\" inch Cover: Soft, matte cover Great size to carry everywhere in your bag, for work, high school, college Makes a great Christmas, birthday, graduation or beginning of the school year gift for Women and Girls",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1696045940"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781696045940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WLZMygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WLZMygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WLZMygEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WLZMygEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines.html?hl=&id=WLZMygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WLZMygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Size: 6&quot; x 9&quot; inch Cover: Soft, matte cover Great size to carry everywhere in your bag, for work, high school, college Makes a great Christmas, birthday, graduation or beginning of the school year gift for Women and Girls"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3N8czgEACAAJ",
+      "etag": "EkaF5V2s1Ww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3N8czgEACAAJ",
+      "volumeInfo": {
+        "title": "King Solomon's Mines Annotated",
+        "authors": [
+          "Sir H Rider Haggard"
+        ],
+        "publishedDate": "2020-12-06",
+        "description": "King Solomon's Mines is a popular novel by the English Victorian adventure writer and fabulist Sir H. Rider Haggard. It tells of a search of an unexplored region of Africa by a group of adventurers led by Allan Quatermain for the missing brother of one of the party.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798577600914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3N8czgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3N8czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3N8czgEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3N8czgEACAAJ&dq=H.+Rider+Haggard+King+Solomon%27s+Mines&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/King_Solomon_s_Mines_Annotated.html?hl=&id=3N8czgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3N8czgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "King Solomon&#39;s Mines is a popular novel by the English Victorian adventure writer and fabulist Sir H. Rider Haggard."
+      }
+    }
+  ]
+}

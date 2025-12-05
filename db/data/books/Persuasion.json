@@ -1,0 +1,755 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6oHFDAAAQBAJ",
+      "etag": "pnRJd/jR8nU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6oHFDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Persuasion",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2016-07-19",
+        "description": "Now on Netflix! Jane Austen's wickedly satirical final novel, starring Dakota Johnson, Henry Golding and Richard E. Grant. Complete and unabridged. Part of the Macmillan Collector’s Library; a series of stunning, clothbound, pocket sized classics with gold foiled edges and ribbon markers. These beautiful books make perfect gifts or a treat for any book lover. This edition features gorgeous illustrations by Hugh Thomson and an afterword by author and critic Henry Hitchings. Persuasion follows the story of Anne Elliott, who as a teenager was engaged to a seemingly ideal man, Frederick Wentworth. But after being persuaded by her friend Lady Russell that he is too poor to be a suitable match, Anne ends their engagement. When they are reacquainted eight years later, their circumstances are transformed: Frederick is returning triumphantly from the Napoleonic War, while Anne's fortunes are floundering. Will their past regrets prevent them from finding future happiness?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909621701"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1909621706"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6oHFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6oHFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6oHFDAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Persuasion&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6oHFDAAAQBAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Persuasion.html?hl=&id=6oHFDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6oHFDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jane Austen&#39;s final novel is her most mature and wickedly satirical. It follows the story of Anne Elliot, a teenager engaged to a seemingly ideal man, Frederick Wentworth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JF_tjpMDWa4C",
+      "etag": "+beWrE4OgMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JF_tjpMDWa4C",
+      "volumeInfo": {
+        "title": "Persuasion",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2006-07-27",
+        "description": "This volume, first published in 2006, is a comprehensive scholarly edition of Jane Austen's innovative final novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521824187"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521824184"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JF_tjpMDWa4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JF_tjpMDWa4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JF_tjpMDWa4C&printsec=frontcover&dq=Jane+Austen+Persuasion&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JF_tjpMDWa4C&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Persuasion.html?hl=&id=JF_tjpMDWa4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Persuasion-sample-pdf.acsm?id=JF_tjpMDWa4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JF_tjpMDWa4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume, first published in 2006, is a comprehensive scholarly edition of Jane Austen&#39;s innovative final novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V_dvDwAAQBAJ",
+      "etag": "SJQhK6W8wF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V_dvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Persuasion",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Bantam Classics",
+        "publishedDate": "1984-04-01",
+        "description": "Jane Austen’s last completed novel, a brilliantly insightful story of regret, second chances, and the courage to follow our hearts Anne Elliot is twenty-seven and unmarried—by all accounts a spinster in her time—seemingly doomed to spend the rest of her life waiting on her image-obsessed father and extravagant older sister; attempting to maintain their once lavish, now dwindling family estate; and occasionally babysitting the children of her married younger sister. It wasn’t always this way, though. When Anne was nineteen, she was in love with and engaged to Frederick Wentworth, a man with no money and few prospects. Anne’s well-meaning family and friends convinced her that a young heiress like herself could do better, so she broke off the engagement. But when chance brings Wentworth and Anne together again eight years later, he is now an accomplished naval captain with an impressive fortune, and Anne must face her feelings for him that remain and consider how different her life could have been if only she hadn’t been so easily persuaded by others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553211375"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553211374"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V_dvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V_dvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V_dvDwAAQBAJ&dq=Jane+Austen+Persuasion&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=V_dvDwAAQBAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Persuasion.html?hl=&id=V_dvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V_dvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jane Austen’s last completed novel, a brilliantly insightful story of regret, second chances, and the courage to follow our hearts Anne Elliot is twenty-seven and unmarried—by all accounts a spinster in her time—seemingly doomed to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ualCfN7DVv0C",
+      "etag": "kXRvJZmmVl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ualCfN7DVv0C",
+      "volumeInfo": {
+        "title": "A Revolution Almost Beyond Expression",
+        "subtitle": "Jane Austen's Persuasion",
+        "authors": [
+          "Jocelyn Harris"
+        ],
+        "publisher": "University of Delaware Press",
+        "publishedDate": "2007-07",
+        "description": "Origins for Persuasion -- The reviser at work : MS chapter 10 to chapters X-XI (1818) -- At the White Hart : MS chapter 11 to chapter XII (1818) -- The history of Buonaparte -- Domestic virtues and national importance -- A critique on Walter Scott -- Prejudice on the side of ancestry -- The worth of Lyme -- The white glare of Bath -- Conclusion: Meaning to have spring again.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "087413966X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780874139662"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ualCfN7DVv0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ualCfN7DVv0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ualCfN7DVv0C&printsec=frontcover&dq=Jane+Austen+Persuasion&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ualCfN7DVv0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ualCfN7DVv0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 18.17,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ualCfN7DVv0C&rdid=book-ualCfN7DVv0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 18170000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Revolution_Almost_Beyond_Expression-sample-epub.acsm?id=ualCfN7DVv0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Revolution_Almost_Beyond_Expression-sample-pdf.acsm?id=ualCfN7DVv0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ualCfN7DVv0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Origins for Persuasion -- The reviser at work : MS chapter 10 to chapters X-XI (1818) -- At the White Hart : MS chapter 11 to chapter XII (1818) -- The history of Buonaparte -- Domestic virtues and national importance -- A critique on ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fi-cDwAAQBAJ",
+      "etag": "WMa8lihNb74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fi-cDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Jane Austen's Persuasion",
+        "authors": [
+          "Narinder Dhami",
+          "Jane Austen"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2019-10-17",
+        "description": "A fresh, funny and accessible retelling of Jane Austen's classic story, with witty black and white illustrations throughout. When she was just nineteen, Anne Elliot followed the wishes of her father and turned down the proposal of the man she loved - a naval officer called Frederick Wentworth. Years later, Captain Wentworth returns from his time at sea, and Anne dares to hope that their paths might cross once more. But the course of true love is bumpy at best - will Anne and Frederick ever be reunited? Narinder Dhami is the author of The Sleepover Club and The Beautiful Game series. Jane Austen is her favourite author of all time and she can't wait to introduce a new audience to Austen's final novel. Églantine Ceulemans captures all of Austen's satire and wit, bringing her colourful casts to life with warm and funny black and white illustrations. Illustrated and retold editions are also available for: Pride and Prejudice, Persuasion, Sense and Sensibility, Mansfield Park and Northanger Abbey. The perfect way to discover Austen for the first time, this bright and bold collection features some of the most inspiring and famous heroines in English literature. For readers aged eight and up.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444950649"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1444950649"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fi-cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fi-cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Fi-cDwAAQBAJ&printsec=frontcover&dq=Jane+Austen+Persuasion&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Fi-cDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fi-cDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Fi-cDwAAQBAJ&rdid=book-Fi-cDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Jane_Austen_s_Persuasion-sample-epub.acsm?id=Fi-cDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fi-cDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But the course of true love is bumpy at best - will Anne and Frederick ever be reunited? Narinder Dhami is the author of The Sleepover Club and The Beautiful Game series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g4LSvQEACAAJ",
+      "etag": "5Q8JOubMrKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g4LSvQEACAAJ",
+      "volumeInfo": {
+        "title": "Jane Austen: Persuasion",
+        "authors": [
+          "Kathleen May GOAD"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:561358885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=g4LSvQEACAAJ&dq=Jane+Austen+Persuasion&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=g4LSvQEACAAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_Persuasion.html?hl=&id=g4LSvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g4LSvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1zg2MQAACAAJ",
+      "etag": "g/0mBLEGUJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1zg2MQAACAAJ",
+      "volumeInfo": {
+        "title": "Persuasion",
+        "subtitle": "By Jane Austen - Illustrated",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-09",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About Persuasion by Jane Austen Persuasion is Jane Austen's last completed novel, published posthumously. She began it soon after she had finished Emma and completed it in August 1816. Persuasion was published in December 1817, but is dated 1818. The author died earlier in 1817. As the Napoleonic Wars come to an end in 1814, Admirals and Captains of the Royal Navy are put ashore, their work done. Anne Elliot meets Captain Frederick Wentworth after seven years, by the chance of his sister and brother-in-law renting her father's estate, while she stays for a few months with her married sister, living nearby. They fell in love the first time, but she broke off the engagement. Besides the theme of persuasion, the novel evokes other topics, with which Austen was familiar: the Royal Navy, in which two of Jane Austen's brothers rose to the rank of admiral; and the superficial social life of Bath. It is portrayed extensively and serves as a setting for the second half of Persuasion. In many respects, Persuasion marks a break with Austen's previous works, both in the more biting, even irritable satire directed at some of the novel's characters and in the regretful, resigned outlook of its otherwise admirable heroine, Anne Elliot, in the first part of the story. Against this is set the energy and appeal of the Royal Navy, which symbolises for Anne and the reader the possibility of a more outgoing, engaged, and fulfilling life, and it is this worldview which triumphs for the most part at the end of the novel. Persuasion is linked to Northanger Abbey not only by the fact that the two books were originally bound up in one volume and published together, but also because both stories are set partly in Bath, a fashionable city with which Austen was well acquainted, having lived there from 1801 to 1805.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540803449"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540803443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1zg2MQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1zg2MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1zg2MQAACAAJ&dq=Jane+Austen+Persuasion&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1zg2MQAACAAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Persuasion.html?hl=&id=1zg2MQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1zg2MQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Unabridged (100% Original content) Font adjustments &amp; biography included Illustrated About Persuasion by Jane Austen Persuasion is Jane Austen&#39;s last completed novel, published posthumously."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NR0tEAAAQBAJ",
+      "etag": "TF9xrRz48Fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NR0tEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Approaches to Teaching Austen's Persuasion",
+        "authors": [
+          "Marcia McClintock Folsom",
+          "John Wiltshire"
+        ],
+        "publisher": "Modern Language Association",
+        "publishedDate": "2021-04-25",
+        "description": "Offers pedagogical techniques for teaching Jane Austen's Persuasion, including considerations of social class, gender, philosophy, disability studies, the author's life, and the history of the Napoleonic Wars. Gives syllabus suggestions for undergraduate and graduate courses in nineteenth-century English literature, the history of the novel, and women's writing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781603294799"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1603294791"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NR0tEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NR0tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NR0tEAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Persuasion&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NR0tEAAAQBAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Approaches_to_Teaching_Austen_s_Persuasi.html?hl=&id=NR0tEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Approaches_to_Teaching_Austen_s_Persuasi-sample-epub.acsm?id=NR0tEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Approaches_to_Teaching_Austen_s_Persuasi-sample-pdf.acsm?id=NR0tEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NR0tEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gives syllabus suggestions for undergraduate and graduate courses in nineteenth-century English literature, the history of the novel, and women&#39;s writing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o5E_PgAACAAJ",
+      "etag": "vN39LyMisoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o5E_PgAACAAJ",
+      "volumeInfo": {
+        "title": "Persuasion",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Barnes & Noble",
+        "publishedDate": "2005-08",
+        "description": "The most comprehensive scholarly edition available of Jane Austen's innovative final novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1593083580"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593083588"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Dysfunctional families"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o5E_PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o5E_PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o5E_PgAACAAJ&dq=Jane+Austen+Persuasion&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o5E_PgAACAAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Persuasion.html?hl=&id=o5E_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o5E_PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The most comprehensive scholarly edition available of Jane Austen&#39;s innovative final novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JELKjwEACAAJ",
+      "etag": "18NtgENcssk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JELKjwEACAAJ",
+      "volumeInfo": {
+        "title": "Asumajätevesien puhdistus",
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:57926895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JELKjwEACAAJ&dq=Jane+Austen+Persuasion&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JELKjwEACAAJ&dq=Jane+Austen+Persuasion&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asumaj%C3%A4tevesien_puhdistus.html?hl=&id=JELKjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JELKjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Besides the theme of persuasion, the novel evokes other topics, with which Austen was familiar: the Royal Navy, in which two of Jane Austen&#39;s brothers rose to the rank of admiral; and the superficial social life of Bath."
+      }
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "yT9aAAAAMAAJ",
+      "etag": "3Genr91NIF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yT9aAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "1999",
+        "description": "The Wonderful Wizard of Oz remains one of the world's most beloved and widely read books. Throughout a century of remarkable change, the popularity of L. Frank Baum's classic tale has endured and grown, embraced by generation after generation of children and the young at heart. To honour the centennial of its publication in 1900, the University Press of Kansas is presenting this special anniversary edition that combines Baum's original text with the contributions of two renowned artists: book illustrator Michael McCurdy and writer Ray Bradbury. The book embraces and celebrates the oft-kidded connection between Baum's wondrous story and the state of Kansas.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015059999675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yT9aAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yT9aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yT9aAAAAMAAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yT9aAAAAMAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz.html?hl=&id=yT9aAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yT9aAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book embraces and celebrates the oft-kidded connection between Baum&#39;s wondrous story and the state of Kansas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kV7CAgAAQBAJ",
+      "etag": "JmiwkKRju7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kV7CAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz",
+        "subtitle": "Includes Read-and-Listen CDs",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2013-04-09",
+        "description": "The only edition of Baum's classic with full-color illustrations based on the original art now comes with two audio CDs! This lovely gift edition features an abridged text, accessible to even the youngest readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486173801"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486173801"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.12.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kV7CAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kV7CAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kV7CAgAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kV7CAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kV7CAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.29,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.56,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kV7CAgAAQBAJ&rdid=book-kV7CAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11290000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7560000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz-sample-epub.acsm?id=kV7CAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz-sample-pdf.acsm?id=kV7CAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kV7CAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The only edition of Baum&#39;s classic with full-color illustrations based on the original art now comes with two audio CDs! This lovely gift edition features an abridged text, accessible to even the youngest readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "McNsDAAAQBAJ",
+      "etag": "RENdtDhU4+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/McNsDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Dreamland - Lebanon",
+        "publishedDate": "2016-06-18",
+        "description": "The Wonderful Wizard of Oz is a novel of U.S. author L. Frank Baum. He is credited for writing thirteen novel sequels, nine fantasy novels, huge number of other works. These works include 82 short stories, over 200 poems, an unknown number of scripts, and many miscellaneous writings. First published on May 17, 1900 in Chicago, this novel is about the adventures of a girl named Dorothy in the Land of Oz. It is one of the best-known stories in the American popular culture and has been widely translated. Under the series of ‘Young Readers Classic’, this book describes the whole story in an interesting way. The colorful illustrations make it more pleasurable to read.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 65,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=McNsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=McNsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=McNsDAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=McNsDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=McNsDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.71,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=McNsDAAAQBAJ&rdid=book-McNsDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3710000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz-sample-pdf.acsm?id=McNsDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=McNsDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He is credited for writing thirteen novel sequels, nine fantasy novels, huge number of other works. These works include 82 short stories, over 200 poems, an unknown number of scripts, and many miscellaneous writings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FfEsEAAAQBAJ",
+      "etag": "a0hDsPF7plo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FfEsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz - Lyman Frank Baum",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Leonardo Lumbreras",
+        "publishedDate": "2021-05-20",
+        "description": "The Wonderful Wizard of Oz is an American children's novel written by author L. Frank Baum and illustrated by W.W. Denslow, originally published by the George M. Hill Company in May 1900. It has since seen several reprints, most often under the title The Wizard of Oz, which is the title of the popular 1902 Broadway musical adaptation as well as the iconic 1939 live-action film.The story chronicles the adventures of a young farm girl named Dorothy Gale in the magical Land of Oz after she and her pet dog Toto are swept away from their home in Kansas by a cyclone. The book is one of the best-known stories in American literature and has been widely translated. The Library of Congress has declared it \"America's greatest and best-loved homegrown fairytale.\" Its groundbreaking success, and that of the Broadway musical adapted from the novel led Baum to write thirteen additional Oz books that serve as official sequels to the first story.In January 1901, George M. Hill Company completed printing the first edition, a total of 10,000 copies, which quickly sold out. It had sold three million copies by the time it entered the public domain in 1956.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985519613"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985519617"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FfEsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FfEsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FfEsEAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FfEsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FfEsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FfEsEAAAQBAJ&rdid=book-FfEsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz_Lyman_Frank_B-sample-epub.acsm?id=FfEsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz_Lyman_Frank_B-sample-pdf.acsm?id=FfEsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FfEsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is one of the best-known stories in American literature and has been widely translated. The Library of Congress has declared it &quot;America&#39;s greatest and best-loved homegrown fairytale."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wiF1DwAAQBAJ",
+      "etag": "EvY/juu5XL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wiF1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz. / Children's NOVEL / Original Version Illustrated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2018-10-18",
+        "description": "The Wonderful Wizard of Ozis an American children's novel written by author L. Frank Baum and illustrated by W. W. Denslow, originally published by the George M. Hill Company in Chicago on May 17, 1900. It has since seen several reprints, most often under the title The Wizard of Oz, which is the title of the popular 1902 Broadway musical adaptation as well as the iconic 1939 musical film adaptation.The story chronicles the adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.[nb 1] The novel is one of the best-known stories in American literature and has been widely translated. The Library of Congress has declared it \"America's greatest and best-loved homegrown fairytale\". Its groundbreaking success and the success of the Broadway musical adapted from the novel led Baum to write thirteen additional Oz books that serve as official sequels to the first story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359167760"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359167764"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 314,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wiF1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wiF1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wiF1DwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wiF1DwAAQBAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz_Children_s_NO.html?hl=&id=wiF1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Wonderful_Wizard_of_Oz_Children_s_NO-sample-pdf.acsm?id=wiF1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wiF1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Its groundbreaking success and the success of the Broadway musical adapted from the novel led Baum to write thirteen additional Oz books that serve as official sequels to the first story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WPTTtAEACAAJ",
+      "etag": "sFHqS4QvyHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WPTTtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz by L. Frank Baum (Original Version)",
+        "subtitle": "The Wonderful Wizard of Oz by L. Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2017-08-23",
+        "description": "Dorothy thinks she's lost forever when a tornado whirls her and her dog, Toto, into a magical world. To get home, she must find the wonderful wizard in the Emerald City of Oz. On the way she meets the Scarecrow, the Tin Woodman and the Cowardly Lion. But the Wicked Witch of the West has her own plans for the new arrival",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1975698266"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781975698263"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WPTTtAEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WPTTtAEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz_by_L_Frank_Ba.html?hl=&id=WPTTtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WPTTtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dorothy thinks she&#39;s lost forever when a tornado whirls her and her dog, Toto, into a magical world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "07a_zQEACAAJ",
+      "etag": "3E96wxWfPwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/07a_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz by L. Frank Baum (Illustrated)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2020-07-10",
+        "description": "The Wonderful Wizard of Oz is a true classic This version of The Wonderful Wizard of Oz contains 24 brand new unique illustrations by the one and only illustrator Topchii Viola Follow the the aventures of Dorothy Gale who found life as dull as the gray prairies that surrounded her Kansas home--until one day a cyclone transported her to a strange fairy-tale land known as Oz. There Dorothy would discover a wondrous place filled with Munchkins, flying monkeys, witches, and magic.The only way for Dorothy and her dog, Toto, to return home to dear Uncle Henry and Aunt Em is to travel along the road of yellow brick to the Emerald City, where the all-powerful Wizard of Oz may be able to help her. Along the way, Dorothy befriends the Scarecrow, the Tin Woodman, and the Cowardly Lion, who also need the Wizard's help. But while Dorothy desperately tries to find her way back home, the Wicked Witch of the West will do whatever it takes to stop her.Re-discover the american classic 'The Wonderful Wizard of Oz' re-told with stuning illustrations today",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798665182964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=07a_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=07a_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=07a_zQEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=07a_zQEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz_by_L_Frank_Ba.html?hl=&id=07a_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=07a_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Wonderful Wizard of Oz is a true classic This version of The Wonderful Wizard of Oz contains 24 brand new unique illustrations by the one and only illustrator Topchii Viola Follow the the aventures of Dorothy Gale who found life as dull ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QkK9BgAAQBAJ",
+      "etag": "tP+7ZEZvlUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QkK9BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Oxford Children's Classics: The Wonderful Wizard of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Oxford University Press - Children",
+        "publishedDate": "2015-03-05",
+        "description": "What are you looking for? Friendship! Fantasy! Adventure! Excitement! Dorothy and her friends know there's only one person who can help make their wishes come true and that's the Wizard. But as they set off to find him, the Wicked Witch is never far behind . . . Oxford Children's Classics present not only the original and unabridged story of The Wonderful Wizard of Oz in a stunning new edition, but also help you to discover a whole world of new adventures with a vast assortment of recommendations and activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192738516"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192738518"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QkK9BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QkK9BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QkK9BgAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QkK9BgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QkK9BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QkK9BgAAQBAJ&rdid=book-QkK9BgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oxford_Children_s_Classics_The_Wonderful-sample-epub.acsm?id=QkK9BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oxford_Children_s_Classics_The_Wonderful-sample-pdf.acsm?id=QkK9BgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QkK9BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Oxford Children&#39;s Classics present not only the original and unabridged story of The Wonderful Wizard of Oz in a stunning new edition, but also help you to discover a whole world of new adventures with a vast assortment of recommendations ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X_7VbOGM8iMC",
+      "etag": "UzmQq4knFM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X_7VbOGM8iMC",
+      "volumeInfo": {
+        "title": "Oz Before the Rainbow",
+        "subtitle": "L. Frank Baum's the Wonderful Wizard of Oz on Stage and Screen to 1939",
+        "authors": [
+          "Mark Evan Swartz"
+        ],
+        "publisher": "JHU Press",
+        "publishedDate": "2002",
+        "description": "Swartz reminds us in that various stage and screen dramatizations of Baum's story preceded and influenced the 1939 film. This richly illustrated book contains many rare photographs, film stills, sketches, theater programs, and movie advertisements from the different productions. Piecing together the Chicago and Broadway stage productions (1902-3) from contemporary reviews, surviving script pages, and published song lyrics, Swartz shows how Baum and his many collaborators worked to transform the book into a popular theatrical attraction -- often requiring significant alterations to the original story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0801864771"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780801864773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X_7VbOGM8iMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X_7VbOGM8iMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X_7VbOGM8iMC&printsec=frontcover&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=X_7VbOGM8iMC&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oz_Before_the_Rainbow.html?hl=&id=X_7VbOGM8iMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oz_Before_the_Rainbow-sample-pdf.acsm?id=X_7VbOGM8iMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X_7VbOGM8iMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This richly illustrated book contains many rare photographs, film stills, sketches, theater programs, and movie advertisements from the different productions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d7ekzgEACAAJ",
+      "etag": "BXxw6P+rcYc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d7ekzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz by Lyman Frank Annotated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2021-03-21",
+        "description": "Contain book summary and analysis.Author biography and photos.Overview with story Pictures.The story that taught the world \"there's no place like home\"In this fairy tale so magical that it seems every child is born knowing it, a tornado transports Dorothy Gale and her dog, Toto, from the flat prairies of Kansas to the marvelous Land of Oz. A fantastic journey soon follows, as Dorothy travels a yellow brick road in search of a sorcerer with the power to send her home. Joining her are the Scarecrow, the Tin Woodman, and the Cowardly Lion, each of whom has a wish just as important as Dorothy's. All of their dreams will come true if they can only make it to the Emerald City and the wonderful Wizard of Oz.One of the most beloved children's books of all time, L. Frank Baum's The Wonderful Wizard of Oz has inspired countless adaptations, including the classic 1939 film starring Judy Garland.This ebook has been professionally proofread to ensure accuracy and readability on all devices.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798725080957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d7ekzgEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d7ekzgEACAAJ&dq=L.+Frank+Baum+The+Wonderful+Wizard+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz_by_Lyman_Fran.html?hl=&id=d7ekzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d7ekzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contain book summary and analysis.Author biography and photos.Overview with story Pictures.The story that taught the world &quot;there&#39;s no place like home&quot;In this fairy tale so magical that it seems every child is born knowing it, a tornado ..."
+      }
+    }
+  ]
+}

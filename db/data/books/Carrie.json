@@ -1,0 +1,772 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gm1_ZjzjEboC",
+      "etag": "kbd75xekXw0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gm1_ZjzjEboC",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2000-09",
+        "description": "Make a date with terror -- and live the nightmare that is ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671039738"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0671039733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gm1_ZjzjEboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gm1_ZjzjEboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gm1_ZjzjEboC&printsec=frontcover&dq=Stephen+King+Carrie&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gm1_ZjzjEboC&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=gm1_ZjzjEboC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gm1_ZjzjEboC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Although CARRIE first captured America&#39;s attention with its shocking climax, it remains as vibrant today as when it was first published because of Stephen King&#39;s ability to tap the collective unconscious of our commercial society."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iWLWnAEACAAJ",
+      "etag": "HyFnnujqwTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iWLWnAEACAAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Turtleback Books",
+        "publishedDate": "2013-09-24",
+        "description": "A sixteen-year-old misfit, denied everything by her fanatical mother and abused by her classmates, unleashes her terrifying telekinetic powers on an entire town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0606320911"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780606320917"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Child abuse"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iWLWnAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iWLWnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iWLWnAEACAAJ&dq=Stephen+King+Carrie&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iWLWnAEACAAJ&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=iWLWnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iWLWnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A sixteen-year-old misfit, denied everything by her fanatical mother and abused by her classmates, unleashes her terrifying telekinetic powers on an entire town."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vRVfAQAAQBAJ",
+      "etag": "2B4UkP8Mvgs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vRVfAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "subtitle": "Roman",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "BASTEI LÜBBE",
+        "publishedDate": "2013-10-25",
+        "description": "Als 3-jährige lässt sie einen Steinregen auf ihr Elternhaus niederregnen, weil ihre Mutter ihr in einem Anfall religiösem Wahns nach dem Leben trachtet. Als 16-jährige erlebt sie einen Augenblick tiefster Demütigung. Dann, auf dem Abschlussball der Schule, wird sie das Opfer eines bösen Streichs. Schmerz, Enttäuschung, Wut treiben sie zum Äußersten: Mit der schieren Kraft ihres Willens entfesselt sie ein Inferno, gegen das die Hölle der Garten Eden ist. Das ist Carrie - beseelt, besessen von einer unheimlichen Gabe mit ungeheurer Tragweite und furchtbaren Folgen...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783838752020"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3838752023"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.20.22.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vRVfAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vRVfAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=vRVfAQAAQBAJ&printsec=frontcover&dq=Stephen+King+Carrie&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vRVfAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vRVfAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.79,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.79,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vRVfAQAAQBAJ&rdid=book-vRVfAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7790000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7790000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Carrie-sample-epub.acsm?id=vRVfAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Carrie-sample-pdf.acsm?id=vRVfAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vRVfAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Das ist Carrie - beseelt, besessen von einer unheimlichen Gabe mit ungeheurer Tragweite und furchtbaren Folgen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "smuQDwAAQBAJ",
+      "etag": "TQiXb4CHz3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/smuQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Carrie by Stephen King (Book Analysis)",
+        "subtitle": "Detailed Summary, Analysis and Reading Guide",
+        "authors": [
+          "Bright Summaries"
+        ],
+        "publisher": "BrightSummaries.com",
+        "publishedDate": "2019-04-03",
+        "description": "Unlock the more straightforward side of Carrie with this concise and insightful summary and analysis! This engaging summary presents an analysis of Carrie by Stephen King, a cult horror novel about a young girl who is bullied and isolated by her peers, while also being psychologically abused and neglected by her mother. However, Carrie also has a secret: she has powerful telekinetic powers, and when her tormentors take one of their pranks too far, she uses it to unleash a storm of revenge against them – and the entire town. Stephen King is often referred to as the ‘King of Horror’ thanks to the popularity of his novels and their influence on the genre as a whole, although his work also spans a range of other genres. Find out everything you need to know about Carrie in a fraction of the time! This in-depth and informative reading guide brings you: • A complete plot summary • Character studies • Key themes and symbols • Questions for further reflection Why choose BrightSummaries.com? Available in print and digital format, our publications are designed to accompany you on your reading journey. The clear and concise style makes for easy understanding, providing the perfect opportunity to improve your literary knowledge in no time. See the very best of literature in a whole new light with BrightSummaries.com!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782808017442"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2808017448"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=smuQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=smuQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=smuQDwAAQBAJ&printsec=frontcover&dq=Stephen+King+Carrie&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=smuQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=smuQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.73,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 8.73,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=smuQDwAAQBAJ&rdid=book-smuQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8730000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 8730000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=smuQDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Unlock the more straightforward side of Carrie with this concise and insightful summary and analysis!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nkv1T2ZyN-0C",
+      "etag": "TocvZg+liJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nkv1T2ZyN-0C",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Plaza y Janes",
+        "publishedDate": "2001-09-04",
+        "description": "El escalofriante caso de una joven en apariencia insignificante que se transformó en un ser de poderes anormales, sembrando el terror en su ciudad. Con pulo mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una seie de descubrimientos hasta llegar al terrible momento de la vengaza. esta novela fue llevada al cina y obtuvo un imenso éxito de público y de crítica.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0609810901"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780609810903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nkv1T2ZyN-0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nkv1T2ZyN-0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=Nkv1T2ZyN-0C&q=Stephen+King+Carrie&dq=Stephen+King+Carrie&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Nkv1T2ZyN-0C&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=Nkv1T2ZyN-0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nkv1T2ZyN-0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con pulo mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una seie de descubrimientos hasta ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bhRaRAAACAAJ",
+      "etag": "uYCQ/7aNPWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bhRaRAAACAAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1992-05",
+        "description": "Unaware that she possesses a terrifying power, Carrie White creates much destruction in a small, quiet New England town. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8401498880"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788401498886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Child abuse"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=bhRaRAAACAAJ&dq=Stephen+King+Carrie&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bhRaRAAACAAJ&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=bhRaRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bhRaRAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Unaware that she possesses a terrifying power, Carrie White creates much destruction in a small, quiet New England town. Copyright © Libri GmbH. All rights reserved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6nZ9PwAACAAJ",
+      "etag": "ynZIGGFuKmw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6nZ9PwAACAAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2006",
+        "description": "El escalofriante caso de una joven de apariencia insignificante que se transformó en un ser de poderes anormales, sembrando el terror en la ciudad. Con pulso mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una serie de descubrimientos hasta llegar al terrible momento de la venganza. Esta novela fue llevada al cine con un inmenso éxito de público y crítica.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0307348075"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307348074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "High school students"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6nZ9PwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6nZ9PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.co.uk/books?id=6nZ9PwAACAAJ&dq=Stephen+King+Carrie&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6nZ9PwAACAAJ&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=6nZ9PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6nZ9PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con pulso mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una serie de descubrimientos hasta ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2BcECkYB7uoC",
+      "etag": "aUnyuTOmnzI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2BcECkYB7uoC",
+      "volumeInfo": {
+        "title": "Stephen King from A to Z",
+        "subtitle": "An Encyclopedia of His Life and Work",
+        "authors": [
+          "George Beahm",
+          "Beahm"
+        ],
+        "publisher": "Andrews McMeel Publishing",
+        "publishedDate": "1998-09",
+        "description": "Contains hundreds of alphabetically arranged entries that provide information about various aspects of the life and work of popular novelist Stephen King.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0836269144"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780836269147"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2BcECkYB7uoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2BcECkYB7uoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2BcECkYB7uoC&pg=PA29&dq=Stephen+King+Carrie&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2BcECkYB7uoC&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_from_A_to_Z.html?hl=&id=2BcECkYB7uoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Stephen_King_from_A_to_Z-sample-pdf.acsm?id=2BcECkYB7uoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2BcECkYB7uoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Carrie&#39;s</b> ability to force objects to move by her mental will . This &quot; wild tal- ent , &quot; as it&#39;s called , would show up in various forms in other children who would figure prominently in King&#39;s ... <b>Stephen King</b> : The Art of Darkness , the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cNNhPwAACAAJ",
+      "etag": "rBHGV+9Vcq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cNNhPwAACAAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "G K Hall & Company",
+        "publishedDate": "1994",
+        "description": "In one way or another, everybody abused Carrie. Her fanatical mother forbade this sixteen-year-old misfit everything that was young and fun. She was teased and taunted by her classmates, misunderstood by her teachers, and given up as hopeless by almost everyone. But Carrie had a secret: she posessed terrifying telekinetic powers that could make inanimate objects move, a lighted candle fall, or a door lock. Carrie could make all kinds of startling bizarre, and malevolent things happen. And so she did one night, when feeling scorned and humiliated, and growing angrier and angrier, she became the vengeful demon who let the whole town feel her power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0816156883"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816156887"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cNNhPwAACAAJ&dq=Stephen+King+Carrie&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cNNhPwAACAAJ&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=cNNhPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cNNhPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But Carrie had a secret: she posessed terrifying telekinetic powers that could make inanimate objects move, a lighted candle fall, or a door lock. Carrie could make all kinds of startling bizarre, and malevolent things happen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5zeKzgEACAAJ",
+      "etag": "cxtoaJ/Ji7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5zeKzgEACAAJ",
+      "volumeInfo": {
+        "title": "Carrie",
+        "authors": [
+          "Neil Mitchell"
+        ],
+        "publishedDate": "2021",
+        "description": "Brian De Palma's adaptation of Stephen King's debut novel, 'Carrie' (1976), is one of the defining films of 1970s 'New Hollywood' style and a horror classic. The story of a teenage social outcast who discovers she possesses latent psychic powers that allow her to deliver retribution to her peers, teachers, and abusive mother, Carrie was an enormous commercial and critical success and is still one of the finest screen adaptations of a King novel. This book not only breaks the film down into its formal components - its themes, stylistic tropes, technical approaches, uses of colour and sound, dialogue, and visual symbolism - but also considers a multitude of other factors contributing to the work's classic status.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "180034211X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800342118"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "categories": [
+          "Carrie (Motion picture : 1976)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5zeKzgEACAAJ&dq=Stephen+King+Carrie&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5zeKzgEACAAJ&dq=Stephen+King+Carrie&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carrie.html?hl=&id=5zeKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5zeKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book not only breaks the film down into its formal components - its themes, stylistic tropes, technical approaches, uses of colour and sound, dialogue, and visual symbolism - but also considers a multitude of other factors contributing ..."
+      }
+    }
+  ]
+}

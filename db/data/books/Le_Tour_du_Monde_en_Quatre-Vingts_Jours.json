@@ -1,0 +1,692 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "U4LVEAAAQBAJ",
+      "etag": "dJAvAlLm6DE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U4LVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Le tour du monde en quatre-vingts jours",
+        "subtitle": "en gros caractères",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-09-04",
+        "description": "Reproduction de l'original. La maison d'édition Megali se spécialise dans la reproduction d'œuvres historiques en gros caractères afin de faciliter la lecture aux personnes dont la vue est réduite.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783387027761"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3387027761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U4LVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U4LVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=U4LVEAAAQBAJ&printsec=frontcover&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U4LVEAAAQBAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_tour_du_monde_en_quatre_vingts_jours.html?hl=&id=U4LVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Le_tour_du_monde_en_quatre_vingts_jours-sample-pdf.acsm?id=U4LVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4LVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction de l&#39;original. La maison d&#39;édition Megali se spécialise dans la reproduction d&#39;œuvres historiques en gros caractères afin de faciliter la lecture aux personnes dont la vue est réduite."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2wYTCwAAQBAJ",
+      "etag": "jUuzQcPtIG0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2wYTCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Le tour du Monde en 80 jours",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "L'Edition numérique européenne",
+        "publishedDate": "2015-09-28",
+        "description": "Le Tour du monde en quatre-vingts jours est un roman d'aventures de Jules Verne, publié en 1872. Le roman raconte la course autour du monde d'un gentleman anglais, Phileas Fogg, qui a fait le pari d'y parvenir en quatre-vingts jours. Il est accompagné par Jean Passepartout, son serviteur français. L'ensemble du roman mêle récit de voyage (traditionnel pour Jules Verne) et données scientifiques comme celle utilisée pour le rebondissement de la chute du roman. Ce voyage extraordinaire est rendu possible grâce à la révolution des transports qui marque le XIXe siècle et les débuts de la révolution industrielle. L'apparition de nouveaux modes de transport (chemin de fer, machine à vapeur) et l'ouverture du canal de Suez en 1869 raccourcissent les distances, ou du moins le temps nécessaire pour les parcourir. Le premier tour du monde en quatre-vingts jours réellement effectué le fut par George Francis Train en 1870.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782806701763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2806701767"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.21.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2wYTCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2wYTCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=2wYTCwAAQBAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2wYTCwAAQBAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_tour_du_Monde_en_80_jours.html?hl=&id=2wYTCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2wYTCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le Tour du monde en quatre-vingts jours est un roman d&#39;aventures de Jules Verne, publié en 1872."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vXn_zQEACAAJ",
+      "etag": "exCDSlY62PM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vXn_zQEACAAJ",
+      "volumeInfo": {
+        "title": "Around the World in 80 Days Illustrated",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2020-10-28",
+        "description": "Around the World in Eighty Days (French: Le tour du monde en quatre-vingts jours) is an adventure novel by the French writer Jules Verne, first published in French in 1872. In the story, Phileas Fogg of London and his newly employed French valet Pass partout attempt to circumnavigate the world in 80 days on a £20,000 wager set by his friends at the Reform Club. It is one of Verne's most acclaimed works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798554696190"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vXn_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vXn_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vXn_zQEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vXn_zQEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Around_the_World_in_80_Days_Illustrated.html?hl=&id=vXn_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vXn_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the story, Phileas Fogg of London and his newly employed French valet Pass partout attempt to circumnavigate the world in 80 days on a £20,000 wager set by his friends at the Reform Club. It is one of Verne&#39;s most acclaimed works."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WG7LtAEACAAJ",
+      "etag": "KeknjZKdGXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WG7LtAEACAAJ",
+      "volumeInfo": {
+        "title": "Le Tour du Monde en Quatre-Vingts Jours",
+        "subtitle": "De Jules Verne",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2017-09",
+        "description": "Un soir d'octobre de l'année 1872, Phileas Fogg parie en public qu'il fera le tour du monde en quatre-vingts jours. Personne ne le pense capable de relever le défi . Secondé en tout par son fidèle serviteur Passepartout, le voilà pourtant déjà parti en gare de Douvres, prêt pour l'aventure ! Les deux hommes parcourent la planète à vive allure, en train, en bateau, en voiture, rebondissant de péripétie en péripétie. Le temps presse, ils doivent être rentrés à Londres au plus tard le samedi 21 décembre !",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154964842X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781549648427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=WG7LtAEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WG7LtAEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_Tour_du_Monde_en_Quatre_Vingts_Jours.html?hl=&id=WG7LtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WG7LtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un soir d&#39;octobre de l&#39;année 1872, Phileas Fogg parie en public qu&#39;il fera le tour du monde en quatre-vingts jours."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3_FHswEACAAJ",
+      "etag": "8RXmpeXcWWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3_FHswEACAAJ",
+      "volumeInfo": {
+        "title": "Le Tour Du Monde En Quatre-Vingts Jours",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-11-23",
+        "description": "Le Tour du monde en quatre-vingts jours est un roman d'aventures de Jules Verne, publi� en 1872. Le roman raconte la course autour du monde d'un gentleman anglais, Phileas Fogg, qui a fait le pari d'y parvenir en quatre-vingts jours. Il est accompagn� par Jean Passepartout, son serviteur fran�ais. L'ensemble du roman m�le r�cit de voyage (traditionnel pour Jules Verne) et donn�es scientifiques comme celle utilis�e pour le rebondissement de la chute du roman.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979990824"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979990820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3_FHswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3_FHswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=3_FHswEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3_FHswEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_Tour_Du_Monde_En_Quatre_Vingts_Jours.html?hl=&id=3_FHswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3_FHswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le Tour du monde en quatre-vingts jours est un roman d&#39;aventures de Jules Verne, publié en 1872."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ApgXjwEACAAJ",
+      "etag": "PvaKoXO84SI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ApgXjwEACAAJ",
+      "volumeInfo": {
+        "title": "Tour Du Monde En Quatre-Vingts Jours: Around the World in 80 Days (French Edition)",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-12-01",
+        "description": "Le Tour du monde en quatre-vingts jours est un roman d'aventures de Jules Verne, publie en 1872. Le roman raconte la course autour du monde d'un gentleman anglais, Phileas Fogg, qui a fait le pari d'y parvenir en quatre-vingts jours. Il est accompagne par Jean Passepartout, son serviteur francais. L'ensemble du roman mele recit de voyage (traditionnel pour Jules Verne) et donnees scientifiques comme celle utilisee pour le rebondissement de la chute du roman. Ce voyage extraordinaire est rendu possible grace a la revolution des transports qui marque le XIXe siecle et les debuts de la revolution industrielle. L'apparition de nouveaux modes de transport (chemin de fer, machine a vapeur) et l'ouverture du canal de Suez en 1869 raccourcissent les distances, ou du moins le temps necessaire pour les parcourir. Le premier tour du monde en quatre-vingts jours fut effectue par George Francis Train en 1870.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1519604750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781519604750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ApgXjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ApgXjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=ApgXjwEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ApgXjwEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tour_Du_Monde_En_Quatre_Vingts_Jours_Aro.html?hl=&id=ApgXjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ApgXjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le Tour du monde en quatre-vingts jours est un roman d&#39;aventures de Jules Verne, publie en 1872."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s0iwzgEACAAJ",
+      "etag": "3VhkJt9hRMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s0iwzgEACAAJ",
+      "volumeInfo": {
+        "title": "Le Tour du Monde en Quatre-Vingts Jours | Jules Verne",
+        "subtitle": "Texte Intégral (Annoté d'une Biographie)",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2021-09-19",
+        "description": "M. Phileas Fogg est un gentleman qui mène une vie tranquille à Londres, entre sa maison et le Reform-Club où il se rend tous les jours. Un après-midi, avec ses compagnons de jeu du Club, il fait un étrange pari... celui de réaliser le tour du monde en quatre-vingt jours! Y parviendra-t-il? Cette édition de qualité contient : - Le texte intégral - Une biographie unique et originale de Jules Verne - Une table des matières",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798480221275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=s0iwzgEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s0iwzgEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_Tour_du_Monde_en_Quatre_Vingts_Jours.html?hl=&id=s0iwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s0iwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Y parviendra-t-il? Cette édition de qualité contient : - Le texte intégral - Une biographie unique et originale de Jules Verne - Une table des matières"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WonTDwAAQBAJ",
+      "etag": "2OzeFhtJwtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WonTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Around the World in Eighty Days",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2020-02-08",
+        "description": "AROUND THE WORLD IN EIGHTY DAYS (1873) jules Verne Around the World in Eighty Days (French: Le tour du monde en quatre-vingts jours) is an adventure novel by the French writer Jules Verne, first published in French in 1872. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a �20,000 wager (�2,242,900 in 2019) set by his friends at the Reform Club. It is one of Verne's most acclaimed works. JULES VERNE ADVENTURE NOVELS INCLUDES JOURNEY TO THE CENTER OF THE EARTH (1864), TWENTY THOUSAND LEAGUES UNDER THE SEA (1870), AND AROUND THE WORLD IN EIGHTY DAYS (1873). AROUND THE WORLD IN EIGHTY DAYS (FRENCH: LE TOUR DU MONDE EN QUATRE-VINGTS JOURS) IS A CLASSIC ADVENTURE NOVEL BY THE FRENCH WRITER JULES VERNE, PUBLISHED IN 1873.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678128333"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1678128333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WonTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WonTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WonTDwAAQBAJ&printsec=frontcover&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WonTDwAAQBAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Around_the_World_in_Eighty_Days.html?hl=&id=WonTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Around_the_World_in_Eighty_Days-sample-pdf.acsm?id=WonTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WonTDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a  20,000 wager ( 2,242,900 in 2019) set by his friends at the Reform Club."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ts_VtwEACAAJ",
+      "etag": "ZFEcZTnA96w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ts_VtwEACAAJ",
+      "volumeInfo": {
+        "title": "Le Tour Du Monde En Quatre-Vingts Jours",
+        "subtitle": "1873",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2018-05-31",
+        "description": "Le Tour du monde en quatre-vingts joursJules VERNE (1828 - 1905)Anglais flegmatique, enragé joueur de whist, Phileas Fogg, dont on ignore tout, mène une vie réglée comme une horloge. Jamais un mot, ni un mouvement inutiles. Ce mercredi 2 octobre 1872, tout pourrait bien changer : contre l'avis de ses partenaires de jeu du Reform-Club, Phileas Fogg soutient qu'on peut maintenant parcourir la terre en quatre-vingts jours seulement. Un pari est lancé. S'il n'est pas de retour le samedi 21 décembre, à huit heures quarante-cinq du soir, notre homme perd tout.Avec Jean Passepartout, domestique français fraîchement engagé, il devra « sauter mathématiquement des railways dans les paquebots, et des paquebots dans les chemins de fer ». Mais sa route pourrait bien être parsemée d'embûches ...A bet: Phileas Fogg, an English man, is to travel around the world in eighty days by land and sea. Will he make it? Let's follow his adventure through the writings of Jules Verne, in French.(Summary by Ezwa)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1720489963"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781720489962"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ts_VtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ts_VtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.co.uk/books?id=ts_VtwEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ts_VtwEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_Tour_Du_Monde_En_Quatre_Vingts_Jours.html?hl=&id=ts_VtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ts_VtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A bet: Phileas Fogg, an English man, is to travel around the world in eighty days by land and sea. Will he make it? Let&#39;s follow his adventure through the writings of Jules Verne, in French.(Summary by Ezwa)"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pZFfzgEACAAJ",
+      "etag": "Gf1yrLtvoh0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pZFfzgEACAAJ",
+      "volumeInfo": {
+        "title": "Around the World in Eighty Days",
+        "subtitle": "Annotated",
+        "authors": [
+          "jules verne"
+        ],
+        "publishedDate": "2020-11-30",
+        "description": "Around the World in Eighty Days (French: Le Tour du monde en quatre-vingts jours) is an adventure novel by the French writer Jules Verne, first published in French in 1872. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a £20,000 wager (£2,242,900 in 2019) set by his friends at the Reform Club. It is one of Verne's most acclaimed works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798574177556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pZFfzgEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pZFfzgEACAAJ&dq=Jules+Verne+Le+Tour+du+Monde+en+Quatre-Vingts+Jours&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Around_the_World_in_Eighty_Days.html?hl=&id=pZFfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pZFfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a £20,000 wager (£2,242,900 in 2019) set by his friends at the Reform Club."
+      }
+    }
+  ]
+}

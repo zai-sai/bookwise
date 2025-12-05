@@ -1,0 +1,697 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pRfaREikQbIC",
+      "etag": "SwxdavRbL4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pRfaREikQbIC",
+      "volumeInfo": {
+        "title": "Greenmantle",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-07-01",
+        "description": "British writer John Buchan's Greenmantle is the second of five adventure novels to star Richard Hannay, a man with a remarkable knack for getting out of sticky situations, and indeed getting into them in the first place. During the First World War, amid news of an uprising in the the Islamic world, Hannay must make the dangerous journey through enemy territory into Constantinople, in order to foil a German plot to use religion to dominate the war. Greenmantle follows on from Buchan's The Thirty-Nine Steps.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775416098"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1775416097"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 463,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pRfaREikQbIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pRfaREikQbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pRfaREikQbIC&printsec=frontcover&dq=John+Buchan+Greenmantle&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pRfaREikQbIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pRfaREikQbIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pRfaREikQbIC&rdid=book-pRfaREikQbIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Greenmantle-sample-epub.acsm?id=pRfaREikQbIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pRfaREikQbIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "British writer John Buchan&#39;s Greenmantle is the second of five adventure novels to star Richard Hannay, a man with a remarkable knack for getting out of sticky situations, and indeed getting into them in the first place."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0LvUjwEACAAJ",
+      "etag": "QHAo5X6U/0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0LvUjwEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle",
+        "subtitle": "John Buchan Masterpiece Collection",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2014-06-12",
+        "description": "As part of ClassicReader.com, Stephane Theroux presents the full text of \"Greenmantle,\" by Scottish author John Buchan (1875-1940). The novel was published in 1916 and is an adventure and espionage story featuring Richard Hannay, the hero of Buchan's novel \"The Thirty-Nine Steps.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1500179442"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781500179441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0LvUjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0LvUjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0LvUjwEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0LvUjwEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle.html?hl=&id=0LvUjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0LvUjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I sat and thought for a bit, for the name &#39;Bullivant&#39; carried me back eighteen months to the hot summer before the war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zxuozwEACAAJ",
+      "etag": "f6UETmEnAX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zxuozwEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle, by John Buchan",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:655792519"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zxuozwEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zxuozwEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_by_John_Buchan.html?hl=&id=zxuozwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zxuozwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OnANzgEACAAJ",
+      "etag": "ZUaD5kdQbBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OnANzgEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle",
+        "authors": [
+          "Jhon Buchan"
+        ],
+        "publishedDate": "2020-09-29",
+        "description": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798691743856"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OnANzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OnANzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle.html?hl=&id=OnANzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OnANzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xOcyzgEACAAJ",
+      "etag": "fCcUyZUSGgw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xOcyzgEACAAJ",
+      "volumeInfo": {
+        "title": "\"Greenmantle Illustrated\"",
+        "authors": [
+          "Jhon Buchan"
+        ],
+        "publishedDate": "2021-02-09",
+        "description": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798706826888"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xOcyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xOcyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xOcyzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xOcyzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_Illustrated.html?hl=&id=xOcyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xOcyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pASozwEACAAJ",
+      "etag": "PjDD/hk7YdY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pASozwEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle (1916) by",
+        "subtitle": "John Buchan ( NOVEL )",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-08",
+        "description": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London. It is one of two Hannay novels set during the First World War, the other being Mr Standfast (1919); Hannay's first and best-known adventure, The Thirty-Nine Steps (1915), is set in the period immediately preceding the war.Hannay is called in to investigate rumours of an uprising in the Muslim world, and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542998689"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542998680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pASozwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pASozwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pASozwEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pASozwEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_1916_by.html?hl=&id=pASozwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pASozwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UtOPjwEACAAJ",
+      "etag": "LCN8R1JcsUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UtOPjwEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle (1916) Novel by John Buchan",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-03-02",
+        "description": "WWI spy Richard Hannay is called in to investigate rumours of an uprising in the Muslim world, and undertakes a perilous journey through enemy territory to meet up with his friend Sandy in Constantinople.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530339316"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530339310"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UtOPjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UtOPjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UtOPjwEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UtOPjwEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_1916_Novel_by_John_Buchan.html?hl=&id=UtOPjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UtOPjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WWI spy Richard Hannay is called in to investigate rumours of an uprising in the Muslim world, and undertakes a perilous journey through enemy territory to meet up with his friend Sandy in Constantinople."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TNbXzQEACAAJ",
+      "etag": "3UfuoUPr/H4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TNbXzQEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle Illustrated",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2020-09-13",
+        "description": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London. It is one of two Hannay novels set during the First World War, the other being Mr Standfast (1919); Hannay's first and best-known adventure, The Thirty-Nine Steps (1915), is set in the period immediately preceding the war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798685824127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TNbXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TNbXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TNbXzQEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TNbXzQEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_Illustrated.html?hl=&id=TNbXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TNbXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_dt4wAEACAAJ",
+      "etag": "kCEI3ur0tmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_dt4wAEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle (1916) by John Buchan",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-01-04",
+        "description": "John Buchan, 1st Baron Tweedsmuir, 26 August 1875 - 11 February 1940) was a Scottish novelist, historian, and Unionist politician who served as Governor General of Canada, the 15th since Canadian Confederation.After a brief legal career, Buchan simultaneously began his writing career and his political and diplomatic careers, serving as a private secretary to the administrator of various colonies in southern Africa. He eventually wrote propaganda for the British war effort during World War I. He was elected Member of Parliament for the Combined Scottish Universities in 1927, but he spent most of his time on his writing career, notably writing The Thirty-Nine Steps and other adventure fiction. In 1935, King George V, on the advice of Prime Minister R. B. Bennett, appointed Buchan to replace the Earl of Bessborough as Governor General of Canada, for which purpose Buchan was raised to the peerage. He occupied the post until his death in 1940.Buchan was enthusiastic about literacy and the development of Canadian culture, and he received a state funeral in Canada before his ashes were returned to the United Kingdom Buchan was born in Perth, Scotland, the first child of John Buchan-a Free Church of Scotland minister-and Helen Jane Buchan. He was brought up in Kirkcaldy, Fife, and spent many summer holidays with his maternal grandparents in Broughton in the Scottish Borders. There he developed a love for walking and for the local scenery and wildlife, both of which are often featured in his novels. The protagonist in several of his books is Sir Edward Leithen, whose name is borrowed from the Leithen Water, a tributary of the River Tweed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1793165149"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781793165145"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_dt4wAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_dt4wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_dt4wAEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_dt4wAEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_1916_by_John_Buchan.html?hl=&id=_dt4wAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_dt4wAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "John Buchan, 1st Baron Tweedsmuir, 26 August 1875 - 11 February 1940) was a Scottish novelist, historian, and Unionist politician who served as Governor General of Canada, the 15th since Canadian Confederation.After a brief legal career, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "474UzgEACAAJ",
+      "etag": "YmFF4RE1sVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/474UzgEACAAJ",
+      "volumeInfo": {
+        "title": "Greenmantle Annotated",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2020-12",
+        "description": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London. It is one of two Hannay novels set during the First World War, the other being Mr Standfast (1919); Hannay's first and best-known adventure, The Thirty Nine Steps (1915), is set in the period immediately preceding the war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798574742495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 314,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=474UzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=474UzgEACAAJ&dq=John+Buchan+Greenmantle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Greenmantle_Annotated.html?hl=&id=474UzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=474UzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Greenmantle is the second of five novels by John Buchan featuring the character of Richard Hannay, first published in 1916 by Hodder &amp; Stoughton, London."
+      }
+    }
+  ]
+}

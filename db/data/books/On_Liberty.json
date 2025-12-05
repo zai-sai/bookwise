@@ -1,0 +1,793 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RbkAAAAAYAAJ",
+      "etag": "OuB+JH8OfQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RbkAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "On Liberty",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publishedDate": "1869",
+        "description": "On Liberty is a philosophical work by 19th century English philosopher John Stuart Mill, first published in 1859. To the Victorian readers of the time it was a radical work, advocating moral and economic freedom of individuals from the state.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN3PHV"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RbkAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RbkAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RbkAAAAAYAAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RbkAAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RbkAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RbkAAAAAYAAJ&rdid=book-RbkAAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/On_Liberty.epub?id=RbkAAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/On_Liberty.pdf?id=RbkAAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3xUBKzHwVaNVT0fDQhQGEgTEqFUg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RbkAAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On Liberty is a philosophical work by 19th century English philosopher John Stuart Mill, first published in 1859."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g0N9DQAAQBAJ",
+      "etag": "8dssKu5tT44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g0N9DQAAQBAJ",
+      "volumeInfo": {
+        "title": "On Liberty",
+        "subtitle": "Mill's Works",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "VM eBooks",
+        "publishedDate": "2016-11-15",
+        "description": "John Stuart Mill was born on 20th May 1806. He was a delicate child, and the extraordinary education designed by his father was not calculated to develop and improve his physical powers. \"I never was a boy,\" he says; \"never played cricket.\" His exercise was taken in the form of walks with his father, during which the elder Mill lectured his son and examined him on his work. It is idle to speculate on the possible results of a different treatment. Mill remained delicate throughout his life, but was endowed with that intense mental energy which is so often combined with physical weakness. His youth was sacrificed to an idea; he was designed by his father to carry on his work; the individuality of the boy was unimportant. A visit to the south of France at the age of fourteen, in company with the family of General Sir Samuel Bentham, was not without its influence. It was a glimpse of another atmosphere, though the studious habits of his home life were maintained. Moreover, he derived from it his interest in foreign politics, which remained one of his characteristics to the end of his life. In 1823 he was appointed junior clerk in the Examiners' Office at the India House. Mill's first essays were written in the Traveller about a year before he entered the India House. From that time forward his literary work was uninterrupted save by attacks of illness. His industry was stupendous. He wrote articles on an infinite variety of subjects, political, metaphysical, philosophic, religious, poetical. He discovered Tennyson for his generation, he influenced the writing of Carlyle'sFrench Revolution as well as its success. And all the while he was engaged in studying and preparing for his more ambitious works, while he rose step by step at the India Office. His Essays on Unsettled Questions in Political Economy were written in 1831, although they did not appear until thirteen years later. His System of Logic, the design of which was even then fashioning itself in his brain, took thirteen years to complete, and was actually published before the Political Economy. In 1844 appeared the article on Michelet, which its author anticipated would cause some discussion, but which did not create the sensation he expected. Next year there were the \"Claims of Labour\" and \"Guizot,\" and in 1847 his articles on Irish affairs in the Morning Chronicle. These years were very much influenced by his friendship and correspondence with Comte, a curious comradeship between men of such different temperament. In 1848 Mill published his Political Economy, to which he had given his serious study since the completion of hisLogic. His articles and reviews, though they involved a good deal of work—as, for instance, the re-perusal of the Iliad and the Odyssey in the original before reviewing Grote's Greece—were recreation to the student. The year 1856 saw him head of the Examiners' Office in the India House, and another two years brought the end of his official work, owing to the transfer of India to the Crown. In the same year his wife died. Liberty was published shortly after, as well as the Thoughts on Parliamentary Reform, and no year passed without Mill making important contributions on the political, philosophical, and ethical questions of the day.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g0N9DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g0N9DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=g0N9DQAAQBAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g0N9DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g0N9DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.15,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g0N9DQAAQBAJ&rdid=book-g0N9DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4150000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/On_Liberty-sample-epub.acsm?id=g0N9DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/On_Liberty-sample-pdf.acsm?id=g0N9DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g0N9DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "John Stuart Mill was born on 20th May 1806."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vcSFmFnICk0C",
+      "etag": "DqLzIXQb84o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vcSFmFnICk0C",
+      "volumeInfo": {
+        "title": "On Liberty and Other Essays",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "1998-03-05",
+        "description": "Collected here in a single volume for the first time, On Liberty, Utilitarianism, Considerations on Representative Government, and The Subjection of Women show Mill applying his liberal utilitarian philosophy to a range of issues that remain vital today - issues of the nature of ethics, the scope and limits of individual liberty, the merits of and costs of democratic government, and the place of women in society. In his Introduction John Gray describes these essays as applications of Mill's doctrine of the Art of Life, as set out in A System of Logic. Using the resources of recent revisionist scholarship, he shows Mill's work to be far richer and subtler than traditional interpretations allow. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191611087"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191611085"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 878,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vcSFmFnICk0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vcSFmFnICk0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vcSFmFnICk0C&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vcSFmFnICk0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vcSFmFnICk0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.62,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vcSFmFnICk0C&rdid=book-vcSFmFnICk0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2620000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/On_Liberty_and_Other_Essays-sample-epub.acsm?id=vcSFmFnICk0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/On_Liberty_and_Other_Essays-sample-pdf.acsm?id=vcSFmFnICk0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vcSFmFnICk0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In his Introduction John Gray describes these essays as applications of Mill&#39;s doctrine of the Art of Life, as set out in A System of Logic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "70K4CAAAQBAJ",
+      "etag": "HScyaCV7zHI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/70K4CAAAQBAJ",
+      "volumeInfo": {
+        "title": "On Liberty, Utilitarianism, and Other Essays",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2015",
+        "description": "Collects four of the philosopher's essays on issues central to liberal democratic regimes. --Publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199670802"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199670803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 609,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=70K4CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=70K4CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=70K4CAAAQBAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=70K4CAAAQBAJ&dq=John+Stuart+Mill+On+Liberty&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_Liberty_Utilitarianism_and_Other_Essa.html?hl=&id=70K4CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/On_Liberty_Utilitarianism_and_Other_Essa-sample-pdf.acsm?id=70K4CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=70K4CAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collects four of the philosopher&#39;s essays on issues central to liberal democratic regimes. --Publisher."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3xARAAAAYAAJ",
+      "etag": "dsHKHop9hQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3xARAAAAYAAJ",
+      "volumeInfo": {
+        "title": "On Liberty",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publishedDate": "1859",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044010355436"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.9.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3xARAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3xARAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3xARAAAAYAAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3xARAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3xARAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3xARAAAAYAAJ&rdid=book-3xARAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/On_Liberty.epub?id=3xARAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/On_Liberty.pdf?id=3xARAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0Z6PDB-ocDTsdO0TOJ19DgR-lW2g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3xARAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yrRaAAAAYAAJ",
+      "etag": "QnRsSCqqB8o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yrRaAAAAYAAJ",
+      "volumeInfo": {
+        "title": "On Liberty",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "Prometheus",
+        "publishedDate": "1986-04-01",
+        "description": "In the rich history of political philosophy, great minds have sought to define the nature and extent of human freedom, with careful justifications offered for the principles proposed. This tradition experienced a heightened degree of enthusiastic intensity upon the publication of On Liberty in England during the nineteenth century.In this, his most powerful essay, John Stuart Mill defends individual liberty against both social and political encroachment, by daring to suggest that lines of demarcation be drawn to outline the proper role of government with respect to individual freedom. Apropriate spheres of action are offered for individuals, society, and the state; basic rules are established to deal with those cases in which human action may need to be restrained or limited.Mill's eloquence and his unwavering dedication to the cause of freedom permeate every page.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000025134957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yrRaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yrRaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yrRaAAAAYAAJ&q=John+Stuart+Mill+On+Liberty&dq=John+Stuart+Mill+On+Liberty&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yrRaAAAAYAAJ&dq=John+Stuart+Mill+On+Liberty&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_Liberty.html?hl=&id=yrRaAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yrRaAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This tradition experienced a heightened degree of enthusiastic intensity upon the publication of On Liberty in England during the nineteenth century.In this, his most powerful essay, John Stuart Mill defends individual liberty against both ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b8QBCgAAQBAJ",
+      "etag": "YyVlulgMTw0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b8QBCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Routledge Guidebook to Mill's On Liberty",
+        "authors": [
+          "Jonathan Riley"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2015-06-26",
+        "description": "John Stuart Mill’s On Liberty is widely regarded as one of the most influential and stirring pieces of political philosophy ever written. Ever relevant in our increasingly surveillance dominated culture, the essay argues strongly in favour of the moral rights of individuality, including rights of privacy and of freedom of expression. The Routledge Guidebook to Mill’s On Liberty introduces the major themes in Mill’s great book and aids the reader in understanding this key work, covering: the context of Mill’s work and the background to his writing each separate part of the text in relation to its goals, meanings and impact the reception the book received when first seen by the world the relevance of Mill’s work to modern philosophy. With further reading included for each chapter, this text is essential reading for all students of philosophy and political theory, and all those wishing to get to grips with this classic work of political philosophy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317543367"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "131754336X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 377,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b8QBCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b8QBCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=b8QBCgAAQBAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b8QBCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b8QBCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 15.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b8QBCgAAQBAJ&rdid=book-b8QBCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 15990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Routledge_Guidebook_to_Mill_s_On_Lib-sample-pdf.acsm?id=b8QBCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b8QBCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With further reading included for each chapter, this text is essential reading for all students of philosophy and political theory, and all those wishing to get to grips with this classic work of political philosophy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hqNFAQAAMAAJ",
+      "etag": "mczHk4GMmM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hqNFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "On Liberty",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publishedDate": "1864",
+        "description": "From the Introduction In his Autobiography, Mill predicts that the essay On Liberty is \"likely to survive longer than anything else that I have written.\" He goes on to say that the essay is the expression of a \"single truth: \" \"the importance, to man and society, of a large variety of types of character, and of giving full freedom to human nature to expand itself in innumerable and conflicting directions.\" In the essay itself, Mill defines his subject as \"the nature and limits of the power which can be legitimately exercised by society over the individual.\" He defends the absolute freedom of individuals to engage in conduct not harmful to others, and the near-absolute freedom to express and discuss opinions of all kinds. Mill's essay survives, as he had predicted, because his powerful message is still widely rejected by the powerful, and by those who continue to seek power over the lives of others.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:B000968269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hqNFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hqNFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hqNFAQAAMAAJ&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hqNFAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hqNFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hqNFAQAAMAAJ&rdid=book-hqNFAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/On_Liberty.epub?id=hqNFAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hqNFAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the Introduction In his Autobiography, Mill predicts that the essay On Liberty is &quot;likely to survive longer than anything else that I have written."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A1ZAQgAACAAJ",
+      "etag": "VaITh/Ikq30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A1ZAQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Basic Writings of John Stuart Mill",
+        "subtitle": "On Liberty, the Subjection of Women and Utilitarianism",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2009",
+        "description": "The Basic Writings of John Stuart Mill which includes On Liberty, the Subjection of Women and Utilitarianism written by legendary English philosopher and political theorist John Stuart Mill is widely considered to be three of the greatest books of all time. These great classics will surely attract a whole new generation of John Stuart Mill readers. For many, On Liberty, the Subjection of Women and Utilitarianism is required reading for various courses and curriculums. And for others who simply enjoy reading timeless pieces of classic literature, the combination of these three gems by John Stuart Mill is highly recommended. Published by Classic Books America and beautifully produced, The Basic Writings of John Stuart Mill: On Liberty, the Subjection of Women and Utilitarianism would make an ideal gift and it should be a part of everyone's personal library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1449518680"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449518684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Liberty"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A1ZAQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A1ZAQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A1ZAQgAACAAJ&dq=John+Stuart+Mill+On+Liberty&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A1ZAQgAACAAJ&dq=John+Stuart+Mill+On+Liberty&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Basic_Writings_of_John_Stuart_Mill.html?hl=&id=A1ZAQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A1ZAQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Basic Writings of John Stuart Mill which includes On Liberty, the Subjection of Women and Utilitarianism written by legendary English philosopher and political theorist John Stuart Mill is widely considered to be three of the greatest ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PlZll-SI1FQC",
+      "etag": "caLeenAXCj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PlZll-SI1FQC",
+      "volumeInfo": {
+        "title": "J. S. Mill: 'On Liberty' and Other Writings",
+        "authors": [
+          "John Stuart Mill"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1989-08-25",
+        "description": "Three of Mill's classic texts, On Liberty, The Subjection of Women and the posthumous Chapters on Socialism are brought together in this edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521379172"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521379175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PlZll-SI1FQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PlZll-SI1FQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PlZll-SI1FQC&printsec=frontcover&dq=John+Stuart+Mill+On+Liberty&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PlZll-SI1FQC&dq=John+Stuart+Mill+On+Liberty&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_S_Mill_On_Liberty_and_Other_Writings.html?hl=&id=PlZll-SI1FQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/J_S_Mill_On_Liberty_and_Other_Writings-sample-pdf.acsm?id=PlZll-SI1FQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PlZll-SI1FQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition, first published in 1989, brings together these two classic texts, plus Mill&#39;s posthumous Chapters on Socialism, his somewhat neglected examination of the strengths and weaknesses of various forms of socialism."
+      }
+    }
+  ]
+}

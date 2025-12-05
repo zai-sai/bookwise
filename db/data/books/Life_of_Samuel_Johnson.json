@@ -1,0 +1,697 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "x7YtLD4uLogC",
+      "etag": "HIHKs/Yyifo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x7YtLD4uLogC",
+      "volumeInfo": {
+        "title": "Life of Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1998",
+        "description": "This complete and unabridged edition is the only complete critical edition in paperback. Samuel Johnson was a poet, essayist, dramatist, and pioneering lexicographer, but his continuing reputation depends less on his literary output than on the fortunate accident of finding an ideal biographer in James Boswell. As Johnson's constant and admiring companion, Boswell was able to record not only the outward events of his life, but also the humour, wit, and sturdy common sense of his conversation. His brilliant portrait of a major literary figure of the eighteenth century, enriched by historical and social detail, remains a monument to the art of biography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192835319"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192835314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1540,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x7YtLD4uLogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x7YtLD4uLogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=x7YtLD4uLogC&printsec=frontcover&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=x7YtLD4uLogC&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_of_Johnson.html?hl=&id=x7YtLD4uLogC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Life_of_Johnson-sample-pdf.acsm?id=x7YtLD4uLogC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x7YtLD4uLogC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As Johnson&#39;s constant and admiring companion, Boswell was able to record not only the outward events of his life, but also the humour, wit, and sturdy common sense of his conversation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "et4FAAAAQAAJ",
+      "etag": "AvKOHmc2ee8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/et4FAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Life of Samuel Johnson, LL. D.",
+        "subtitle": "Including a Journal of His Tour to the Hebrides",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "1835",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:N11791741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, English"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=et4FAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=et4FAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=et4FAAAAQAAJ&printsec=frontcover&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=et4FAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=et4FAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=et4FAAAAQAAJ&rdid=book-et4FAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Life_of_Samuel_Johnson_LL_D.epub?id=et4FAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Life_of_Samuel_Johnson_LL_D.pdf?id=et4FAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1CaEo4nhpBl_TTjm56AP0LmbFnEA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=et4FAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lb7fXuQyM8wC",
+      "etag": "MZdiLab6xnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lb7fXuQyM8wC",
+      "volumeInfo": {
+        "title": "The life of Samuel Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ZBZH:ZBZ-00097384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 582,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lb7fXuQyM8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lb7fXuQyM8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lb7fXuQyM8wC&printsec=frontcover&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lb7fXuQyM8wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lb7fXuQyM8wC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lb7fXuQyM8wC&rdid=book-lb7fXuQyM8wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_life_of_Samuel_Johnson.epub?id=lb7fXuQyM8wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lb7fXuQyM8wC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "awLODMD499sC",
+      "etag": "4M1qhb0Bwkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/awLODMD499sC",
+      "volumeInfo": {
+        "title": "The Life of Samuel Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2008-10-30",
+        "description": "Regarded as one of the finest literary biographies ever published, this book reveals a man of outsized appetites and private vulnerabilities, and is the source of much of what we know about one of the towering figures of English literature. This edition collates and corrects the textual inaccuracies of previous versions, returning to the original manuscript in order to present a definitive edition of this landmark text.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140436624"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0140436626"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1804,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=awLODMD499sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=awLODMD499sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=awLODMD499sC&printsec=frontcover&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=awLODMD499sC&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_of_Samuel_Johnson.html?hl=&id=awLODMD499sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_of_Samuel_Johnson-sample-epub.acsm?id=awLODMD499sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=awLODMD499sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The most complete edition ever published of the iconic Biography WIDELY REGARDED as the finest literary biography ever published, James Boswellas &quot;Life of Samuel Johnson&quot; reveals a man of outsized appetites and private vulnerabilities, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RDvV_zJyL5UC",
+      "etag": "o1SjtCPBCX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RDvV_zJyL5UC",
+      "volumeInfo": {
+        "title": "The Life of Samuel Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2008-10-30",
+        "description": "In Boswell’s Life of Samuel Johnson, one of the towering figures of English literature is revealed with unparalleled immediacy and originality. While Johnson’s Dictionary remains a monument of scholarship, and his essays and criticism command continuing respect, we owe our knowledge of the man himself to this biography. Through a series of wonderfully detailed anecdotes, Johnson emerges as a sociable figure with a huge appetite for life, crossing swords with other great eighteenth-century luminaries, from Garrick and Goldsmith to Burney and Burke – even his long-suffering friend and disciple James Boswell. Yet Johnson had a vulnerable, even tragic, side and anxieties and obsessions haunted his private hours. Boswell’s sensitivity and insight into every facet of his subject’s character ultimately make this biography as moving as it is entertaining. Based on the 1799 edition, Christopher Hibbert’s abridgement preserves the integrity of the original, while his fascinating introduction sets Boswell’s view of Samuel Johnson against that of others of the time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141907437"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141907436"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 2098,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.11.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RDvV_zJyL5UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RDvV_zJyL5UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RDvV_zJyL5UC&printsec=frontcover&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RDvV_zJyL5UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RDvV_zJyL5UC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RDvV_zJyL5UC&rdid=book-RDvV_zJyL5UC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_of_Samuel_Johnson-sample-epub.acsm?id=RDvV_zJyL5UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RDvV_zJyL5UC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on the 1799 edition, Christopher Hibbert’s abridgement preserves the integrity of the original, while his fascinating introduction sets Boswell’s view of Samuel Johnson against that of others of the time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4sAKzQEACAAJ",
+      "etag": "PIMQsNEZyJw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4sAKzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Life of Samuel Johnson",
+        "subtitle": "Volume I",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "1925",
+        "description": "\"When a man writes from his own mind, he writes very rapidly. The greatest part of a writer's time is spent in reading, in order to write; a man will turn over half a library to make one book.\" -Samuel Johnson, The Life of Samuel Johnson (1791) The Life of Samuel Johnson, Volume I (1791) stands as one of the greatest biographies published, documenting the life of arguably the most influential writer of the 18th century. Johnson was a poet, essayist, and biographer, but most notably, the writer of the first dictionary in the English language. Boswell's work provides much of what is known about the life of Johnson. This first volume of the 1905 edition focuses on Johnson's early life as well as the many conversations between Johnson and his much younger friend, Boswell. The book is replete with Johnson's well-known quotes and is a must-read for lovers of literature and history.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1646794184"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781646794188"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4sAKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4sAKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4sAKzQEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4sAKzQEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_of_Samuel_Johnson.html?hl=&id=4sAKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4sAKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Boswell&#39;s work provides much of what is known about the life of Johnson. This second volume of the 1905 edition features Johnson&#39;s personal accounts of his travels to North Wales and Hebrides, Scotland."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Q4pzgEACAAJ",
+      "etag": "PVGBSCqPLCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Q4pzgEACAAJ",
+      "volumeInfo": {
+        "title": "Boswell's Life of Samuel Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publisher": "Signet Classics",
+        "publishedDate": "1965",
+        "description": "Notoriously and self-confessedly intemperate, James Boswell shared with his friend Samuel Johnson a huge appetite for 18th-century life and threw equal energy into recording its every aspect in his vivacious daily JOURNALS. The result is a masterpiece that brims with wit, anecdote and originality and still today continues to enjoy its status as a classic of the language. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451503783"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451503787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 524,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, English"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7Q4pzgEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7Q4pzgEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Boswell_s_Life_of_Samuel_Johnson.html?hl=&id=7Q4pzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Q4pzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Notoriously and self-confessedly intemperate, James Boswell shared with his friend Samuel Johnson a huge appetite for 18th-century life and threw equal energy into recording its every aspect in his vivacious daily JOURNALS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NTKKzQEACAAJ",
+      "etag": "KaYir1C44i0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NTKKzQEACAAJ",
+      "volumeInfo": {
+        "title": "Life of Samuel Johnson (Annotated)",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "2020-04-05",
+        "description": "Differentiated book- It has a historical context with research of the time-The Life of Samuel Johnson, LL.D. (1791) by James Boswell is a biography of the English writer Dr. Samuel Johnson. The work was from the beginning a critical and popular success, and represents a milestone in the development of the modern genre. Biography He is notable for his extensive accounts of Johnson's conversation. Many have claimed it as the best biography written in English, but some modern critics object that the work cannot be considered an adequate biography. Boswell's personal acquaintance with his subject began in 1763, when Johnson was 54, and Boswell covered the entirety of Johnson's life through further investigation. The biography takes many critical liberties with Johnson's life, as Boswell makes several changes to Johnson's quotes and even censures many comments.However, the book is valued as an important source of information about Johnson and his time, as well as an important literary work. On May 16, 1763, when a 22-year-old Scotsman was visiting London, Boswell met Johnson at the bookstore of Johnson's friend, Tom Davies. They quickly became friends, although Boswell would only see Johnson for many years when he visited London in the intervals of his legal practice in Scotland.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798634374178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 524,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NTKKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NTKKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NTKKzQEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NTKKzQEACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_of_Samuel_Johnson_Annotated.html?hl=&id=NTKKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NTKKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The work was from the beginning a critical and popular success, and represents a milestone in the development of the modern genre. Biography He is notable for his extensive accounts of Johnson&#39;s conversation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uhHMQwAACAAJ",
+      "etag": "jw4BLj+PCiE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uhHMQwAACAAJ",
+      "volumeInfo": {
+        "title": "James Boswell's The Life of Samuel Johnson ...",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "1799",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:473261007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uhHMQwAACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uhHMQwAACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/James_Boswell_s_The_Life_of_Samuel_Johns.html?hl=&id=uhHMQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uhHMQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cex4QAAACAAJ",
+      "etag": "30GxfC+Z+kY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cex4QAAACAAJ",
+      "volumeInfo": {
+        "title": "Selections from James Boswell's Life of Samuel Johnson",
+        "authors": [
+          "James Boswell"
+        ],
+        "publishedDate": "2009-03-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1429762721"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429762724"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cex4QAAACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cex4QAAACAAJ&dq=James+Boswell+Life+of+Samuel+Johnson&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Selections_from_James_Boswell_s_Life_of.html?hl=&id=cex4QAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cex4QAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

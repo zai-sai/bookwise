@@ -1,0 +1,701 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "d3YWDAEACAAJ",
+      "etag": "wqwwjmHfa5A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d3YWDAEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "subtitle": "By Erskine Childers - Illustrated",
+        "authors": [
+          "Erskine Erskine Childers"
+        ],
+        "publishedDate": "2016-06-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About The Riddle of the Sands By Erskine Childers The Riddle of the Sands: A Record of Secret Service is a 1903 novel by Erskine Childers. The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction. It has been made into both a film and TV film. The novel \"owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain\". It was a spy novel that \"established a formula that included a mass of verifiable detail, which gave authenticity to the story - the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carré and many others.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534772243"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534772243"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d3YWDAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d3YWDAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands.html?hl=&id=d3YWDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d3YWDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aulNtgEACAAJ",
+      "etag": "xUxPkgYkBUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aulNtgEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2018-04-15",
+        "description": "Brimming with heart-stopping action, The Riddle of the Sands is one the earliest spy novels. This spell-binding story is set in the period before the start of the First World War. A gem of the thriller genre! While on a sailing trip in the Baltic Sea, two young adventurers-turned-spies uncover a secret German plot to invade England. Written by Childers-who served in the Royal Navy during World War I-as a wake-up call to the British government to attend to its North Sea defenses, The Riddle of the Sands accomplished that task and has been considered a classic of espionage literature ever since, praised as much for its nautical action as for its suspenseful spycraft.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986582493"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986582490"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aulNtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aulNtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aulNtgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aulNtgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands.html?hl=&id=aulNtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aulNtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brimming with heart-stopping action, The Riddle of the Sands is one the earliest spy novels. This spell-binding story is set in the period before the start of the First World War. A gem of the thriller genre!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQGEEAAAQBAJ",
+      "etag": "CRn5xiJsKQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQGEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "subtitle": "A Record of Secret Service",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publisher": "LA CASE Books",
+        "publishedDate": "2011",
+        "description": "The Riddle of the Sands is one of the earliest examples of the spy novel genre, and became hugely popular shortly after its publication. Childers carefully interweaves fiction with real-world places, events, and politics, making for an extremely convincing story of invasion—so convincing that some (perhaps erroneously) credit the novel with spurring the creation of new English naval bases. The framing device, where Childers pretends to be an editor presenting a factual account, only adds to the believability of the story. The novel begins with Carruthers, an official in the Foreign Office, accepting an invitation from his friend Davies for what he assumes is a pleasure trip on a sailboat in the Baltic sea. As the two embark on their journey, it quickly becomes apparent that not everything is at it seems on the German coast. The Riddle of the Sands helped energize the spy novel genre, providing a template for countless authors to come, including Ian Fleming and John le Carré, and has been adapted numerous times for film, television and radio.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 515,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AQGEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AQGEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AQGEEAAAQBAJ&printsec=frontcover&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AQGEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AQGEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AQGEEAAAQBAJ&rdid=book-AQGEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQGEEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Riddle of the Sands is one of the earliest examples of the spy novel genre, and became hugely popular shortly after its publication."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UIapyAEACAAJ",
+      "etag": "MFd3Q+XiG/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UIapyAEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "subtitle": "Erskine Childers",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2019-08-18",
+        "description": "The Riddle of the Sands: A Record of Secret Service is a 1903 novel by Erskine Childers. The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction. It has been made into feature-length films for both cinema and television.About Childers: Robert Erskine Childers DSC (25 June 1870 - 24 November 1922), universally known as Erskine Childers, was the author of the influential novel Riddle of the Sands and an Irish nationalist, who was executed by the authorities of the nascent Irish Free State during the Irish Civil War. He was the son of British Orientalist scholar Robert Caesar Childers; the cousin of Hugh Childers and Robert Barton; and the father of the fourth President of Ireland, Erskine Hamilton Childers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1687172765"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781687172761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UIapyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UIapyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UIapyAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UIapyAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands.html?hl=&id=UIapyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UIapyAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C-Y9tAEACAAJ",
+      "etag": "15cqSLGi+qQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C-Y9tAEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands by Erskine Childers",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2017-08-28",
+        "description": "The Riddle of the Sands by Erskine Childers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1975848330"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781975848330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C-Y9tAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=C-Y9tAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands_by_Erskine_Child.html?hl=&id=C-Y9tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C-Y9tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Riddle of the Sands by Erskine Childers"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_5f3MAAACAAJ",
+      "etag": "ofhSp/tDp6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_5f3MAAACAAJ",
+      "volumeInfo": {
+        "title": "Erskine Childers",
+        "subtitle": "The Riddle of the Sands",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-30",
+        "description": "The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.It is a novel that \"owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain\"; perhaps more significantly, it was a spy novel that \"established a formula that included a mass of verifiable detail, which gave authenticity to the story - the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carr� and many others.\" Ken Follett called it \"the first modern thriller.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540721728"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540721723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_5f3MAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_5f3MAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_5f3MAAACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_5f3MAAACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Erskine_Childers.html?hl=&id=_5f3MAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_5f3MAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.It is a novel that &quot;owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OietzQEACAAJ",
+      "etag": "g9bL7GA19W0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OietzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "subtitle": "A 1903 Novel by Erskine Childers",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2020-07-10",
+        "description": "The Riddle of the Sands: A Record of Secret Service is a 1903 novel by Erskine Childers. The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction. It has been made into feature-length films for both cinema and television. The novel \"owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain\". It was a spy novel that \"established a formula that included a mass of verifiable detail, which gave authenticity to the story - the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carré and many others.\" All of the physical background is completely authentic - the various Frisian islands and towns named in the book actually exist and the descriptions of them accurate (often, from the author's own experience). The same is true for the various \"sands\" of the title - vast areas which are flooded at high tide but become mudflats at ebb. Navigating a small boat under these conditions requires a specialized kind of skilled seamanship - of which the character Davies is an unsurpassed master, and the descriptions of his feats are of abiding interest to yachting enthusiasts, quite apart from their role in the book's espionage plot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2491251248"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782491251246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OietzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OietzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OietzQEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OietzQEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands.html?hl=&id=OietzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OietzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qcptzgEACAAJ",
+      "etag": "jTr4nCcq6AQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qcptzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands By Erskine Childers (Illustrated Edition)",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-05-08",
+        "description": "The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.It is a novel that \"owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain\"; perhaps more significantly, it was a spy novel that \"established a formula that included a mass of verifiable detail, which gave authenticity to the story - the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carré and many others.\" Ken Follett called it \"the first modern thriller.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798500731814"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qcptzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qcptzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qcptzgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qcptzgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands_By_Erskine_Child.html?hl=&id=qcptzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qcptzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.It is a novel that &quot;owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kq-EyAEACAAJ",
+      "etag": "7hmq8Tqtb9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kq-EyAEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands",
+        "subtitle": "Large Print",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2019-08-15",
+        "description": "Brimming with heart-stopping action, The Riddle of the Sands is one the earliest spy novels. This spell-binding story is set in the period before the start of the First World War. A gem of the thriller genre! While on a sailing trip in the Baltic Sea, two young adventurers-turned-spies uncover a secret German plot to invade England. Written by Childers-who served in the Royal Navy during World War I-as a wake-up call to the British government to attend to its North Sea defenses, The Riddle of the Sands accomplished that task and has been considered a classic of espionage literature ever since, praised as much for its nautical action as for its suspenseful spycraft.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1686483236"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781686483233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kq-EyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kq-EyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kq-EyAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kq-EyAEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands.html?hl=&id=kq-EyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kq-EyAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brimming with heart-stopping action, The Riddle of the Sands is one the earliest spy novels. This spell-binding story is set in the period before the start of the First World War. A gem of the thriller genre!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "onOOzgEACAAJ",
+      "etag": "Ew2xcF+q24A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/onOOzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Riddle of the Sands Erskine Childers (Illustrated)",
+        "authors": [
+          "Erskine Childers"
+        ],
+        "publishedDate": "2021-03-08",
+        "description": "The Riddle of the Sands: A Record of Secret Service is a 1903 novel by Erskine Childers. The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798718673104"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=onOOzgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=onOOzgEACAAJ&dq=Erskine+Childers+The+Riddle+of+the+Sands&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Riddle_of_the_Sands_Erskine_Childers.html?hl=&id=onOOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=onOOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book, which enjoyed immense popularity in the years before World War I, is an early example of the espionage novel and was extremely influential in the genre of spy fiction."
+      }
+    }
+  ]
+}

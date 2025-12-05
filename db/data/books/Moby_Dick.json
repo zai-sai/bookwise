@@ -1,0 +1,732 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XV8XAAAAYAAJ",
+      "etag": "QJCIeB8x8to",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XV8XAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Moby Dick",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publishedDate": "1892",
+        "description": "A literary classic that wasn't recognized for its merits until decades after its publication, Herman Melville's Moby-Dick tells the tale of a whaling ship and its crew, who are carried progressively further out to sea by the fiery Captain Ahab. Obsessed with killing the massive whale, which had previously bitten off Ahab's leg, the seasoned seafarer steers his ship to confront the creature, while the rest of the shipmates, including the young narrator, Ishmael, and the harpoon expert, Queequeg, must contend with their increasingly dire journey. The book invariably lands on any short list of the greatest American novels.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1E4C"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure stories"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 297,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.15.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XV8XAAAAYAAJ&printsec=frontcover&dq=Herman+Melville+Moby+Dick&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ&rdid=book-XV8XAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Moby_Dick.epub?id=XV8XAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Moby_Dick.pdf?id=XV8XAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2j7tKT8bbSwXHCttT_eX6HUg70aA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XV8XAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A literary classic that wasn&#39;t recognized for its merits until decades after its publication, Herman Melville&#39;s Moby-Dick tells the tale of a whaling ship and its crew, who are carried progressively further out to sea by the fiery Captain ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jnNBh61lpjUC",
+      "etag": "Qpg5u5WAbe4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jnNBh61lpjUC",
+      "volumeInfo": {
+        "title": "Moby-Dick, Or The Whale",
+        "subtitle": "Volume 6, Scholarly Edition",
+        "authors": [
+          "Herman Melville",
+          "G. Thomas Tanselle"
+        ],
+        "publisher": "Northwestern University Press",
+        "publishedDate": "1988-09-09",
+        "description": "In Moby Dick Melville set out to write a \"mighty book\" on \"a mighty theme.\" The editors of this critical text affirm that he succeeded. Nevertheless, their prolonged examination of the novel reveals textual flaws and anomalies that help to explain Melville's fears that his great work was in some ways a hash or a botch. A lengthy historical note also gives a fresh account of Melville's earlier literary career and his working conditions as he wrote; it also analyzes the book's contemporary reception and outlines how it finally achieved fame. Other sections review theories of the book's genesis, detail the circumstances of its publication, and present documents closely relating to the story. This scholarly edition is based on collations of both editions published during Melville's lifetime, it adopts 185 revisions and corrections from the English edition and incorporates 237 emendations by the series editors. This is an Approved Text of the Center for Editions of American Authors (Modern Language Association of America).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780810102699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0810102692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1072,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jnNBh61lpjUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jnNBh61lpjUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jnNBh61lpjUC&printsec=frontcover&dq=Herman+Melville+Moby+Dick&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jnNBh61lpjUC&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick_Or_The_Whale.html?hl=&id=jnNBh61lpjUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Moby_Dick_Or_The_Whale-sample-pdf.acsm?id=jnNBh61lpjUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jnNBh61lpjUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is an Approved Text of the Center for Editions of American Authors (Modern Language Association of America)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U4eStWzD49UC",
+      "etag": "5JJt3ekT7Fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U4eStWzD49UC",
+      "volumeInfo": {
+        "title": "Herman Melville's Moby-Dick",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2007",
+        "description": "Herman Melville was already considered to be a successful author when he wrote Moby-Dick in just under two years. Yet despite his earlier success, the novel was widely misunderstood by its 19th-century readers, who expected a more traditional adventure novel. Today Moby-Dick is considered to be an undisputed classic, and many believe it to be the epitome of the great American novel. With an unforgettable cast of characters, inluding the mad Captain Ahab, Melville skillfully documents the Pequod crew's tragic hunt for the great white whale. The full-length essays presented in Herman Melville's Moby Dick, Updated Edition provide expert commentary on the huge canvas of symbols themes, and subjects presented in this novel, as well as an introduction, a chronology, a bibliography, and an index, that will help students navigate confidently through Melville's masterpiece.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780791093634"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0791093638"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U4eStWzD49UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U4eStWzD49UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=U4eStWzD49UC&printsec=frontcover&dq=Herman+Melville+Moby+Dick&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U4eStWzD49UC&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herman_Melville_s_Moby_Dick.html?hl=&id=U4eStWzD49UC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Herman_Melville_s_Moby_Dick-sample-epub.acsm?id=U4eStWzD49UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Herman_Melville_s_Moby_Dick-sample-pdf.acsm?id=U4eStWzD49UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4eStWzD49UC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The full-length essays presented in Herman Melville&#39;s Moby Dick, Updated Edition provide expert commentary on the huge canvas of symbols themes, and subjects presented in this novel, as well as an introduction, a chronology, a bibliography, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L_3afMYdfFoC",
+      "etag": "BjWT8SDVRsQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L_3afMYdfFoC",
+      "volumeInfo": {
+        "title": "Moby Dick",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2008-09-18",
+        "description": "Moby Dick in half the time Moby Dick is the tale of one man's fatal obsession and his willingness to sacrifice his life and that of his crew to achieve his goal. The story follows the fortunes of Captain Ahab and the eccentric crew of a whaling ship, The Pequod. The ship is on its last voyage in pursuit of Moby Dick - the great white whale which wounded Ahab in the past is his quarry now. The battle with the elements, the sea, the dangerous confrontations of the whale hunts are embodied in the thrilling narration of the survivor Ishmael.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780297857273"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0297857274"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 341,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L_3afMYdfFoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L_3afMYdfFoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L_3afMYdfFoC&printsec=frontcover&dq=Herman+Melville+Moby+Dick&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=L_3afMYdfFoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L_3afMYdfFoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=L_3afMYdfFoC&rdid=book-L_3afMYdfFoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Moby_Dick-sample-epub.acsm?id=L_3afMYdfFoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L_3afMYdfFoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Moby Dick in half the time Moby Dick is the tale of one man&#39;s fatal obsession and his willingness to sacrifice his life and that of his crew to achieve his goal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8OTsoQEACAAJ",
+      "etag": "pwX0IqrsSmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8OTsoQEACAAJ",
+      "volumeInfo": {
+        "title": "Moby Dick",
+        "subtitle": "Or the Whale",
+        "authors": [
+          "Herman Melville",
+          "J. C. Sheldon",
+          "Mogul Books"
+        ],
+        "publisher": "Createspace Independent Pub",
+        "publishedDate": "2014-10-08",
+        "description": "Welcome to the world of Mogul Classics Books. In this novel Moby-Dick by Herman Melville, we are proud to offer you the best edition of this classic, one of the most loved and timeless stories of all times.Moby-Dick; or, The Whale is a novel by Herman Melville, in which Ishmael narrates the monomaniacal quest of Ahab, captain of the whaler Pequod, for revenge on the albino sperm whale Moby Dick, which on a previous voyage destroyed Ahab's ship and severed his leg at the knee. The product of a year and a half of writing, the book draws on Melville's own whaling experience, on his reading in whaling literature, and on literary inspirations such as Shakespeare and the Bible. The detailed and realistic descriptions of whale hunting and the process of extracting whale oil, as well as life aboard ship among a culturally diverse crew, are mixed with exploration of class and social status, good and evil, and the existence of God. In addition to narrative prose, Melville uses a wide range of styles and literary devices ranging from songs, poetry and catalogs to Shakespearean stage directions, soliloquies, and asides.The author changed the title at the very last moment in September 1851, and so the work first appeared as The Whale in London in October 1851, and then under its definitive title Moby-Dick in New York in November. The British edition of five hundred copies was not reprinted during the author's life, the American of almost three thousand was reprinted three times at approximately 250 copies, the last reprinting in 1871. These figures are exaggerated because three hundred copies were destroyed in a fire at Harper's; only 3,200 copies were actually sold during the author's life.A commercial failure and out of print at the time of the author's death in 1891, its reputation grew immensely during the twentieth century. According to D.H. Lawrence, it is \"one of the strangest and most wonderful books in the world,\" and \"the greatest book of the sea ever written.\" Dedicated to Nathaniel Hawthorne, \"in token of my admiration for his genius,\" Moby-Dick is considered a Great American Novel and an outstanding work of the Romantic Period in America, a period also known as the American Renaissance. \"Call me Ishmael,\" is one of world literature's most famous opening sentences.As you read this Mogul Classics Books edition of Herman Melville's Moby-Dick, you will relive one of the most acclaimed novels of all times.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1502750872"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781502750877"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 394,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8OTsoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8OTsoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8OTsoQEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8OTsoQEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick.html?hl=&id=8OTsoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8OTsoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Welcome to the world of Mogul Classics Books. In this novel Moby-Dick by Herman Melville, we are proud to offer you the best edition of this classic, one of the most loved and timeless stories of all times."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BmJO0AEACAAJ",
+      "etag": "KmwDHT4jx8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BmJO0AEACAAJ",
+      "volumeInfo": {
+        "title": "Herman Melville",
+        "subtitle": "Moby-Dick",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:154139318"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BmJO0AEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BmJO0AEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herman_Melville.html?hl=&id=BmJO0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BmJO0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZaKMEAAAQBAJ",
+      "etag": "q+5ulEmdIVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZaKMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Moby-Dick",
+        "subtitle": "or, The Whale (Penguin Classics Deluxe Edition)",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2009-10-27",
+        "description": "Herman Melville’s masterpiece, one of the greatest works of imagination in literary history Over a century and a half after its publication, Moby-Dick still stands as an indisputable literary classic. It is the story of an eerily compelling madman pursuing an unholy war against a creature as vast and dangerous and unknowable as the sea itself. But more than just a novel of adventure, more than an encyclopedia of whaling lore and legend, Moby-Dick is a haunting, mesmerizing, and important social commentary populated with several of the most unforgettable and enduring characters in literature. Never losing its cultural presence, Melville’s nautical epic has inspired many films over the years, including the film adaptation of Nathaniel Philbrick’s In the Heart of the Sea, starring Chris Hemsworth, Cillian Murphy, Ben Whishaw, and Brendan Gleeson, and directed by Ron Howard. Written with wonderfully redemptive humor, Moby-Dick is a profound and timeless inquiry into character, faith, and the nature of perception. This Penguin Classics deluxe edition features a foreword by Nathaniel Philbrick and cover art by Tony Millionaire. This edition prints the Northwestern-Newberry edition of Melville's text, approved by the Center for Scholarly Editions and the Center for Editions of American Authors of the MLA. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143105954"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143105957"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZaKMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZaKMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZaKMEAAAQBAJ&dq=Herman+Melville+Moby+Dick&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZaKMEAAAQBAJ&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick.html?hl=&id=ZaKMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZaKMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition prints the Northwestern-Newberry edition of Melville&#39;s text, approved by the Center for Scholarly Editions and the Center for Editions of American Authors of the MLA."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s0sKywEACAAJ",
+      "etag": "xxvPXOgEybk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s0sKywEACAAJ",
+      "volumeInfo": {
+        "title": "The works of Herman Melville",
+        "subtitle": "Moby-Dick or, the whale",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120923397"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s0sKywEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s0sKywEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_works_of_Herman_Melville.html?hl=&id=s0sKywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s0sKywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bS1ZbJMdsP8C",
+      "etag": "ebxivRVTGAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bS1ZbJMdsP8C",
+      "volumeInfo": {
+        "title": "Moby Dick",
+        "authors": [
+          "Globe Fearon",
+          "Herman Melville"
+        ],
+        "publisher": "Globe Fearon",
+        "publishedDate": "1991",
+        "description": "A young seaman joins the crew of the fanatical Captain Ahab in pursuit of the white whale Moby Dick.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0835902250"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780835902250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bS1ZbJMdsP8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bS1ZbJMdsP8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bS1ZbJMdsP8C&q=Herman+Melville+Moby+Dick&dq=Herman+Melville+Moby+Dick&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bS1ZbJMdsP8C&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick.html?hl=&id=bS1ZbJMdsP8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bS1ZbJMdsP8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A young seaman joins the crew of the fanatical Captain Ahab in pursuit of the white whale Moby Dick."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eX5o0QEACAAJ",
+      "etag": "cKNL/dDsuM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eX5o0QEACAAJ",
+      "volumeInfo": {
+        "title": "Moby-Dick",
+        "subtitle": "Illustrated by Rockwell Kent",
+        "authors": [
+          "Herman. Melville"
+        ],
+        "publishedDate": "2026",
+        "description": "\"One of the strangest and most wonderful books in the world.\" --D.H. Lawrence An enigmatic tale of the sea, whaling, and obsession, Moby-Dick echoes themes from the Bible and the works of Shakespeare in a uniquely American story that continues to fascinate and enthrall today. Spurned by readers and critics alike upon its initial publication in 1851 and for the rest of the author's life, Herman Melville's epic novel underwent a dramatic rediscovery and reappraisal after his death. During the early years of the 20th century, it came to define the Great American Novel. This spurred and was, in turn, boosted by the 1930 Lakeside Press edition that featured Rockwell Kent's stark pen-and-ink illustrations that captured the drama, beauty, and violence of Melville's masterpiece. This Top Five Classics edition of Moby-Dick features all of the more than 270 illustrations by Rockwell Kent, the unabridged text, a glossary of terms, a detailed map of the voyage of the Pequod, and biographies of Herman Melville and Rockwell Kent.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1938938267"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781938938269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eX5o0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eX5o0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eX5o0QEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eX5o0QEACAAJ&dq=Herman+Melville+Moby+Dick&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick.html?hl=&id=eX5o0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eX5o0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Top Five Classics edition of Moby-Dick features all of the more than 270 illustrations by Rockwell Kent, the unabridged text, a glossary of terms, a detailed map of the voyage of the Pequod, and biographies of Herman Melville and ..."
+      }
+    }
+  ]
+}

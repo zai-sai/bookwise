@@ -1,0 +1,721 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ehzOd8DVlNkC",
+      "etag": "4/YfNIZkHlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehzOd8DVlNkC",
+      "volumeInfo": {
+        "title": "The Prince",
+        "subtitle": "Second Edition",
+        "authors": [
+          "Niccolò Machiavelli"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2010-05-15",
+        "description": "The most famous book on politics ever written, The Prince remains as lively and shocking today as when it was written almost five hundred years ago. Initially denounced as a collection of sinister maxims and a recommendation of tyranny, it has more recently been defended as the first scientific treatment of politics as it is practiced rather than as it ought to be practiced. Harvey C. Mansfield's brilliant translation of this classic work, along with the new materials added for this edition, make it the definitive version of The Prince, indispensable to scholars, students, and those interested in the dark art of politics. This revised edition of Mansfield's acclaimed translation features an updated bibliography, a substantial glossary, an analytic introduction, a chronology of Machiavelli's life, and a map of Italy in Machiavelli's time. \"Of the other available [translations], that of Harvey C. Mansfield makes the necessary compromises between exactness and readability, as well as providing an excellent introduction and notes.\"—Clifford Orwin, The Wall Street Journal \"Mansfield's work . . . is worth acquiring as the best combination of accuracy and readability.\"—Choice \"There is good reason to assert that Machiavelli has met his match in Mansfield. . . . [He] is ready to read Machiavelli as he demands to be read—plainly and boldly, but also cautiously.\"—John Gueguen, The Sixteenth Century Journal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226500508"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0226500500"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehzOd8DVlNkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehzOd8DVlNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ehzOd8DVlNkC&printsec=frontcover&dq=Niccol+The+Prince&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ehzOd8DVlNkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ehzOd8DVlNkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ehzOd8DVlNkC&rdid=book-ehzOd8DVlNkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 1500000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1350000,
+              "currencyCode": "GBP"
+            },
+            "rentalDuration": {
+              "unit": "HOUR",
+              "count": 24
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Prince-sample-epub.acsm?id=ehzOd8DVlNkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Prince-sample-pdf.acsm?id=ehzOd8DVlNkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehzOd8DVlNkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harvey C. Mansfield&#39;s brilliant translation of this classic work, along with the new materials added for this edition, make it the definitive version of The Prince, indispensable to scholars, students, and those interested in the dark art ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L0bpXalTZ6kC",
+      "etag": "v5KBBzcv4io",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L0bpXalTZ6kC",
+      "volumeInfo": {
+        "title": "Cosimo I De' Medici and His Self-Representation in Florentine Art and Culture",
+        "authors": [
+          "Hendrik Thijs van Veen",
+          "Henk Th. van Veen"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2006-08-21",
+        "description": "In this study, Henk Th. van Veen reassesses how Cosimo de' Medici represented himself in images during the course of his rule. The text examines not only art and architecture, but also literature, historiography, religion, and festive culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521837224"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521837227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L0bpXalTZ6kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L0bpXalTZ6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L0bpXalTZ6kC&pg=PP4&dq=Niccol+The+Prince&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L0bpXalTZ6kC&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cosimo_I_De_Medici_and_His_Self_Represen.html?hl=&id=L0bpXalTZ6kC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Cosimo_I_De_Medici_and_His_Self_Represen-sample-pdf.acsm?id=L0bpXalTZ6kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L0bpXalTZ6kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Machiavelli, Istorie fiorentine – <b>Niccol</b>`o Machiavelli, Istorie fiorentine, in: N. Machiavelli, Tutte le opere di <b>Niccol</b>`o Machiavelli, Francesco Flora and Carlo Cordi`e eds., 2 vols., Milan 1949–1950. Machiavelli, The <b>Prince</b> and Other&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ifCmWeOgvQsC",
+      "etag": "nKvobmHFnbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifCmWeOgvQsC",
+      "volumeInfo": {
+        "title": "Business",
+        "authors": [
+          "布卢姆斯伯里出版公司"
+        ],
+        "publisher": "中信出版社",
+        "publishedDate": "2003",
+        "description": "责任者取自版权页。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "7800736598"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9787800736599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2176,
+        "printType": "BOOK",
+        "categories": [
+          "Business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifCmWeOgvQsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifCmWeOgvQsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ifCmWeOgvQsC&pg=PP988&dq=Niccol+The+Prince&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ifCmWeOgvQsC&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business.html?hl=&id=ifCmWeOgvQsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Business-sample-pdf.acsm?id=ifCmWeOgvQsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ifCmWeOgvQsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>prince</b> to have all the good qualities I have enumerated , but it is very necessary to appear to have them . &#39; ( The ... <b>Niccol</b> Machiavelli leader &#39; should know how to enter into evil when necessity commands &#39; . Context The <b>Prince</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rw1KSAAACAAJ",
+      "etag": "WfUjLf6jD2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rw1KSAAACAAJ",
+      "volumeInfo": {
+        "title": "The Prince: Niccolo Machiavelli's Classic Study in Leadership, Rising to Power, and Maintaining Authority, Originally Titled de PR",
+        "authors": [
+          "Niccolò Machiavelli"
+        ],
+        "publishedDate": "2010-04",
+        "description": "Niccolo Machiavelli wrote The Prince, originally titled De Principatibus (About Principalities), in 1513, detailing how a prince could gain and sustain ruling power. It is both a philosophical study in autocracy and a guide in the pursuit of power, especially implying that the ends justify the means in maintaining a stable state for the governed. Both praised for its shrewdness and reviled for its legendary ruthlessness, The Prince is a milestone in philosophical thought and essential reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1615890068"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781615890064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Rw1KSAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Rw1KSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Rw1KSAAACAAJ&dq=Niccol+The+Prince&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Rw1KSAAACAAJ&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prince_Niccolo_Machiavelli_s_Classic.html?hl=&id=Rw1KSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rw1KSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Niccolò Machiavelli wrote The Prince, originally titled De Principatibus (About Principalities), in 1513, detailing how a prince could gain and sustain ruling power."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DT0Rg3tE21sC",
+      "etag": "HfAOzPV6yfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DT0Rg3tE21sC",
+      "volumeInfo": {
+        "title": "Russian Culture, Property Rights, and the Market Economy",
+        "authors": [
+          "Uriel Procaccia"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2007-05-28",
+        "description": "The Russian Federation is struggling, since Perestroika and the Glasnost, in a futile attempt to become a â€~normal' member in the occidental family of market economies. The attempt largely fails because corporations do not live up to Western standards of behavior, and private contracts are often not respected. What is the cause of Russia's observed difficulties? It is commonly believed that these difficulties are an expected outcome of a rocky transition from a Marxist, centrally planned system, to a market based economy. This book challenges the accepted wisdom. In tracing the history of contract and the corporation in the West, it shows that the cultural infrastructure that gave rise to these patterns of economic behavior have never taken root on Russian soil. This deep divide between Russian and Western cultures is hundreds of years old, and has little, if anything to do with the brief, seventy-year-long experimentation with overtly Marxist ideology. The transformation of Russia into a veritable market economy requires much more than an expensive and difficult transition period: it mandates a radical change in her cultural underpinnings. The book's main thesis is supported by an in-depth comparison of Western and Russian theology, philosophy, literary and artistic achievements, musical and architectural idioms and folk culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521835060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521835062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DT0Rg3tE21sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DT0Rg3tE21sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DT0Rg3tE21sC&pg=PA198&dq=Niccol+The+Prince&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DT0Rg3tE21sC&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Russian_Culture_Property_Rights_and_the.html?hl=&id=DT0Rg3tE21sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Russian_Culture_Property_Rights_and_the-sample-pdf.acsm?id=DT0Rg3tE21sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DT0Rg3tE21sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Niccol</b>`o Machiavelli. It has often been observed that Machiavelli was hardly a Machiavellian political theorist. His ... <b>Prince</b>. But even there, it is rather clear that Machiavelli is merely pointing out, based on his acute&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LWqAEAAAQBAJ",
+      "etag": "7H1FBHlzsiE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LWqAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lloyd Register of Shipping 1918 Sailing Vessels",
+        "authors": [
+          "Lloyd Register Foundation"
+        ],
+        "publisher": "Lloyd's Register ",
+        "publishedDate": "1918-01-01",
+        "description": "The Lloyd's Register of Shipping records the details of merchant vessels over 100 gross tonnes, which are self-propelled and sea-going, regardless of classification. Before the time, only those vessels classed by Lloyd's Register were listed. Vessels are listed alphabetically by their current name.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LWqAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LWqAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LWqAEAAAQBAJ&pg=PA116&dq=Niccol+The+Prince&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LWqAEAAAQBAJ&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lloyd_Register_of_Shipping_1918_Sailing.html?hl=&id=LWqAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lloyd_Register_of_Shipping_1918_Sailing-sample-pdf.acsm?id=LWqAEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LWqAEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Prince</b> Albert s . <b>Prince</b> George ( Tw . Sc . ) s . <b>Prince</b> John 192 .. 1015 10 .. 3372 Nicolaus &amp; Co. , Para , Brazil , s . <b>Prince</b> Rupert ( T10 . Sc . ) &#39;10 10 905 3379 Nicholson , G. R. , <b>Nicoll</b> , J. , &amp; Co. , s . Envira ( Tw . Sc&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kzeuz5Vwx7sC",
+      "etag": "7EYREwMQKo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kzeuz5Vwx7sC",
+      "volumeInfo": {
+        "title": "The Freemason and Masonic Illustrated. A Weekly Record of Progress in Freemasonry",
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924096308402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1066,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kzeuz5Vwx7sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kzeuz5Vwx7sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kzeuz5Vwx7sC&pg=PA371&dq=Niccol+The+Prince&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kzeuz5Vwx7sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kzeuz5Vwx7sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kzeuz5Vwx7sC&rdid=book-kzeuz5Vwx7sC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Freemason_and_Masonic_Illustrated_A.epub?id=kzeuz5Vwx7sC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kzeuz5Vwx7sC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Niccol</b> , D.P.G.M. of the S.C. , and W.M. of Lodge Albion , officiated as Installing Master with his customary impressiveness and ease ; Bro . Clarke , P.M. of the <b>Prince</b> of Wales Lodge , officiating as Master of the Ceremonies ; Bro&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4W4tAQAAMAAJ",
+      "etag": "LSN/8JSNVXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4W4tAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Freemason's Chronicle",
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924069334799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.11.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4W4tAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4W4tAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4W4tAQAAMAAJ&pg=PA330&dq=Niccol+The+Prince&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4W4tAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4W4tAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4W4tAQAAMAAJ&rdid=book-4W4tAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Freemason_s_Chronicle.epub?id=4W4tAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Freemason_s_Chronicle.pdf?id=4W4tAQAAMAAJ&hl=&output=pdf&sig=ACfU3U1WN4ng8__owym3MXedL3JwtqNNww&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4W4tAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Prince</b> of Wales , as first Grand Principal of England , and the Grand ... <b>Niccol</b> R.W.M. The Pro- vincial Grand Lodge , I.C. , was then announced and ... <b>Niccol</b> , the last named of whom made a few appropriate remarks . Bro&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u_suAQAAIAAJ",
+      "etag": "owC8OWTvwck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u_suAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Publishers' Trade List Annual",
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105124490231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2254,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u_suAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u_suAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u_suAQAAIAAJ&pg=PA2428&dq=Niccol+The+Prince&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=u_suAQAAIAAJ&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Publishers_Trade_List_Annual.html?hl=&id=u_suAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u_suAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q-MCAAAAMBAJ",
+      "etag": "X/hiNzzQBuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-MCAAAAMBAJ",
+      "volumeInfo": {
+        "title": "New York Magazine",
+        "publishedDate": "1995-08-14",
+        "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 92,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q-MCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q-MCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Q-MCAAAAMBAJ&pg=PA10&dq=Niccol+The+Prince&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Q-MCAAAAMBAJ&dq=Niccol+The+Prince&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=Q-MCAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q-MCAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Niccol</b> a reported $2 million to snag the thriller about genetic engineering for Columbia Pic-. THE. <b>PRINCE</b>. IN. HIS. DOMAIN. Hal <b>Prince</b> is rewriting history — again. The legendary director of Evita and Show Boat is teaming up with Alfred&nbsp;..."
+      }
+    }
+  ]
+}

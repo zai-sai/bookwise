@@ -1,0 +1,739 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sHzFtAEACAAJ",
+      "etag": "950sWYv+FgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sHzFtAEACAAJ",
+      "volumeInfo": {
+        "title": "Herland",
+        "subtitle": "By Charlotte Perkins Gilman - Illustrated",
+        "authors": [
+          "Charlotte Perkins Charlotte Perkins Gilman"
+        ],
+        "publishedDate": "2017-03-26",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Herland by Charlotte Perkins Gilman Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order: free of war, conflict, and domination. It first appeared as a serial in The Forerunner, a magazine edited and written by Gilman between 1909 and 1916. The book is the middle volume in her utopian trilogy; it was preceded by Moving the Mountain (1911), and followed with a sequel, With Her in Ourland (1916). It was not published in book form until 1979. The story is told from the perspective of Vandyck \"Van\" Jennings, a student of sociology who, along with two friends (Terry O. Nicholson and Jeff Margrave), forms an expedition party to explore an area of uncharted land where it is rumored lives a society consisting entirely of women. The three friends do not entirely believe the rumors because they are unable to think of a way how human reproduction could occur without males. The men speculate about what a society of women would be like, each guessing differently based on the stereotype of women which he holds most dear: Jeff regarding women as things to be served and protected; Terry viewing them as things to be conquered and won.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520856342"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520856346"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sHzFtAEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sHzFtAEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland.html?hl=&id=sHzFtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sHzFtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About Herland by Charlotte Perkins Gilman Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pkvItQEACAAJ",
+      "etag": "teU5BzUsOn0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pkvItQEACAAJ",
+      "volumeInfo": {
+        "title": "Herland by Charlotte Perkins Gilman",
+        "authors": [
+          "Charlotte Perkins Gilman"
+        ],
+        "publishedDate": "2018-03-27",
+        "description": "Herland by Charlotte Perkins Gilman",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986893510"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986893510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pkvItQEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pkvItQEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland_by_Charlotte_Perkins_Gilman.html?hl=&id=pkvItQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pkvItQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Herland by Charlotte Perkins Gilman"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kBpFMQAACAAJ",
+      "etag": "hbHgTIC2K2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kBpFMQAACAAJ",
+      "volumeInfo": {
+        "title": "Herland Charlotte Perkins Gilman",
+        "authors": [
+          "Charlotte Gilman"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-17",
+        "description": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order: free of war, conflict, and domination. It first appeared as a serial in The Forerunner, a magazine edited and written by Gilman between 1909 and 1916. The book is the middle volume in her utopian trilogy; it was preceded by Moving the Mountain (1911), and followed with a sequel, With Her in Ourland (1916). It was not published in book form until 1979.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541177584"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541177581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kBpFMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kBpFMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kBpFMQAACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kBpFMQAACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland_Charlotte_Perkins_Gilman.html?hl=&id=kBpFMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kBpFMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k7wlMQAACAAJ",
+      "etag": "a87Zd4UZ9KU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k7wlMQAACAAJ",
+      "volumeInfo": {
+        "title": "Herland (1915) Novel by",
+        "subtitle": "Charlotte Perkins Gilman",
+        "authors": [
+          "Charlotte Perkins Gilman"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-02",
+        "description": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order: free of war, conflict, and domination. It first appeared as a serial in The Forerunner, a magazine edited and written by Gilman between 1909 and 1916. The book is the middle volume in her utopian trilogy; it was preceded by Moving the Mountain (1911),",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540772497"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540772497"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k7wlMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k7wlMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=k7wlMQAACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=k7wlMQAACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland_1915_Novel_by.html?hl=&id=k7wlMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k7wlMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-3MNtAEACAAJ",
+      "etag": "ebWe0reC6/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-3MNtAEACAAJ",
+      "volumeInfo": {
+        "title": "Herland by Charlotte Perkins Gilman",
+        "authors": [
+          "Charlotte Gilman"
+        ],
+        "publishedDate": "2017-10-27",
+        "description": "Herland by Charlotte Perkins Gilman",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979163855"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979163859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-3MNtAEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-3MNtAEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland_by_Charlotte_Perkins_Gilman.html?hl=&id=-3MNtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-3MNtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Herland by Charlotte Perkins Gilman"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pHQvEAAAQBAJ",
+      "etag": "4CSUEGv6uU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pHQvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "HERLAND",
+        "subtitle": "UNABRIDGED ORIGINAL CLASSIC",
+        "authors": [
+          "CHARLOTTE PERKINS GILMAM"
+        ],
+        "publisher": "PURE SNOW PUBLISHING",
+        "description": "HERLAND BY CHARLOTTE PERKINS GILMAN Key features of this book: * Unabridged with 100% of it’s original content * Available in multiple formats: eBook, original paperback and large print paperback * Easy-to-read 12 pt. font size * Proper paragraph formatting with Indented first lines, 1.25 Line Spacing and Justified Paragraphs * Properly formatted for aesthetics and ease of reading. * Custom Table of Contents and Design elements for each chapter * The Copyright page has been placed at the end of the book, as to not impede the content and flow of the book. Original publication: 1915 HERLAND is a story is told from the viewpoint of Vandyck \"Van\" Jennings, a sociology student who, along with two friends, Terry O. Nicholson and Jeff Margrave, forms an expedition party to explore an area of uncharted land rumored to be home to a society consisting entirely of women. The three friends are skeptical that this land even exists, but eventually find it. Upon its discovery the land they dub Herland, they find an ideal social order: free of war, conflict, and domination. Herland is a utopian novel written by feminist Charlotte Perkins Gilman. The book is often considered to be the middle volume in her utopian trilogy; preceded by Moving the Mountain (1911), and followed by, With Her in Ourland (1916). This book is great for schools, teachers and students or for the casual reader, and makes a wonderful addition to any classic literary library At Pure Snow Publishing we have taken the time and care into formatting this book to make it the best possible reading experience. We specialize in publishing classic books and have been publishing books since 2014. We now have over 500 book listings available for purchase. Enjoy!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pHQvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pHQvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pHQvEAAAQBAJ&printsec=frontcover&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pHQvEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pHQvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pHQvEAAAQBAJ&rdid=book-pHQvEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pHQvEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "HERLAND BY CHARLOTTE PERKINS GILMAN Key features of this book: * Unabridged with 100% of it’s original content * Available in multiple formats: eBook, original paperback and large print paperback * Easy-to-read 12 pt. font size * Proper ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehOsDwAAQBAJ",
+      "etag": "9xsi2k4x8SU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehOsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Feminism in Charlotte Perkins Gilman’s utopian novel \"Herland\"",
+        "authors": [
+          "Silvia Dreiling"
+        ],
+        "publisher": "GRIN Verlag",
+        "publishedDate": "2019-08-30",
+        "description": "Bachelor Thesis from the year 2018 in the subject Didactics for the subject English - Literature, Works, grade: 3,0, University of Salzburg, language: English, abstract: The goal of this paper is to demonstrate Charlotte Gilman’s personal view on feminism, and her realisation of feminism in the utopian novel \"Herland\". This feminist utopian novel is one of the last texts that belong to the early- twentieth- century wave of feminism. Charlotte Perkins Gilman was a feminist and a Progressive Era public intellectual whose concern were the struggles of the women of her time. She questioned the hierarchical structures and the division of power, labor, and discourse. Her desire was to create a world in which men and women are equally autonomous selves and live together as humans. Here, she stressed that women needed attention as their economic, social, and cultural retardation hindered human progress. Her writings are significant reminders of the patriarchal world in which women were suppressed by the power of men. Gilman believed that marriage and the arrangement of the nuclear family as well as domesticity were the main reasons for women’s oppression. According to her, women were seen only as a sexed group that was subordinated by men. Not only did she search for the roots of this subordination, but also focused on education with the goal of creating a humane and nurturing environment. Basically, she wanted to achieve changes regarding marriage, home, the education of children, and women’s work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783346006790"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3346006794"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehOsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehOsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ehOsDwAAQBAJ&printsec=frontcover&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ehOsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ehOsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ehOsDwAAQBAJ&rdid=book-ehOsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Feminism_in_Charlotte_Perkins_Gilman_s_u-sample-pdf.acsm?id=ehOsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehOsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This feminist utopian novel is one of the last texts that belong to the early- twentieth- century wave of feminism."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bDGV95N07KsC",
+      "etag": "U/eyrB1Fuag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bDGV95N07KsC",
+      "volumeInfo": {
+        "title": "Herland",
+        "authors": [
+          "Charlotte Perkins Gilman"
+        ],
+        "publishedDate": "2007-02-01",
+        "description": "An expedition investigates 'a strange and terrible Woman Land in the high distance'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781406809367"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1406809365"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bDGV95N07KsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bDGV95N07KsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bDGV95N07KsC&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bDGV95N07KsC&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland.html?hl=&id=bDGV95N07KsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bDGV95N07KsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An expedition investigates &#39;a strange and terrible Woman Land in the high distance&#39;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dKDcswEACAAJ",
+      "etag": "nwbeqXG5Gcw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dKDcswEACAAJ",
+      "volumeInfo": {
+        "title": "Herland (1915). By: Charlotte Perkins Gilman",
+        "subtitle": "Herland Is a Utopian Novel from 1915, Written by Feminist Charlotte Perkins Gilman",
+        "authors": [
+          "Charlotte Perkins Gilman"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-09-24",
+        "description": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order: free of war, conflict, and domination. It first appeared as a serial in The Forerunner, a magazine edited and written by Gilman between 1909 and 1916. The book is the middle volume in her utopian trilogy; it was preceded by Moving the Mountain (1911), and followed with a sequel, With Her in Ourland (1916). It was not published in book form until 1979. PLOT: The story is told from the perspective of Vandyck \"Van\" Jennings, a student of sociology who, along with two friends (Terry O. Nicholson and Jeff Margrave), forms an expedition party to explore an area of uncharted land where it is rumored lives a society consisting entirely of women. The three friends do not entirely believe the rumors because they are unable to think of a way how human reproduction could occur without males. The men speculate about what a society of women would be like, each guessing differently based on the stereotype of women which he holds most dear: Jeff regarding women as things to be served and protected; Terry viewing them as things to be conquered and won.[1] When the explorers reach their destination, they proceed with caution, hiding the biplane they arrive in, and trying to keep themselves hidden in the forests that border the land. They are quickly found by three young women who they realize are observing them from the treetops. After attempting to catch the girls with trickery, the men end up chasing the young women towards a town or village. The women outrun them easily and disappear among the houses, which, Van notes are exceptionally well made and attractive. After meeting the first inhabitants of this new land (which Van names Herland) the men proceed more cautiously, noting that the girls they met were strong, agile, and completely unafraid. Their caution is warranted because as the men enter the town where the girls disappeared, they become surrounded by a large group of women who march them towards an official looking building. The three men attempt an escape but are swiftly and easily overpowered by the large group of women and eventually anesthetized. The men awake to find themselves held captive in a fortress-like building. They are given comfortable living accommodations, clean clothes, and food. The women assign each man a tutor who teaches the men their language. Van makes many notes about the new country and people, commenting that everything from their clothing to their furniture seems to be made with the twin ideals of pragmatism and aesthetics given equal consideration. The women themselves appear intelligent and astute, unafraid and patient, with a notable lack of temper and seemingly limitless understanding for their captives. The women are keen to learn about the world outside and question the men eagerly about all manner of things. Often Van finds himself having difficulty justifying the practices of his own society such as the milking of cows, and the keeping of property, when faced with the apparent utopia the women have managed to build.... Charlotte Perkins Gilman ( also Charlotte Perkins Stetson (July 3, 1860 - August 17, 1935), was a prominent American feminist, sociologist, novelist, writer of short stories, poetry, and nonfiction, and a lecturer for social reform. She was a utopian feminist and served as a role model for future generations of feminists because of her unorthodox concepts and lifestyle. Her best remembered work today is her semi-autobiographical short story \"The Yellow Wallpaper\" which she wrote after a severe bout of postpartum psychosis......",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1977589901"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781977589903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dKDcswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dKDcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dKDcswEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dKDcswEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland_1915_By_Charlotte_Perkins_Gilman.html?hl=&id=dKDcswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dKDcswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AoqRvgEACAAJ",
+      "etag": "En1keCv0AAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AoqRvgEACAAJ",
+      "volumeInfo": {
+        "title": "Herland",
+        "subtitle": "A Utopian Novel",
+        "authors": [
+          "Charlotte Perkins Gilman"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2014-05-26",
+        "description": "Herland by Charlotte Perkins Stetson Gilman. A Feminist Utopian Novel. Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order: free of war, conflict, and domination. It first appeared as a serial in Forerunner, a magazine edited and written by Gilman between 1909 and 1916. The book is the middle volume in her utopian trilogy; it was preceded by Moving the Mountain (1911), and followed with a sequel, With Her in Ourland (1916). It was not published in book form until 1979. The story is told from the perspective of Vandyk \"Van\" Jennings, a student of sociology who, along with two friends (Terry O. Nicholson and Jeff Margrave), forms an expedition party to explore an area of uncharted land where it is rumored lives a society consisting entirely of women. The three friends do not entirely believe the rumors because they are unable to think of a way how human reproduction could occur without males. The men speculate about what a society of women would be like, each guessing differently based on the stereotype of women which he holds most dear: Jeff regarding women as things to be served and protected; Terry viewing them as things to be conquered and won.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1499686072"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781499686074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AoqRvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AoqRvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AoqRvgEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AoqRvgEACAAJ&dq=Charlotte+Perkins+Gilman+Herland&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herland.html?hl=&id=AoqRvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AoqRvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Feminist Utopian Novel. Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis (asexual reproduction)."
+      }
+    }
+  ]
+}

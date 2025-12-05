@@ -1,0 +1,779 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "C_ehm7PJWJMC",
+      "etag": "yDyTXtfYhXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C_ehm7PJWJMC",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Oxford Paperbacks",
+        "publishedDate": "1998-06-04",
+        "description": "A scientific expedition sets out to explore a plateau in South America that remains frozen in time from the days when prehistoric creatures roamed the Earth. This classic tale still excites the reader today just as dinosaurs continue to grip the popular imagination. - ;`the ordinary laws of Nature are suspended. The various checks with influence the struggle for existence in the world at large are all neutralized or altered. Creatures survive which would otherwise disappear.' Headed by the larger than life figure of Professor Challenger, a scientific expedition sets out to explore a plateau in South America that remains frozen in time from the days when dinosaurs roamed the Earth. Seemingly impossible to penetrate, this lost word holds great danger for the four men, whether from fiendish ape-men or terrifying prehistoric creatures. Arthur Conan Doyle's classic tale of adventure and discovery still excites the reader today, just as dinosaurs continue to grip the popular imagination. -",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192833525"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192833529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C_ehm7PJWJMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C_ehm7PJWJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C_ehm7PJWJMC&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=C_ehm7PJWJMC&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=C_ehm7PJWJMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lost_World-sample-pdf.acsm?id=C_ehm7PJWJMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C_ehm7PJWJMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The only edition with a critical introduction, this timeless story is sure to excite the modern reader."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MMTBkKQs1QsC",
+      "etag": "yA23nS47cD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MMTBkKQs1QsC",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Cosimo, Inc.",
+        "publishedDate": "2007-11-01",
+        "description": "The Lost World, first published in 1912, tells the story of Professor Challenger, Professor Summerlee, adventurer Lord John Roxton, and reporter Ed Malone as they travel to a remote plateau in South America inhabited by dinosaurs, ape men, and prehistoric humans. In trying to escape from the dangerous creatures, some of them end up captured by the ape men, and the rest must mount a rescue.Fraught with action and suspense, The Lost World is one of the seminal works of dinosaur fiction. It has been the inspiration for numerous spinoffs and retellings, including television shows, radio shows, and movies. Readers of all ages will delight in this deftly told tale.Scottish surgeon and political activist SIR ARTHUR CONAN DOYLE (1859-1930) turned his passions into stories and novels, producing fiction and nonfiction works sometimes controversial (The Great Boer War, 1900), sometimes fanciful (The Coming of the Fairies, 1922), and sometimes legendary (The Adventures of Sherlock Holmes, 1892).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781602068711"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1602068712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MMTBkKQs1QsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MMTBkKQs1QsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MMTBkKQs1QsC&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MMTBkKQs1QsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MMTBkKQs1QsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.96,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MMTBkKQs1QsC&rdid=book-MMTBkKQs1QsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3960000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MMTBkKQs1QsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Lost World, first published in 1912, tells the story of Professor Challenger, Professor Summerlee, adventurer Lord John Roxton, and reporter Ed Malone as they travel to a remote plateau in South America inhabited by dinosaurs, ape men, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MCkwEAAAQBAJ",
+      "etag": "8u89exa1eCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MCkwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lost World - Arthur Conan Doyle",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Lumbreras Classics Books",
+        "publishedDate": "2021-06-03",
+        "description": "\"The Lost World is a science fiction novel by British writer Arthur Conan Doyle, published in 1912, concerning an expedition to a plateau in the Amazon basin of South America where prehistoric animals still survive. It was originally published serially in the Strand Magazine and illustrated by New-Zealand-born artist Harry Rountree during the months of AprilNovember 1912. The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985944071"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985944075"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MCkwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MCkwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MCkwEAAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MCkwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MCkwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MCkwEAAAQBAJ&rdid=book-MCkwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lost_World_Arthur_Conan_Doyle-sample-epub.acsm?id=MCkwEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lost_World_Arthur_Conan_Doyle-sample-pdf.acsm?id=MCkwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MCkwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ElywEAAAQBAJ",
+      "etag": "47GhFX4UFSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ElywEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Arcturus Publishing",
+        "publishedDate": "2023-04-01",
+        "description": "Published in 1912, The Lost World combines fantasy and science fiction genres, setting out unknown lands filled with primeval creatures and unknown dangers. Packed with exploration, investigation and intrigue, the novel follows the intelligent but hot-tempered academic George Challenger on his expedition to South America. The Professor and a small group, including journalist Edward Malone, voyage across oceans to distant wastelands and forests filled with with prehistoric creatures. The Lost World captures the perils of territorial conflict and the age old battle of man vs beast. ABOUT THE SERIES: The Arcturus Classics series brings together high-quality paperback editions of classics works, presented with contemporary graphic cover designs. Together they make a wonderful collection which is perfect for any home library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781398832886"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "139883288X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ElywEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ElywEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ElywEAAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ElywEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ElywEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ElywEAAAQBAJ&rdid=book-ElywEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lost_World-sample-epub.acsm?id=ElywEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lost_World-sample-pdf.acsm?id=ElywEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ElywEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: The Arcturus Classics series brings together high-quality paperback editions of classics works, presented with contemporary graphic cover designs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SMviAQAACAAJ",
+      "etag": "NuyRrmk9lUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SMviAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "subtitle": "By Sir Arthur Conan Doyle - Illustrated",
+        "authors": [
+          "Sir Arthur Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2017-03-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Lost World by Sir Arthur Conan Doyle The restless, questing intellect of Sir Arthur Conan Doyle spurred him far beyond the ingenious puzzles he constructed for Sherlock Holmes. In The Lost World, Doyle, a devotee of the occult and fantastic tales of adventure and discovery, introduces his readers to Professor Challenger, an eccentric paleontologist, on his suspense-filled search for prehistoric creatures in the wilds of the Amazon. Professor Challenger's doughty troupe includes a skeptical colleague, Professor Summerlee; the cool-headed, plucky sportsman Lord John Roxton; and the narrator, the intrepid reporter Edward Malone. When their bridge to civilization collapses, the explorers find themselves marooned among dinosaurs and savage ape-people.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520870620"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520870625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SMviAQAACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SMviAQAACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=SMviAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SMviAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "49fOzgEACAAJ",
+      "etag": "1fdwgVv7wHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/49fOzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World by Arthur Conan Doyle(an Annotated Edition)",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-11-19",
+        "description": "Unabridged value reproduction of THE LOST WORLD by the original master of mystery Arthur Conan Doyle. Join the enigmatic and forceful Professor Challenger into the terrifying world of dinosaurs roaming wild. Adventure and mayhem, with humor sprinkled throughout, provide for a thrilling 1912 adventure through the jungles of South America that every reader should take. The Lost World, By Sir Arthur Conan Doyle, The Lost World is a novel released in 1912 by Sir Arthur Conan Doyle concerning an expedition to a plateau in the Amazon basin of South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. It was originally published serially in the popular Strand Magazine and illustrated by New-Zealand-born artist Harry Rountree during the months of April-November 1912. The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures. Edward Malone, a reporter for the Daily Gazette, goes to his news editor, McArdle, to procure a dangerous and adventurous mission in order to impress the woman he loves, Gladys Hungerton. He is sent to interview Professor George Edward Challenger, who has assaulted four or five other journalists, to determine if his claims about his trip to South America are true. After assaulting Malone, Challenger reveals his discovery of dinosaurs in South America. Having been ridiculed for years, he invites Malone on a trip to prove his story, along with Professor Summerlee, another scientist qualified to examine any evidence, and Lord John Roxton, an adventurer who knows the Amazon and several years prior to the events of the book helped end slavery by robber barons in South America. They reach the plateau with the aid of Indian guides, who are superstitiously scared of the area.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798769999680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=49fOzgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=49fOzgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World_by_Arthur_Conan_Doyle_an.html?hl=&id=49fOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=49fOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Z9GzQEACAAJ",
+      "etag": "+Ufp+NEK4jo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Z9GzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "subtitle": "A 1912 Science Fiction Novel by British Writer Arthur Conan Doyle",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2019-12-07",
+        "description": "Unabridged value reproduction of THE LOST WORLD by the original master of mystery Arthur Conan Doyle. Join the enigmatic and forceful Professor Challenger into the terrifying world of dinosaurs roaming wild. Adventure and mayhem, with humor sprinkled throughout, provide for a thrilling 1912 adventure through the jungles of South America that every reader should take. The Lost World, By Sir Arthur Conan Doyle, The Lost World is a novel released in 1912 by Sir Arthur Conan Doyle concerning an expedition to a plateau in the Amazon basin of South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. It was originally published serially in the popular Strand Magazine and illustrated by New-Zealand-born artist Harry Rountree during the months of April-November 1912. The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures. Edward Malone, a reporter for the Daily Gazette, goes to his news editor, McArdle, to procure a dangerous and adventurous mission in order to impress the woman he loves, Gladys Hungerton. He is sent to interview Professor George Edward Challenger, who has assaulted four or five other journalists, to determine if his claims about his trip to South America are true. After assaulting Malone, Challenger reveals his discovery of dinosaurs in South America. Having been ridiculed for years, he invites Malone on a trip to prove his story, along with Professor Summerlee, another scientist qualified to examine any evidence, and Lord John Roxton, an adventurer who knows the Amazon and several years prior to the events of the book helped end slavery by robber barons in South America. They reach the plateau with the aid of Indian guides, who are superstitiously scared of the area.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1672743273"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781672743273"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Z9GzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Z9GzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0Z9GzQEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0Z9GzQEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=0Z9GzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Z9GzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MwL8xQEACAAJ",
+      "etag": "9NQVji38Ocs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MwL8xQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "subtitle": "A Fantastic Dinosaur-related Fiction (Annotated) BY Arthur Conan Doyle.",
+        "authors": [
+          "Sir Arthur Conan Doyle, Sir"
+        ],
+        "publishedDate": "2019-06-04",
+        "description": "The Lost World is a novel released in 1912 by Arthur Conan Doyle concerning an expedition to a plateau in South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. The character of Professor Challenger was introduced in this book. Interestingly, for a seminal work of dinosaur-related fiction, the animals only occupy a small portion of the narrative. Much more time is devoted to a war between early human hominids and a vicious tribe of ape-like creatures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1072109417"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781072109419"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MwL8xQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MwL8xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MwL8xQEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MwL8xQEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=MwL8xQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MwL8xQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The character of Professor Challenger was introduced in this book. Interestingly, for a seminal work of dinosaur-related fiction, the animals only occupy a small portion of the narrative."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jz4irgEACAAJ",
+      "etag": "/COzQr9IFJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jz4irgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "subtitle": "(Sir Arthur Conan Doyle Classics Collection)",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-02-23",
+        "description": "Mr. Hungerton, her father, really was the most tactless person upon earth,—a fluffy, feathery, untidy cockatoo of a man, perfectly good-natured, but absolutely centered upon his own silly self. If anything could have driven me from Gladys, it would have been the thought of such a father-in-law. I am convinced that he really believed in his heart that I came round to the Chestnuts three days a week for the pleasure of his company, and very especially to hear his views upon bimetallism, a subject upon which he was by way of being an authority.For an hour or more that evening I listened to his monotonous chirrup about bad money driving out good, the token value of silver, the depreciation of the rupee, and the true standards of exchange.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1508604320"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781508604327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jz4irgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jz4irgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Jz4irgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Jz4irgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=Jz4irgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jz4irgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr. Hungerton, her father, really was the most tactless person upon earth, -a fluffy, feathery, untidy cockatoo of a man, perfectly good-natured, but absolutely centered upon his own silly self."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CuSDvgEACAAJ",
+      "etag": "0lS9J4A15SQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CuSDvgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost World",
+        "subtitle": "Fantasy Novel",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2018-11-12",
+        "description": "The Lost World is a novel released in 1912 by Sir Arthur Conan Doyle concerning an expedition to a plateau in the Amazon basin of South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. It was originally published serially in the popular Strand Magazine and illustrated by New-Zealand-born artist Harry Rountree during the months of April-November 1912. The character of Professor Challenger was introduced in this book. The novel also describes a war between indigenous people and a vicious tribe of ape-like creatures.PLOT/Edward Malone, a young reporter for the Daily Gazette, asks his editor for a dangerous assignment to impress the woman he loves, Gladys, who wishes for a great man capable of brave deeds and actions. His task is to approach the notorious Professor Challenger, who dislikes the popular press intensely and physically assaults intrusive journalists. The subject is to be his recent South American expedition which, surrounded by controversy, guarantees a hostile reaction. As a direct approach would be instantly rebuffed, Malone instead masquerades as an earnest student. On meeting the professor he is startled by his overwhelming intellect - his intimidating physique too - but believes his ruse is succeeding. Seeing through the masquerade, then confirming Malone's scientific knowledge is non-existent, Challenger erupts in anger and forcibly throws him out. Malone earns his respect by refusing to press charges with a policeman who saw his violent ejection into the street. Challenger ushers him back inside and, extracting promises of confidentiality, eventually reveals he has discovered living dinosaurs in South America. At a tumultuous public meeting in which Challenger experiences further ridicule, Malone volunteers for an expedition to verify the discoveries. His companions are to be Professor Summerlee, and Lord John Roxton, an adventurer who helped end slavery on the Amazon; the notches on his rifle showing how many slavers he killed doing so.Running the gauntlet of hostile tribes, the expedition finally reaches the lost world with the aid of Indian guides, who are superstitiously scared of the area. When they finally succeed in scaling the cliffs and entering the lost world another helper, Gomez, whose brother was killed by Roxton in his fight against slavery, destroys their makeshift bridge. The four explorers are now trapped on the plateau.Whilst investigating the wonders of the lost world, discovering many plants and creatures thought to be extinct, they narrowly escape an attack from pterodactyls. Although barely escaping with their lives, Roxton takes great interest in nearby blue clay deposits. At night a ferocious dinosaur is about to break through the thorn bushes surrounding their camp; Roxton averts disaster by bravely dashing at it, thrusting a blazing torch at its face to scare it away. Later, all except Malone are captured by a race of ape-men. Whilst in captivity they discover that a tribe of natives, with whom the ape-men are at war, inhabit the other side of the plateau. Roxton escapes and together with Malone mounts a rescue, preventing many unpleasant deaths, including a young native who is a prince of his tribe. The rescued natives take the party to their village, then with the help of their firepower return to defeat the ape-men. After witnessing the power of their guns, the tribe wish to keep them on the plateau but, helped by the young prince they saved, they eventually discover a tunnel leading back to the outside world....Sir Arthur Ignatius Conan Doyle KStJ DL (22 May 1859 - 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1731239866"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781731239860"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CuSDvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CuSDvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CuSDvgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CuSDvgEACAAJ&dq=Arthur+Conan+Doyle+The+Lost+World&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_World.html?hl=&id=CuSDvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CuSDvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was originally published serially in the popular Strand Magazine and illustrated by New-Zealand-born artist Harry Rountree during the months of April-November 1912. The character of Professor Challenger was introduced in this book."
+      }
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4FNdAAAAcAAJ",
+      "etag": "lAOj7HljXQM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4FNdAAAAcAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood",
+        "subtitle": "By Charles Dickens. With Twelve Illustrations by S. L. Fildes, and a Portrait",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB10859150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4FNdAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4FNdAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4FNdAAAAcAAJ&printsec=frontcover&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4FNdAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4FNdAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4FNdAAAAcAAJ&rdid=book-4FNdAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Mystery_of_Edwin_Drood.epub?id=4FNdAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4FNdAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "seEmB1rtq74C",
+      "etag": "Vr6jEgzsHDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/seEmB1rtq74C",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood by Charles Dickens",
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IBNN:BN000430575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=seEmB1rtq74C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=seEmB1rtq74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=seEmB1rtq74C&printsec=frontcover&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=seEmB1rtq74C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=seEmB1rtq74C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=seEmB1rtq74C&rdid=book-seEmB1rtq74C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Mystery_of_Edwin_Drood_by_Charles_Di.epub?id=seEmB1rtq74C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=seEmB1rtq74C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yNbLfVO2OYYC",
+      "etag": "tdOSlN/TUhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yNbLfVO2OYYC",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood",
+        "subtitle": "with an introduction by Peter Ackroyd",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2011-10-31",
+        "description": "Charles Dickens's final, unfinished novel has inspired generations of speculation ... Choirmaster John Jasper is a man of deep hypocrisy. His public reputation is flawless yet privately he leads an immoral life, frequenting squalid opium dens. And although outwardly he seems delighted with the betrothal of his nephew Edwin Drood to Rosa Bud, one of his choristers, secretly he is consumed by jealousy. But he is not alone in hoping for Edwin's demise. Among others, hot-tempered Neville Landless has also made an enemy of Drood - so when Edwin disappears, at whom should the accusing finger point?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781409062790"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1409062791"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yNbLfVO2OYYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yNbLfVO2OYYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yNbLfVO2OYYC&printsec=frontcover&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yNbLfVO2OYYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yNbLfVO2OYYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yNbLfVO2OYYC&rdid=book-yNbLfVO2OYYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mystery_of_Edwin_Drood-sample-epub.acsm?id=yNbLfVO2OYYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yNbLfVO2OYYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Charles Dickens&#39;s final, unfinished novel has inspired generations of speculation ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_AmItAEACAAJ",
+      "etag": "rMpf3/uwlJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_AmItAEACAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood (Annotated and Illustrated)",
+        "authors": [
+          "Charles Charles Dickens"
+        ],
+        "publishedDate": "2018-01-16",
+        "description": "*This Book is annotated (it contains a detailed biography of the author). *An active Table of Contents has been added by the publisher for a better customer experience. *This book has been checked and corrected for spelling errors. The Mystery of Edwin Drood is the final novel by Charles Dickens. The novel was unfinished at the time of Dickens's death (9 June 1870) and his ending for it is unknown.Though the novel is named after the character Edwin Drood, the story focuses on Drood's uncle, precentor, choirmaster and opium addict, John Jasper, who is in love with his pupil, Rosa Bud. Miss Bud, Drood's fiancée, has also caught the eye of the high-spirited and hot-tempered Neville Landless, who comes from Ceylon with his twin sister, Helena. Landless and Drood take an instant dislike to one another. Drood later disappears under mysterious circumstances.The story is set in Cloisterham, a lightly disguised Rochester. Mr Crisparkle, for example, lives in a clergy house in Minor Canon Corner, which corresponds to a genuine address within the precincts of Rochester Cathedral, namely Minor Canon Row.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976899346"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976899348"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_AmItAEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_AmItAEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Edwin_Drood_Annotated_and.html?hl=&id=_AmItAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_AmItAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "*This Book is annotated (it contains a biography of the author). The Mystery of Edwin Drood is the final novel by Charles Dickens. The novel was unfinished at the time of Dickens&#39;s death (9 June 1870) and his ending for it is unknown."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zLjmtAEACAAJ",
+      "etag": "eEfKAu0gCFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zLjmtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood",
+        "subtitle": "By Charles Dickens - Illustrated",
+        "authors": [
+          "Charles Charles Dickens"
+        ],
+        "publishedDate": "2017-07-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Mystery of Edwin Drood by Charles Dickens The Mystery of Edwin Drood is the final novel by Charles Dickens. The novel was unfinished at the time of Dickens's death (9 June 1870) and his ending for it is unknown. Though the novel is named after the character Edwin Drood, the story focuses on Drood's uncle, precentor, choirmaster and opium addict, John Jasper, who is in love with his pupil, Rosa Bud. Miss Bud, Drood's fiancée, has also caught the eye of the high-spirited and hot-tempered Neville Landless, who comes from Ceylon with his twin sister, Helena. Landless and Drood take an instant dislike to one another. Drood later disappears under mysterious circumstances. The story is set in Cloisterham, a lightly disguised Rochester. Mr Crisparkle, for example, lives in a clergy house in Minor Canon Corner, which corresponds to a genuine address within the precincts of Rochester Cathedral, namely Minor Canon Row.The novel begins as John Jasper leaves a London opium den. The next evening, Edwin Drood visits Jasper, who is the choirmaster at Cloisterham Cathedral. Edwin confides that he has misgivings about his betrothal to Rosa Bud. The next day, Edwin visits Rosa at the Nuns' House, the boarding school where she lives. They quarrel good-naturedly, which they apparently do frequently during his visits. Meanwhile, Jasper, having an interest in the cathedral crypt, seeks the company of Durdles, a man who knows more about the crypt than anyone else.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521923655"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521923658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zLjmtAEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zLjmtAEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Edwin_Drood.html?hl=&id=zLjmtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zLjmtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The Mystery of Edwin Drood by Charles Dickens The Mystery of Edwin Drood is the final novel by Charles Dickens."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uq8gzgEACAAJ",
+      "etag": "vF45Uj9BNUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uq8gzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood Annotated",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2020-12-26",
+        "description": "The Mystery of Edwin Drood is the final novel by Charles Dickens, The novel begins as John Jasper leaves a London opium den. The next evening, Edwin Drood visits Jasper, who is the choirmaster at Cloisterham Cathedral. Edwin confides that he has misgivings about his betrothal to Rosa Bud. The next day, Edwin visits Rosa at the Nuns' House, the boarding school where she lives. They quarrel good-naturedly, which they apparently do frequently during his visits. Meanwhile, Jasper, having an interest in the cathedral crypt, seeks the company of Durdles, a man who knows more about the crypt than anyone else.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798586845566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Uq8gzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Uq8gzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Uq8gzgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Uq8gzgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Edwin_Drood_Annotated.html?hl=&id=Uq8gzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uq8gzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Mystery of Edwin Drood is the final novel by Charles Dickens, The novel begins as John Jasper leaves a London opium den."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e8crzgEACAAJ",
+      "etag": "liVefi2YwaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e8crzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood Illustrated",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2021-01-20",
+        "description": "The Mystery of Edwin Drood is the final novel by Charles Dickens, The novel begins as John Jasper leaves a London opium den. The next evening, Edwin Drood visits Jasper, who is the choirmaster at Cloisterham Cathedral. Edwin confides that he has misgivings about his betrothal to Rosa Bud. The next day, Edwin visits Rosa at the Nuns' House, the boarding school where she lives. They quarrel good-naturedly, which they apparently do frequently during his visits. Meanwhile, Jasper, having an interest in the cathedral crypt, seeks the company of Durdles, a man who knows more about the crypt than anyone else.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798597936444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e8crzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e8crzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=e8crzgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=e8crzgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Edwin_Drood_Illustrated.html?hl=&id=e8crzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e8crzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Mystery of Edwin Drood is the final novel by Charles Dickens, The novel begins as John Jasper leaves a London opium den."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZUW2BgAAQBAJ",
+      "etag": "OomLuCFT9NI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUW2BgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-02-13",
+        "description": "The Mystery of Edwin Drood is the final novel by Charles Dickens.[1][2] The novel was unfinished at the time of Dickens' death (9 June 1870) and his ending for it remains unknown. Consequently, the identity of the murderer remains subject to debate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781633558915"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1633558916"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUW2BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUW2BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZUW2BgAAQBAJ&printsec=frontcover&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZUW2BgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZUW2BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZUW2BgAAQBAJ&rdid=book-ZUW2BgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mystery_of_Edwin_Drood-sample-epub.acsm?id=ZUW2BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUW2BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Mystery of Edwin Drood is the final novel by Charles Dickens.[1][2] The novel was unfinished at the time of Dickens&#39; death (9 June 1870) and his ending for it remains unknown."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fDF1DwAAQBAJ",
+      "etag": "0yt0ZIw258o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fDF1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Edwin Drood (1870)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2018-10-21",
+        "description": "Illustrated by Luke Fildes. The final novel by Charles Dickens; the novel was left unfinished at the time of Dickens' death, and readers have often speculated about the ending",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359173303"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359173306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fDF1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fDF1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fDF1DwAAQBAJ&printsec=frontcover&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fDF1DwAAQBAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Edwin_Drood_1870.html?hl=&id=fDF1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mystery_of_Edwin_Drood_1870-sample-pdf.acsm?id=fDF1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fDF1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Illustrated by Luke Fildes. The final novel by Charles Dickens; the novel was left unfinished at the time of Dickens&#39; death, and readers have often speculated about the ending"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9AhFvgEACAAJ",
+      "etag": "xMYIXm0mJnM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9AhFvgEACAAJ",
+      "volumeInfo": {
+        "title": "Mystery of Edwin Drood",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-11-04",
+        "description": "Mystery of Edwin Drood by Charles Dickens . The biggest mystery of The Mystery of Edwin Drood is how it ends. It began as a serial, as nearly all of Dickens' novels did, but only six instalments were published before the author's death in 1870. What we know about Edwin Drood is this: he is betrothed to a young woman named Rosa Bud; they are fond of each other, but uncertain about their future together. Jasper John-Edwin's older uncle and a frequenter of London's opium dens-is infatuated with Rosa, as is Neville Landless, and the two begin to compete for her affection behind the scenes. Then, on Christmas Eve, Drood disappears, leaving behind only a pin and a pocket watch. What became of Edwin Drood that fateful night is one of the greatest unsolved mysteries in literature and it continues to intrigue readers, writers, and literary historians more than 100 years after Dickens' death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1730709281"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781730709289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9AhFvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9AhFvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9AhFvgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9AhFvgEACAAJ&dq=Charles+Dickens+The+Mystery+of+Edwin+Drood&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mystery_of_Edwin_Drood.html?hl=&id=9AhFvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9AhFvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mystery of Edwin Drood by Charles Dickens . The biggest mystery of The Mystery of Edwin Drood is how it ends."
+      }
+    }
+  ]
+}

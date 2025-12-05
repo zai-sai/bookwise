@@ -1,0 +1,748 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0iTZDQAAQBAJ",
+      "etag": "6pB/6BnH+2U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0iTZDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2017-01-04",
+        "description": "\"There is no doubt they intend to kill us as dead as possible in a short time,\" said the Wizard. \"As dead as poss'ble would be pretty dead, wouldn't it?\" asked Dorothy.\" During an earthquake in California Dorothy and her friends are swallowed up by cracks in the earth and find themselves in a whole new land – the Land of Mangaboos. The Mangaboos are a vegetable people, and they accuse Dorothy and her friends of causing the earthquake and sentence them to death. The 1939 movie, ‘The Wizard of Oz’ starring Judy Garland, perfectly told the story of a little girl’s first adventure, but the story of Oz and Dorothy far from ended then. With his trademark inventions on display, author L. Frank Baum delivers another imaginative and delightful book in the Oz series, though many will agree that this fourth one is darker and more troubling than its predecessors. L. Frank Baum (1956-1919) was an American author, actor, and filmmaker best known for his children’s books, particularly ‘The Wonderful Wizard of Oz’ (1900) and its thirteen sequels. He started writing young and created a journal with his brother, which they handed out for free.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789176393529"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9176393526"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0iTZDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0iTZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0iTZDQAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0iTZDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0iTZDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.04,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.28,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0iTZDQAAQBAJ&rdid=book-0iTZDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3040000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2280000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dorothy_and_the_Wizard_in_Oz-sample-epub.acsm?id=0iTZDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0iTZDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 1939 movie, ‘The Wizard of Oz’ starring Judy Garland, perfectly told the story of a little girl’s first adventure, but the story of Oz and Dorothy far from ended then."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jcm9AQAACAAJ",
+      "etag": "D3mbl6fipbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jcm9AQAACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in OZ",
+        "subtitle": "By L. Frank Baum - Illustrated",
+        "authors": [
+          "L. Frank L. Frank Baum"
+        ],
+        "publishedDate": "2017-03-25",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Dorothy And The Wizard In OZ by L. Frank Baum Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz written by L. Frank Baum and illustrated by John R. Neill. It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz. This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz) to be illustrated with watercolor paintings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520869193"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520869193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jcm9AQAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jcm9AQAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_OZ.html?hl=&id=jcm9AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jcm9AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OTY1zgEACAAJ",
+      "etag": "7bn0QsIUcCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTY1zgEACAAJ",
+      "volumeInfo": {
+        "title": "Frank Baum Classics",
+        "subtitle": "Dorothy and the Wizard in Oz: Fully Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-04-25",
+        "description": "Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz written by L. Frank Baum and illustrated by John R. Neill. It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz. This is one of only two of the original fourteen Oz books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798640187557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OTY1zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OTY1zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OTY1zgEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OTY1zgEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frank_Baum_Classics.html?hl=&id=OTY1zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTY1zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz. This is one of only two of the original fourteen Oz books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "akk6EAAAQBAJ",
+      "etag": "mKmIWPDiHps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/akk6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz - Lyman Frank Baum",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-07-30",
+        "description": "Dorothy and the Wizard in Oz - Lyman Frank Baum - A California earthquake sends Dorothy Gale and her new friends--Zeb the farm boy, Jim the cab-horse, and Eureka the mischievous kitten--tumbling through a crack in the ground. Deep beneath the earth, Dorothy is reunited with her old friend the Wizard of Oz and his troupe of nine tiny piglets.Together, Dorothy, the Wizard, and their friends travel through many fantastic lands, where they encounter the Mangaboos, people growing like vegetables in the ground; cross the Valley of Voe, where dama-fruit has turned everyone invisible; and are captured by mysterious flying Gargoyles. At last, the intrepid travelers reach Oz, where they have many unforgettable encounters with such favorites as the Scarecrow and the Tin Woodman, the Cowardly Lion and the Hungry Tiger, Princess Ozma and the wooden Sawhorse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985948680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985948682"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=akk6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=akk6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=akk6EAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=akk6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=akk6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=akk6EAAAQBAJ&rdid=book-akk6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dorothy_and_the_Wizard_in_Oz_Lyman_Frank-sample-epub.acsm?id=akk6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dorothy_and_the_Wizard_in_Oz_Lyman_Frank-sample-pdf.acsm?id=akk6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=akk6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dorothy and the Wizard in Oz - Lyman Frank Baum - A California earthquake sends Dorothy Gale and her new friends--Zeb the farm boy, Jim the cab-horse, and Eureka the mischievous kitten--tumbling through a crack in the ground."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wCF1DwAAQBAJ",
+      "etag": "sYv4gWODNto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wCF1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz / Children's NOVEL / Original Version Illustrated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2018-10-18",
+        "description": "On her way back from Australia, Dorothy visits her cousin, Zeb, in California. They are soon swallowed up by an earthquake, along with Zeb's horse Jim and Dorothy's cat Eureka. The group soon meets up with the Wizard and all travel underground back to Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359167944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359167942"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wCF1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wCF1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wCF1DwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wCF1DwAAQBAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz_Children_s.html?hl=&id=wCF1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dorothy_and_the_Wizard_in_Oz_Children_s-sample-pdf.acsm?id=wCF1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wCF1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On her way back from Australia, Dorothy visits her cousin, Zeb, in California."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YG1CAQAACAAJ",
+      "etag": "u3++7FRnp7Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YG1CAQAACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2017-02-05",
+        "description": "Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz written by L. Frank Baum and illustrated by John R. Neill. It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz (1900). This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542937957"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542937955"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YG1CAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YG1CAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YG1CAQAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YG1CAQAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz.html?hl=&id=YG1CAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YG1CAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ImUMzgEACAAJ",
+      "etag": "pv/S5+ZW9nE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ImUMzgEACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-11-16",
+        "description": "Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz written by L. Frank Baum and illustrated by John R. Neill. It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz (1900). This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798565994797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ImUMzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ImUMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ImUMzgEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ImUMzgEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz_Illustrated.html?hl=&id=ImUMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ImUMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X6q1twEACAAJ",
+      "etag": "LxpcXTGfC5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X6q1twEACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz",
+        "authors": [
+          "L. Frank Baum",
+          "John R. Ill Neill"
+        ],
+        "publisher": "Palala Press",
+        "publishedDate": "2018-03-02",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "137896327X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781378963272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X6q1twEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X6q1twEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X6q1twEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=X6q1twEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz.html?hl=&id=X6q1twEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X6q1twEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AHnenAAACAAJ",
+      "etag": "8z82pnBHiIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AHnenAAACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz Lyman Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-04",
+        "description": "A California earthquake sends Dorothy Gale and her new friends--Zeb the farm boy, Jim the cab-horse, and Eureka the mischievous kitten--tumbling through a crack in the ground. Deep beneath the earth, Dorothy is reunited with her old friend the Wizard of Oz and his troupe of nine tiny piglets. Together, Dorothy, the Wizard, and their friends travel through many fantastic lands, where they encounter the Mangaboos, people growing like vegetables in the ground; cross the Valley of Voe, where dama-fruit has turned everyone invisible; and are captured by mysterious flying Gargoyles. At last, the intrepid travelers reach Oz, where they have many unforgettable encounters with such favorites as the Scarecrow and the Tin Woodman, the Cowardly Lion and the Hungry Tiger, Princess Ozma and the wooden Sawhorse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542342961"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542342964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AHnenAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AHnenAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AHnenAAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AHnenAAACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz_Lyman_Frank.html?hl=&id=AHnenAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AHnenAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A California earthquake sends Dorothy Gale and her new friends--Zeb the farm boy, Jim the cab-horse, and Eureka the mischievous kitten--tumbling through a crack in the ground."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RBu6tQEACAAJ",
+      "etag": "71aY7FRG6sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RBu6tQEACAAJ",
+      "volumeInfo": {
+        "title": "Dorothy and the Wizard in Oz by L. Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2017-09-08",
+        "description": "Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz written by L. Frank Baum and illustrated by John R. Neill. It was published on June 18, 1908 and reunites Dorothy with the humbug Wizard from The Wonderful Wizard of Oz (1900). This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings.Baum, having resigned himself to writing a series of Oz books, set up elements of this book in the prior Ozma of Oz (1907).[1] He was not entirely pleased with this, as the introduction to Dorothy and the Wizard of Oz opens with the protest that he knows many tales of many lands, and hoped that children would permit him to tell them those tales.[2]Written shortly after the 1906 San Francisco earthquake and around the time Baum moved to California, the book starts with an earthquake in California. Dorothy and others are swallowed up by cracks in the earth, and fall into an underground cavern, where they begin their adventures.Very little of the story-six of the twenty chapters-actually takes place in Oz.[3] As in Ozma of Oz before it, and in some of the books after, Oz is not the land where the adventures take place, but the land the characters are seeking as a refuge from adventure.[4]The book was dedicated to Harriet Alvena Baum Neal, the author's eldest sister.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976221366"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976221361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RBu6tQEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RBu6tQEACAAJ&dq=L.+Frank+Baum+Dorothy+and+the+Wizard+in+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dorothy_and_the_Wizard_in_Oz_by_L_Frank.html?hl=&id=RBu6tQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RBu6tQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one of only two of the original fourteen Oz books (the other being The Emerald City of Oz (1910), to be illustrated with watercolor paintings.Baum, having resigned himself to writing a series of Oz books, set up elements of this ..."
+      }
+    }
+  ]
+}

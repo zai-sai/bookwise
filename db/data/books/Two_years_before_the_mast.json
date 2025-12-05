@@ -1,0 +1,685 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "p5MfwAieLuEC",
+      "etag": "lm0m1m3qMkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p5MfwAieLuEC",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "authors": [
+          "Richard Henry Dana"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X006088313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Sailors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p5MfwAieLuEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p5MfwAieLuEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=p5MfwAieLuEC&printsec=frontcover&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p5MfwAieLuEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p5MfwAieLuEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=p5MfwAieLuEC&rdid=book-p5MfwAieLuEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Two_Years_Before_the_Mast.epub?id=p5MfwAieLuEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Two_Years_Before_the_Mast.pdf?id=p5MfwAieLuEC&hl=&output=pdf&sig=ACfU3U1hTxWBQCnSP0oKQfnkOyiIdbp1dQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p5MfwAieLuEC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L4C2tAEACAAJ",
+      "etag": "/8pImJ0BzAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L4C2tAEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "subtitle": "By Richard Henry Dana - Illustrated",
+        "authors": [
+          "Richard Henry Richard Henry Dana"
+        ],
+        "publishedDate": "2017-07-20",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Two Years Before The Mast by Richard Henry Dana Two Years Before the Mast is a memoir by the American author Richard Henry Dana Jr., published in 1840, having been written after a two-year sea voyage from Boston to California on a merchant ship starting in 1834. A film adaptation under the same name was released in 1946.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521891141"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521891148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L4C2tAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L4C2tAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=L4C2tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L4C2tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "60fhtwEACAAJ",
+      "etag": "Cxjkjz7Cvso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/60fhtwEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "authors": [
+          "Richard Henry Dana"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-05-27",
+        "description": "Two Years Before the Mast By Richard Henry Dana Two Years Before the Mast is a book by the American author Richard Henry Dana, Jr., written after a two-year sea voyage starting in 1834 and published in 1840. While at Harvard College, Dana had an attack of the measles which affected his vision. Thinking it might help his sight, Dana, rather than going on a Grand Tour as most of his fellow classmates traditionally did (and unable to afford it anyway) and being something of a non-conformist, left Harvard to enlist as a common sailor on a voyage around Cape Horn on the brig Pilgrim. He returned to Massachusetts two years later aboard the Alert (which left California sooner than the Pilgrim). He kept a diary throughout the voyage, and, after returning, he wrote a recognized American classic, Two Years Before the Mast, published in 1840, the same year of his admission to the bar. We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience. Two Years Before the Mast, Two Years Before the Mast pdf, Two Years Before the Mast book, Richard Henry Dana books, Richard Henry Dan",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "172035037X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781720350378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 548,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=60fhtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=60fhtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=60fhtwEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=60fhtwEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=60fhtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=60fhtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uK8c0QEACAAJ",
+      "etag": "aSiJ0sMkgas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uK8c0QEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "subtitle": "A Personal Narrative of Life at Sea",
+        "authors": [
+          "Richard Henry Dana, Jr."
+        ],
+        "publishedDate": "2025-02-21",
+        "description": "Two Years Before the Mast is author Richard Henry Dana, Jr.'s personal narrative of his two-year adventure at sea as an able seaman in 1834 - 1836. Leaving behind the life of a privileged university student, Dana set out to test himself against the hardship of the sea and the life of a sailor. Dana joined the crew of the sailing ship Pilgrim for her voyage around Cape Horn to the coast of California where they traded for cattle hides. Dana's narrative captures the hardships, hopes, adventures, tedium, and dangers of the ordinary sailor in the days of wooden sailing ships. Dana's Two Years Before the Mast also provides a fascinating description of the landscape, people, culture and economy of early, wild, colonial, California prior to significant settlement and development. Dana's narrative also provides a factually accurate account of the harrowing dangers involved in any passage around Cape Horn in the days of tall ships. A riveting and historically accurate description of maritime/nautical adventure with all of its inherent dangers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798992536812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uK8c0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uK8c0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uK8c0QEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uK8c0QEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=uK8c0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uK8c0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two Years Before the Mast is author Richard Henry Dana, Jr.&#39;s personal narrative of his two-year adventure at sea as an able seaman in 1834 - 1836."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nzeDtAEACAAJ",
+      "etag": "prZW5fQ92+w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nzeDtAEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "authors": [
+          "Richard Henry Dana, Jr."
+        ],
+        "publishedDate": "2017-08-24",
+        "description": "Two Years Before the Mast is a memoir by the American author Richard Henry Dana Jr., published in 1840, having been written after a two-year sea voyage from Boston to California on a merchant ship starting in 1834. A film adaptation under the same name was released in 1946.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1975743326"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781975743321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nzeDtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nzeDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nzeDtAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nzeDtAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=nzeDtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nzeDtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two Years Before the Mast is a memoir by the American author Richard Henry Dana Jr., published in 1840, having been written after a two-year sea voyage from Boston to California on a merchant ship starting in 1834."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0-iNPwAACAAJ",
+      "etag": "RtPCyW+OXKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0-iNPwAACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "authors": [
+          "Richard Henry Dana, Jr."
+        ],
+        "publishedDate": "2002-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1404335064"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781404335066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0-iNPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0-iNPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0-iNPwAACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0-iNPwAACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=0-iNPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0-iNPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "od4LkAEACAAJ",
+      "etag": "9Gj8NaAhQxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/od4LkAEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "authors": [
+          "Richard H. Dana"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-26",
+        "description": "Sailing to California from Boston around Cape Horn, Two Years Before the Mast is both an adventure and an eloquent account of life at sea in the early nineteenth century. Richard Henry Dana is only nineteen when he escapes the patrician world of Boston and Harvard for the arduous voyage. The result is an astonishing book, filled with vivid descriptions of storms, whales, and the ship's mad captain, terrible hardship and magical beauty, and fascinating historical detail. Notice: This Book is published by Historical Books Limited (www.publicdomain.org.uk) as a Public Domain Book, if you have any inquiries, requests or need any help you can just send an email to publications@publicdomain.org.uk This book is found as a public domain and free book based on various online catalogs, if you think there are any problems regard copyright issues please contact us immediately via DMCA@publicdomain.org.uk",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533440697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533440693"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=od4LkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=od4LkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=od4LkAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=od4LkAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=od4LkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=od4LkAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Notice: This Book is published by Historical Books Limited (www.publicdomain.org.uk) as a Public Domain Book, if you have any inquiries, requests or need any help you can just send an email to publications@publicdomain.org.uk This book is ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bKy7ywEACAAJ",
+      "etag": "S60dE8S4rCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bKy7ywEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast.",
+        "authors": [
+          "Jr Richard Henry Dana"
+        ],
+        "publishedDate": "2019-10-19",
+        "description": "Two Years Before the Mast is a memoir by the American author Richard Henry Dana Jr., published in 1840, having been written after a two-year sea voyage from Boston to California on a merchant ship starting in 1834. A film adaptation under the same name was released in 1946.BackgroundWhile an undergraduate at Harvard College, Dana had an attack of the measles which affected his vision. Thinking it might help his sight, Dana left Harvard to enlist as a common sailor on a voyage around Cape Horn on the brig Pilgrim. He returned to Massachusetts two years later, aboard the Alert (which left California sooner than the Pilgrim).He kept a diary throughout the voyage, and, after returning, he wrote a recognized American classic, Two Years Before the Mast, published in 1840",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1701108852"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781701108851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bKy7ywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bKy7ywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bKy7ywEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bKy7ywEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=bKy7ywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bKy7ywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two Years Before the Mast is a memoir by the American author Richard Henry Dana Jr., published in 1840, having been written after a two-year sea voyage from Boston to California on a merchant ship starting in 1834."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zOi8DAEACAAJ",
+      "etag": "F/32RPgqbzs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zOi8DAEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast",
+        "subtitle": "Richard Henry Dana - Illustrated",
+        "authors": [
+          "Richard Henry Richard Henry Dana"
+        ],
+        "publishedDate": "2016-06-26",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About Two Years Before The Mast by Richard Henry Dana Jr Two Years Before the Mast is a memoir by the American author Richard Henry Dana, Jr., published in 1840, having been written after a two-year sea voyage starting in 1834. A film adaptation under the same name was released in 1946. The term \"before the mast\" refers to the quarters of the common sailors - in the forecastle, in the front of the ship. His writing evidences his later sympathy with the lower classes; he later became a prominent anti-slavery activist and helped found the Free Soil Party. Dana did not set out to write Two Years Before the Mast as a sea adventure, but to highlight how poorly common sailors were treated on ships. It quickly became a best seller.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534867643"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534867642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zOi8DAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zOi8DAEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast.html?hl=&id=zOi8DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zOi8DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uebBugEACAAJ",
+      "etag": "wUKaAIuHW2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uebBugEACAAJ",
+      "volumeInfo": {
+        "title": "Two Years Before the Mast : Large Print",
+        "authors": [
+          "Richard H. Dana"
+        ],
+        "publishedDate": "2018-08-04",
+        "description": "Two Years Before the Mastby Richard H. DanaSailing to California from Boston around Cape Horn, Two Years Before the Mast is both an adventure and an eloquent account of life at sea in the early nineteenth century. Richard Henry Dana is only nineteen when he escapes the patrician world of Boston and Harvard for the arduous voyage. The result is an astonishing book, filled with vivid descriptions of storms, whales, and the ship's mad captain, terrible hardship and magical beauty, and fascinating historical detail.We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1724773283"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781724773289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uebBugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uebBugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uebBugEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uebBugEACAAJ&dq=Richard+Henry+Dana+Two+years+before+the+mast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Two_Years_Before_the_Mast_Large_Print.html?hl=&id=uebBugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uebBugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades."
+      }
+    }
+  ]
+}

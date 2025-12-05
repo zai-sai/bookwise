@@ -1,0 +1,730 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "kzN0vgEACAAJ",
+      "etag": "Czb9NSqUEGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kzN0vgEACAAJ",
+      "volumeInfo": {
+        "title": "Candide",
+        "subtitle": "Voltaire",
+        "authors": [
+          "Voltaire"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-04-30",
+        "description": "Candide by Voltaire. Candide, ou l'Optimisme, is a French satire first published in 1759 by Voltaire, a philosopher of the Age of Enlightenment. The novella has been widely translated, with English versions titled Candide: or, All for the Best (1759); Candide: or, The Optimist (1762); and Candide: Optimism (1947). Ever since 1759, when Voltaire wrote \"Candide\" in ridicule of the notion that this is the best of all possible worlds, this world has been a gayer place for readers. Voltaire wrote it in three days, and five or six generations have found that its laughter does not grow old. \"Candide\" has not aged. Yet how different the book would have looked if Voltaire had written it a hundred and fifty years later than 1759. It would have been, among other things, a book of sights and sounds. A modern writer would have tried to catch and fix in words some of those Atlantic changes which broke the Atlantic monotony of that voyage from Cadiz to Buenos Ayres. When Martin and Candide were sailing the length of the Mediterranean we should have had a contrast between naked scarped Balearic cliffs and headlands of Calabria in their mists. We should have had quarter distances, far horizons, the altering silhouettes of an Ionian island. Colored birds would have filled Paraguay with their silver or acid cries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "171758389X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717583895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kzN0vgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kzN0vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kzN0vgEACAAJ&dq=Voltaire+Candide&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kzN0vgEACAAJ&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Candide.html?hl=&id=kzN0vgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kzN0vgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ever since 1759, when Voltaire wrote &quot;Candide&quot; in ridicule of the notion that this is the best of all possible worlds, this world has been a gayer place for readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8i8DnwEACAAJ",
+      "etag": "rysdfFIvfDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8i8DnwEACAAJ",
+      "volumeInfo": {
+        "title": "Voltaire: Candide",
+        "authors": [
+          "William Henry Barber"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:772893186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8i8DnwEACAAJ&dq=Voltaire+Candide&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8i8DnwEACAAJ&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voltaire_Candide.html?hl=&id=8i8DnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8i8DnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hE5GvwEACAAJ",
+      "etag": "vHQ9yChqpco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hE5GvwEACAAJ",
+      "volumeInfo": {
+        "title": "Voltaire : Candide",
+        "authors": [
+          "William H. Barber"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1069116971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hE5GvwEACAAJ&dq=Voltaire+Candide&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hE5GvwEACAAJ&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voltaire_Candide.html?hl=&id=hE5GvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hE5GvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9UAMhMxslz8C",
+      "etag": "oO68zijcGGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9UAMhMxslz8C",
+      "volumeInfo": {
+        "title": "Candide",
+        "subtitle": "Or Optimism",
+        "authors": [
+          "Francois Voltaire"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1950-06-30",
+        "description": "\"All is for the best in the best of all possible worlds\" It was the indifferent shrug and callous inertia that this \"optimism\" concealed which so angered Voltaire, who found the \"all for the best\" approach a patently inadequate response to suffering, to natural disasters, not to mention the questions of illness and man-made war. Moreover, as the rebel whose satiric genius had earned him not only international acclaim, but two stays in the Bastille, flogging, and exile, Voltaire knew personally what suffering entailed. In Candide he whisks his young hero and friends through a ludicrous variety of tortures, tragedies, and a reversal of fortune, in the company of Pangloss, a \"metaphysico-theologo-comolo-nigologist\" of unflinching optimism. The result is one of the glories of eighteenth-century satire. For more than sixty-five years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,500 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140440046"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140440041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 25,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9UAMhMxslz8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9UAMhMxslz8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9UAMhMxslz8C&dq=Voltaire+Candide&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9UAMhMxslz8C&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Candide.html?hl=&id=9UAMhMxslz8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9UAMhMxslz8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YsvtAAAAMAAJ",
+      "etag": "511iQ0SE/S4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YsvtAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The complete works of Voltaire: Candide, ou l'optimisme",
+        "authors": [
+          "Voltaire"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89008174088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "French literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YsvtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YsvtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YsvtAAAAMAAJ&q=Voltaire+Candide&dq=Voltaire+Candide&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YsvtAAAAMAAJ&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_complete_works_of_Voltaire_Candide_o.html?hl=&id=YsvtAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YsvtAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P6hwCgAAQBAJ",
+      "etag": "yl7I01iUN5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P6hwCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for Voltaire's Candide",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-09-24",
+        "description": "A Study Guide for Voltaire's \"Candide,\" excerpted from Gale's acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Novels for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410335579"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410335577"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P6hwCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P6hwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P6hwCgAAQBAJ&pg=PT8&dq=Voltaire+Candide&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P6hwCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P6hwCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P6hwCgAAQBAJ&rdid=book-P6hwCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Voltaire_s_Candide-sample-epub.acsm?id=P6hwCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Voltaire_s_Candide-sample-pdf.acsm?id=P6hwCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P6hwCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gale, Cengage Learning. Plot. Summary. <b>Voltaire&#39;s Candide</b> opens by introducing the honest youth, Candide, a servant in Westphalia to Baron Thunder-ten-tronckh, who may be Candide&#39;s uncle. Candide loves the Baron&#39;s daughter, Cunégonde, and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AB9dAAAAMAAJ",
+      "etag": "GwiJdECRYsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AB9dAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Voltaire, Candide",
+        "authors": [
+          "David Williams"
+        ],
+        "publisher": "Critical Guides to French Text",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015042151087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AB9dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AB9dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AB9dAAAAMAAJ&q=Voltaire+Candide&dq=Voltaire+Candide&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AB9dAAAAMAAJ&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voltaire_Candide.html?hl=&id=AB9dAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AB9dAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Candide et ses enjeux philosophiques &#39; , see 18 , pp.26-46 . Closely and lucidly argued analysis of the debate on evil and optimism as reflected in the structure of Candide . 11. W.H. Barber , <b>Voltaire</b> : <b>Candide</b> ( London , Arnold , 1960 )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-TIZx_rMrkkC",
+      "etag": "BR/OvpfZ8ic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-TIZx_rMrkkC",
+      "volumeInfo": {
+        "title": "Voltaire's Candide",
+        "authors": [
+          "Elizabeth Cooney Leister"
+        ],
+        "publishedDate": "1985",
+        "description": "A guide to reading Candide with a critical and appreciative mind encouraging analysis of plot, style, form, and structure. Also includes background on the author's life and times, sample tests, term paper suggestions, and a reading list.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0812035054"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812035056"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-TIZx_rMrkkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-TIZx_rMrkkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-TIZx_rMrkkC&q=Voltaire+Candide&dq=Voltaire+Candide&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-TIZx_rMrkkC&dq=Voltaire+Candide&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voltaire_s_Candide.html?hl=&id=-TIZx_rMrkkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-TIZx_rMrkkC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to reading Candide with a critical and appreciative mind encouraging analysis of plot, style, form, and structure. Also includes background on the author&#39;s life and times, sample tests, term paper suggestions, and a reading list."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zV5oAwAAQBAJ",
+      "etag": "8PQluVtexds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zV5oAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Candide",
+        "authors": [
+          "By Voltaire"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2019-06-10",
+        "description": "Candide is a French satire by Voltaire, a philosopher of the Age of Enlightenment. It begins with a young man, Candide, who is living a sheltered life in an Edenic paradise and being indoctrinated with Leibnizian optimism (or simply Optimism) by his mentor, Pangloss. The work describes the abrupt cessation of this lifestyle, followed by Candide's slow, painful disillusionment as he witnesses and experiences great hardships in the world. Voltaire concludes with Candide, if not rejecting optimism outright, advocating a deeply practical precept, \"we must cultivate our garden\", in lieu of the Leibnizian mantra of Pangloss, \"all is for the best in the best of all possible worlds\". Candide is characterized by its sarcastic tone, as well as by its erratic, fantastical and fast-moving plot. A picaresque novel it parodies many adventure and romance clichés, the struggles of which are caricatured in a tone that is mordantly matter-of-fact. Still, the events discussed are often based on historical happenings, such as the Seven Years' War and the 1755 Lisbon earthquake. As philosophers of Voltaire's day contended with the problem of evil, so too does Candide in this short novel, albeit more directly and humorously. Voltaire ridicules religion, theologians, governments, armies, philosophies, and philosophers through allegory; most conspicuously, he assaults Leibniz and his optimism. As expected by Voltaire, Candide has enjoyed both great success and great scandal. Immediately after its secretive publication, the book was widely banned because it contained religious blasphemy, political sedition and intellectual hostility hidden under a thin veil of naïveté. However, with its sharp wit and insightful portrayal of the human condition, the novel has since inspired many later authors and artists to mimic and adapt it. Today, Candide is recognized as Voltaire's magnum opus and is often listed as part of the Western canon; it is arguably taught more than any other work of French literature. It was listed as one of The 100 Most Influential Books Ever Written.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736801783"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736801785"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.32.27.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zV5oAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zV5oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zV5oAwAAQBAJ&printsec=frontcover&dq=Voltaire+Candide&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zV5oAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zV5oAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zV5oAwAAQBAJ&rdid=book-zV5oAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zV5oAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The work describes the abrupt cessation of this lifestyle, followed by Candide&#39;s slow, painful disillusionment as he witnesses and experiences great hardships in the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NfYIAAAAQAAJ",
+      "etag": "0drER3DQbh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NfYIAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Voltaire's Candide, Or, The Optimist. And Rasselas, Prince of Abyssinia",
+        "authors": [
+          "Voltaire"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:591018272"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "11.10.16.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NfYIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NfYIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NfYIAAAAQAAJ&pg=PA110&dq=Voltaire+Candide&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NfYIAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NfYIAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NfYIAAAAQAAJ&rdid=book-NfYIAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Voltaire_s_Candide_Or_The_Optimist_And_R.epub?id=NfYIAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Voltaire_s_Candide_Or_The_Optimist_And_R.pdf?id=NfYIAAAAQAAJ&hl=&output=pdf&sig=ACfU3U15Jfx8X8qgi8wRTf3pOtkm8M-drw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NfYIAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Voltaire</b>. &quot; Do cried <b>Candide</b> , &quot; I will give you what money you shall ask for these two persons . &quot; &quot; Good heavens ! it is <b>Candide</b> , &quot; said one of the men . &quot; <b>Candide</b> ! &quot; cried the other . I dream ? &quot; said <b>Candide</b> , &quot; or am I awake ? Am&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XOWPEAAAQBAJ",
+      "etag": "KNPlwKZyuCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XOWPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "1996-03-01",
+        "description": "Edith Wharton’s acclaimed novel of love, duty, and half-known truths in Gilded Age New York society, with a foreword by bestselling author Elif Batuman Dutiful Newland Archer, an eligible young man from New York high society, is about to announce his engagement to May Welland, a suitable match from a good family, when May’s cousin, the beautiful and exotic Countess Ellen Olenska, is introduced into their circle. The Countess brings with her an aura of European sophistication and a hint of perceived scandal, having left her husband and claimed her independence. Her worldliness, disregard for society’s rules, and air of unapproachability attract the sensitive Newland, despite his enthusiasm about a marriage to May and the societal advantages it would bring. Almost against their will, Newland and Ellen develop a passionate bond, and a classic love triangle takes shape as the three young people find themselves drawn into a poignant and bitter conflict between love and duty. Written in 1920, Edith Wharton’s Pulitzer Prize-winning novel about a time and place long gone by—1870s New York City—beautifully captures the complexities of passion, independence, and fulfillment, and how painfully hard it can be for individuals to truly see one another and their place in the world. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140189704"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "014018970X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XOWPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XOWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XOWPEAAAQBAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XOWPEAAAQBAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence.html?hl=&id=XOWPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XOWPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lc_PzgEACAAJ",
+      "etag": "YhAP/DKNqYk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lc_PzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "1996-03-01",
+        "description": "Edith Wharton’s acclaimed novel of love, duty, and half-known truths in Gilded Age New York society, with a foreword by bestselling author Elif Batuman Dutiful Newland Archer, an eligible young man from New York high society, is about to announce his engagement to May Welland, a suitable match from a good family, when May’s cousin, the beautiful and exotic Countess Ellen Olenska, is introduced into their circle. The Countess brings with her an aura of European sophistication and a hint of perceived scandal, having left her husband and claimed her independence. Her worldliness, disregard for society’s rules, and air of unapproachability attract the sensitive Newland, despite his enthusiasm about a marriage to May and the societal advantages it would bring. Almost against their will, Newland and Ellen develop a passionate bond, and a classic love triangle takes shape as the three young people find themselves drawn into a poignant and bitter conflict between love and duty. Written in 1920, Edith Wharton’s Pulitzer Prize-winning novel about a time and place long gone by—1870s New York City—beautifully captures the complexities of passion, independence, and fulfillment, and how painfully hard it can be for individuals to truly see one another and their place in the world. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "014018970X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140189704"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lc_PzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lc_PzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lc_PzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lc_PzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence.html?hl=&id=lc_PzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lc_PzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cmC9zgEACAAJ",
+      "etag": "nXKR1EuNp6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cmC9zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence Edith Wharton",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publishedDate": "2021-08-15",
+        "description": "The Age of Innocence The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton's twelfth novel. It went on to win the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the award. Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride's cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family's good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798457212152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cmC9zgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cmC9zgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence_Edith_Wharton.html?hl=&id=cmC9zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cmC9zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Age of Innocence The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton&#39;s twelfth novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B0DADwAAQBAJ",
+      "etag": "sCkRqLJ8Auc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B0DADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Edith Wharton's The Age of Innocence",
+        "subtitle": "New Centenary Essays",
+        "authors": [
+          "Arielle Zibrak"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2019-11-28",
+        "description": "Following the publication of The Age of Innocence in 1920, Edith Wharton became the first woman to win the Pulitzer Prize. To mark 100 years since the book's first publication, Edith Wharton's The Age of Innocence: New Centenary Essays brings together leading scholars to explore cutting-edge critical approaches to Wharton's most popular novel. Re-visiting the text through a wide range of contemporary critical perspectives, this book considers theories of mind and affect, digital humanities and media studies; narrational form; innocence and scandal; and the experience of reading the novel in the late twentieth century as the child of refugees. With an introduction by editor Arielle Zibrak that connects the 1920 novel to the sociocultural climate of 2020, this collection both celebrates and offers stimulating critical insights into this landmark novel of modern American literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781350065550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1350065552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B0DADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B0DADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=B0DADwAAQBAJ&printsec=frontcover&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B0DADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B0DADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.79,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 18.71,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B0DADwAAQBAJ&rdid=book-B0DADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28790000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 18710000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Edith_Wharton_s_The_Age_of_Innocence-sample-pdf.acsm?id=B0DADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B0DADwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With an introduction by editor Arielle Zibrak that connects the 1920 novel to the sociocultural climate of 2020, this collection both celebrates and offers stimulating critical insights into this landmark novel of modern American literature ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GBRczgEACAAJ",
+      "etag": "zprWp6qRikg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GBRczgEACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence Annotated",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publishedDate": "2021-02-21",
+        "description": "The Age of Innocence is a novel by Edith Wharton, published to widespread acclaim in 1920. Set in the late 19th century among the monied upper class in America during the gilded age, it recreates the setting and cultural details with exceptional realism while contrasting the elegant and mannered facade of the upper classes with their grasping and cruel schemes.The story opens at a performance of Faust at the old Academy of Music. A man named Newland Archer is in attendance, and revels in his success and prospects. The scion of one of the wealthiest and most socially important New York families, he is a successful lawyer and is set to marry the young, beautiful, and sheltered May Welland. May is an ideal social match for Newland, and he anticipates the perfection of their marriage in terms of the parties and connections opening up before him.Newland meets May's cousin, Countess Ellen Olenska. Thirty years old and beautiful, Ellen is independent and shows her scorn for the social niceties of wealthy society. Ellen is cultured and intelligent, but has caused scandal by leaving her husband, Count Olenska. Newland finds himself powerfully attracted to Ellen, and suddenly sees May as a dull and provincial girl. When Ellen announces her intention to divorce her husband--an act that would ruin the Welland family name--one of Newland's law partners asks that he intervene with Ellen and convince her not to. Newland begins calling on the Countess in order to convince her that she should simply remain living separately from her husband. Newland and Ellen begin corresponding via letters, and come to know each other very well as a result. Newland enjoys Ellen's intelligence and her willingness to question society's rules and her role in them, where May's willingness to play by those rules and conform to her family's wishes seems increasingly unattractive. Ellen agrees not to divorce her husband.His admiration and attraction to Ellen grows during this period. Alarmed at his feelings for Ellen, Newland travels to Florida to visit with May and her family and asks May to move up their wedding date because he can sense his resolve crumbling. May refuses, horrified at upsetting the careful balance of society rules. She accuses Newland of having second thoughts about her appropriateness to be his wife, and Newland insists he still loves her.Newland confesses his love to Ellen, who is shocked. She agrees to remain in America only if Newland promises they will merely be platonic friends, which he does. May relents and sends a telegram agreeing to accelerate the wedding plans, hinting that she understands better than Newland what is happening.Newland and May marry. Their marriage is one of convenience; there is no love or passion and Newland finds May dull. He also finds his old life of parties and social events dull, and thinks constantly of Ellen. Ellen has moved to Washington, D.C., and their correspondence has ended, but Newland finds himself thinking of her constantly. He meets Ellen by chance in Newport, Rhode Island and finds her circumstances have changed: The family has cut off her allowance because Count Olenska wishes her to return to him and she refuses.He tells her he wishes her to become his mistress, since divorce would be impossible for both of them. Ellen initially refuses, and returns to New York to care for her grandmother in order to have her allowance reinstated. Newland, with renewed access to Ellen, becomes determined to seize his chance at happiness and keeps pushing Ellen to become his mistress. When Ellen tells Newland she will consummate their relationship, Newland is ecstatic--but then Ellen informs him suddenly that she is returning to Europe, without explanation. Newland decides to leave May and accompany Ellen there.May announces to Newland that she is pregnant, however--and furthermore tells him she had confessed as much to Ellen earlier. Newland understands that Ellen decided...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798712281640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GBRczgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GBRczgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence_Annotated.html?hl=&id=GBRczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GBRczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in the late 19th century among the monied upper class in America during the gilded age, it recreates the setting and cultural details with exceptional realism while contrasting the elegant and mannered facade of the upper classes with ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IZkyMQAACAAJ",
+      "etag": "q3gnaHtr6Es",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IZkyMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence, 1920 (Pulitzer Prize Winner). Novel By: Edith Wharton",
+        "subtitle": "The Age of Innocence Is Edith Wharton's Twelfth Novel",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-07",
+        "description": "The Age of Innocence is Edith Wharton's twelfth novel, initially serialized in four parts in the Pictorial Review magazine in 1920, and later released by D. Appleton and Company as a book in New York and in London. It won the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the prize.[1] Though the committee agreed to award the prize to Sinclair Lewis, the judges rejected his Main Street on political grounds and \"established Wharton as the American 'First Lady of Letters',\" the irony being that the committee had awarded The Age of Innocence the prize on grounds that negated Wharton's own blatant and subtle ironies, which constitute and make the book so worthy of attention.[2] The story is set in upper-class New York City in the 1870s, during the Gilded Age. Wharton wrote the book in her 50s, after she had established herself as a strong author with publishers clamoring for her work. PLOT*Newland Archer, gentleman lawyer and heir to one of New York City's best families, is happily anticipating a highly desirable marriage to the sheltered and beautiful May Welland. Yet he finds reason to doubt his choice of bride after the appearance of Countess Ellen Olenska, May's exotic and beautiful 30-year-old cousin. Ellen has returned to New York from Europe after scandalously separating herself (per rumor) from a bad marriage to a Polish count. At first, Ellen's arrival and its potential taint on the reputation of his bride-to-be's family disturb Newland, but he becomes intrigued by the worldly Ellen, who flouts New York society's fastidious rules. As Newland's admiration for the countess grows, so does his doubt about marrying May, a perfect product of Old New York society; his match with May no longer seems the ideal fate he had imagined. Ellen's decision to divorce Count Olenski causes a social crisis for the other members of her family, who are terrified of scandal and disgrace. Living apart can be tolerated, but divorce is unacceptable. To save the Welland family's reputation, a law partner of Newland asks him to dissuade Countess Olenska from divorcing the count. He succeeds, but in the process comes to care for her; afraid of falling in love with Ellen, Newland begs May to accelerate their wedding date, but she refuses. Newland tells Ellen he loves her; Ellen corresponds, but is horrified that their love will aggrieve May. She agrees to remain in America, separated but still married to Count Olenski, only if they do not sexually consummate their love. Newland receives May's telegram agreeing to wed sooner. Newland and May marry. He tries unsuccessfully to forget Ellen. His society marriage is loveless, and the social life he once found absorbing has become empty and joyless. Though Ellen lives in Washington and has remained distant, he is unable to cease loving her. Their paths cross while he and May are in Newport, Rhode Island. Newland discovers that Count Olenski wishes Ellen to return to him, but she has refused, although her family wants her to reconcile with her husband and return to Europe. Frustrated by her independence, the family has cut off her money, as the count had already done....... Edith Wharton ( born Edith Newbold Jones; January 24, 1862 - August 11, 1937) was a Pulitzer Prize-winning American novelist, short story writer, and designer. She was nominated for the Nobel Prize in Literature in 1927, 1928 and 1930. Wharton combined her insider's view of America's privileged classes with a brilliant, natural wit to write humorous, incisive novels and short stories of social and psychological insight. She was well acquainted with many of her era's other literary and public figures, including Theodore Roosevelt.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542411343"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542411349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IZkyMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IZkyMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IZkyMQAACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IZkyMQAACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence_1920_Pulitzer_Prize.html?hl=&id=IZkyMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IZkyMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Wharton wrote the book in her 50s, after she had established herself as a strong author with publishers clamoring for her work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_2vVugEACAAJ",
+      "etag": "rW4ENlbogIE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_2vVugEACAAJ",
+      "volumeInfo": {
+        "title": "Edith Wharton, the Age of Innocence",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-18",
+        "description": "Newland Archer, the ambivalent protagonist, represents the apogee of good breeding. He is the ultimate insider in post-Civil War New York society. Although engaged to May Welland, a beautiful and proper fellow member of elite society, he is attracted to the free-spirited Countess Ellen Olenska, May's cousin and a former member of their circle who has been living in Europe but has left her husband, a cruel Polish nobleman, under mysterious circumstances and returned to her family's New York milieu. His upcoming marriage to the young socialite will unite two of New York's oldest families, but from the novel's opening pages, Olenska imports a passionate intensity and mysterious Old World eccentricity that disrupt the conventional world of order-obsessed New York. Ellen's hopes of being set free from her past are dashed when she is forced to choose between conformity and exile, while Newland's appointment by the Welland family as Ellen's legal consultant begins an emotional entanglement the force of which he could never have imagined.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1725896850"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781725896857"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_2vVugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_2vVugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_2vVugEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_2vVugEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Edith_Wharton_the_Age_of_Innocence.html?hl=&id=_2vVugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_2vVugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His upcoming marriage to the young socialite will unite two of New York&#39;s oldest families, but from the novel&#39;s opening pages, Olenska imports a passionate intensity and mysterious Old World eccentricity that disrupt the conventional world ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vqSXzgEACAAJ",
+      "etag": "ETLsMNowIOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vqSXzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence Edith Wharton",
+        "subtitle": "A Classic Romantic Novel",
+        "authors": [
+          "edith wharton"
+        ],
+        "publishedDate": "2021-05-23",
+        "description": "The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton's twelfth novel. It went on to win the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the award. Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride's cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family's good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his newfound passion for the forbidden Countess.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798508868802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vqSXzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vqSXzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence_Edith_Wharton.html?hl=&id=vqSXzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vqSXzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton&#39;s twelfth novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6jFOMQAACAAJ",
+      "etag": "8wsHnFrwbBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6jFOMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence",
+        "subtitle": "By Edith Wharton: Illustrated",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-09",
+        "description": "Why buy our paperbacks? Most Popular Gift Edition - One of it's kind Printed in USA on High Quality Paper Expedited shipping Standard Font size of 10 for all books 30 Days Money Back Guarantee Fulfilled by Amazon Unabridged (100% Original content) BEWARE OF LOW-QUALITY SELLERS Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. About The Age of Innocence The Age of Innocence is Edith Wharton's twelfth novel, initially serialized in four parts in the Pictorial Review magazine in 1920, and later released by D. Appleton and Company as a book in New York and in London. It won the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the prize.The story is set in upper-class New York City in the 1870s, during the so-called Gilded Age.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540803252"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540803252"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6jFOMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6jFOMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6jFOMQAACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6jFOMQAACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence.html?hl=&id=6jFOMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6jFOMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About The Age of Innocence The Age of Innocence is Edith Wharton&#39;s twelfth novel, initially serialized in four parts in the Pictorial Review magazine in 1920, and later released by D. Appleton and Company as a book in New York and in London ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "99YLzgEACAAJ",
+      "etag": "dTToDilBfSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/99YLzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Age of Innocence by Edith Wharton",
+        "authors": [
+          "Edith Wharton"
+        ],
+        "publishedDate": "2020-11-09",
+        "description": "This is Newland Archer's world as he prepares to marry the beautiful but conventional May Welland. But when the mysterious Countess Ellen Olenska returns to New York after a disastrous marriage, Archer falls deeply in love with her. Torn between duty and passion, Archer struggles to make a decision that will either courageously define his life--or mercilessly destroy it. Winner of the 1921 Pulitzer Prize, The Age of Innocence is Edith Wharton's masterful portrait of desire and betrayal during the sumptuous Golden Age of Old New York.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798561501647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=99YLzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=99YLzgEACAAJ&dq=Edith+Wharton+The+Age+of+Innocence&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Age_of_Innocence_by_Edith_Wharton.html?hl=&id=99YLzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=99YLzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is Newland Archer&#39;s world as he prepares to marry the beautiful but conventional May Welland."
+      }
+    }
+  ]
+}

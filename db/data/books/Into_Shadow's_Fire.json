@@ -1,0 +1,678 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cs5cEAAAQBAJ",
+      "etag": "pA31yjxSZWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cs5cEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Into Shadow's Fire",
+        "authors": [
+          "Mark Castleberry"
+        ],
+        "publisher": "Strangers and Pilgrims Publishing",
+        "publishedDate": "2022-05-02",
+        "description": "A fast-paced story of the continuing battle between light against dark and learning about the past will help fight against the shadows of the future. Over a decade has past, since the FTL ship has returned and Jon Vega and Nicolea Dan have once again joined the effort known now as the Union of Light, to fight the newly formed Pagonic Imperium. On the world of Sulia, help is needed. The Union must help save the people of the city of Gal-Ganeed from being tortured and killed because of their beliefs. They must flee their city and begin an exodus across the stars. But the empire will not let them go that easily, for they are the chosen people of the Lord of Light. But first they must find a fleet of their own. Thermonte Electrik escaped with the Bathshe from the shadow world and is now the Emperor of the Imperium. The only person he trusts, Soshiana, makes her way back with the others only to question her own soul. As he remembers his own past and hearing of Soshiana's return, he is encouraged that now he can take his place in the galaxy. And the battle continues.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798985394719"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cs5cEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cs5cEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cs5cEAAAQBAJ&pg=PA2&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cs5cEAAAQBAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Into_Shadow_s_Fire.html?hl=&id=cs5cEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cs5cEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... cover design and images: <b>Mark Castleberry</b> and PNG.com Printed <b>in</b> United States of America Published by Strangers and Pilgrims Publishing Mark@strangerspilgrims.com . 2 boot two <b>into shadows fire</b> Copyright ©2022 <b>Mark Castleberry</b> ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c-3efZ9qHq0C",
+      "etag": "owATUQF6asQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c-3efZ9qHq0C",
+      "volumeInfo": {
+        "title": "A Determined Lady",
+        "authors": [
+          "Irene Loyd Black"
+        ],
+        "publisher": "Zebra Books",
+        "publishedDate": "1996",
+        "description": "Boston bluestocking Olivia Pembroke is determined to get to England, and to publish her novel. Disguising herself, she answers an ad for a Plain Jane to wed a wealthy lord--never intending to go through with the wedding. But when she meets handsome, sensual Lord Castleberry, she discovers he is the man of her dreams. Now she must change from his wife of convenience to the woman he desires.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "082175467X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780821754672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c-3efZ9qHq0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c-3efZ9qHq0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=c-3efZ9qHq0C&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=c-3efZ9qHq0C&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Determined_Lady.html?hl=&id=c-3efZ9qHq0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c-3efZ9qHq0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Castleberry</b> filled the room , and vitriolic swear words turned the air blue . &quot; Demme , demme ... that bit of muslin ... <b>fire</b> died , while the branch of tapers burned <b>to</b> the halfway <b>mark in</b> a room that had grown quiet and still , <b>shadows</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uogjAQAAIAAJ",
+      "etag": "DMEvTZwUoDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uogjAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Motion Picture Guide",
+        "authors": [
+          "Jay Robert Nash",
+          "Stanley Ralph Ross"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0933997051"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780933997059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Motion picture actors and actresses"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uogjAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uogjAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uogjAQAAIAAJ&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uogjAQAAIAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Motion_Picture_Guide.html?hl=&id=uogjAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uogjAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>FIRE</b> OVER ENGLAND and THE GAP also were incorporated . <b>In</b> 1940 , this was an ... <b>Mark</b> Griffith . O&#39;Toole , the all - powerful Henry II , summons his ... <b>INTO</b> NIGHT ) . The claim that costume dramas are never successful was&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J7skAQAAIAAJ",
+      "etag": "VHi3us+2Zo0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J7skAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Whitaker's Book List",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105117257399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1602,
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J7skAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J7skAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=J7skAQAAIAAJ&pg=PA225&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=J7skAQAAIAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whitaker_s_Book_List.html?hl=&id=J7skAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J7skAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EwgPAQAAMAAJ",
+      "etag": "X/Pb4CP9Bmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EwgPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Harness Horse",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000068522230"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Horse racing"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EwgPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EwgPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EwgPAQAAMAAJ&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EwgPAQAAMAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harness_Horse.html?hl=&id=EwgPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EwgPAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>mark</b> personal milestones with a victory . Jowett , a 3 - year - old Breezing ... <b>Castleberry</b> ( 7 ) ...... My Boy Dennis , JJ&#39;s Parson , Sandys Bash , Point ... <b>Fire</b> , Tipper Trip , Papa Shoat , Karlene Escort , Domitian Time&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VOro0sfUCikC",
+      "etag": "W8Xx8bcoivQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VOro0sfUCikC",
+      "volumeInfo": {
+        "title": "Bowker's Guide to Characters in Fiction 2007",
+        "publishedDate": "2008-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "083524749X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780835247498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3000,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VOro0sfUCikC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VOro0sfUCikC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VOro0sfUCikC&pg=PA2692&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VOro0sfUCikC&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bowker_s_Guide_to_Characters_in_Fiction.html?hl=&id=VOro0sfUCikC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VOro0sfUCikC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tpeQbzi28XAC",
+      "etag": "pLUGp8iPuAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tpeQbzi28XAC",
+      "volumeInfo": {
+        "title": "American Lumberman",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433007583457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1574,
+        "printType": "BOOK",
+        "categories": [
+          "Lumber trade"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tpeQbzi28XAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tpeQbzi28XAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tpeQbzi28XAC&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tpeQbzi28XAC&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Lumberman.html?hl=&id=tpeQbzi28XAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tpeQbzi28XAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>mark in</b> accordance with the provisions of the statute . The statute is held ... <b>into</b> personal property , coupled with a revocable license <b>to</b> enter upon the ... <b>Castleberry</b> , Ala . Jay L. Peck , secretary of Central Association&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FJ5mAAAAMAAJ",
+      "etag": "e5TtBA5YE5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FJ5mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Who's Who in the South and Southwest",
+        "authors": [
+          "Marquis Who's Who",
+          "Marquis Who's Who Staff"
+        ],
+        "publisher": "Marquis Who's Who",
+        "publishedDate": "1998-12",
+        "description": "Provides current coverage of a broad range of individuals from across the South and Southwest Includes approximately 17,500 names from the region embracing Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia, Puerto Rico, and the Virgin Islands. Because of its importance and its contiguity to the southwestern United States, Mexico is also covered in this volume.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0837908299"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780837908298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 848,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FJ5mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FJ5mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FJ5mAAAAMAAJ&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FJ5mAAAAMAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Who_s_Who_in_the_South_and_Southwest.html?hl=&id=FJ5mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FJ5mAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... ( <b>Castleberry</b> ) K .; m . Ruth Ann Hunter , Aug. 27 , 1967 ; children : Alex ... <b>Fire</b> Fighters , Police ; active mem . Police Benevolent Assn .; Historical ... <b>MARK</b> , dentist , educator ; b . Ft . Benning , Ga . , Mar. 15 , 1952 ; s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y-DjAAAAMAAJ",
+      "etag": "/CNqIz+3xoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y-DjAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Music Trades",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015013607539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 808,
+        "printType": "BOOK",
+        "categories": [
+          "Music trade"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y-DjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y-DjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y-DjAAAAMAAJ&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y-DjAAAAMAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Music_Trades.html?hl=&id=y-DjAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y-DjAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>into</b> the industry would prove useful . Madden persuaded Berlin <b>to</b> acquire ... <b>Mark</b> 115 Young Chang 77-79 92 Buglecraft 99 Rapco 73 Charvel Guitars 61 ... <b>Castleberry</b> / D &amp; D 103 Roland 91 93 PIANOS Dampp - Chaser 22 Select&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f8dYAAAAYAAJ",
+      "etag": "NVGap3mlNuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f8dYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pure-bred Dogs, American Kennel Gazette",
+        "publishedDate": "1980-04",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924073399275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1554,
+        "printType": "BOOK",
+        "categories": [
+          "Dogs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.13.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f8dYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f8dYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=f8dYAAAAYAAJ&q=Mark+Castleberry+Into+Shadow%27s+Fire&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=f8dYAAAAYAAJ&dq=Mark+Castleberry+Into+Shadow%27s+Fire&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pure_bred_Dogs_American_Kennel_Gazette.html?hl=&id=f8dYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f8dYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>IN</b> COMP ( 8 D , 11 B ) DOGS ( 6 DOGS 4 POINTS ) Class Awards MI LORS GOLDEN ... <b>MARKS</b> , J &amp; D YOUNG .... COLLOMS DUTCHESS OF DENTON , R &amp; G COLLOM ... <b>FIRE</b> AND ICE OF NORDON , H D &amp; NL DAVIS . MC CORMICKS BRIAN BO RU , C BARNES&nbsp;..."
+      }
+    }
+  ]
+}

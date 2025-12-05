@@ -1,0 +1,701 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6yITAwAAQBAJ",
+      "etag": "B7MvCBt1nkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6yITAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff (沙皇的郵件)",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-02-25",
+        "description": "※ Google Play 圖書不支援多媒體播放 ※",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1140,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6yITAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6yITAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6yITAwAAQBAJ&printsec=frontcover&dq=Jules+Verne+Michel+Strogoff&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6yITAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6yITAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6yITAwAAQBAJ&rdid=book-6yITAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Michael_Strogoff_%E6%B2%99%E7%9A%87%E7%9A%84%E9%83%B5%E4%BB%B6-sample-epub.acsm?id=6yITAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Michael_Strogoff_%E6%B2%99%E7%9A%87%E7%9A%84%E9%83%B5%E4%BB%B6-sample-pdf.acsm?id=6yITAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6yITAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "※ Google Play 圖書不支援多媒體播放 ※"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uOeYtAEACAAJ",
+      "etag": "s8BHhWo43js",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uOeYtAEACAAJ",
+      "volumeInfo": {
+        "title": "Michel Strogoff",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2017-11-19",
+        "description": "Michael Strogoff, a 30-year-old native of Omsk, is a courier for Tsar Alexander II of Russia. The Tartar Khan (prince), Feofar Khan, incites a rebellion and separates the Russian Far East from the mainland, severing telegraph lines. Rebels encircle Irkutsk, where the local governor, a brother of the Tsar, is making a last stand. Strogoff is sent to Irkutsk to warn the governor about the traitor Ivan Ogareff, a former colonel, who was once demoted and exiled and now seeks revenge against the imperial family. He intends to gain the governor's trust and then betray him to the Tartar hordes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979840040"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979840040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uOeYtAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uOeYtAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michel_Strogoff.html?hl=&id=uOeYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uOeYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Strogoff, a 30-year-old native of Omsk, is a courier for Tsar Alexander II of Russia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "438kzgEACAAJ",
+      "etag": "/ddXRK20gjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/438kzgEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff / Or, The Courier of the Czar Illustrated",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2020-12-30",
+        "description": "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, [1] consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798588525329"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=438kzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=438kzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=438kzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=438kzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff_Or_The_Courier_of_the_C.html?hl=&id=438kzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=438kzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe d&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z-d_xgEACAAJ",
+      "etag": "8r2asn4CceQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z-d_xgEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff, Or The Courier of the Czar",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2019-06-16",
+        "description": "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1074110048"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781074110048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 688,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z-d_xgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z-d_xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=z-d_xgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=z-d_xgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff_Or_The_Courier_of_the_C.html?hl=&id=z-d_xgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z-d_xgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe d&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "06NuxAEACAAJ",
+      "etag": "cnYhXrzJJFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/06NuxAEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-04-10",
+        "description": "In this 1876 \"Mission Impossible\" tale of intrigue set in Russia, a traitor has inspired the fierce Feofar Khan to invade Siberia and foment a rebellion. A sinister plot to assassinate the Czar's brother, the Grand Duke, is discovered but all telegraph lines have been cut. Only one of the Czar's courier's is qualified to handle the dangerous and arduous mission to warn the Siberian Governor General of the impending invasion, Michael Strogoff.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1093467398"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781093467390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=06NuxAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=06NuxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=06NuxAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=06NuxAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff.html?hl=&id=06NuxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=06NuxAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Only one of the Czar&#39;s courier&#39;s is qualified to handle the dangerous and arduous mission to warn the Siberian Governor General of the impending invasion, Michael Strogoff."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w4ZpzgEACAAJ",
+      "etag": "m0PmIaU2s8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w4ZpzgEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff the Courier of the Czar",
+        "subtitle": "Illustrated",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-24",
+        "description": "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798743434183"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w4ZpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w4ZpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=w4ZpzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=w4ZpzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff_the_Courier_of_the_Czar.html?hl=&id=w4ZpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w4ZpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe d&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K9q9zQEACAAJ",
+      "etag": "laZvTsfIZsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K9q9zQEACAAJ",
+      "volumeInfo": {
+        "title": "Michel Strogoff, Or The Courier of the Czar (Annotated)",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2019-12-30",
+        "description": "Michael Strogoff: The Courier of the Czar is a novel written Jules Verne in 1876. Critics, including Leonard S. Davidow, consider it one of Verne's best books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1652534199"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781652534198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K9q9zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K9q9zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=K9q9zQEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=K9q9zQEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michel_Strogoff_Or_The_Courier_of_the_Cz.html?hl=&id=K9q9zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K9q9zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Strogoff: The Courier of the Czar is a novel written Jules Verne in 1876. Critics, including Leonard S. Davidow, consider it one of Verne&#39;s best books"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QDgvswEACAAJ",
+      "etag": "v4TNh1uR0vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QDgvswEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff",
+        "subtitle": "The Courier of the Czar",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-05-22",
+        "description": "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1546869492"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781546869498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QDgvswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QDgvswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QDgvswEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QDgvswEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff.html?hl=&id=QDgvswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QDgvswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe d&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S0sjzgEACAAJ",
+      "etag": "XOa3oOMExsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S0sjzgEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff / Or, The Courier of the Czar Illustrated",
+        "authors": [
+          "Jules Verna"
+        ],
+        "publishedDate": "2021-01-04",
+        "description": "Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, [1] consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe d'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798590319510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S0sjzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S0sjzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S0sjzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S0sjzgEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff_Or_The_Courier_of_the_C.html?hl=&id=S0sjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S0sjzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe d&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7mSvtAEACAAJ",
+      "etag": "mX0QZrsK6IQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7mSvtAEACAAJ",
+      "volumeInfo": {
+        "title": "Michael Strogoff Or, the Courier of the Czar",
+        "subtitle": "By Jules Verne - Illustrated",
+        "authors": [
+          "Jules Jules Verne"
+        ],
+        "publishedDate": "2017-12-17",
+        "description": "Why buy our paperbacks? Expedited shipping High Quality Paper Made in USA Standard Font size of 10 for all books 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated Michael Strogoff or, The Courier of the Czar by Jules Verne Michael Strogoff: The Courier of the Czar (French: Michel Strogoff) is a novel written by Jules Verne in 1876. Critics, including Leonard S. Davidow, writing from Reading, Pennsylvania, in his 1937 introduction to The Spencer Press reprint as a volume in its \"Classic Romances of Literature\" series consider it one of Verne's best books. Davidow wrote, \"Jules Verne has written no better book than this, in fact it is deservedly ranked as one of the most thrilling tales ever written.\" Unlike some of Verne's other famous novels, it is not science fiction, but a scientific phenomenon (Leidenfrost effect) is a plot device. The book was later adapted to a play, by Verne himself and Adolphe D'Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1977704336"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781977704337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7mSvtAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7mSvtAEACAAJ&dq=Jules+Verne+Michel+Strogoff&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Michael_Strogoff_Or_the_Courier_of_the_C.html?hl=&id=7mSvtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7mSvtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was later adapted to a play, by Verne himself and Adolphe D&#39;Ennery. Incidental music to the play was written by Alexandre Artus in 1880. The book has been adapted several times for films, television and cartoon series."
+      }
+    }
+  ]
+}

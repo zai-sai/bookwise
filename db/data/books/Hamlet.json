@@ -1,0 +1,767 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vInTDwAAQBAJ",
+      "etag": "CbIfQKsDVe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vInTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hamlet : A tragedy by William Shakespeare",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2020-02-15",
+        "description": "THE TRAGEDY OF HAMLET, PRINCE OF DENMARK, OFTEN SHORTENED TO HAMLET, IS A TRAGEDY WRITTEN BY WILLIAM SHAKESPEARE. Set in Denmark, the play dramatises the revenge Prince Hamlet is called to wreak upon his uncle, Claudius, by the ghost of Hamlet's father, King Hamlet. Claudius had murdered his own brother and seized the throne, also marrying his deceased brother's widow.It has inspired many other writers-from Johann Wolfgang von Goethe and Charles Dickens to James Joyce and Iris Murdoch-and has been described as \"the world's most filmed story after Cinderella\".The story of Shakespeare's Hamlet was derived from the legend of Amleth, preserved by 13th-century chronicler Saxo Grammaticus in his Gesta Danorum, as subsequently retold by the 16th-century scholar Fran�ois de Belleforest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678146474"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1678146471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vInTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vInTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vInTDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vInTDwAAQBAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hamlet_A_tragedy_by_William_Shakespeare.html?hl=&id=vInTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Hamlet_A_tragedy_by_William_Shakespeare-sample-pdf.acsm?id=vInTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vInTDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Claudius had murdered his own brother and seized the throne, also marrying his deceased brother&#39;s widow.It has inspired many other writers-from Johann Wolfgang von Goethe and Charles Dickens to James Joyce and Iris Murdoch-and has been ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KZS4EAAAQBAJ",
+      "etag": "MRJoG1F17Wk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KZS4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare's Hamlet",
+        "subtitle": "A Routledge Study Guide and Sourcebook",
+        "authors": [
+          "Sean McEvoy"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2023-04-14",
+        "description": "William Shakespeare's Hamlet (c.1600-1601) has achieved iconic status as one of the most exciting and enigmatic of plays. It has been in almost constant production in Britain and throughout the world since it was first performed, fascinating generations of audiences and critics alike. Taking the form of a sourcebook, this guide to Shakespeare's remarkable play offers: extensive introductory comment on the contexts, critical history and performance of the text, from publication to the present annotated extracts from key contextual documents, reviews, critical works and the text itself cross-references between documents and sections of the guide, in order to suggest links between texts, contexts and criticism suggestions for further reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000940091"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000940098"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KZS4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KZS4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KZS4EAAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KZS4EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KZS4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 15.59,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KZS4EAAAQBAJ&rdid=book-KZS4EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 15590000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Hamlet-sample-epub.acsm?id=KZS4EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_Hamlet-sample-pdf.acsm?id=KZS4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KZS4EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Taking the form of a sourcebook, this guide to Shakespeare&#39;s remarkable play offers: extensive introductory comment on the contexts, critical history and performance of the text, from publication to the present annotated extracts from key ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AzGnolH2D_YC",
+      "etag": "nMvxNu0DYmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AzGnolH2D_YC",
+      "volumeInfo": {
+        "title": "Shakespeare's Hamlet: The Manga Edition",
+        "authors": [
+          "William Shakespeare",
+          "Adam Sexton",
+          "Tintin Pantoja"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2008-02-13",
+        "description": "The sudden death of the king, later revealed to be murder. The queen’s all-too-sudden remarriage to the king’s brother, the murderer. The grieving, suspicious Prince Hamlet. Supernatural visitations. Plots, leaks, and counterplots. Poisoned wine. A rigged sword fight. Revenge. With a four-page introduction and an abridged text that remains true to Shakespeare’s wording, setting, and time, this fast-paced, graphic manga edition gets you caught up in the conflicts and passions that make this one of Shakespeare’s most beloved tragedies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544186743"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544186745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AzGnolH2D_YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AzGnolH2D_YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AzGnolH2D_YC&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AzGnolH2D_YC&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shakespeare_s_Hamlet_The_Manga_Edition.html?hl=&id=AzGnolH2D_YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Shakespeare_s_Hamlet_The_Manga_Edition-sample-pdf.acsm?id=AzGnolH2D_YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AzGnolH2D_YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The sudden death of the king, later revealed to be murder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CJTpDwAAQBAJ",
+      "etag": "8NJ87JIWTbc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CJTpDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shakespeare ́s Hamlet, Prince of Denmark",
+        "authors": [
+          "Benno Tschischwitz"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2020-06-06",
+        "description": "Reprint of the original, first published in 1869.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783846055038"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3846055034"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CJTpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CJTpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CJTpDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CJTpDwAAQBAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shakespeare_%CC%81s_Hamlet_Prince_of_Denmark.html?hl=&id=CJTpDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Shakespeare_%CC%81s_Hamlet_Prince_of_Denmark-sample-pdf.acsm?id=CJTpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CJTpDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reprint of the original, first published in 1869."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iL45AQAAMAAJ",
+      "etag": "OTTsIOQ78XY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iL45AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Hamlet",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "1902",
+        "description": "This edition of Hamlet represents a radically new text of the best known and most widely discussed of all Shakespearean tragedies. Arguing that the text currently accepted is not, in fact, the most authoritative version of the play, this new edition turns to the First Folio of 1623--Shakespeare's \"fair copy\"--that has been preserved for us in the Second Quarto. Introducing fresh theatrical momentum, this revision provides, as Shakespeare intended, a better, more practical acting script.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015082150650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iL45AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iL45AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iL45AQAAMAAJ&q=William+Shakespeare+Hamlet&dq=William+Shakespeare+Hamlet&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iL45AQAAMAAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hamlet.html?hl=&id=iL45AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iL45AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition of Hamlet represents a radically new text of the best known and most widely discussed of all Shakespearean tragedies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f2M-AgAAQBAJ",
+      "etag": "LSkCx1NADS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f2M-AgAAQBAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare: Richard II",
+        "subtitle": "Hamlet",
+        "authors": [
+          "John Lennard"
+        ],
+        "publisher": "Humanities-Ebooks",
+        "publishedDate": "2008-01-01",
+        "description": "Professor Hattaway's study places Richard II within the contexts of Shakespeare's life and of the strenuous political debates that were taking place at the end of the reign of Elizabeth I. It offers a commentary upon the unfolding action of the play, stressing possible alternative readings of the text, and noting how directors have made particular decisions about these. It ends with two shorter linked chapters on aspects of the play's critical traditions and on selected stage productions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847600844"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1847600840"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f2M-AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f2M-AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=f2M-AgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f2M-AgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f2M-AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=f2M-AgAAQBAJ&rdid=book-f2M-AgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f2M-AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Professor Hattaway&#39;s study places Richard II within the contexts of Shakespeare&#39;s life and of the strenuous political debates that were taking place at the end of the reign of Elizabeth I. It offers a commentary upon the unfolding action of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-CZEzQEACAAJ",
+      "etag": "xV47A/mF+nM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-CZEzQEACAAJ",
+      "volumeInfo": {
+        "title": "Hamlet : a Tragedy by William Shakespeare",
+        "subtitle": "Unabridged Text",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2020-01-10",
+        "description": "THE TRAGEDY OF HAMLET, PRINCE OF DENMARK, OFTEN SHORTENED TO HAMLET, IS A TRAGEDY WRITTEN BY WILLIAM SHAKESPEARE AT AN UNCERTAIN DATE BETWEEN 1599 AND 1602. Set in Denmark, the play dramatises the revenge Prince Hamlet is called to wreak upon his uncle, Claudius, by the ghost of Hamlet's father, King Hamlet. Claudius had murdered his own brother and seized the throne, also marrying his deceased brother's widow. It has inspired many other writers--from Johann Wolfgang von Goethe and Charles Dickens to James Joyce and Iris Murdoch--and has been described as \"the world's most filmed story after Cinderella\".The story of Shakespeare's Hamlet was derived from the legend of Amleth, preserved by 13th-century chronicler Saxo Grammaticus in his Gesta Danorum, as subsequently retold by the 16th-century scholar François de Belleforest. Shakespeare may also have drawn on an earlier Elizabethan play known today as the Ur-Hamlet, though some scholars believe he himself wrote the Ur-Hamlet, later revising it to create the version of Hamlet we now have. He almost certainly wrote his version of the title role for his fellow actor, Richard Burbage, the leading tragedian of Shakespeare's time. In the 400 years since its inception, the role has been performed by numerous highly acclaimed actors in each successive century. Three different early versions of the play are extant: the First Quarto (Q1, 1603); the Second Quarto (Q2, 1604); and the First Folio (F1, 1623). Each version includes lines and entire scenes missing from the others. The play's structure and depth of characterisation have inspired much critical scrutiny. One such example is the centuries-old debate about Hamlet's hesitation to kill his uncle, which some see as merely a plot device to prolong the action, but which others argue is a dramatisation of the complex philosophical and ethical issues that surround cold-blooded murder, calculated revenge, and thwarted desire. More recently, psychoanalytic critics have examined Hamlet's unconscious desires, while feminist critics have re-evaluated and attempted to rehabilitate the often maligned characters of Ophelia and Gertrude. About the autor William Shakespeare was an English poet, playwright, and actor. He was born on 26 April 1564 in Stratford-upon-Avon. His father was a successful local businessman and his mother was the daughter of a landowner. Shakespeare is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and nicknamed the Bard of Avon. He wrote about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, of which the authorship of some is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright. Quotes \"O, that this too, too solid flesh would melt, ... \"Listen to many, speak to a few.\" ... \"Neither a borrower nor a lender be, ... \"This above all: to thine own self be true, ... \"...though I am native here. ... \"Something is rotten in the state of Denmark.\" ... \"That one may smile and smile and be a villain.\" Reviews \"Hamlet is arguably Shakespeare's greatest play, tragicomic, complex and one of the best of his era.\" New Times (dec. 2010) Briefly told, Hamlet's father, the king of Denmark is dead. The king's brother Claudius has seized the crown and married the widowed Queen Gertrude--all done with such unseemly haste that \"the funeral bak'd meats did coldly furnish forth the wedding tables.\" To make matters worse, Denmark is under threat of invasion from Norway. LitLovers Reviews (Sept. 2012)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "165871301X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781658713016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-CZEzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-CZEzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-CZEzQEACAAJ&dq=William+Shakespeare+Hamlet&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-CZEzQEACAAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hamlet_a_Tragedy_by_William_Shakespeare.html?hl=&id=-CZEzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-CZEzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It has inspired many other writers--from Johann Wolfgang von Goethe and Charles Dickens to James Joyce and Iris Murdoch--and has been described as &quot;the world&#39;s most filmed story after Cinderella&quot;.The story of Shakespeare&#39;s Hamlet was ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ENJyQEACAAJ",
+      "etag": "Di85BgWZVcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ENJyQEACAAJ",
+      "volumeInfo": {
+        "title": "Hamlet by William Shakespeare",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2018-11-24",
+        "description": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet (/ˈhæmlɪt/), is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602. Set in Denmark, the play dramatises the revenge Prince Hamlet is called to wreak upon his uncle, Claudius, by the ghost of Hamlet's father, King Hamlet. Claudius had murdered his own brother and seized the throne, also marrying his deceased brother's widow.Hamlet is Shakespeare's longest play, and is considered among the most powerful and influential works of world literature, with a story capable of \"seemingly endless retelling and adaptation by others\".[1] It was one of Shakespeare's most popular works during his lifetime,[2] and still ranks among his most performed, topping the performance list of the Royal Shakespeare Company and its predecessors in Stratford-upon-Avon since 1879.[3] It has inspired many other writers--from Johann Wolfgang von Goethe and Charles Dickens to James Joyce and Iris Murdoch--and has been described as \"the world's most filmed story after Cinderella\".[4]The story of Shakespeare's Hamlet was derived from the legend of Amleth, preserved by 13th-century chronicler Saxo Grammaticus in his Gesta Danorum, as subsequently retold by the 16th-century scholar François de Belleforest. Shakespeare may also have drawn on an earlier Elizabethan play known today as the Ur-Hamlet, though some scholars believe he himself wrote the Ur-Hamlet, later revising it to create the version of Hamlet we now have. He almost certainly wrote his version of the title role for his fellow actor, Richard Burbage, the leading tragedian of Shakespeare's time. In the 400 years since its inception, the role has been performed by numerous highly acclaimed actors in each successive century.Three different early versions of the play are extant: the First Quarto (Q1, 1603); the Second Quarto (Q2, 1604); and the First Folio (F1, 1623). Each version includes lines and entire scenes missing from the others. The play's structure and depth of characterisation have inspired much critical scrutiny. One such example is the centuries-old debate about Hamlet's hesitation to kill his uncle, which some see as merely a plot device to prolong the action, but which others argue is a dramatisation of the complex philosophical and ethical issues that surround cold-blooded murder, calculated revenge, and thwarted desire. More recently, psychoanalytic critics have examined Hamlet's unconscious desires, while feminist critics have re-evaluated and attempted to rehabilitate the often maligned characters of Ophelia and Gertrude.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1790288584"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781790288588"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-ENJyQEACAAJ&dq=William+Shakespeare+Hamlet&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-ENJyQEACAAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hamlet_by_William_Shakespeare.html?hl=&id=-ENJyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ENJyQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet (/ˈhæmlɪt/), is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9Z8NAAAAQAAJ",
+      "etag": "Quc5jlngItw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9Z8NAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Hamlet by William Shake-speare, 1603; Hamlet by William Shakespeare, 1604: being exact reprints of the first and second editions, with a bibliographical preface by S. Timmins",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1860",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590900258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9Z8NAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9Z8NAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9Z8NAAAAQAAJ&printsec=frontcover&dq=William+Shakespeare+Hamlet&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9Z8NAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9Z8NAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9Z8NAAAAQAAJ&rdid=book-9Z8NAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Hamlet_by_William_Shake_speare_1603_Haml.epub?id=9Z8NAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Hamlet_by_William_Shake_speare_1603_Haml.pdf?id=9Z8NAAAAQAAJ&hl=&output=pdf&sig=ACfU3U24Iz0OQvc8y0l7uetZrA8WZ_5EsQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9Z8NAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L6MoAQAAIAAJ",
+      "etag": "n8GCRKX9OBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L6MoAQAAIAAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare, Hamlet",
+        "authors": [
+          "Ann Thompson",
+          "Neil Taylor"
+        ],
+        "publisher": "Liverpool University Press",
+        "publishedDate": "2005",
+        "description": "This extensively annotated version of Hamlet to date makes the play completely accessible to readers in the twenty-first century.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106018068269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L6MoAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L6MoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=L6MoAQAAIAAJ&q=William+Shakespeare+Hamlet&dq=William+Shakespeare+Hamlet&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=L6MoAQAAIAAJ&dq=William+Shakespeare+Hamlet&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_Hamlet.html?hl=&id=L6MoAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L6MoAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This extensively annotated version of Hamlet to date makes the play completely accessible to readers in the twenty-first century."
+      }
+    }
+  ]
+}

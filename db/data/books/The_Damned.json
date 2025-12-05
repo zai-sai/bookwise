@@ -1,0 +1,703 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Cq2IzwEACAAJ",
+      "etag": "nT5+y6lnHhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cq2IzwEACAAJ",
+      "volumeInfo": {
+        "title": "Damned",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6155573816"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786155573811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Cq2IzwEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Cq2IzwEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Damned.html?hl=&id=Cq2IzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cq2IzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jTNVswEACAAJ",
+      "etag": "Xywi1PLTrO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jTNVswEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned",
+        "subtitle": "By Algernon Blackwood - Illustrated",
+        "authors": [
+          "Algernon Algernon Blackwood"
+        ],
+        "publishedDate": "2017-07-25",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Damned by Algernon Blackwood The Damned by Algernon Blackwood is a great haunted house story along the lines of Turn of the Screw and the Haunting of Hill House. A brother and sister spend some time with a recently widowed friend. Her deceased husband was a strict fire and brimstone preacher who damned everyone who didn't believe like him to hell. His less strong-willed wife fell under his spell, but now the house seems to be haunted by...a shadow? Goblins? Ghostly pagans? Or many different things at once. This is a suspenseful, gripping tale about the tyranny of closed mindedness disguised as a horror novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521933065"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521933060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jTNVswEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jTNVswEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned.html?hl=&id=jTNVswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jTNVswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1FMkAgAACAAJ",
+      "etag": "9WZ5TCZ5QeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1FMkAgAACAAJ",
+      "volumeInfo": {
+        "title": "The Damned",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publisher": "IndyPublish.com",
+        "publishedDate": "2005-11-01",
+        "description": "And instinctively, once alone, I made for the places where she had painted her extraordinary pictures; I tried to see what she had seen. Perhaps, now that she had opened my mind to another view, I should be sensitive to some similar interpretation--and possibly by way of literary expression. If I were to write about the place, I asked myself, how should I treat it? I deliberately invited an interpretation in the way that came easiest to me--writing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1421927020"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421927022"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1FMkAgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1FMkAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1FMkAgAACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1FMkAgAACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned.html?hl=&id=1FMkAgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1FMkAgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And instinctively, once alone, I made for the places where she had painted her extraordinary pictures; I tried to see what she had seen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IhVozgEACAAJ",
+      "etag": "MMEtopvbJ/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IhVozgEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned",
+        "subtitle": "Original Edition",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-23",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798740675824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IhVozgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IhVozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IhVozgEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IhVozgEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned.html?hl=&id=IhVozgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IhVozgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "the damned From Algernon Blackwood"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oImAxAEACAAJ",
+      "etag": "9Y/NrGu/B/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oImAxAEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned (Unabridged)",
+        "subtitle": "Horror Classic",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publishedDate": "2019-04-14",
+        "description": "In \"The Damned,\" Algernon Blackwood crafts an enthralling tale that explores the uneasy boundaries between the natural and the supernatural, employing his signature style of atmospheric prose infused with deep psychological insights. The narrative examines themes of isolation, fear, and the haunting presence of the unknown, set against the backdrop of a desolate wilderness that mirrors the protagonists' inner turmoil. Blackwood's evocative descriptions and suspenseful pacing reflect the literary trends of early 20th-century supernatural fiction, positioning the work alongside contemporaries like M.R. James and H.P. Lovecraft, while retaining a unique focus on the spiritual dimensions of human experience. Algernon Blackwood, a member of the influential group of writers in the early 1900s fascinated by nature and the occult, drew from his diverse experiences as a journalist, outdoorsman, and explorer. His lifelong fascination with the mysteries of existence and the allure of the natural world informs the eerie and immersive quality of his storytelling. \"The Damned\" is a testament to his belief in the power of the unseen, revealing the complex interplay between humanity and the extraterrestrial. This unabridged edition of \"The Damned\" invites readers to journey into Blackwood's psychologically rich terrain, where the lines between reality and the extraordinary blur. It is a must-read for those who appreciate deep psychological narratives, rich descriptions, and thought-provoking themes, making it a sublime addition to the library of any lover of supernatural literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8027331013"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027331017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oImAxAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oImAxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oImAxAEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oImAxAEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned_Unabridged.html?hl=&id=oImAxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oImAxAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This unabridged edition of &quot;The Damned&quot; invites readers to journey into Blackwood&#39;s psychologically rich terrain, where the lines between reality and the extraordinary blur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VIyGzQEACAAJ",
+      "etag": "P+CCd4X/imE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VIyGzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Algernon Blackwood Collection (Annotated)",
+        "subtitle": "The Empty House, The Damned, The Willows and The Wendigo",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publishedDate": "2020-02-18",
+        "description": "The Algernon Blackwood Collection includes four of Blackwood's best: The Empty House, The Damned, The Willows and The Wendigo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798615170171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VIyGzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VIyGzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VIyGzQEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VIyGzQEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Algernon_Blackwood_Collection_Annota.html?hl=&id=VIyGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VIyGzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Algernon Blackwood Collection includes four of Blackwood&#39;s best: The Empty House, The Damned, The Willows and The Wendigo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BmLrDwAAQBAJ",
+      "etag": "AHSVrC5/0Lk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BmLrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Damned",
+        "subtitle": "The Damned: Supernatural Horror in the Wilderness by Algernon Blackwood",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "Embark on a chilling journey into the unknown with Algernon Blackwood's haunting masterpiece, \"The Damned.\" Enter a world where the veil between the living and the dead is thin, and where the supernatural lurks in the shadows, waiting to be unleashed. Join the protagonists as they navigate the eerie landscapes of the unknown, grappling with forces beyond their comprehension. From secluded forests to desolate moors, Blackwood's evocative prose transports readers to the heart of darkness, where fear and fascination collide. Experience the spine-tingling suspense and creeping dread as Blackwood masterfully builds tension with each turn of the page. With its atmospheric settings and vivid descriptions, \"The Damned\" immerses readers in a world where the line between reality and nightmare blurs. Delve into the depths of character analysis as Blackwood brings to life a cast of unforgettable characters, each haunted by their own demons and secrets. From the enigmatic protagonist to the sinister figures lurking in the shadows, every character adds layers of complexity to the story, keeping readers guessing until the very end. The overall tone of \"The Damned\" is one of unease and uncertainty, as Blackwood explores themes of guilt, redemption, and the supernatural. With its haunting imagery and thought-provoking themes, this novella leaves a lasting impression on readers long after the final page. Since its publication, \"The Damned\" has captivated readers with its blend of psychological horror and supernatural intrigue. Its enduring popularity is a testament to Blackwood's mastery of the genre and his ability to evoke a sense of dread and wonder in equal measure. As you journey through the pages of \"The Damned,\" prepare to confront your deepest fears and confront the unknown. Let Algernon Blackwood be your guide on this chilling odyssey, and discover the true meaning of terror in the shadows. Don't miss your chance to experience the spine-tingling suspense of \"The Damned.\" Pick up your copy today and prepare to be transported to a world where the supernatural reigns supreme and the boundaries of reality are pushed to their limits.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 81,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BmLrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BmLrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BmLrDwAAQBAJ&printsec=frontcover&dq=Algernon+Blackwood+The+Damned&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BmLrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BmLrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BmLrDwAAQBAJ&rdid=book-BmLrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Damned-sample-epub.acsm?id=BmLrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Damned-sample-pdf.acsm?id=BmLrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BmLrDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is horror done right, and I couldn’t put it down!&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mWwX0AEACAAJ",
+      "etag": "Vgheg3uuz4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mWwX0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned (a Horror Classic)",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publishedDate": "2022-02-15",
+        "description": "This book edition of \"The Damned\" has been formatted to the highest digital standards and adjusted for readability on all devices. Algernon Blackwood (1869-1951) was an English short story writer and novelist, one of the most prolific writers of ghost stories in the history of the genre. Blackwood wrote a number of horror stories. His most work seeks less to frighten than to induce a sense of awe. Excerpt: \"Certain things, however, gradually then became apparent, forcing themselves upon me. They came slowly, but overwhelmingly. Not that facts had changed, or natural details altered in the grounds--this was impossible--but that I noticed for the first time various aspects I had not noticed before--trivial enough, yet for me, just then, significant. Some I remembered from previous days; others I saw now as I wandered to and fro, uneasy, uncomfortable,--almost, it seemed, watched by some one who took note of my impressions. The details were so foolish, the total result so formidable. I was half aware that others tried hard to make me see. It was deliberate. My sister's phrase, 'one layer got at me, another gets at you,' flashed, undesired, upon me.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8027274710"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027274710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mWwX0AEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mWwX0AEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned_a_Horror_Classic.html?hl=&id=mWwX0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mWwX0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This classic horror tale is highly recommended for aficionados of the genre who seek an exploration of existential dread and an encounter with the supernatural."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q8ehugEACAAJ",
+      "etag": "PCz2nfLwud4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q8ehugEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned",
+        "subtitle": "Large Print",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-06",
+        "description": "The Damned: Large Print By Algernon Blackwood \" ...and we are quite alone,\" she went on in her enormous handwriting that seemed such a waste of space and labor, \"though some others are coming presently, I believe. You could work here to your heart's content. Mabel quite understands, and says she would love to have you when you feel free to come. She has changed a bit--back to her old natural self: she never mentions him. The place has changed too in certain ways: it has more cheerfulness, I think. She has put it in, this cheerfulness, spaded it in, if you know what I mean; but it lies about uneasily and is not natural--quite. The organ is a beauty. She must be very rich now, but she's as gentle and sweet as ever. Do you know, Bill, I think he must have frightened her into marrying him. I get the impression she was afraid of him.\" This last sentence was inked out, I but I read it through the scratching; the letters being too big to hide. We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1724688391"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781724688392"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q8ehugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q8ehugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=q8ehugEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=q8ehugEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned.html?hl=&id=q8ehugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q8ehugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YwizzgEACAAJ",
+      "etag": "W6i/MpIE1tE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YwizzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Damned (Esprios Classics)",
+        "authors": [
+          "Algernon Blackwood"
+        ],
+        "publishedDate": "2021-10-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1006423796"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781006423796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YwizzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YwizzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YwizzgEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YwizzgEACAAJ&dq=Algernon+Blackwood+The+Damned&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Damned_Esprios_Classics.html?hl=&id=YwizzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YwizzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Good examples are the novels The Centaur (1911) and Julius LeVallon (1916) and its sequel The Bright Messenger (1921)."
+      }
+    }
+  ]
+}

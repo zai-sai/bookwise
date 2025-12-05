@@ -1,0 +1,907 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "BJlpEQAAQBAJ",
+      "etag": "qTlR18Zd5PA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BJlpEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Expanse: Dragon Tooth Vol. 1",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2023-12-19",
+        "description": "Picking up after the final season of the acclaimed and beloved The Expanse show and filling in the missing years between The Expanse: Babylon's Ashes and The Expanse: Persepolis Rising, the hidden stories of your favorite Expanse characters are revealed for the first time! Everything comes together, tying the threads of the show and answering lingering questions that will bring readers and viewers alike far beyond the stellar horizon. In the first of a trilogy of graphic novels, superstar comics writer Andy Diggle (Green Lanterns, James Bond) and artist Rubine (Voltron: Legendary Defender) broaden The Expanse in ways that will change how fans view the entire series forever! Collects The Expanse: Dragon Tooth issues #1-4.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608861163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608861163"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BJlpEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BJlpEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BJlpEQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BJlpEQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Expanse_Dragon_Tooth_Vol_1.html?hl=&id=BJlpEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BJlpEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the first of a trilogy of graphic novels, superstar comics writer Andy Diggle (Green Lanterns, James Bond) and artist Rubine (Voltron: Legendary Defender) broaden The Expanse in ways that will change how fans view the entire series ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P7GDEQAAQBAJ",
+      "etag": "33S4inaQqac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P7GDEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Expanse: A Little Death #2",
+        "authors": [
+          "Andy Diggle",
+          "Wes Chatham"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2025-10-29",
+        "description": "The next gripping installment in the acclaimed sci-fi epic! Amos Burton isn’t one to give up. And for one orphan refugee, he’s about to put everything on the line to protect them—even if it means going head-to-head with the brutal crime lord of Auberon. Meanwhile, as vast corporate powers wrestle for control of a planet that may be the key to humanity’s future, only one man can stop them triggering all-out war—Captain James Holden. Get ready for the return of the Rocinante crew in the next explosive chapter from fan-favorite actor and breakout writer Wes Chatham (Amos Burton, The Expanse) acclaimed writer Andy Diggle (The Losers, Green Arrow: Year One) and artist Francesco Pisa (The Expanse: Dragon Tooth)!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892157667"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "5f5e3aa174c9589a_A",
+          "imageBubbleVersion": "5f5e3aa174c9589a_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P7GDEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P7GDEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P7GDEQAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P7GDEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P7GDEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.79,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.79,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P7GDEQAAQBAJ&rdid=book-P7GDEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3790000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3790000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Expanse_A_Little_Death_2-sample-epub.acsm?id=P7GDEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Expanse_A_Little_Death_2-sample-pdf.acsm?id=P7GDEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P7GDEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Get ready for the return of the Rocinante crew in the next explosive chapter from fan-favorite actor and breakout writer Wes Chatham (Amos Burton, The Expanse) acclaimed writer Andy Diggle (The Losers, Green Arrow: Year One) and artist ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-2DqEAAAQBAJ",
+      "etag": "IVqu6mF1qUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-2DqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expanse, The: Dragon Tooth #8",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2023-12-27",
+        "description": "Fan favorite writer Andy Diggle (Green Arrow: Year One, The Losers) and acclaimed artist Francisco Pisa (Heavy Metal) conclude the second chapter of their lore-expanding story set after the years of the Hugo Award-winning show! The mission is everything to the Laconians; it’s something they’ll risk everything to accomplish, but is James Holden willing to risk open war to put a stop to their plans? For some, loyalty takes the highest toll, the greatest sacrifice...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892150057"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "988dd8a957043f49_A",
+          "imageBubbleVersion": "988dd8a957043f49_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-2DqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-2DqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-2DqEAAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-2DqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-2DqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-2DqEAAAQBAJ&rdid=book--2DqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_8-sample-epub.acsm?id=-2DqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_8-sample-pdf.acsm?id=-2DqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-2DqEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fan favorite writer Andy Diggle (Green Arrow: Year One, The Losers) and acclaimed artist Francisco Pisa (Heavy Metal) conclude the second chapter of their lore-expanding story set after the years of the Hugo Award-winning show!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xplpEQAAQBAJ",
+      "etag": "2SJaeYCx460",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xplpEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Expanse: Dragon Tooth Vol. 2",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2024-06-04",
+        "description": "Ten years have passed since the stunning climax of the first arc of The Expanse: Dragon Tooth, legendary comics writer Andy Diggle (The Losers, Green Arrow: Year One) and artist Francesco Pisa (Stable) continue the series that has enraptured fans. As mysterious technological troubles and human disconnection abounds on an interstellar scale, problems arise with the Laconia gate that could prove deadly. In an effort to gather more intel on the Laconia gate and the Transport Union, Dhillon sends his compromised agents on a suicide run… The Rocinante crew hunt down an elite cadre of deep-cover operatives who’ll stop at nothing to cover their tracks—no matter how many innocents they kill in the process. And when the true enemy hides among you… trust can be a dangerous thing… Collects The Expanse: Dragon Tooth issues #5-8.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608861736"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608861732"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xplpEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xplpEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xplpEQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xplpEQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Expanse_Dragon_Tooth_Vol_2.html?hl=&id=xplpEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xplpEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ten years have passed since the stunning climax of the first arc of The Expanse: Dragon Tooth, legendary comics writer Andy Diggle (The Losers, Green Arrow: Year One) and artist Francesco Pisa (Stable) continue the series that has ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_g-REQAAQBAJ",
+      "etag": "+lNKM0f8KRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_g-REQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Expanse: Dragon Tooth Deluxe Edition",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2026-03-03",
+        "description": "The only official continuation of the hit TV series—revealing the hidden years between Babylon’s Ashes and Persepolis Rising! Return to the award-winning universe of The Expanse with this epic 12-issue story arc—now collected for the first time in a deluxe hardcover edition! Set in the years following the events of the final season of the acclaimed television series, The Expanse: Dragon Tooth reveals untold chapters in the lives of Holden, Naomi, Amos, Bobbie, and the crew of the Rocinante. As the Transport Union rises to power and the Laconians plot in the shadows, a secretive and deadly force moves between systems, threatening the delicate peace won at great cost. When the Rocinante is drawn into a vast conspiracy, the crew must navigate shifting loyalties and dangerous technology to prevent war from consuming the Ring network once again. Written by Andy Diggle and illustrated by Rubine and Francesco Pisa, this deluxe hardcover is the definitive continuation of the Expanse saga—answering long-standing questions while expanding the story far beyond the stars! Collects The Expanse: Dragon Tooth #1–12.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892157421"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_g-REQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_g-REQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_g-REQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_g-REQAAQBAJ&dq=Andy+Diggle+The+Expanse&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Expanse_Dragon_Tooth_Deluxe_Edition.html?hl=&id=_g-REQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_g-REQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by Andy Diggle and illustrated by Rubine and Francesco Pisa, this deluxe hardcover is the definitive continuation of the Expanse saga—answering long-standing questions while expanding the story far beyond the stars!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uo7cEAAAQBAJ",
+      "etag": "elu29F1JOLY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uo7cEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expanse, The: Dragon Tooth #6",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2023-10-25",
+        "description": "As the second story arc of the record breaking Kickstarter phenomenon continues, superstar writer Andy Diggle (The Losers, Green Arrow: Year One) and artist Rubine (Voltron: Legendary Defender) enmesh murder mystery and thriller! In an effort to gather more intel on the Laconia gate and the Transport Union, Dhillon send his compromised agents on a suicide run...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637969090"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1637969090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "966f34dce34cc465_A",
+          "imageBubbleVersion": "966f34dce34cc465_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Uo7cEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Uo7cEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Uo7cEAAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Uo7cEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Uo7cEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Uo7cEAAAQBAJ&rdid=book-Uo7cEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_6-sample-epub.acsm?id=Uo7cEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_6-sample-pdf.acsm?id=Uo7cEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uo7cEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the second story arc of the record breaking Kickstarter phenomenon continues, superstar writer Andy Diggle (The Losers, Green Arrow: Year One) and artist Rubine (Voltron: Legendary Defender) enmesh murder mystery and thriller!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_3IJEQAAQBAJ",
+      "etag": "t2VFMNZw1TA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_3IJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Expanse, The: Dragon Tooth #12",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2024-05-29",
+        "description": "In the FINAL ISSUE of the bestselling science fiction series filling in the missing years in the aftermath of the hit TV show, featuring writer Andy Diggle (Green Arrow: Year One, The Losers) and artist Francesco Pisa (Heavy Metal), all out war reaches its apex. The crew of the Rocinante have their hands full as the fate of the Dragon Teeth, and Laconians, and the OPA Navy are uncertain...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892152785"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "30706c4669953bda_A",
+          "imageBubbleVersion": "30706c4669953bda_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_3IJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_3IJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_3IJEQAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_3IJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_3IJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_3IJEQAAQBAJ&rdid=book-_3IJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_12-sample-epub.acsm?id=_3IJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_12-sample-pdf.acsm?id=_3IJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_3IJEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the FINAL ISSUE of the bestselling science fiction series filling in the missing years in the aftermath of the hit TV show, featuring writer Andy Diggle (Green Arrow: Year One, The Losers) and artist Francesco Pisa (Heavy Metal), all out ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1oXtEAAAQBAJ",
+      "etag": "oXWs5lRPg+Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1oXtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expanse, The: Dragon Tooth #7",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2023-11-22",
+        "description": "The Rocinante crew hunt down an elite cadre of deep-cover operatives who’ll stop at nothing to cover their tracks — no matter how many innocents they kill in the process. And when the true enemy hides among you... trust can be a dangerous thing... Monolithic writer Andy Diggle (Green Arrow: Year One, The Losers) and lauded artist Francesco Pisa (Heavy Metal) continue the unforgettable new storyline, set after the events of the Hugo Award-winning TV show, revealing the previously unchronicled years between The Expanse: Babylon's Ashes and The Expanse: Persepolis Rising.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637969328"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1637969325"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "8bfe772b15050a9a_A",
+          "imageBubbleVersion": "8bfe772b15050a9a_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1oXtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1oXtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1oXtEAAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1oXtEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1oXtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1oXtEAAAQBAJ&rdid=book-1oXtEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_7-sample-epub.acsm?id=1oXtEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_7-sample-pdf.acsm?id=1oXtEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1oXtEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Monolithic writer Andy Diggle (Green Arrow: Year One, The Losers) and lauded artist Francesco Pisa (Heavy Metal) continue the unforgettable new storyline, set after the events of the Hugo Award-winning TV show, revealing the previously ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ibGDEQAAQBAJ",
+      "etag": "mfJhDcFhoqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ibGDEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Expanse: A Little Death #1",
+        "authors": [
+          "Andy Diggle",
+          "Wes Chatham"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2025-10-08",
+        "description": "Read The Expanse: A Little Death #1, your next favorite read from BOOM! Studios!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892157650"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "671a1ce2fd326d2f_A",
+          "imageBubbleVersion": "671a1ce2fd326d2f_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ibGDEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ibGDEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ibGDEQAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ibGDEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ibGDEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.79,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.79,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ibGDEQAAQBAJ&rdid=book-ibGDEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3790000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3790000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Expanse_A_Little_Death_1-sample-epub.acsm?id=ibGDEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Expanse_A_Little_Death_1-sample-pdf.acsm?id=ibGDEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ibGDEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Expanse has always been about big moves, and this might be the biggest yet; Wes Chatham, the man behind Amos Burton, isn’t just stepping back into the universe—he’s shaping its future as co-writer of the next epic installment ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MIy6EAAAQBAJ",
+      "etag": "C9rsI24TKhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MIy6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expanse, The: Dragon Tooth #1",
+        "authors": [
+          "Andy Diggle"
+        ],
+        "publisher": "Boom! Studios",
+        "publishedDate": "2023-04-19",
+        "description": "Picking up after the final season of the acclaimed and beloved sci-fi series and filling in the missing years between The Expanse: Babylon's Ashes and The Expanse: Persepolis Rising, the secret history of your favorite characters are revealed for the first time! Everything comes together in this epic 12-issue story, tying together the threads of the show and answering lingering questions that will bring readers and viewers alike far beyond the stellar horizon. Across this monumental maxi-series, superstar comics writer Andy Diggle (Green Lanterns, James Bond) and artist Rubine (Voltron: Legendary Defender) broadens The Expanse universe in ways that will change how fans view the entire series forever!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637968031"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1637968035"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "a311ddaf13f7b785_A",
+          "imageBubbleVersion": "a311ddaf13f7b785_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MIy6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MIy6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MIy6EAAAQBAJ&printsec=frontcover&dq=Andy+Diggle+The+Expanse&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MIy6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MIy6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MIy6EAAAQBAJ&rdid=book-MIy6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_1-sample-epub.acsm?id=MIy6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Expanse_The_Dragon_Tooth_1-sample-pdf.acsm?id=MIy6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MIy6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Across this monumental maxi-series, superstar comics writer Andy Diggle (Green Lanterns, James Bond) and artist Rubine (Voltron: Legendary Defender) broadens The Expanse universe in ways that will change how fans view the entire series ..."
+      }
+    }
+  ]
+}

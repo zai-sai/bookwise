@@ -1,0 +1,696 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "G5lcbFxUqI8C",
+      "etag": "8BMvaq6ads4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G5lcbFxUqI8C",
+      "volumeInfo": {
+        "title": "White Fang",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "1906",
+        "description": "In the desolate, frozen wilds of north-west Canada, a wolf-cub soon finds himself the sole survivor of the litter. Son of Kiche - half-wolf, half-dog - and the ageing wolf One Eye, he is thrust into a savage world where each day becomes a fight to stay alive.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044011607306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Canada, Northern"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "8.8.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G5lcbFxUqI8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G5lcbFxUqI8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G5lcbFxUqI8C&dq=Jack+London+White+Fang&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=G5lcbFxUqI8C&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang.html?hl=&id=G5lcbFxUqI8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G5lcbFxUqI8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the desolate, frozen wilds of north-west Canada, a wolf-cub soon finds himself the sole survivor of the litter."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "naoOEQAAQBAJ",
+      "etag": "EZkFaf2uwfs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/naoOEQAAQBAJ",
+      "volumeInfo": {
+        "title": "White Fang - Jack London",
+        "authors": [
+          "Jack London"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2024-06-14",
+        "description": "Upon its release, White Fang was considered one of Jack London's most interesting works and quickly became a bestseller worldwide, especially among younger readers. In White Fang, the main character is a wolf cub who becomes domesticated and learns the law of survival in the company of his various owners. Just like in his first book, \"The Call of the Wild,\" the story addresses complex themes about how an animal perceives the world, its relationship with humans, and the harsh lessons learned from numerous adventures. White Fang, along with its predecessors, \"The Call of the Wild\" and \"The Sea-Wolf,\" was instrumental in establishing Jack London as a widely popular literary figure in the United States and renowned worldwide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558942443"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6558942445"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=naoOEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=naoOEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=naoOEQAAQBAJ&printsec=frontcover&dq=Jack+London+White+Fang&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=naoOEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=naoOEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=naoOEQAAQBAJ&rdid=book-naoOEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/White_Fang_Jack_London-sample-epub.acsm?id=naoOEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/White_Fang_Jack_London-sample-pdf.acsm?id=naoOEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=naoOEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Just like in his first book, &quot;The Call of the Wild,&quot; the story addresses complex themes about how an animal perceives the world, its relationship with humans, and the harsh lessons learned from numerous adventures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LvGXzQEACAAJ",
+      "etag": "FEvnfpblcls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LvGXzQEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang Annotated",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2020-06-22",
+        "description": "White Fang is a novel by American author Jack London and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906.The story begins before the wolf-dog hybrid is born, with two men and their sled dog team on a journey to deliver the coffin of Lord Alfred to a remote town named Fort McGurry in the higher area of the Yukon Territory. The men, Bill and Henry, are stalked by a large pack of starving wolves over the course of several days. Finally, after all of their dogs and Bill have been eaten, four more teams find Henry escaping from the wolves; the wolf pack scatters when they hear the large group of people coming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798656011266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LvGXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LvGXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LvGXzQEACAAJ&dq=Jack+London+White+Fang&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LvGXzQEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang_Annotated.html?hl=&id=LvGXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LvGXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London and the name of the book&#39;s eponymous character, a wild wolfdog."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z8SAzgEACAAJ",
+      "etag": "aaJmLy2zl9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z8SAzgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang",
+        "subtitle": "Jack London (Classics, Literature, Action and Adventure) [Annotated]",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-02-28",
+        "description": "White Fang is a novel by American author Jack London -- and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798714669958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Z8SAzgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Z8SAzgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang.html?hl=&id=Z8SAzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z8SAzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London -- and the name of the book&#39;s eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V18JzgEACAAJ",
+      "etag": "k2t2ZGNColw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V18JzgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang",
+        "subtitle": "Jack London (Action, Adventure, Literature) [Annotated]",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2020-11-02",
+        "description": "White Fang is a novel by American author Jack London - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798557303361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V18JzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V18JzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V18JzgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=V18JzgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang.html?hl=&id=V18JzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V18JzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London -- and the name of the book&#39;s eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P48IzgEACAAJ",
+      "etag": "kXL3HTsIN6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P48IzgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang",
+        "subtitle": "Jack London (Classics, Literature, Adventure) [Annotated]",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2020-11-03",
+        "description": "White Fang is a novel by American author Jack London - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798558259551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P48IzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P48IzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P48IzgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P48IzgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang.html?hl=&id=P48IzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P48IzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London - and the name of the book&#39;s eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LfVzzgEACAAJ",
+      "etag": "Gfgms2f0a+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LfVzzgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang",
+        "subtitle": "Jack London (Classics, Literature, Action & Adventure) [Annotated]",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-05-16",
+        "description": "White Fang is a novel by American author Jack London - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798505107164"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LfVzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LfVzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LfVzzgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LfVzzgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang.html?hl=&id=LfVzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LfVzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London - and the name of the book&#39;s eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5yRezQEACAAJ",
+      "etag": "YT5nn0guZSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5yRezQEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang by Jack London",
+        "subtitle": "Complete With Original And Classics Illustrated",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2020-02-22",
+        "description": "White Fang by Jack LondonComplete With Original And Classics Illustrated White Fang is a novel by American author Jack London (1876-1916) - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906. The story takes place in Yukon Territory, Canada, during the 1890s Klondike Gold Rush and details White Fang's journey to domestication. It is a companion novel (and a thematic mirror) to London's best-known work, The Call of the Wild, which is about a kidnapped, domesticated dog embracing his wild ancestry to survive and thrive in the wild. Much of White Fang is written from the viewpoint of the titular canine character, enabling London to explore how animals view their world and how they view humans. White Fang examines the violent world of wild animals and the equally violent world of humans. The book also explores complex themes including morality and redemption. Makes a fantastic gift for dog lovers of any age",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798616312006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5yRezQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5yRezQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5yRezQEACAAJ&dq=Jack+London+White+Fang&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5yRezQEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang_by_Jack_London.html?hl=&id=5yRezQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5yRezQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang by Jack LondonComplete With Original And Classics Illustrated White Fang is a novel by American author Jack London (1876-1916) - and the name of the book&#39;s eponymous character, a wild wolfdog."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5kB0zgEACAAJ",
+      "etag": "UEMHxuXB0ZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5kB0zgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang Novel by Jack London",
+        "subtitle": "(Annotated Edition)",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-05-19",
+        "description": "White Fang is a novel by American author Jack London (1876-1916) - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906. The story takes place in Yukon Territory, Canada, during the 1890s Klondike Gold Rush and details White Fang's journey to domestication. It is a companion novel (and a thematic mirror) to London's best-known work, The Call of the Wild, which is about a kidnapped, domesticated dog embracing his wild ancestry to survive and thrive in the wild. Much of White Fang is written from the viewpoint of the titular canine character, enabling London to explore how animals view their world and how they view humans. White Fang examines the violent world of wild animals and the equally violent world of humans. The book also explores complex themes including morality and redemption.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798507153442"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5kB0zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5kB0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5kB0zgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5kB0zgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang_Novel_by_Jack_London.html?hl=&id=5kB0zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5kB0zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London (1876-1916) - and the name of the book&#39;s eponymous character, a wild wolfdog."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i9xqzgEACAAJ",
+      "etag": "Co2VsGbrRZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i9xqzgEACAAJ",
+      "volumeInfo": {
+        "title": "White Fang Illustrated",
+        "authors": [
+          "Jack London"
+        ],
+        "publishedDate": "2021-04-26",
+        "description": "White Fang is a novel by American author Jack London - and the name of the book's eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798744271893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i9xqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i9xqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=i9xqzgEACAAJ&dq=Jack+London+White+Fang&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=i9xqzgEACAAJ&dq=Jack+London+White+Fang&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Fang_Illustrated.html?hl=&id=i9xqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i9xqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "White Fang is a novel by American author Jack London - and the name of the book&#39;s eponymous character, a wild wolfdog. First serialized in Outing magazine, it was published in 1906"
+      }
+    }
+  ]
+}
