@@ -4,29 +4,26 @@
   align-items: center;
   justify-content: center;
 // <%# TODO: add right colors as per brand %>
-  border: solid;
-  padding: 10px;
+  border: none;
+  padding: 20px;
   border-radius: 7px;
-  background-color: white;
-  box-shadow: 2px 2px rgb(160, 160, 160);
+  // background-color: white;
+  // box-shadow: 2px 2px rgb(160, 160, 160);
+
 
   .book-cover {
-    width: 100%;
+    // padding-top: 20px;
+    // height: 200px;
+    width: 200px;
+    align-self: center;
     object-fit: cover;
-    position: relative;
+    // position: relative;
+    // Adding a box shadow to this book cover:
+    box-shadow: 10px 5px 5px rgb(168, 165, 165);
   }
 
   .book-cover img {
-    max-width: 100%;
-  }
-
-  .close-icon {
-    position: absolute;
-    right: 0px;
-    top: 0px;
-  }
-  .close-icon::before {
-    font-size: 2rem;
+    width: 100%;
   }
 }
 
