@@ -18,8 +18,10 @@
       <p><strong>Author:</strong> <%= book.author %></p>
       <p><strong>Description:</strong> <%= book.description %></p>
       <div class="d-flex justify-content-center gap-3">
-        <a href="#" class="btn btn-primary">Buy this book</a>
-        <a href="#" class="btn btn-primary">Add to library</a>
+       <%= link_to "Add to library", add_to_library_user_books_path, class="btn btn-primary" %>
+       <%= link_to "Buy this book",
+          "https://uk.bookshop.org/beta-search?keywords=#{book.title}",
+          class: "btn btn-outline-primary" %>
       </div>
     </div>
   </div>
