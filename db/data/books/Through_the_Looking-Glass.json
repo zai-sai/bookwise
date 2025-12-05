@@ -1,0 +1,670 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DqMYQwAACAAJ",
+      "etag": "a56nRlFxmeE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DqMYQwAACAAJ",
+      "volumeInfo": {
+        "title": "Alice in Wonderland and Through the Looking Glass",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2010-01-12",
+        "description": "Lewis Carroll's Alice's Adventures in Wonderland, originally published in 1865, was instantly loved by children and adults. The follow up work by Carroll, Through the Looking-Glass also proved to be extremely popular. \"Alice in Wonderland and Through the Looking Glass\" is a unique and special LARGE PRINT version of both classics by Lewis Carroll. ** You get two books for the price of one! \"Alice in Wonderland and Through the Looking Glass\" makes an ideal gift but it should also be a part of your own personal library. Please note that this limited edition printing includes some very special and unique drawings that are at once rare and beautiful. IMPORTANT! This is a perfect reproduction of Carroll's original works except that they have been converted into LARGE PRINT for simple and easy reading. ** This is an excellent book for kids and grandparents!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1450507425"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781450507424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DqMYQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DqMYQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DqMYQwAACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DqMYQwAACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alice_in_Wonderland_and_Through_the_Look.html?hl=&id=DqMYQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DqMYQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "IMPORTANT! This is a perfect reproduction of Carroll&#39;s original works except that they have been converted into LARGE PRINT for simple and easy reading. ** This is an excellent book for kids and grandparents!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7-VrzQEACAAJ",
+      "etag": "ChcPSPKwhCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7-VrzQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking-Glass by Lewis Carroll",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-03-12",
+        "description": "Through the Looking-Glass, and What Alice Found There is a novel by Lewis Carroll and the sequel to Alice's Adventures in Wonderland. Alice again enters a fantastical world, this time by climbing through a mirror into the world that she can see beyond it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798623988102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7-VrzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7-VrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7-VrzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7-VrzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_by_Lewis_Carro.html?hl=&id=7-VrzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7-VrzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through the Looking-Glass, and What Alice Found There is a novel by Lewis Carroll and the sequel to Alice&#39;s Adventures in Wonderland."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y6dWzgEACAAJ",
+      "etag": "mEbSpti7c98",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y6dWzgEACAAJ",
+      "volumeInfo": {
+        "title": "Illustrated Through the Looking-Glass by Lewis Carroll",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2021-03-08",
+        "description": "Through the Looking-Glass is a novel by Lewis Carroll, and is the spin-off of Alice's Adventures in Wonderland. Set approximately a half year later than the previous book, Alice again enters a fantastical world, this time by moving through a mirror into the world that she can see past it. Through the Looking-Glass incorporates such commended sections as \"Jabberwocky\" and \"The Walrus and the Carpenter\", and the scene including Tweedledum and Tweedledee. The mirror which enlivened Carroll remains showed in Charlton Kings. The characters of Hatta and Haigha (articulated as the English would have said \"hatter\" and \"rabbit\") show up, and are envisioned (by Sir John Tenniel, not via Carroll) to take after their Wonderland partners, the Hatter and the March Hare. Notwithstanding, Alice doesn't remember them in that capacity. Dinah, Alice's feline, additionally makes a return - this time with her two cats, Kitty (the dark one) and Snowdrop (the white one).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798718588163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y6dWzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y6dWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Y6dWzgEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Y6dWzgEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Illustrated_Through_the_Looking_Glass_by.html?hl=&id=Y6dWzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y6dWzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set approximately a half year later than the previous book, Alice again enters a fantastical world, this time by moving through a mirror into the world that she can see past it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UZ-BzQEACAAJ",
+      "etag": "5Clpe/95w10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UZ-BzQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass By Lewis Carroll The New Updated Book",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-04-13",
+        "description": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string. Alice tells Kitty a story about \"Looking-Glass House,\" a magical world on the other side of the mirror where everything is backwards. Suddenly, Alice finds herself on the mantel piece. She walks through the mirror and she is in Looking-Glass House.She sees that she is in a room quite like her own, but slightly different. There are chessmen standing in pairs on the fireplace and Alice comes to the aid of the White Queen's daughter, Lily, but the chessmen seem to be unable to see her.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798636930495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UZ-BzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UZ-BzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UZ-BzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UZ-BzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_By_Lewis_Carro.html?hl=&id=UZ-BzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UZ-BzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N9ZpzgEACAAJ",
+      "etag": "6akyHZAGzAk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N9ZpzgEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass by Lewis Carroll",
+        "subtitle": "Illustrated Edition",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2021-04-20",
+        "description": "Through the Looking-Glass, and What Alice Found There (1871) is a novel by Lewis Carroll (Charles Lutwidge Dodgson), the sequel to Alice's Adventures in Wonderland (1865). It is based on his meeting with another Alice, Alice Raikes. Set some six months later than the earlier book, Alice again enters a fantastical world, this time by climbing through a mirror into the world that she can see beyond it. Though not quite as popular as Wonderland, Through the Looking-Glass includes such celebrated verses as \"Jabberwocky\" and \"The Walrus and the Carpenter\", and the episode involving Tweedledum and Tweedledee.Through the Looking-Glass, and What Alice Found There (1871) is a novel by Lewis Carroll (Charles Lutwidge Dodgson), the sequel to Alice's Adventures in Wonderland (1865). It is based on his meeting with another Alice, Alice Raikes. Set some six months later than the earlier book, Alice again enters a fantastical world, this time by climbing through a mirror into the world that she can see beyond it. Though not quite as popular as Wonderland, Through the Looking-Glass includes such celebrated verses as \"Jabberwocky\" and \"The Walrus and the Carpenter\", and the episode involving Tweedledum and Tweedledee.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798741170915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N9ZpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N9ZpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=N9ZpzgEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=N9ZpzgEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_by_Lewis_Carro.html?hl=&id=N9ZpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N9ZpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is based on his meeting with another Alice, Alice Raikes. Set some six months later than the earlier book, Alice again enters a fantastical world, this time by climbing through a mirror into the world that she can see beyond it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DOx5zQEACAAJ",
+      "etag": "gJ1LcoVk1g4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DOx5zQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass By Lewis Carroll The New Updated Edition",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-04-13",
+        "description": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string. Alice tells Kitty a story about \"Looking-Glass House,\" a magical world on the other side of the mirror where everything is backwards. Suddenly, Alice finds herself on the mantel piece. She walks through the mirror and she is in Looking-Glass House.She sees that she is in a room quite like her own, but slightly different. There are chessmen standing in pairs on the fireplace and Alice comes to the aid of the White Queen's daughter, Lily, but the chessmen seem to be unable to see her.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798636930464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DOx5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DOx5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DOx5zQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DOx5zQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_By_Lewis_Carro.html?hl=&id=DOx5zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DOx5zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fmlbEAAAQBAJ",
+      "etag": "ctRHrir8Szk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fmlbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Through the Looking-Glass",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2022",
+        "description": "Originally published in 1871, Alice Through the Looking-Glass describes Alice's further adventures. A masterpiece of carefree nonsense for children which embodies layers of satire, mathematical, linguistic, and philosophical jokes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198861508"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198861508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fmlbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fmlbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fmlbEAAAQBAJ&printsec=frontcover&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fmlbEAAAQBAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass.html?hl=&id=fmlbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Through_the_Looking_Glass-sample-pdf.acsm?id=fmlbEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fmlbEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally published in 1871, Alice Through the Looking-Glass describes Alice&#39;s further adventures. A masterpiece of carefree nonsense for children which embodies layers of satire, mathematical, linguistic, and philosophical jokes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zlyCzQEACAAJ",
+      "etag": "jDg1JTnrJ5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zlyCzQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass By Lewis Carroll \"Annotated Volume\"",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-04-18",
+        "description": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string. Alice tells Kitty a story about \"Looking-Glass House,\" a magical world on the other side of the mirror where everything is backwards. Suddenly, Alice finds herself on the mantel piece. She walks through the mirror and she is in Looking-Glass House. She sees that she is in a room quite like her own, but slightly different. There are chessmen standing in pairs on the fireplace and Alice comes to the aid of the White Queen's daughter, Lily, but the chessmen seem to be unable to see her. She finds a poem called \"Jabberwocky\" which is complete nonsense and this frustrates her, and he decides to explore the rest of the house. She finds a magnificent garden and follows the path into the garden. Strangely, every time she follows the path through the garden, she ends up back at the door to the house. In her frustration, she wonders aloud about how to make her way through the garden and to her surprise, a Tiger-lily responds. The other flowers begin to speak, and a few of them are rude to Alice. She learns from the flowers the Red Queen is near and Alice goes to find her. When Alice meets the Red Queen she engages in a conversation. The Red Queen keeps correcting Alice's etiquette. Alice then notices a chess game being played and tells the Red Queen she would like to play. The Red Queen tells her she can be a White Pawn and if she makes it to the end of the game, Alice will become a queen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798638393120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zlyCzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zlyCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zlyCzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zlyCzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_By_Lewis_Carro.html?hl=&id=zlyCzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zlyCzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-tOCzQEACAAJ",
+      "etag": "IdMPoX8buxY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-tOCzQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass By Lewis Carroll \"Annotated\"",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-04-18",
+        "description": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string. Alice tells Kitty a story about \"Looking-Glass House,\" a magical world on the other side of the mirror where everything is backwards. Suddenly, Alice finds herself on the mantel piece. She walks through the mirror and she is in Looking-Glass House. She sees that she is in a room quite like her own, but slightly different. There are chessmen standing in pairs on the fireplace and Alice comes to the aid of the White Queen's daughter, Lily, but the chessmen seem to be unable to see her. She finds a poem called \"Jabberwocky\" which is complete nonsense and this frustrates her, and he decides to explore the rest of the house. She finds a magnificent garden and follows the path into the garden. Strangely, every time she follows the path through the garden, she ends up back at the door to the house. In her frustration, she wonders aloud about how to make her way through the garden and to her surprise, a Tiger-lily responds. The other flowers begin to speak, and a few of them are rude to Alice. She learns from the flowers the Red Queen is near and Alice goes to find her. When Alice meets the Red Queen she engages in a conversation. The Red Queen keeps correcting Alice's etiquette. Alice then notices a chess game being played and tells the Red Queen she would like to play. The Red Queen tells her she can be a White Pawn and if she makes it to the end of the game, Alice will become a queen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798638393113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-tOCzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-tOCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-tOCzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-tOCzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_By_Lewis_Carro.html?hl=&id=-tOCzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-tOCzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bXaMzQEACAAJ",
+      "etag": "QVD55OctgUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bXaMzQEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass By Lewis Carroll The New Annotated Version",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "2020-04-13",
+        "description": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string. Alice tells Kitty a story about \"Looking-Glass House,\" a magical world on the other side of the mirror where everything is backwards. Suddenly, Alice finds herself on the mantel piece. She walks through the mirror and she is in Looking-Glass House.She sees that she is in a room quite like her own, but slightly different. There are chessmen standing in pairs on the fireplace and Alice comes to the aid of the White Queen's daughter, Lily, but the chessmen seem to be unable to see her.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798636930365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bXaMzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bXaMzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bXaMzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bXaMzQEACAAJ&dq=Lewis+Carroll+Through+the+Looking-Glass&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Looking_Glass_By_Lewis_Carro.html?hl=&id=bXaMzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bXaMzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book begins as Alice is sitting with her pet kitten, Kitty, who is playing with a ball of string."
+      }
+    }
+  ]
+}

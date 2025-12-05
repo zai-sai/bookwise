@@ -1,0 +1,817 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Udw7EAAAQBAJ",
+      "etag": "bfcAKhCzxFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Udw7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "authors": [
+          "Harriet Beecher Stowe"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-14",
+        "description": "Uncle Tom's Cabin - Harriet Beecher Stowe - Uncle Tom's Cabin is an anti-slavery novel by American author Harriet Beecher Stowe, published in 1852. After the publication of Uncle Tom's Cabin, Southerners accused Stowe of misrepresenting slavery. In order to show that she had neither lied about slavery nor exaggerated the plight of enslaved people, she compiled The Key to Uncle Tom's Cabin. The Key to Uncle Tom's Cabin was published to document the veracity of the depiction of slavery in Stowe's anti-slavery novel Uncle Tom's Cabin. First published in 1853, the book also provides insights into Stowe's own views on slavery. The book was subtitled \"Presenting the Original Facts and Documents upon Which the Story Is Founded, Together with Corroborative Statements Verifying the Truth of the Work\". Harriet Beecher Stowe ( 1811 1896) was an American abolitionist and author. Her novel Uncle Tom's Cabin was a depiction of life for African Americans under slavery. It energized anti-slavery forces in the American North, while provoking widespread anger in the South. She wrote more than 20 books, including novels, three travel memoirs, and collections of articles and letters. She was influential both for her writings and her public stands on social issues of the day.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985946952"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985946957"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 533,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Udw7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Udw7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Udw7EAAAQBAJ&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Udw7EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Udw7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Udw7EAAAQBAJ&rdid=book-Udw7EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Uncle_Tom_s_Cabin-sample-epub.acsm?id=Udw7EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Uncle_Tom_s_Cabin-sample-pdf.acsm?id=Udw7EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Udw7EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Key to Uncle Tom&#39;s Cabin was published to document the veracity of the depiction of slavery in Stowe&#39;s anti-slavery novel Uncle Tom&#39;s Cabin. First published in 1853, the book also provides insights into Stowe&#39;s own views on slavery."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UV8IAgAACAAJ",
+      "etag": "3fbk6fF/MKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UV8IAgAACAAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "authors": [
+          "Harriet Beecher Stowe",
+          "Barbara Greenwood"
+        ],
+        "publishedDate": "2002",
+        "description": "Uncle Tom's Cabin, Or, Life among the Lowly, COMPLETE NEW EDITION, By Harriet Beecher Stowe, Uncle Tom's Cabin; or, Life Among the Lowly, is an anti-slavery novel by American author Harriet Beecher Stowe. Published in 1852, the novel helped lay the groundwork for the Civil War, according to Will Kaufman. Stowe, a Connecticut-born teacher at the Hartford Female Academy and an active abolitionist, featured the character of Uncle Tom, a long-suffering black slave around whom the stories of other characters revolve. The sentimental novel depicts the reality of slavery while also asserting that Christian love can overcome something as destructive as enslavement of fellow human beings. Uncle Tom's Cabin was the best-selling novel of the 19th century and the second best-selling book of that century, following the Bible. It is credited with helping fuel the abolitionist cause in the 1850s. In the first year after it was published, 300,000 copies of the book were sold in the United States; one million copies were sold in Great Britain. In 1855, three years after it was published, it was called the most popular novel of our day. The impact attributed to the book is great, reinforced by a story that when Abraham Lincoln met Stowe at the start of the Civil War, Lincoln declared, So this is the little lady who started this great war. The quote is apocryphal; it did not appear in print until 1896, and it has been argued that The long-term durability of Lincoln's greeting as an anecdote in literary studies and Stowe scholarship can perhaps be explained in part by the desire among many contemporary intellectuals ... to affirm the role of literature as an agent of social change. The book and the plays it inspired helped popularize a number of stereotypes about black people. These include the affectionate, dark-skinned mammy; the pickaninny stereotype of black children; and the Uncle Tom, or dutiful, long-suffering servant faithful to his white master or mistress. In recent years, the negative associations with Uncle Tom's Cabin have, to an extent, overshadowed the historical impact of the book as a vital antislavery tool.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1552634957"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781552634950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Slavery"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UV8IAgAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UV8IAgAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uncle_Tom_s_Cabin.html?hl=&id=UV8IAgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UV8IAgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The impact attributed to the book is great, reinforced by a story that when Abraham Lincoln met Stowe at the start of the Civil War, Lincoln declared, So this is the little lady who started this great war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3j12ME0kR24C",
+      "etag": "ipUQJIgWSbA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3j12ME0kR24C",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin (MAXNotes Literature Guides)",
+        "authors": [
+          "Edward Tang"
+        ],
+        "publisher": "Research & Education Assoc.",
+        "publishedDate": "2012-05-01",
+        "description": "REA's MAXnotes for Harriet Beecher Stowe's Uncle Tom's Cabin MAXnotes offer a fresh look at masterpieces of literature, presented in a lively and interesting fashion. Written by literary experts who currently teach the subject, MAXnotes will enhance your understanding and enjoyment of the work. MAXnotes are designed to stimulate independent thought about the literary work by raising various issues and thought-provoking ideas and questions. MAXnotes cover the essentials of what one should know about each work, including an overall summary, character lists, an explanation and discussion of the plot, the work's historical context, illustrations to convey the mood of the work, and a biography of the author. Each chapter is individually summarized and analyzed, and has study questions and answers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780738673271"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0738673277"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3j12ME0kR24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3j12ME0kR24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3j12ME0kR24C&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3j12ME0kR24C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3j12ME0kR24C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.97,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.47,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3j12ME0kR24C&rdid=book-3j12ME0kR24C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2970000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2470000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3j12ME0kR24C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by literary experts who currently teach the subject, MAXnotes will enhance your understanding and enjoyment of the work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y0CPtAEACAAJ",
+      "etag": "LhGhswMAUxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y0CPtAEACAAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "subtitle": "UNCLE TOM's CABIN by Harriet Beecher Stowe, the Classic Books",
+        "authors": [
+          "Harriet Beecher"
+        ],
+        "publishedDate": "2017-07-12",
+        "description": "\"The classic book has always read again and again.\"\"What is the classic book?\"\"\"\"Why is the classic book?\"\"READ READ READ.. then you'll know it's excellence.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548811602"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548811600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y0CPtAEACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y0CPtAEACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uncle_Tom_s_Cabin.html?hl=&id=y0CPtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y0CPtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The classic book has always read again and again.&quot;&quot;What is the classic book?&quot;&quot;&quot;&quot;Why is the classic book?&quot;&quot;READ READ READ.. then you&#39;ll know it&#39;s excellence.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jIi7DgAAQBAJ",
+      "etag": "pRyFqrX/juw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jIi7DgAAQBAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "subtitle": "Uncle Tom's Cabin: Harriet Elizabeth Beecher Stowe's Powerful Anti-Slavery Novel",
+        "authors": [
+          "Harriet Elizabeth Beecher Stowe"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "First published in the year 1852, the present novel 'Uncle Tom's Cabin' by famous American writer Harriet Elizabeth Beecher Stowe is an anti-slavery classic novel.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jIi7DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jIi7DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jIi7DgAAQBAJ&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jIi7DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jIi7DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jIi7DgAAQBAJ&rdid=book-jIi7DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Uncle_Tom_s_Cabin-sample-epub.acsm?id=jIi7DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Uncle_Tom_s_Cabin-sample-pdf.acsm?id=jIi7DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jIi7DgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in the year 1852, the present novel &#39;Uncle Tom&#39;s Cabin&#39; by famous American writer Harriet Elizabeth Beecher Stowe is an anti-slavery classic novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oJ9_CgAAQBAJ",
+      "etag": "ePW3pcaZ9HA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oJ9_CgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for Harriet Beecher Stowe's Uncle Tom's Cabin",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-03-13",
+        "description": "A Study Guide for Harriet Beecher Stowe's \"Uncle Tom's Cabin,\" excerpted from Gale's acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Novels for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410336699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1410336697"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oJ9_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oJ9_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oJ9_CgAAQBAJ&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oJ9_CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oJ9_CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oJ9_CgAAQBAJ&rdid=book-oJ9_CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Harriet_Beecher_Stowe-sample-epub.acsm?id=oJ9_CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Harriet_Beecher_Stowe-sample-pdf.acsm?id=oJ9_CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oJ9_CgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for Harriet Beecher Stowe&#39;s &quot;Uncle Tom&#39;s Cabin,&quot; excerpted from Gale&#39;s acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xRWnAwAAQBAJ",
+      "etag": "nTSC2dFrqyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xRWnAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin By Harriet Beecher Stowe",
+        "authors": [
+          "Harriet Beecher Stowe"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-05-23",
+        "description": "Late in the afternoon of a chilly day in February, two gentlemen were sitting alone over their wine, in a well-furnished dining parlor, in the town of P——, in Kentucky. There were no servants present, and the gentlemen, with chairs closely approaching, seemed to be discussing some subject with great earnestness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736811294"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736811292"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 750,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.101.95.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xRWnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xRWnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xRWnAwAAQBAJ&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xRWnAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xRWnAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xRWnAwAAQBAJ&rdid=book-xRWnAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xRWnAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Late in the afternoon of a chilly day in February, two gentlemen were sitting alone over their wine, in a well-furnished dining parlor, in the town of P——, in Kentucky."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kBFXMQAACAAJ",
+      "etag": "0z0hDTNI6UY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kBFXMQAACAAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "subtitle": "The writings of Harriet Beecher Stowe",
+        "authors": [
+          "Harriet Beecher Stowe"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:312068391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kBFXMQAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kBFXMQAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uncle_Tom_s_Cabin.html?hl=&id=kBFXMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kBFXMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8gRuEAAAQBAJ",
+      "etag": "u9rvtabX638",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8gRuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "subtitle": "An anti-slavery novel by American author Harriet Beecher Stowe",
+        "authors": [
+          "Harriet Beecher Stowe"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2022-05-02",
+        "description": "The book opens with a Kentucky farmer named Arthur Shelby facing the loss of his farm because of debts. Even though he and his wife Emily Shelby believe that they have a benevolent relationship with their slaves, Shelby decides to raise the needed funds by selling two of them—Uncle Tom, a middle-aged man with a wife and children, and Harry, the son of Emily Shelby's maid Eliza—to Mr. Haley, a coarse slave trader. Emily Shelby is averse to this idea because she had promised her maid that her child would never be sold; Emily's son, George Shelby, hates to see Tom go because he sees the man as his friend and mentor. When Eliza overhears Mr. and Mrs. Shelby discussing plans to sell Tom and Harry, Eliza determines to run away with her son. The novel states that Eliza made this decision because she fears losing her only surviving child (she had already miscarried two children). Eliza departs that night, leaving a note of apology to her mistress. As Tom is sold, Mr. Haley takes him to a riverboat on the Mississippi River and from there Tom is to be transported to a slave market. While on board, Tom meets Eva, an angelic little white girl. They quickly become friends. Eva falls into the river and Tom dives into the river to save her life. Being grateful to Tom, Eva's father Augustine St. Clare buys him from Haley and takes him with the family to their home in New Orleans. Tom and Eva begin to relate to one another because of the deep Christian faith they both share.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382743744"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2382743743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8gRuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8gRuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8gRuEAAAQBAJ&printsec=frontcover&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8gRuEAAAQBAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uncle_Tom_s_Cabin.html?hl=&id=8gRuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Uncle_Tom_s_Cabin-sample-pdf.acsm?id=8gRuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8gRuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book opens with a Kentucky farmer named Arthur Shelby facing the loss of his farm because of debts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pTj0vQAACAAJ",
+      "etag": "r+bDu5Ey9fw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pTj0vQAACAAJ",
+      "volumeInfo": {
+        "title": "Uncle Tom's Cabin",
+        "authors": [
+          "Harriet Beecher Stowe"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-07-27",
+        "description": "Uncle Tom's Cabin; or, Life Among the Lowly is an anti-slavery novel by American author Harriet Beecher Stowe. Published in 1852, the novel had a profound effect on attitudes toward African Americans and slavery in the United States, so much so in the latter case that the novel intensified the sectional conflict leading to the American Civil War. Harriet Elizabeth Beecher Stowe (June 14, 1811 - July 1, 1896) was an American abolitionist and novelist, whose Uncle Tom's Cabin (1852) attacked the cruelty of slavery; it reached millions as a novel and play, and became influential, even in Britain. It made the political issues of the 1850's regarding slavery tangible to millions, energizing anti-slavery forces in the American North. It angered and embittered the South. The impact is summed up in a commonly quoted statement apocryphally attributed to Abraham Lincoln. When he met Stowe, it is claimed that he said, \"So you're the little woman that started this great war!\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153543337X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535433372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pTj0vQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pTj0vQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pTj0vQAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pTj0vQAACAAJ&dq=Harriet+Beecher+Stowe+Uncle+Tom%27s+Cabin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uncle_Tom_s_Cabin.html?hl=&id=pTj0vQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pTj0vQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published in 1852, the novel had a profound effect on attitudes toward African Americans and slavery in the United States, so much so in the latter case that the novel intensified the sectional conflict leading to the American Civil War."
+      }
+    }
+  ]
+}

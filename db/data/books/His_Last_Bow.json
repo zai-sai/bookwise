@@ -1,0 +1,691 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MXfLEAAAQBAJ",
+      "etag": "ZSYk4mrzGKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MXfLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "His Last Bow",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2023-07-07",
+        "description": "His Last Bow: Some Reminiscences of Sherlock Holmes is the fourth collection of Sherlock Holmes stories published by Arthur Conan Doyles. It begins with a preface by Dr. John Watson, supposedly written in 1917, assuring the reader that Holmes is still alive but living in quiet retirement in Sussex. This collection contains the well-known stories “The Adventure of the Bruce-Partington Plans,” in which Holmes has to track down stolen plans for a new kind of submarine; and “The Adventure of the Devil’s Foot” in which a Cornish family is found one morning driven mad or dead, with expressions of horror on their faces. The titular story “His Last Bow” is set on the very eve of the outbreak of the First World War, and involves Holmes and Watson coming out of retirement to defeat a German spy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791041801817"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MXfLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MXfLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MXfLEAAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MXfLEAAAQBAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow.html?hl=&id=MXfLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/His_Last_Bow-sample-pdf.acsm?id=MXfLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MXfLEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His Last Bow: Some Reminiscences of Sherlock Holmes is the fourth collection of Sherlock Holmes stories published by Arthur Conan Doyles."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lw5ywwEACAAJ",
+      "etag": "7eKgjTuPquM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lw5ywwEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow: ( Annotated )",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-03-18",
+        "description": "Last Bow is a collection of seven Sherlock Holmes stories (eight in American editions) by Arthur Conan Doyle, as well as the title of one of the stories in that collection. Originally published in 1917, it contains the various Holmes stories published between 1908 and 1913, as well as the one-off title story from 1917.The collection was... (more)His Last Bow is a collection of seven Sherlock Holmes stories (eight in American editions) by Arthur Conan Doyle, as well as the title of one of the stories in that collection. Originally published in 1917, it contains the various Holmes stories published between 1908 and 1913, as well as the one-off title story from 1917. The collection was originally called Reminiscences of Sherlock Holmes and did not contain the actual story His Last Bow, which appeared later, after the full-length The Valley of Fear was published. However later editions added it and changed the title. Some recent complete editions have restored the earlier title. When the Memoirs of Sherlock Holmes were published in the USA for the first time, the publishers believed \"The Adventure of the Cardboard Box\" was too scandalous for the American public, since it dealt with the theme of adultery. As a result, this story was not published in the USA until many years later, when it was added to His Last Bow. Even today, most American editions of the canon include it with His Last Bow, while most British editions keep the story in its original place in The Memoirs of Sherlock Holmes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1090820941"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781090820945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lw5ywwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lw5ywwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lw5ywwEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lw5ywwEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow_Annotated.html?hl=&id=lw5ywwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lw5ywwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a result, this story was not published in the USA until many years later, when it was added to His Last Bow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t_u8yAEACAAJ",
+      "etag": "wJ0C4q+OAQo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t_u8yAEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow (Annotated)",
+        "subtitle": "Arthur Conan Doyle",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2019-08-21",
+        "description": "His Last Bow: Some Reminiscences of Sherlock Holmes is a collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, \"His Last Bow. The War Service of Sherlock Holmes\" (1917). The collection's first US edition adjusts the anthology's subtitle to Some Later Reminiscences of Sherlock Holmes. All editions contain a brief preface, by \"John H. Watson, M.D.\", that assures readers that as of the date of publication (1917), Holmes is long retired from his profession of detective but is still alive and well, albeit suffering from a touch of rheumatism.About Doyle: Arthur Conan Doyle, in full Sir Arthur Ignatius Conan Doyle, (born May 22, 1859, Edinburgh, Scotland-died July 7, 1930, Crowborough, Sussex, England), Scottish writer best known for his creation of the detective Sherlock Holmes-one of the most vivid and enduring characters in English fiction",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1687681554"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781687681553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t_u8yAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t_u8yAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=t_u8yAEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=t_u8yAEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow_Annotated.html?hl=&id=t_u8yAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t_u8yAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His Last Bow: Some Reminiscences of Sherlock Holmes is a collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, &quot;His Last Bow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FXrezgEACAAJ",
+      "etag": "GE+z/LDQKP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FXrezgEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow",
+        "subtitle": "Illustrated by ClassyBookRead - His Last Bow by Arthur Conan Doyle - № 8 in the Sherlock Holmes Series",
+        "authors": [
+          "Arthur Conan Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-07-26",
+        "description": "★★ SHERLOCK HOLMES \"His Last Bow\" : A SPECIAL EDITION! His Last Bow: Some Reminiscences of Sherlock Holmes is the fourth collection of Sherlock Holmes stories published by Arthur Conan Doyles. It begins with a preface by Dr. John Watson, supposedly written in 1917, assuring the reader that Holmes is still alive but living in quiet retirement in Sussex. This collection contains the well-known stories \"The Adventure of the Bruce-Partington Plans,\" in which Holmes has to track down stolen plans for a new kind of submarine; and \"The Adventure of the Devil's Foot\" in which a Cornish family is found one morning driven mad or dead, with expressions of horror on their faces. The titular story \"His Last Bow\" is set on the very eve of the outbreak of the First World War, and involves Holmes and Watson coming out of retirement to defeat a German spy. If you like Sherlock Holmes, you absolutely cannot miss this edition of the book. It's a masterpiece to read and collect along with your favorite books. This is the perfect gift for any literature lover: a book to read and enjoy!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798543719435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FXrezgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FXrezgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow.html?hl=&id=FXrezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FXrezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you like Sherlock Holmes, you absolutely cannot miss this edition of the book. It&#39;s a masterpiece to read and collect along with your favorite books. This is the perfect gift for any literature lover: a book to read and enjoy!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6s3HzQEACAAJ",
+      "etag": "UKKjzJIPp5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6s3HzQEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow Annotated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-08-23",
+        "description": "His Last Bow: Some Reminiscences of Sherlock Holmes is a 1917 collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, \"His Last Bow. The War Service of Sherlock Holmes\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798678085986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6s3HzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6s3HzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6s3HzQEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6s3HzQEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow_Annotated.html?hl=&id=6s3HzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6s3HzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His Last Bow: Some Reminiscences of Sherlock Holmes is a 1917 collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, &quot;His Last Bow. The War Service of Sherlock Holmes&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nrqazQEACAAJ",
+      "etag": "VDtvlOpCDq8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nrqazQEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow (Illustrated)",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-07",
+        "description": "His Last Bow: Some Reminiscences of Sherlock Holmes is a 1917 collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, \"His Last Bow. The War Service of Sherlock Holmes\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798662788565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nrqazQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nrqazQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nrqazQEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nrqazQEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow_Illustrated.html?hl=&id=nrqazQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nrqazQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His Last Bow: Some Reminiscences of Sherlock Holmes is a 1917 collection of previously published Sherlock Holmes stories by Arthur Conan Doyle, including the titular short story, &quot;His Last Bow. The War Service of Sherlock Holmes&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o4LFDAAAQBAJ",
+      "etag": "2sYOU/NiU+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o4LFDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Return of Sherlock Holmes & His Last Bow",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2016-08-23",
+        "description": "Three years after his supposed death at the Reichenbach Falls, Sherlock Holmes returns to 221B Baker Street, to the astonishment of Dr Watson. From kidnapped heirs to murder by harpoon, Holmes and Watson have their work cut out for them. This collection also includes His Last Bow, a series of recollections from an older Sherlock Holmes of further adventures from his life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909621770"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1909621773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o4LFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o4LFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o4LFDAAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o4LFDAAAQBAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Return_of_Sherlock_Holmes_His_Last_B.html?hl=&id=o4LFDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o4LFDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection also includes His Last Bow, a series of recollections from an older Sherlock Holmes of further adventures from his life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "czbJvgEACAAJ",
+      "etag": "af4sbVuut/w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/czbJvgEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow",
+        "subtitle": "Some Reminiscences of Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Franklin Classics Trade Press",
+        "publishedDate": "2018-10-19",
+        "description": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0343779986"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780343779986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=czbJvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=czbJvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=czbJvgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=czbJvgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow.html?hl=&id=czbJvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=czbJvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y_eLzgEACAAJ",
+      "etag": "MEtPy7Hx+9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_eLzgEACAAJ",
+      "volumeInfo": {
+        "title": "His Last Bow by Arthur Conan Doyle(Annotated)",
+        "subtitle": "Sherlock Holmes- Detective and Mystery Stories, Private Investigators - England - Fiction",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-06-17",
+        "description": "His Last Bow is a collection of seven Sherlock Holmes stories (eight in American editions) by Arthur Conan Doyle, as well as the title of one of the stories in that collection. Originally published in 1917, it contains the various Holmes stories published between 1908 and 1913, as well as the one-off title story from 1917. The collection was originally called Reminiscences of Sherlock Holmes and did not contain the actual story His Last Bow, which appeared later, after the full-length The Valley of Fear was published. However later editions added it and changed the title. Some recent complete editions have restored the earlier title. When the Memoirs of Sherlock Holmes were published in the USA for the first time, the publishers believed \"The Adventure of the Cardboard Box\" was too scandalous for the American public, since it dealt with the theme of adultery. As a result, this story was not published in the USA until many years later, when it was added to His Last Bow. Even today, most American editions of the canon include it with His Last Bow, while most British editions keep the story in its original place in The Memoirs of Sherlock Holmes. His Last Bow By Arthur Conan Doyle - Sherlock Holmes (Annotated), His Last Bow By Arthur Conan Doyle, Sherlock Holmes, Sherlock Holmes By Arthur Conan Doyle, Arthur Conan Doyle, Detective and mystery stories, Private investigators -- England -- Fiction",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798522159054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Y_eLzgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Y_eLzgEACAAJ&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Last_Bow_by_Arthur_Conan_Doyle_Annot.html?hl=&id=Y_eLzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y_eLzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a result, this story was not published in the USA until many years later, when it was added to His Last Bow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V2LeumrzilYC",
+      "etag": "PRIALkESe+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V2LeumrzilYC",
+      "volumeInfo": {
+        "title": "The Return of Sherlock Holmes and His Last Bow",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2005",
+        "description": ".0000000000Ten years after the supposed death of Sherlock Holmes at the Reichenbach Falls, Arthur Conan Doyle was to bow to popular pressure and the large fees offered by publishers to revive the detective's career. To the astonishment of Dr Watson and the delight of his readers Holmes returns to Baker Street, explains how he escaped death at the Falls and is ready to commence detective work once more. Doyle provided a rich and fascinating set of mysteries to challenge his sleuth in this collection. As before, Watson is the superb narrator and his magic remains unchanged and undimmed. In His Last Bow, the final story of this collection, we are told how Sherlock Holmes is brought out of retirement to help the Government fight the German threat at the approach of the First World War. It is the last time that Holmes and Watson work together. As well as his witty and illuminating Afterword to this edition, David Stuart Davies, the illustrious editor of Sherlock magazine, has provided a fascinating chronology of the Sherlock Holmes Stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904919715"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904919711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 654,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V2LeumrzilYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V2LeumrzilYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V2LeumrzilYC&printsec=frontcover&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=V2LeumrzilYC&dq=Arthur+Conan+Doyle+His+Last+Bow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Return_of_Sherlock_Holmes_and_His_La.html?hl=&id=V2LeumrzilYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Return_of_Sherlock_Holmes_and_His_La-sample-pdf.acsm?id=V2LeumrzilYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V2LeumrzilYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As well as his witty and illuminating Afterword to this edition, David Stuart Davies, the illustrious editor of Sherlock magazine, has provided a fascinating chronology of the Sherlock Holmes Stories."
+      }
+    }
+  ]
+}

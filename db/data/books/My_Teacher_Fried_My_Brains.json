@@ -1,0 +1,737 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "l9SCDwAAQBAJ",
+      "etag": "qrKcl+9v+J8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l9SCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "My Teacher Fried My Brains",
+        "authors": [
+          "Bruce Coville"
+        ],
+        "publisher": "ibooks",
+        "publishedDate": "2016-08-17",
+        "description": "Duncan Dougal, the class bully, finds a hand in the school dumpster while hiding after pulling a fire alarm. Knowing this means another teacher is really from outer space he sets out to find out who it is. Along the way he becomes involved in a science experiment that makes him smarter, which might be just what he needs to discover who the imposter is before his classmates are whisked off the planet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781596877276"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1596877278"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l9SCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l9SCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=l9SCDwAAQBAJ&printsec=frontcover&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=l9SCDwAAQBAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Teacher_Fried_My_Brains.html?hl=&id=l9SCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/My_Teacher_Fried_My_Brains-sample-epub.acsm?id=l9SCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/My_Teacher_Fried_My_Brains-sample-pdf.acsm?id=l9SCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l9SCDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Duncan Dougal, the class bully, finds a hand in the school dumpster while hiding after pulling a fire alarm."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N-4vrgEACAAJ",
+      "etag": "uI3oMht/KXM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N-4vrgEACAAJ",
+      "volumeInfo": {
+        "title": "My Teacher Is an Alien 3-Books-in-1!",
+        "subtitle": "My Teacher Is an Alien; My Teacher Fried My Brains; My Teacher Glows in the Dark",
+        "authors": [
+          "Bruce Coville"
+        ],
+        "publisher": "Aladdin",
+        "publishedDate": "2015-09-08",
+        "description": "Could your teacher be an alien? Do your research with this paperback edition of three adventures in the bestselling, hilarious sci-fi series from the author who inspired Christopher Paolini’s Eragon series. This paperback edition includes three of the classic alien stories starring students Susan Simmons, Peter Thompson, and Duncan Dougal—and some out-of-this-world teachers. You’ll laugh, you’ll gasp, and you might even get a little grossed out when you go intergalactic with this paperback edition of three adventures: My Teacher Is an Alien, My Teacher Fried My Brains, and My Teacher Glows in the Dark.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1481457462"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781481457460"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N-4vrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N-4vrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=N-4vrgEACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=N-4vrgEACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Teacher_Is_an_Alien_3_Books_in_1.html?hl=&id=N-4vrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N-4vrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Could your teacher be an alien? Do your research with this paperback edition of three adventures in the bestselling, hilarious sci-fi series from the author who inspired Christopher Paolini’s Eragon series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ah237USuZIkC",
+      "etag": "24c0ky+l/YE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ah237USuZIkC",
+      "volumeInfo": {
+        "title": "Kids Review Kids' Books",
+        "subtitle": "More Than 375 Short Student-Written Book Reviews of Popular Children's Books",
+        "authors": [
+          "Scholastic Professional Books",
+          "Scholastic, Inc. Staff"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "1997-08",
+        "description": "This friendly reference allows kids to make informed decisions about which books to read, offering more than 375 lively book reviews for kids by kids. Children, teachers, and parents can easily locate books by subject, title, or author, and discover what makes each book a must read!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0590603469"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780590603461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ah237USuZIkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ah237USuZIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ah237USuZIkC&pg=PA53&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ah237USuZIkC&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kids_Review_Kids_Books.html?hl=&id=ah237USuZIkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Kids_Review_Kids_Books-sample-pdf.acsm?id=ah237USuZIkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ah237USuZIkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>My</b>. <b>Teacher</b>. <b>Fried</b>. <b>My</b>. <b>Brains</b>. by <b>Bruce Coville</b> 128 pages THRILLS &amp; CHILLS This book is about a boy trying to prevent an alien invasion . Duncan finds out that there&#39;s an alien who&#39;s dressed up like a human and pos- ing as one of <b>his</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7dXwbyNfnsC",
+      "etag": "4snBwHYHlLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7dXwbyNfnsC",
+      "volumeInfo": {
+        "title": "Bruce Coville's Is Your Teacher an Alien?",
+        "authors": [
+          "Bruce Coville",
+          "Lisa Meltzer"
+        ],
+        "publishedDate": "1997",
+        "description": "Readers can work their way through puzzles, mazes, secret codes, riddles, and clues to determine whether their own teacher is an alien.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0671011847"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671011840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q7dXwbyNfnsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q7dXwbyNfnsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=q7dXwbyNfnsC&q=Bruce+Coville+My+Teacher+Fried+My+Brains&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=q7dXwbyNfnsC&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bruce_Coville_s_Is_Your_Teacher_an_Alien.html?hl=&id=q7dXwbyNfnsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7dXwbyNfnsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Bruce Coville</b>, Lisa Meltzer. BOOKS IN <b>THE MY TEACHER</b> IS AN Alien seriES BY <b>BRUCE COVILLE My Teacher</b> Is an Alien <b>My Teacher Fried My Brains My Teacher</b> Glows in <b>the</b> Dark <b>My Teacher</b> Flunked <b>the</b> Planet ACTION ADVENTURE CD - ROM GAME Bruce&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "awXdnQEACAAJ",
+      "etag": "B5zYGe+j794",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/awXdnQEACAAJ",
+      "volumeInfo": {
+        "title": "The My Teacher Is an Alien Collection (Boxed Set)",
+        "subtitle": "My Teacher Is an Alien; My Teacher Fried My Brains; My Teacher Glows in the Dark; My Teacher Flunked the Planet",
+        "authors": [
+          "Bruce Coville"
+        ],
+        "publisher": "Aladdin",
+        "publishedDate": "2014-09-02",
+        "description": "Could your teacher be an alien? Do your research with this boxed set of all four books in the bestselling, hilarious sci-fi quartet from the author who inspired Christopher Paolini’s Eragon series. This collectible boxed set includes the complete quartet of the classic alien stories starring students Susan Simmons, Peter Thompson, and Duncan Dougal—and some out-of-this-world teachers. You’ll laugh, you’ll gasp, and you might even get a little grossed out when you go intergalactic with this set of four books: My Teacher Is an Alien, My Teacher Fried My Brains, My Teacher Glows in the Dark, and My Teacher Flunked the Planet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1481415948"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781481415941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=awXdnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=awXdnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=awXdnQEACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=awXdnQEACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_My_Teacher_Is_an_Alien_Collection_Bo.html?hl=&id=awXdnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=awXdnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collectible boxed set includes the complete quartet of the classic alien stories starring students Susan Simmons, Peter Thompson, and Duncan Dougal—and some out-of-this-world teachers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WeedMJgU1BoC",
+      "etag": "Nsrdx0AudTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WeedMJgU1BoC",
+      "volumeInfo": {
+        "title": "Riddle of the Raptors",
+        "authors": [
+          "Steve Cole"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2010-05-11",
+        "description": "Teggs is no ordinary dinosaur -- he's an Astrosaur! He and his crew have taken off on his spaceship, the DSS Sauropod, to fight evil and keep space safe for plant eaters everywhere. On his latest mission Teggs is escorting a group of the Vegetarian Sector's top athletes to the Great Dinosaur Games. When a greedy gang of meat-eating raptors raid the Sauropod and kidnap two of the athletes,Teggs and his crew race to the rescue. But there's more to the raptor's plan than meets the eye. Can Teggs solve their rascally riddle in time?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781439113554"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1439113556"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WeedMJgU1BoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WeedMJgU1BoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WeedMJgU1BoC&pg=PA126&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WeedMJgU1BoC&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riddle_of_the_Raptors.html?hl=&id=WeedMJgU1BoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Riddle_of_the_Raptors-sample-epub.acsm?id=WeedMJgU1BoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WeedMJgU1BoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Steve Cole. What would you do if you discovered <b>your teacher</b> was from another planet ? Read all of <b>Bruce Coville&#39;s</b> bestselling series ! <b>My Teacher</b> Is an Alien <b>My Teacher Fried My Brain BRUCE COVILLE BRUCE COVILLE My Teacher</b> Glows <b>My Teacher</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dToTAAAACAAJ",
+      "etag": "kZOi4zLUOxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dToTAAAACAAJ",
+      "volumeInfo": {
+        "title": "My Teacher Fried My Brains",
+        "authors": [
+          "Bruce Coville"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "1991-01",
+        "description": "Duncan Dougall discovers that his teacher, Miss Karpou, is an alien, but not before she chooses him to participate in an experiment in which he dons a helmet that fries his brains, but makes him smarter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0606049843"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780606049849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dToTAAAACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dToTAAAACAAJ&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Teacher_Fried_My_Brains.html?hl=&id=dToTAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dToTAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Duncan Dougal needs to find out which of the four new teachers in his school is an alien."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8r-n4KkUW5gC",
+      "etag": "k8ZLJYS8iIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8r-n4KkUW5gC",
+      "volumeInfo": {
+        "title": "Astrosaurs 4 Book Set",
+        "subtitle": "Riddle of the Raptors; The Hatching Horror; The Seas of Doom; The Mind-Swap Menace",
+        "authors": [
+          "Steve Cole"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-03-13",
+        "description": "Explore space with dynamic dinos in this set of four out-of-this-world adventures. It turns out that dinosaurs, despite their itty-bitty brains, were really pretty smart. They managed to escape the Earth in spaceships long before the meteors hit, and now travel among the stars of the Jurassic Quadrant, exploring new worlds, fighting evil, and keeping space safe. This eBook boxed set includes four stellar Astrosaur adventures: Riddle of the Raptors, The Hatching Horror, The Seas of Doom, and The Mind-Swap Menace.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442460904"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442460903"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8r-n4KkUW5gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8r-n4KkUW5gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8r-n4KkUW5gC&pg=PT102&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8r-n4KkUW5gC&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astrosaurs_4_Book_Set.html?hl=&id=8r-n4KkUW5gC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Astrosaurs_4_Book_Set-sample-epub.acsm?id=8r-n4KkUW5gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8r-n4KkUW5gC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... you do if you discovered <b>your teacher</b> was from another planet ? Read all of <b>Bruce Coville&#39;s</b> bestSelling Series ! <b>My Teacher</b> Alien Is an <b>My Teacher Fried My Brain BRUCE COVILLE BRUCE COVILLE My Teacher</b> Glows in <b>the</b> Dark <b>My Teacher</b> Flunked&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qk2J4sBY7NsC",
+      "etag": "L43vl2qnKUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qk2J4sBY7NsC",
+      "volumeInfo": {
+        "title": "Dog-Napped!",
+        "authors": [
+          "Mary Casanova"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2006-08",
+        "description": "The dogs of Pembrook, Minnesota, investigate when one of the town's dogs mysteriously disappears.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780689868115"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0689868111"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qk2J4sBY7NsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qk2J4sBY7NsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qk2J4sBY7NsC&pg=PA136&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qk2J4sBY7NsC&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dog_Napped.html?hl=&id=qk2J4sBY7NsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qk2J4sBY7NsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mary Casanova. What would you do if you discovered <b>your teacher</b> was from another planet ? Read all of <b>Bruce Coville&#39;s</b> bestselling series ! <b>My Teacher</b> Is an Alien <b>My Teacher Fried My Brain</b> More than <b>BRUCE COVILLE BRUCE COVILLE My Teacher</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NXDxHIpAKm0C",
+      "etag": "qUDr0IwY19g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NXDxHIpAKm0C",
+      "volumeInfo": {
+        "title": "Children's Books in Print, 2007",
+        "subtitle": "An Author, Title, and Illustrator Index to Books for Children and Young Adults",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0835248518"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780835248518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Authors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NXDxHIpAKm0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NXDxHIpAKm0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NXDxHIpAKm0C&q=Bruce+Coville+My+Teacher+Fried+My+Brains&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NXDxHIpAKm0C&dq=Bruce+Coville+My+Teacher+Fried+My+Brains&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Children_s_Books_in_Print_2007.html?hl=&id=NXDxHIpAKm0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NXDxHIpAKm0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>My</b> Summer at <b>the</b> Lighthouse : A Boy&#39;s Journal . Frederick . <b>My Teacher</b> Flunked <b>the</b> Planet . <b>Bruce Coville</b> . 1992 ... <b>Fried My Brains</b> . <b>Bruce Coville</b> . 1991. lib . spiral bd . 12.95 ( 978-0-9643763-1-1 ( 8 ) Harvest Point <b>My</b> Tiny&nbsp;..."
+      }
+    }
+  ]
+}

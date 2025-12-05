@@ -1,0 +1,712 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-oM5EAAAQBAJ",
+      "etag": "/o/miSeVgxY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-oM5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-04",
+        "description": "Ozma of Oz - Lyman Frank Baum - Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, , the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded Herein, published on July 30, 1907, was the official third book of L. Frank Baum's Oz series. It was the first in which Baum was clearly intending a series of Oz books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985948482"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985948488"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-oM5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-oM5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-oM5EAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-oM5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-oM5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-oM5EAAAQBAJ&rdid=book--oM5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Ozma_of_Oz-sample-epub.acsm?id=-oM5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Ozma_of_Oz-sample-pdf.acsm?id=-oM5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-oM5EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz - Lyman Frank Baum - Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, , the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "azTXjwEACAAJ",
+      "etag": "u7KKHK/xATM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/azTXjwEACAAJ",
+      "volumeInfo": {
+        "title": "Oeuvres diverses de Mr Rousseau ou suite du 3e volume, contenant le supplément et les pièces ajoutées [T. IV].",
+        "publishedDate": "1732",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:470093282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=azTXjwEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=azTXjwEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oeuvres_diverses_de_Mr_Rousseau_ou_suite.html?hl=&id=azTXjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=azTXjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nCSBEQAAQBAJ",
+      "etag": "g32j4ZPF6tc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nCSBEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Librofilio",
+        "publishedDate": "2025-08-18",
+        "description": "Prepare for a magnificent return to the magic as Dorothy Gale's extraordinary adventures continue in L. Frank Baum's captivating Ozma of Oz. This thrilling tale sees her journey back to the Land of Oz in an unexpected and dramatic way! Following a fierce storm off California, Dorothy is shipwrecked, washing ashore not in Oz, but in the mysterious neighboring realm of Ev, a fantastical kingdom. Here, her journey quickly introduces her to two unforgettable companions: Tik-Tok, the loyal, ticking automaton, and the remarkably resourceful Yellow Hen, Billina. Their perilous journey across Ev leads them directly into the path of the courageous Prince Rinkitink, whose kingdom faces a grave threat from the cunning and immensely powerful Nome King. This subterranean monarch has brutally stolen his family's invaluable jewels and cruelly transformed his entire people into decorative ornaments for his glittering underground palace. Together, this intrepid quartet—Dorothy, Tik-Tok, Billina, and Prince Rinkitink—embarks on a daring, often humorous, and always thrilling quest to recover the stolen treasures. Along the way, they face cunning tricks, challenging puzzles, formidable guardians, and extraordinary encounters designed to thwart their every step. This enchanting expedition ultimately culminates in a thrilling confrontation that promises not only the retrieval of Prince Rinkitink's heritage but also a momentous and heartwarming reunion with the beloved Princess Ozma. Ozma of Oz is a tale rich with daring rescues, profound lessons about perseverance, and the boundless magic of true friendship, promising pure adventure and endless wonder for every reader. ABOUT THE AUTOR Lyman Frank Baum, born on May 15, 1856, in New York, and passed away on May 6, 1919, was an American author, best known for his enduring classic, \"The Wonderful Wizard of Oz.\" A man of diverse talents and interests, Baum tried his hand at various professions before finding his true calling in writing. He began his literary career with children's books and then ventured into playwriting and journalism. \"The Wonderful Wizard of Oz,\" published in 1900, marked a turning point in Baum's life and American children's literature. This magical tale, rich in imagination and filled with memorable characters, such as Dorothy, the Scarecrow, the Tin Man, and the Cowardly Lion, captivated readers worldwide. Baum's vision of a fantastical land, combined with his ability to weave an engaging narrative, cemented his status as a master storyteller. Baum wrote numerous sequels to \"The Wonderful Wizard of Oz\" and several other novels and short stories, often exploring fantasy and fairy tales. His works are celebrated for their creativity, sense of adventure, and the underlying themes of courage, heart, and wisdom. Baum's legacy continues to enchant readers and inspire adaptations in various forms of media, making him an iconic figure in children's literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782384611379"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2384611372"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 141,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nCSBEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nCSBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nCSBEQAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nCSBEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nCSBEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.36,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.36,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nCSBEQAAQBAJ&rdid=book-nCSBEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4360000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4360000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nCSBEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare for a magnificent return to the magic as Dorothy Gale&#39;s extraordinary adventures continue in L. Frank Baum&#39;s captivating Ozma of Oz. This thrilling tale sees her journey back to the Land of Oz in an unexpected and dramatic way!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S6gPvgAACAAJ",
+      "etag": "tTy8zCkOrE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S6gPvgAACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-06",
+        "description": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodsman, Tik-Tok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Recorded Herein published on July 30, 1907, was the third book of L. Frank Baum's Oz series. It was the first in which Baum was clearly intending a series of Oz books. It is the first Oz book where the majority of the action takes place outside of the Land of Oz. Only the final two chapters take place in Oz itself.This reflects a subtle change in theme: in the first book, Oz is the dangerous land through which Dorothy must win her way back to Kansas; in the third, Oz is the end and aim of the book. Dorothy's desire to return home is not as desperate as in the first book, and it is her uncle's need for her rather than hers for him that makes her return. It was illustrated throughout in color by artist John R. Neill. The book bore the following dedication: \"To all the boys and girls who read my stories - and especially to the Dorothys - this book is lovingly dedicated It has been five years since The Wonderful Wizard of Oz took place. And Uncle Henry has been ordered by his doctor to take a vacation from the stress and labor of having to replace the Kansas farmhouse due to the first one being swept away in a cyclone. He is accompanied by his adolescent niece, Dorothy Gale (this is the first of the Oz books in which the reader learns her last name), while aboard a small steamship headed to Australia while Aunt Em and Dorothy's pet dog Toto, stay behind to look after the newly built farmhouse. While traveling on the sea, a terrible storm suddenly hits, bringing rain and lightning, tossing the little ship violently over the waves. Henry and Dorothy are separated when she is accidentally thrown overboard and cast away into the water along with Billina, a yellow hen that was also on board. The two take refuge in a wooden chicken-coop floating nearby. The next morning Dorothy and Billina wash ashore to an unknown region. Once on dry land, Dorothy picks something to eat from a lunch-box tree. She guesses that they are in a \"fairy country\" because lunch boxes do not grow on trees in ordinary countries, and only in a fairy country would an animal like Billina be able to talk. However, Dorothy knows they are not in the Land of Oz because that country has no coastline. After the meal they come across a message inscribed in the sand: \"BEWARE THE WHEELERS\"! Soon they meet these gaudily dressed, loud-yelling baddies who have wheels instead of hands and feet, and roll around on all fours. Dorothy and Billina climb a small rocky mountain to escape them and find a door carved into its side. Having found the key by the door, they open it and find Tik-Tok, a round copper mechanical man whom they activate by winding up all three of his clockwork motors (one each for thinking, motion and speech) with the key like a wind-up toy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536920347"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536920345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S6gPvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S6gPvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S6gPvgAACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S6gPvgAACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz.html?hl=&id=S6gPvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S6gPvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodsman, Tik-Tok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7OuUzQEACAAJ",
+      "etag": "hCCH8R5+qH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7OuUzQEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-06-13",
+        "description": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, Tik-Tok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded Herein, published on July 30, 1907, was the official third book of L. Frank Baum's Oz series. It was the first in which Baum was clearly intending a series of Oz books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798653786112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7OuUzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7OuUzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7OuUzQEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7OuUzQEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz_Illustrated.html?hl=&id=7OuUzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7OuUzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, Tik-Tok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XcWTzgEACAAJ",
+      "etag": "jLngmOOKNwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XcWTzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "subtitle": "Lyman Frank Baum (Classics, Literature) [Annotated]",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-07-02",
+        "description": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded Herein, published on July 30, 1907, was the official third book of L. Frank Baum's Oz series. It was the first in which Baum was clearly intending a series of Oz books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798530383564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XcWTzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XcWTzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XcWTzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XcWTzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz.html?hl=&id=XcWTzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XcWTzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded Herein ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6aiPzgEACAAJ",
+      "etag": "AhWVpADK0x4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6aiPzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "subtitle": "Lyman Frank Baum (Classics, Literature) [Annotated]",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2021-06-30",
+        "description": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, , the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded Herein, published on July 30, 1907, was the official third book of L. Frank Baum's Oz series. It was the first in which Baum was clearly intending a series of Oz books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798529282670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6aiPzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6aiPzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz.html?hl=&id=6aiPzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6aiPzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, , the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous to Mention Faithfully Recorded ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Yd8zgEACAAJ",
+      "etag": "ZFOI4OkICoQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Yd8zgEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz Lyman Frank Baum Illustrated Edition",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-06",
+        "description": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798513379782"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Yd8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Yd8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0Yd8zgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0Yd8zgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz_Lyman_Frank_Baum_Illustrated.html?hl=&id=0Yd8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Yd8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas, Billina the Yellow Hen, the Scarecrow, the Tin Woodman, the Cowardly Lion and the Hungry Tiger; Besides Other Good People Too Numerous"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xghXvgEACAAJ",
+      "etag": "EHGeiR6C6sA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xghXvgEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "subtitle": "Ozma of Oz - L. Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2017-06-17",
+        "description": "Ozma of Oz Dorothy is back, and she's not in Kansas anymore. But she's not in Oz, either! L. Frank Baum's magical world comes to life once again as our beloved Dorothy Gale takes yet another unexpected trip to a mystical, faraway land. This time, Dorothy winds up in the land of Ev; she meets new friends such as Tik-Tok the mechanical man and Billina, perhaps the cleverest chicken you'll ever encounter. Dorothy will also have to face the wicked Nome King, who's imprisoned the royal family of Ev. Lucky for her, she'll get help from her Oz friends such as the Tin Woodman and the Scarecrow - along with the new Queen of Oz, the lovely Ozma! But can even their combined might win the day and see Dorothy back home?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548156531"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548156534"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xghXvgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xghXvgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz.html?hl=&id=xghXvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xghXvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ozma of Oz Dorothy is back, and she&#39;s not in Kansas anymore. But she&#39;s not in Oz, either! L. Frank Baum&#39;s magical world comes to life once again as our beloved Dorothy Gale takes yet another unexpected trip to a mystical, faraway land."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LdoFzgEACAAJ",
+      "etag": "llXrvvHjQ54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LdoFzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ozma of Oz",
+        "subtitle": "L. Frank Baum (Classics, Children's Books) [Annotated]",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-10-05",
+        "description": "This is the third book in The Oz Series by L. Frank Baum. While traveling to Australia with her Uncle Henry, Dorothy is swept overboard with a hen named Billina. They land in Ev, a country across the desert from Oz, and, together with new-found mechanical friend Tik-Tok, they must save Ev's royal family from the evil Nome King. With Princess Ozma's help, they finally return to Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798693881631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LdoFzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LdoFzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LdoFzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LdoFzgEACAAJ&dq=L.+Frank+Baum+Ozma+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ozma_of_Oz.html?hl=&id=LdoFzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LdoFzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the third book in The Oz Series by L. Frank Baum."
+      }
+    }
+  ]
+}

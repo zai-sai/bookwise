@@ -1,0 +1,713 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "AXH8EAAAQBAJ",
+      "etag": "J5x2BjwzhMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AXH8EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "ببلومانيا للنشر والتوزيع",
+        "publishedDate": "2024-03-20",
+        "description": "A nineteenth-century boy from a Mississippi River town recounts his adventures as he travels down the river with a runaway slave, encountering a family involved in a feud, two scoundrels pretending to be royalty, and Tom Sawyer's aunt who mistakes him for Tom. The story follows Huckleberry Finn, a young boy and the narrator, who escapes from his abusive father and embarks on a journey down the Mississippi River. Along the way, he meets Jim, a runaway slave who is seeking freedom. Together, they encounter various characters and have numerous adventures, including encounters with con artists, feuding families, and other colorful figures. The novel explores themes such as racism, freedom, and the hypocrisy of society. Through Huck's experiences and his evolving relationship with Jim, Twain offers a scathing critique of the institution of slavery and the deep-seated prejudices of the time. Despite its critical acclaim and enduring popularity, \"The Adventures of Huckleberry Finn\" has also been the subject of controversy due to its language and portrayal of race. Twain's use of dialect and racial stereotypes has led to debates over whether the novel should be taught in schools and how it should be interpreted in modern contexts. Overall, \"The Adventures of Huckleberry Finn\" remains a classic of American literature, celebrated for its humor, its insight into human nature, and its exploration of complex moral issues.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AXH8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AXH8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AXH8EAAAQBAJ&printsec=frontcover&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AXH8EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AXH8EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AXH8EAAAQBAJ&rdid=book-AXH8EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Adventures_of_Huckleberry_Finn-sample-pdf.acsm?id=AXH8EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AXH8EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story follows Huckleberry Finn, a young boy and the narrator, who escapes from his abusive father and embarks on a journey down the Mississippi River. Along the way, he meets Jim, a runaway slave who is seeking freedom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8l8utAEACAAJ",
+      "etag": "YyCCwaP47P0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8l8utAEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn",
+        "subtitle": "By Mark Twain - Illustrated",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Adventures of Huckleberry Finn by Mark Twain Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, a friend of Tom Sawyer and narrator of two other Twain novels. It is a direct sequel to The Adventures of Tom Sawyer. The book is noted for its colorful description of people and places along the Mississippi River. Set in a Southern antebellum society that had ceased to exist about twenty years before the work was published, Adventures of Huckleberry Finn is an often scathing satire on entrenched attitudes, particularly racism. Perennially popular with readers, Adventures of Huckleberry Finn has also been the continued object of study by literary critics since its publication. It was criticized upon release because of its coarse language and became even more controversial in the 20th century because of its perceived use of racial stereotypes and because of its frequent use of the racial slur \"nigger\", despite strong arguments that the protagonist and the tenor of the book are anti-racist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521906653"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521906651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8l8utAEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8l8utAEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn.html?hl=&id=8l8utAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8l8utAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y4AFngEACAAJ",
+      "etag": "Lhbdh8s4hX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y4AFngEACAAJ",
+      "volumeInfo": {
+        "title": "Mark Twain's Adventures of Huckleberry Finn",
+        "authors": [
+          "Mark Twain",
+          "Ollie Depew"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:699830124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 227,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Y4AFngEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Y4AFngEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mark_Twain_s_Adventures_of_Huckleberry_F.html?hl=&id=Y4AFngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y4AFngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7SyCTU5ZjYsC",
+      "etag": "JZ2LKVH3iWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7SyCTU5ZjYsC",
+      "volumeInfo": {
+        "title": "Prestwick, Adventures of Huckleberry Finn",
+        "authors": [
+          "Prestwick House"
+        ],
+        "publisher": "Ingram",
+        "publishedDate": "2004-04-07",
+        "description": "Revel in Huck Finn's adventure on the Mississippi River in this American masterpiece by Mark Twain. \"All modern American literature comes from one book by Mark Twain called 'Huckleberry Finn'.\" - Ernest Hemingway A favorite among young readers and adults alike, Mark Twain's \"Adventures of Huckleberry Finn,\" first published in 1884, is considered to be the author's masterpiece, as well as one of the best American novels ever written. In order to escape his abusive father, Huckleberry Finn fakes his own death. He meets up with the runaway slave Jim, and the two begin a new, carefree life on a raft traversing the Mississippi River. Despite their travels bringing them more trouble than expected and the fear of being returned to their old lives, Huck Finn and Jim form a bond that helps protect them from the judgments of a hypocritical society that claims to value civilization even as it benefits from the horror of slavery. Many readers see \"Adventures of Huckleberry Finn\" as a children's book because Huck is a boy. However, the book's moral themes and metaphors are relevant for almost any age and situation. Huck rejects his Aunt Sally's attempts to protect him in favor of the entering the unknown wild. He simply values his own personal freedom and sense above all else - a quintessential American trait. Complete and unabridged, this elegantly designed, clothbound edition features an elastic closure and a new introduction by Steven Frye.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0486439534"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486439532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7SyCTU5ZjYsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7SyCTU5ZjYsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7SyCTU5ZjYsC&q=Mark+Twain+Adventures+of+Huckleberry+Finn&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7SyCTU5ZjYsC&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prestwick_Adventures_of_Huckleberry_Finn.html?hl=&id=7SyCTU5ZjYsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7SyCTU5ZjYsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many readers see &quot;Adventures of Huckleberry Finn&quot; as a children&#39;s book because Huck is a boy. However, the book&#39;s moral themes and metaphors are relevant for almost any age and situation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tmy_zQEACAAJ",
+      "etag": "Jvjx4UZE+rs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tmy_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn",
+        "subtitle": "By MARK TWAIN with Classic and Antique Illustration",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2020-08-04",
+        "description": "The Adventures of Huckleberry Finn by MARK TWAIN with classic and antique illustration.Adventures of Huckleberry Finn (or, in more recent editions, The Adventures of Huckleberry Finn) is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer.The book is noted for its colorful description of people and places along the Mississippi River. Set in a Southern antebellum society that had ceased to exist over 20 years before the work was published, Adventures of Huckleberry Finn is an often scathing satire on entrenched attitudes, particularly racism.Perennially popular with readers, Adventures of Huckleberry Finn has also been the continued object of study by literary critics since its publication. The book was widely criticized upon release because of its extensive use of coarse language. Throughout the 20th century, and despite arguments that the protagonist and the tenor of the book are anti-racist, criticism of the book continued due to both its perceived use of racial stereotypes and its frequent use of the racial slur \"nigger\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798672263687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tmy_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tmy_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Tmy_zQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Tmy_zQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn.html?hl=&id=Tmy_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tmy_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was widely criticized upon release because of its extensive use of coarse language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gymwyQEACAAJ",
+      "etag": "N83fhE9VSsY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gymwyQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn",
+        "subtitle": "Vintage Classics ( Annotated ) By Mark Twain.",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2019-09-15",
+        "description": "Adventures of Huckleberry Finn (often shortened to Huck Finn) is a novel written by American humorist Mark Twain. It is commonly used and accounted as one of the first Great American Novels. It is also one of the first major American novels written using Local Color Regionalism, or vernacular, told in the first person by the eponymous Huckleberry \"Huck\" Finn, best friend of Tom Sawyer and hero of three other Mark Twain books.The book is noted for its colorful description of people and places along the Mississippi River. By satirizing Southern antebellum society that was already a quarter-century in the past by the time of publication, the book is an often scathing look at entrenched attitudes, particularly racism. The drifting journey of Huck and his friend Jim, a runaway slave, down the Mississippi River on their raft may be one of the most enduring images of escape and freedom in all of American literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1693364492"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781693364495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gymwyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gymwyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gymwyQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gymwyQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn.html?hl=&id=gymwyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gymwyQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is also one of the first major American novels written using Local Color Regionalism, or vernacular, told in the first person by the eponymous Huckleberry &quot;Huck&quot; Finn, best friend of Tom Sawyer and hero of three other Mark Twain books ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "enPiEAAAQBAJ",
+      "etag": "nxO7zZC3Q9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/enPiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Complete Adventures of Huckleberry Finn And Tom Sawyer (Unabridged)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2023-11-18",
+        "description": "In \"The Complete Adventures of Huckleberry Finn and Tom Sawyer (Unabridged),\" Mark Twain masterfully interweaves the tales of two iconic American boys, capturing the essence of early 19th-century life along the Mississippi River. The literary style is characterized by Twain's use of vernacular speech, which lends authenticity and richness to the characters' voices. The book serves as both a critique and a celebration of American society, delving into themes of racism, friendship, and the loss of innocence. This compilation presents the unfiltered adventures of Huck and Tom, highlighting their escapades and moral dilemmas against the backdrop of a rapidly changing America. Mark Twain, born Samuel Clemens, was a keen observer of human behavior and societal norms, drawing from his own experiences as a riverboat pilot and his youthful escapades in Missouri. Twain's familiarity with the socio-political climate of his time, including the stark realities of slavery and race relations, profoundly influenced these narratives. His upbringing and experiences shaped his ability to infuse humor and satire into serious social commentary, making his work resonate with readers both then and now. This unabridged collection is essential for anyone interested in American literature and culture. Twain's adept storytelling and incisive critique encourage readers to reflect on moral complexities and societal norms, offering insights that remain poignant today. Whether you are revisiting these classics or encountering them for the first time, Twain's evocative language and rich character development will leave a lasting impression, inviting deeper contemplation of the themes he so vividly portrays.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547725961"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 729,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=enPiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=enPiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=enPiEAAAQBAJ&printsec=frontcover&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=enPiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=enPiEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=enPiEAAAQBAJ&rdid=book-enPiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Complete_Adventures_of_Huckleberry_F-sample-epub.acsm?id=enPiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Complete_Adventures_of_Huckleberry_F-sample-pdf.acsm?id=enPiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=enPiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In &quot;The Complete Adventures of Huckleberry Finn and Tom Sawyer (Unabridged),&quot; Mark Twain masterfully interweaves the tales of two iconic American boys, capturing the essence of early 19th-century life along the Mississippi River."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bdUkzgEACAAJ",
+      "etag": "A0zb5LAbPUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bdUkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn",
+        "subtitle": "The Illustrated Edition",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2020-12-28",
+        "description": "Adventures of Huckleberry Finn is a novel by Mark Twain, first published in December 1884 in the United States, and in the United Kingdom in February 1885. The work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798585874178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bdUkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bdUkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bdUkzgEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bdUkzgEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn.html?hl=&id=bdUkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bdUkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FZVqzQEACAAJ",
+      "etag": "aMt+XdP67zQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FZVqzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn (English Edition) (Illustrated)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publishedDate": "2020-01-06",
+        "description": "Adventures of Huckleberry Finn (or, in more recent editions, The Adventures of Huckleberry Finn) is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer.The book is noted for its colorful description of people and places along the Mississippi River. Set in a Southern antebellum society that had ceased to exist over 20 years before the work was published, Adventures of Huckleberry Finn is an often scathing satire on entrenched attitudes, particularly racism.Perennially popular with readers, Adventures of Huckleberry Finn has also been the continued object of study by literary critics since its publication. The book was widely criticized upon release because of its extensive use of coarse language. Throughout the 20th century, and despite arguments that the protagonist and the tenor of the book are anti-racist,[2][3] criticism of the book continued due to both its perceived use of racial stereotypes and its frequent use of the racial slur \"nigger\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1673573215"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781673573213"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FZVqzQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FZVqzQEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn_Engli.html?hl=&id=FZVqzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FZVqzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was widely criticized upon release because of its extensive use of coarse language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6cXtjgEACAAJ",
+      "etag": "hz0mUjFzG28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6cXtjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Huckleberry Finn (Wisehouse Classics Edition)",
+        "authors": [
+          "Mark Twain"
+        ],
+        "publisher": "Wisehouse Classics",
+        "publishedDate": "2015-11-23",
+        "description": "THE ADVENTURES OF HUCKLEBERRY FINN is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, a friend of Tom Sawyer and narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective). It is a direct sequel to The Adventures of Tom Sawyer. The book is noted for its colorful description of people and places along the Mississippi River. Set in a Southern antebellum society that had ceased to exist about twenty years before the work was published, Adventures of Huckleberry Finn is an often scathing satire on entrenched attitudes, particularly racism. Perennially popular with readers, ADVENTURES OF HUCKLEBERRY FINN has also been the continued object of study by literary critics since its publication. It was criticized upon release because of its coarse language and became even more controversial in the 20th century because of its perceived use of racial stereotypes and because of its frequent use of the racial slur \"nigger,\" despite strong arguments that the protagonist and the tenor of the book are anti-racist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9176370801"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789176370803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6cXtjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6cXtjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6cXtjgEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6cXtjgEACAAJ&dq=Mark+Twain+Adventures+of+Huckleberry+Finn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Huckleberry_Finn_Wiseh.html?hl=&id=6cXtjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6cXtjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is a direct sequel to The Adventures of Tom Sawyer. The book is noted for its colorful description of people and places along the Mississippi River."
+      }
+    }
+  ]
+}

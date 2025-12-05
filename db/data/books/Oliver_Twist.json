@@ -1,0 +1,733 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "H6Wz53yojxMC",
+      "etag": "hT0rCRqwoDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H6Wz53yojxMC",
+      "volumeInfo": {
+        "title": "Oliver Twist in Plain and Simple English (Includes Study Guide, Complete Unabridged Book, Historical Context, Biography and Char",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "BookCaps Study Guides",
+        "publishedDate": "2012-11-30",
+        "description": "Charles Dickens’ “Oliver Twist” is considered one of his greatest books. It also can be difficult to understand--it is loaded with themes, imagery, and symbols. If you need a little help understanding it, let BookCaps help with this study guide. Along with chapter-by-chapter summaries and analysis, this book features the full text of Wilde's classic novel is also included. BookCap Study Guides are not meant to be purchased as alternatives to reading the book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781621074489"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "162107448X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 804,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H6Wz53yojxMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H6Wz53yojxMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=H6Wz53yojxMC&printsec=frontcover&dq=Charles+Dickens+Oliver+Twist&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=H6Wz53yojxMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=H6Wz53yojxMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=H6Wz53yojxMC&rdid=book-H6Wz53yojxMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oliver_Twist_in_Plain_and_Simple_English-sample-epub.acsm?id=H6Wz53yojxMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oliver_Twist_in_Plain_and_Simple_English-sample-pdf.acsm?id=H6Wz53yojxMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H6Wz53yojxMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you need a little help understanding it, let BookCaps help with this study guide. Along with chapter-by-chapter summaries and analysis, this book features the full text of Wilde&#39;s classic novel is also included."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1bMXAAAAYAAJ",
+      "etag": "uqpdhmtm9cw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1bMXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Oliver Twist",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1866",
+        "description": "At the heart of Charles Dickens's second novel, first published in 1838, is a story as much about crime and poverty as it is about justice and charity. Orphaned at birth, Oliver Twist grows up under the loveless, relentless watch of a workhouse. He runs away with hopes for a better life in London, only to become--at the hands of the unforgettable Artful Dodger--a guileless pawn in a gang of pickpockets and robbers working for Fagin, one of Dickens's most controversial villains. Full of ingenious plot twists, at turns thrilling, tragic, tender, and sharp-eyed, The Adventures of Oliver Twist is among Dickens's most enduring classics. This is a free digital copy of a book that has been carefully scanned by Google as part of a project to make the world's books discoverable online. To make this print edition available as an ebook, we have extracted the text using Optical Character Recognition (OCR) technology and submitted it to a review process to ensure its accuracy and legibility across different screen sizes and devices. Google is proud to partner with libraries to make this book available to readers everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1CFX"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "averageRating": 3.5,
+        "ratingsCount": 47,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.11.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1bMXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1bMXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1bMXAAAAYAAJ&printsec=frontcover&dq=Charles+Dickens+Oliver+Twist&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1bMXAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1bMXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1bMXAAAAYAAJ&rdid=book-1bMXAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Adventures_of_Oliver_Twist.epub?id=1bMXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Adventures_of_Oliver_Twist.pdf?id=1bMXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1zA6zijqt1RQCvnBAFoJ7IldDksQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1bMXAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a free digital copy of a book that has been carefully scanned by Google as part of a project to make the world&#39;s books discoverable online."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZjR8AzhkmYwC",
+      "etag": "T/PU9Pcl8VM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZjR8AzhkmYwC",
+      "volumeInfo": {
+        "title": "Oliver Twist",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2003",
+        "description": ".0000000000Oliver Twist is one of Dickens's most popular novels, with many famous film, television and musical adaptations. It is a classic story of good against evil, packed with humour and pathos, drama and suspense, in which the orphaned Oliver is brought up in a harsh workhouse, and then taken in and exploited by the criminal Fagin, before being eventually rescued and taken in by a loving family.Illustrated by Gerge Cruikshank, with an Afterword by Sam Gilpin.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904633080"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904633082"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 604,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.5.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZjR8AzhkmYwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZjR8AzhkmYwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZjR8AzhkmYwC&printsec=frontcover&dq=Charles+Dickens+Oliver+Twist&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZjR8AzhkmYwC&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist.html?hl=&id=ZjR8AzhkmYwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oliver_Twist-sample-epub.acsm?id=ZjR8AzhkmYwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oliver_Twist-sample-pdf.acsm?id=ZjR8AzhkmYwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZjR8AzhkmYwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On his eighth birthday he is taken to the workhouse, and now his troubles are really about to begin. Find out what happens to Oliver in this vivid graphic novel retelling of Charles Dickens&#39; literary classic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XqbHAgAAQBAJ",
+      "etag": "eEKhe+DITgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XqbHAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist (Illustrated, complete and with the original illustrations)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "LCI",
+        "publishedDate": "2010-09-17",
+        "description": "-Illustrated with the original Illustrations by GEORGE CRUISHANK and other illustrations. -Table of contents to every chapters in the book. -Complete and formatted for kindle to improve your reading experience Oliver Twist, subtitled The Parish Boy's Progress, is the second novel by English author Charles Dickens, published by Richard Bentley in 1838. The story is about an orphan, Oliver Twist, who endures a miserable existence in a workhouse and then is placed with an undertaker. He escapes and travels to London where he meets the Artful Dodger, leader of a gang of juvenile pickpockets. Naively unaware of their unlawful activities, Oliver is led to the lair of their elderly criminal trainer Fagin. Oliver Twist is notable for Dickens' unromantic portrayal of criminals and their sordid lives.[1] The book exposed the cruel treatment of the large number of orphans in London during the Dickensian era. The book's subtitle, The Parish Boy's Progress, alludes to Bunyan's The Pilgrim's Progress and also to a pair of popular 18th-century caricature series by William Hogarth, A Rake's Progress and A Harlot's Progress.[2] Oliver Twist was born into a life of poverty and misfortune in a workhouse in an unnamed town (although when originally published in Bentley's Miscellany in 1837 the town was called Mudfog and said to be within 70 miles north of London – in reality this is the location of the town of Northampton). Orphaned almost from his first breath by his mother's death in childbirth and his father's unexplained absence, Oliver is meagerly provided for under the terms of the Poor Law, and spends the first nine years of his life at a baby farmin the 'care' of a woman named Mrs. Mann. Oliver is brought up with little food and few comforts. Around the time of Oliver's ninth birthday, Mr. Bumble, a parish beadle, removes Oliver from the baby farm and puts him to work picking oakum at the main workhouse. Oliver, who toils with very little food, remains in the workhouse for six months. One day, the desperately hungry boys decide to draw lots; the loser must ask for another portion of gruel. The task falls to Oliver, who at the next meal tremblingly comes up forward, bowl in hand, and makes his famous request: \"Please, sir, I want some more\". A great uproar ensues. The board of well-fed gentlemen who administer the workhouse hypocritically offer five pounds to any person wishing to take on the boy as an apprentice. A brutal chimney sweep almost claims Oliver. However, when he begs despairingly not to be sent away with \"that dreadful man\", a kindly old magistrate refuses to sign the indentures. Later, Mr. Sowerberry, an undertaker employed by the parish, takes Oliver into his service. He treats Oliver better, and because of the boy's sorrowful countenance, uses him as a mourner at children's funerals. However, Mr. Sowerberry is in an unhappy marriage, and his wife takes an immediate dislike to Oliver – primarily because her husband seems to like him – and loses few opportunities to underfeed and mistreat him. He also suffers torment at the hands of Noah Claypole, an oafish but bullying fellow apprentice and \"charity boy\" who is jealous of Oliver's promotion to mute, and Charlotte, the Sowerberrys' maidservant, who is in love with Noah.....",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 661,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XqbHAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XqbHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XqbHAgAAQBAJ&printsec=frontcover&dq=Charles+Dickens+Oliver+Twist&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XqbHAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XqbHAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.11,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.11,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XqbHAgAAQBAJ&rdid=book-XqbHAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1110000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1110000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XqbHAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book&#39;s subtitle, The Parish Boy&#39;s Progress, alludes to Bunyan&#39;s The Pilgrim&#39;s Progress and also to a pair of popular 18th-century caricature series by William Hogarth, A Rake&#39;s Progress and A Harlot&#39;s Progress.[2] Oliver Twist was born ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XHWdzQEACAAJ",
+      "etag": "Ie2bCyJP+n0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XHWdzQEACAAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist",
+        "subtitle": "(Annotated)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2020-07",
+        "description": "Oliver Twist is the first novel in English that focused entirely on a child as the protagonist. He is also known for the unromantic way Charles Dickens described the criminals and their sordid lives. In Olivier Twist, one of his best-known novels, Dickens condemns the comic but also the bitterness of the effects of industrialization in 19th century England. Oliver, an innocent child, is curled up in an unscrupulous society where, partly because of the recent Poor Laws, he can only practically choose between the asylum of the poor, the hideout of Fagin's thieves, a condemnation of imprisonment or an early death. From this bitter industrial / institutional framework, however, a fairy tale emerges: in the midst of corruption and degradation, Oliver, who by nature is essentially passive, perseveres a pure heart. He abstains from evil when everyone around him falls and, as one might expect in a fairy tale, he receives his reward, just as all his persecutor-thieves receive his reward. In anticipation of this happy event, Dickens seizes this opportunity and then explores the kind of life an orphan, an outcast might have to live in London during the 1930s.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798662854635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 413,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XHWdzQEACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XHWdzQEACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist.html?hl=&id=XHWdzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XHWdzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Oliver Twist is the first novel in English that focused entirely on a child as the protagonist. He is also known for the unromantic way Charles Dickens described the criminals and their sordid lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A-bczgEACAAJ",
+      "etag": "TJkgnzBl674",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A-bczgEACAAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist by Charles Dickens",
+        "subtitle": "The Work of Charles Dickens- with Original Illustrated Annotated",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2021-03-21",
+        "description": "The novel follows the journey of the titular character, Oliver Twist. Oliver, an orphan since birth, spends much of his childhood at a \"child farm\" (orphanage) with too many children and too little food. The farm is located roughly 70 miles outside London. One night, after being served his portion of gruel, Oliver asks for a second helping. This is unacceptable, and Oliver is sent to work as an apprentice to an undertaker. Eventually, after suffering repeated mistreatment, Oliver runs away and heads for London. He soon finds himself in the presence of the Artful Dodger, who tells him to stay at the house of an \"old gentleman\" (named Fagin) with a number of other boys. Oliver learns that these boys are trained pickpockets. On an outing, Oliver witnesses the boys take a handkerchief from Mr. Brownlow, an elderly man, which prompts Oliver to run away in fear and confusion. The elderly man mistakes Oliver's behaviour for guilt and has him arrested. However, after learning more about Oliver, Mr. Brownlow realizes his mistake and offers to take care of him at his home.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798725658675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 419,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A-bczgEACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A-bczgEACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist_by_Charles_Dickens.html?hl=&id=A-bczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A-bczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The farm is located roughly 70 miles outside London. One night, after being served his portion of gruel, Oliver asks for a second helping. This is unacceptable, and Oliver is sent to work as an apprentice to an undertaker."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AqTCGwAACAAJ",
+      "etag": "wSGUQ/ID430",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AqTCGwAACAAJ",
+      "volumeInfo": {
+        "title": "The Story Behind Charles Dickens' Oliver Twist",
+        "authors": [
+          "Brian Williams"
+        ],
+        "publishedDate": "2007",
+        "description": "This series of books looks at the history behind some favourite classic novels. Each title explores the relevant historical background, considers how the author's life influenced their writing, and offers a literary analysis of the novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0431081743"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780431081748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AqTCGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AqTCGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AqTCGwAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AqTCGwAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_Behind_Charles_Dickens_Oliver.html?hl=&id=AqTCGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AqTCGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discover the appalling conditions in Victorian factories that inspired a novel that demanded better rights for children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_FK7AQAACAAJ",
+      "etag": "JHbrhqPygU4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_FK7AQAACAAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist",
+        "subtitle": "By Charles Dickens - Illustrated",
+        "authors": [
+          "Charles Charles Dickens"
+        ],
+        "publishedDate": "2017-03-21",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Oliver Twist by Charles Dickens Oliver Twist, or The Parish Boy's Progress, is the second novel by Charles Dickens, and was first published as a serial 1837-9. The story is of the orphan Oliver Twist, who starts his life in a workhouse and is then sold into an apprenticeship with an undertaker. He escapes from there and travels to London where he meets the Artful Dodger, a member of a gang of juvenile pickpockets, which is led by the elderly criminal Fagin. Oliver Twist is notable for Dickens's unromantic portrayal of criminals and their sordid lives, as well as exposing the cruel treatment of the many orphans in London in the mid-nineteenth century. The alternate title, The Parish Boy's Progress, alludes to Bunyan's The Pilgrim's Progress, as well as the 18th-century caricature series by William Hogarth, A Rake's Progress and A Harlot's Progress. An early example of the social novel, Dickens satirizes the hypocrisies of his time, including child labour, the recruitment of children as criminals, and the presence of street children. The novel may have been inspired by the story of Robert Blincoe, an orphan whose account of working as a child labourer in a cotton mill was widely read in the 1830s. It is likely that Dickens's own youthful experiences contributed as well. Oliver Twist has been the subject of numerous adaptations, for various media, including a highly successful musical play, Oliver!, and the multiple Academy Award-winning 1968 motion picture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520802765"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520802763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_FK7AQAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_FK7AQAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist.html?hl=&id=_FK7AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_FK7AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ezP-DwAAQBAJ",
+      "etag": "xwIPcOkFj4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ezP-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist - Charles Dickens (Stage-2)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Maviçatı Yayınları",
+        "description": "Dickens had already achieved renown with Oliver Twist and his reputation was enhanced and strengthened. The novel contains many classic Dickensian themes grinding poverty desperation fear temptation and the eventual triumph of good in the face of great adversity. Oliver Twist features some of the authors most enduring characters such as Oliver himself who dares to ask for more the tyrannical Bumble, the diabolical Fagin, the menacing Bill Sikes, Nancy and the Artful Dodger.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786052942925"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6052942924"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ezP-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ezP-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ezP-DwAAQBAJ&printsec=frontcover&dq=Charles+Dickens+Oliver+Twist&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ezP-DwAAQBAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist_Charles_Dickens_Stage_2.html?hl=&id=ezP-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Oliver_Twist_Charles_Dickens_Stage_2-sample-pdf.acsm?id=ezP-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ezP-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel contains many classic Dickensian themes grinding poverty desperation fear temptation and the eventual triumph of good in the face of great adversity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Eu9EvgAACAAJ",
+      "etag": "cB4eMM/1Xzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Eu9EvgAACAAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist (Original Edition)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2016-08-24",
+        "description": "Oliver Twist, or The Parish Boy's Progress, is the second novel by Charles Dickens, and was first published as a serial 1837-39. The story is of the orphan Oliver Twist, who starts his life in a workhouse and is then sold into apprenticeship with an undertaker. He escapes from there and travels to London, where he meets the Artful Dodger, a member of a gang of juvenile pickpockets led by the elderly criminal Fagin.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153556430X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535564304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Eu9EvgAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Eu9EvgAACAAJ&dq=Charles+Dickens+Oliver+Twist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oliver_Twist_Original_Edition.html?hl=&id=Eu9EvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eu9EvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Oliver Twist, or The Parish Boy&#39;s Progress, is the second novel by Charles Dickens, and was first published as a serial 1837-39."
+      }
+    }
+  ]
+}

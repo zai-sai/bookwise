@@ -1,0 +1,750 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dY5DBAAAQBAJ",
+      "etag": "hT/jLrQi72w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dY5DBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Autobiography of Benjamin Franklin (Boston)",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publishedDate": "2014-08-12",
+        "description": "Benjamin Franklin's writings represent a long career of literary, scientific, and political efforts over a lifetime which extended nearly the entire eighteenth century. Franklin's achievements range from inventing the lightning rod to publishing Poor Richard's Almanack to signing the Declaration of Independence. In his own lifetime he knew prominence not only in America but in Britain and France as well. This volume includes Franklin's reflections on such diverse questions as philosophy and religion, social",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782765901587"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2765901589"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dY5DBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dY5DBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dY5DBAAAQBAJ&printsec=frontcover&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dY5DBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dY5DBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dY5DBAAAQBAJ&rdid=book-dY5DBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Autobiography_of_Benjamin_Franklin_Bosto-sample-epub.acsm?id=dY5DBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Autobiography_of_Benjamin_Franklin_Bosto-sample-pdf.acsm?id=dY5DBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dY5DBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In his own lifetime he knew prominence not only in America but in Britain and France as well. This volume includes Franklin&#39;s reflections on such diverse questions as philosophy and religion, social"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BGKxDAEACAAJ",
+      "etag": "tr2GjGHjgEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BGKxDAEACAAJ",
+      "volumeInfo": {
+        "title": "Autobiography of Benjamin Franklin",
+        "subtitle": "By Benjamin Franklin : Illustrated",
+        "authors": [
+          "Benjamin Benjamin Franklin"
+        ],
+        "publishedDate": "2016-06-10",
+        "description": "Why buy our paperbacks? Unabridged (100% Original content) Printed in USA on High Quality Paper 30 Days Money Back Guarantee Standard Font size of 10 for all books Fulfilled by Amazon Expedited shipping BEWARE OF LOW-QUALITY SELLERS Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. About Autobiography of Benjamin Franklin by Benjamin Franklin The Autobiography of Benjamin Franklin is the traditional name for the unfinished record of his own life written by Benjamin Franklin from 1771 to 1790; however, Franklin himself appears to have called the work his Memoirs. Although it had a tortuous publication history after Franklin's death, this work has become one of the most famous and influential examples of an autobiography ever written. Franklin's account of his life is divided into four parts, reflecting the different periods at which he wrote them. There are actual breaks in the narrative between the first three parts, but Part Three's narrative continues into Part Four without an authorial break (only an editorial one).Part One of the Autobiography is addressed to Franklin's son William, at that time (1771) Royal Governor of New Jersey. While in England at the estate of the Bishop of St Asaph in Twyford, Franklin, now 65 years old, begins by saying that it may be agreeable to his son to know some of the incidents of his father's life; so with a week's uninterrupted leisure, he is beginning to write them down for William. He starts with some anecdotes of his grandfather, uncles, father and mother. He deals with his childhood, his fondness for reading, and his service as an apprentice to his brother James Franklin, a Boston printer and the publisher of the New England Courant. After improving his writing skills through study of the Spectator by Joseph Addison and Sir Richard Steele, he writes an anonymous paper and slips it under the door of the printing house by night. Not knowing its author, James and his friends praise the paper and it is published in the Courant, which encourages Ben to produce more essays (the \"Silence Dogood\" essays) which are also published. When Ben reveals his authorship, James is angered, thinking the recognition of his papers will make Ben too vain. James and Ben have frequent disputes and Ben seeks for a way to escape from working under James.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533619050"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533619051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BGKxDAEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BGKxDAEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autobiography_of_Benjamin_Franklin.html?hl=&id=BGKxDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BGKxDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About Autobiography of Benjamin Franklin by Benjamin Franklin The Autobiography of Benjamin Franklin is the traditional name for the unfinished record of his own life written by Benjamin Franklin from 1771 to 1790; however, Franklin himself ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gbUmCwAAQBAJ",
+      "etag": "3mXDVeIPxgI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gbUmCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2015-03-15",
+        "description": "The Autobiography of Benjamin Franklin is one of America's most famous memoirs. In this text, Ben Franklin shares his life story and details his attempts to build a life of good habits and virtues. His plan for self-improvement was one of the first \"self help\" books and his role as a founder of the United States is given a personal perspective. Xist Publishing is a digital-first publisher. Xist Publishing creates books for the touchscreen generation and is dedicated to helping everyone develop a lifetime love of reading, no matter what form it takes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781623957919"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1623957915"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 205,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gbUmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gbUmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gbUmCwAAQBAJ&printsec=frontcover&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gbUmCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gbUmCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gbUmCwAAQBAJ&rdid=book-gbUmCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Autobiography_of_Benjamin_Franklin-sample-epub.acsm?id=gbUmCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Autobiography_of_Benjamin_Franklin-sample-pdf.acsm?id=gbUmCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gbUmCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Autobiography of Benjamin Franklin is one of America&#39;s most famous memoirs. In this text, Ben Franklin shares his life story and details his attempts to build a life of good habits and virtues."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e9-eDwAAQBAJ",
+      "etag": "kGCRJFZIj+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e9-eDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin (Deseret Alphabet edition)",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2019-06-20",
+        "description": "Benjamin Franklin (1705/1706-1790) was an American polymath and politician. He is is among the most important of America's Founding Fathers. Franklin was the first American scientist to be treated seriously by Europeans and becamea a Fellow of the Royal Society in 1756. His inventions and civic contributions are innumerable. Franklin made his fortune as a printer and newspaper publisher, but then used it to benefit the people at large. Franklin's Autobiography is a compilation of four documents written between 1771 and his death. It covers his life through 1757. Famous for its easy-going style, it is among the most remarkable rags-to-riches stories in all literature. Humble and honest, it recounts the hard work, determination, and continual self-improvement that made his success possible. This book is in the Deseret Alphabet, a phonetic alphabet for writing English developed in the mid-19th century at the University of Deseret (now the University of Utah).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780359741663"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0359741665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e9-eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e9-eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=e9-eDwAAQBAJ&printsec=frontcover&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=e9-eDwAAQBAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Autobiography_of_Benjamin_Franklin_D.html?hl=&id=e9-eDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Autobiography_of_Benjamin_Franklin_D-sample-pdf.acsm?id=e9-eDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e9-eDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is in the Deseret Alphabet, a phonetic alphabet for writing English developed in the mid-19th century at the University of Deseret (now the University of Utah)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-EqQEAAAQBAJ",
+      "etag": "+SjDm1PiP7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-EqQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Benjamin Franklin: The Autobiography",
+        "subtitle": "A Library of America Paperback Classic",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-01-06",
+        "description": "Famous as a scientist, statesman, philosopher, businessman, and civic leader, Benjamin Franklin was also one of the most powerful and controversial American writers of his time. He has been a subject of intense debate ever since: to Matthew Arnold, he exemplified \"victorious good sense\"; to D. H. Lawrence, he was \"the first dummy American.\" Franklin's classic Autobiography, one of the great foundational works of American literature, is his last word on his most remarkable literary invention-his own invented persona, the original incarnation of the American success story. For almost thirty years, The Library of America has presented America's best and most significant writing in acclaimed hardcover editions. Now, a new series, Library of America Paperback Classics, offers attractive and affordable books that bring The Library of America's authoritative texts within easy reach of every reader. Each book features an introductory essay by one of a leading writer, as well as a detailed chronology of the author's life and career, an essay on the choice and history of the text, and notes. The contents of this Paperback Classic are drawn from Benjamin Franklin: Autobiography, Poor Richard, & Later Writings, volume #37B in the Library of America series. It is joined in the series by a companion volume, #37A, Benjamin Franklin: Silence Dogood, The Busy-Body, & Early Writings. Both volumes were edited by J. A. Leo Lemay.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781598530957"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "159853095X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-EqQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-EqQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-EqQEAAAQBAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-EqQEAAAQBAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Benjamin_Franklin_The_Autobiography.html?hl=&id=-EqQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-EqQEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is joined in the series by a companion volume, #37A, Benjamin Franklin: Silence Dogood, The Busy-Body, &amp; Early Writings. Both volumes were edited by J. A. Leo Lemay."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "umnnoAEACAAJ",
+      "etag": "gwpbl27lR3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/umnnoAEACAAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "subtitle": "(Starbooks Classics Editions)",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-04-30",
+        "description": "\"There will be sleeping enough in the grave.\" --- Benjamin Franklin, The Autobiography of Benjamin Franklin The Autobiography of Benjamin Franklin is the traditional name for the unfinished record of his own life written by Benjamin Franklin from 1771 to 1790; however, Franklin himself appears to have called the work his Memoirs. Although it had a tortuous publication history after Franklin's death, this work has become one of the most famous and influential examples of an autobiography ever written. Franklin's account of his life is divided into four parts, reflecting the different periods at which he wrote them. There are actual breaks in the narrative between the first three parts, but Part Three's narrative continues into Part Four without an authorial break (only an editorial one). Reactions to the work Franklin's Autobiography has received widespread praise, both for its historical value as a record of an important early American and for its literary style. It is often considered the first American book to be taken seriously by Europeans as literature. William Dean Howells in 1905 asserted that \"Franklin's is one of the greatest autobiographies in literature, and towers over other autobiographies as Franklin towered over other men.\" However, Mark Twain's essay \"The Late Benjamin Franklin\" (1870) provides a less exalted reaction, albeit somewhat tongue-in-cheek (for example, claiming that his example had \"brought affliction to millions of boys since, whose fathers had read Franklin's pernicious biography\"). D. H. Lawrence wrote a notable invective against \"Middle-sized, sturdy, snuff-coloured Doctor Franklin\" in 1923, finding considerable fault with Franklin's attempt at crafting precepts of virtue and at perfecting himself. Nevertheless, responses to The Autobiography have generally been more positive than Twain's or Lawrence's, with most readers recognizing it as a classic of literature and relating to the narrative voice of the author. In this work, Franklin's persona comes alive and presents a man whose greatness does not keep him from being down-to-earth and approachable, who faces up to mistakes and blunders (\"Errata\") he has committed in life, and who presents personal success as something within the reach of anyone willing to work hard enough for it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1499295596"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781499295597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=umnnoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=umnnoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=umnnoAEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=umnnoAEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Autobiography_of_Benjamin_Franklin.html?hl=&id=umnnoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=umnnoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this work, Franklin&#39;s persona comes alive and presents a man whose greatness does not keep him from being down-to-earth and approachable, who faces up to mistakes and blunders (&quot;Errata&quot;) he has committed in life, and who presents ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TVEiYgEACAAJ",
+      "etag": "n626VirB8b0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TVEiYgEACAAJ",
+      "volumeInfo": {
+        "title": "Autobiography of Benjamin Franklin",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publishedDate": "2010-10-21",
+        "description": "Benjamin Franklin's Autobiography",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1456307290"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781456307295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TVEiYgEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TVEiYgEACAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autobiography_of_Benjamin_Franklin.html?hl=&id=TVEiYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TVEiYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Benjamin Franklin&#39;s Autobiography"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "scAKAQAAIAAJ",
+      "etag": "vyy7TdQyMak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/scAKAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "authors": [
+          "Benjamin Franklin",
+          "Alan V. McGee"
+        ],
+        "publisher": "Mount Vernon, N.Y. : Peter Pauper Press, [194-?]",
+        "publishedDate": "1941",
+        "description": "Edited, with an Introduction, by R.J. Wilson",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106012197452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=scAKAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=scAKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=scAKAQAAIAAJ&q=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=scAKAQAAIAAJ&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Autobiography_of_Benjamin_Franklin.html?hl=&id=scAKAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=scAKAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edited, with an Introduction, by R.J. Wilson"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IBYZAAAAYAAJ",
+      "etag": "3t0d1/uggCw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IBYZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN3J2W"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.7.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IBYZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IBYZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IBYZAAAAYAAJ&pg=PA217&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IBYZAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IBYZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IBYZAAAAYAAJ&rdid=book-IBYZAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Autobiography_of_Benjamin_Franklin.epub?id=IBYZAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Autobiography_of_Benjamin_Franklin.pdf?id=IBYZAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3-Aq28mCd35j2V3PxvrKUX1nchkw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IBYZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Benjamin Franklin</b>. A SKETCH OF <b>FRANKLIN&#39;S</b> LIFE . FROM THE POINT AT WHICH HIS <b>AUTOBIOGRAPHY</b> ENDS , CHIEFLY DRAWN FROM HIS LETTERS . <b>Franklin</b> went to England in 1757 as agent for the colony of Pennsylvania , for the purpose of settling&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fxsPAAAAQAAJ",
+      "etag": "sGzWMWsRpsg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fxsPAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Select Works of Benjamin Franklin",
+        "subtitle": "Including His Autobiography",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publishedDate": "1855",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000069522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "categories": [
+          "Inventors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.17.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fxsPAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fxsPAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fxsPAAAAQAAJ&printsec=frontcover&dq=Benjamin+Franklin+The+Autobiography+of+Benjamin+Franklin&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fxsPAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fxsPAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fxsPAAAAQAAJ&rdid=book-fxsPAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Select_Works_of_Benjamin_Franklin.epub?id=fxsPAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Select_Works_of_Benjamin_Franklin.pdf?id=fxsPAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0KKypY_I9mdLibVP3xeslMYlwLDg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fxsPAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

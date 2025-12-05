@@ -1,0 +1,702 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fhUXAAAAYAAJ",
+      "etag": "O7pnli/YsEk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fhUXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1881",
+        "description": "One of the finest novels by iconic British author Charles Dickens, this Victorian tale follows the good-natured orphan Pip as he makes his way through life. As a boy, Pip crosses paths with a convict named Magwitch, a man who will heavily influence Pip’s adulthood. Meanwhile, the earnest young man falls for the beautiful Estella, the adoptive daughter of the affluent and eccentric Miss Havisham. Widely considered to be Dickens's last great book, the story is steeped in romance and features the writer's familiar themes of crime, punishment, and societal struggle.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1GMG"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 637,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.9.17.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fhUXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fhUXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fhUXAAAAYAAJ&printsec=frontcover&dq=Charles+Dickens+Great+Expectations&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fhUXAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fhUXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fhUXAAAAYAAJ&rdid=book-fhUXAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Great_Expectations.epub?id=fhUXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Great_Expectations.pdf?id=fhUXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1HfVS5kWBiloS8ndT1zHmGgKvhOw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fhUXAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of the finest novels by iconic British author Charles Dickens, this Victorian tale follows the good-natured orphan Pip as he makes his way through life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "49HsEAAAQBAJ",
+      "etag": "9vuuHvjGpJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/49HsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "E-Kitap Projesi & Cheapest Books",
+        "publishedDate": "2024-01-19",
+        "description": "Great Expectations is Charles Dickens's thirteenth novel. It is his second novel, after David Copperfield, to be fully narrated in the first person. Great Expectations is abildungsroman, or a coming-of-age novel, and it is a classic work of Victorian literature. It depicts the growth and personal development of an orphan named Pip. The novel was first published in serial form in Dickens' weekly periodical All the Year Round, from 1 December 1860 to August 1861. In October 1861, Chapman and Hall published the novel in three volumes.Great Expectations was to be twice as long, but constraints imposed by the management of All the Year Round limited the novel's length. Collected and dense, with a conciseness unusual for Dickens, the novel represents Dickens' peak and maturity as an author. According to G. K. Chesterton, Dickens penned Great Expectations in \"the afternoon of [his] life and fame.\" It was the penultimate novel Dickens completed, preceding Our Mutual Friend.It is set among the marshes of Kent and in London in the early to mid-1800s. From the outset, the reader is \"treated\" by the terrifying encounter between Pip, the protagonist, and the escaped convict, Abel Magwitch. Great Expectations is a graphic book, full of extreme imagery, poverty, prison ships, \"the hulks,\" barriers and chains, and fights to the death. It therefore combines intrigue and unexpected twists of autobiographical detail in different tones. Regardless of its narrative technique, the novel reflects the events of the time, Dickens' concerns, and the relationship between society and man.The novel has received mixed reviews from critics: Thomas Carlyle speaks of \"All that Pip's nonsense,\" while George Bernard Shaw praised the novel as \"All of one piece and Consistently truthfull.\" Dickens felt Great Expectations was his best work, calling it \"a very fine idea,\" and was very sensitive to compliments from his friends: \"Bulwer, who has been, as I think you know, extraordinarily taken by the book.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786155529948"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6155529949"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 766,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=49HsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=49HsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=49HsEAAAQBAJ&printsec=frontcover&dq=Charles+Dickens+Great+Expectations&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=49HsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=49HsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=49HsEAAAQBAJ&rdid=book-49HsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Great_Expectations-sample-epub.acsm?id=49HsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Great_Expectations-sample-pdf.acsm?id=49HsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=49HsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Dickens felt Great Expectations was his best work, calling it &quot;a very fine idea,&quot; and was very sensitive to compliments from his friends: &quot;Bulwer, who has been, as I think you know, extraordinarily taken by the book.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kMGykQEACAAJ",
+      "etag": "bGU6ASVBHlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kMGykQEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "subtitle": "Abridged",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2011-06-03",
+        "description": "A terrifying encounter with an escaped convict in a graveyard on the wild Kent marshes; a summons to meet the bitter, decaying Miss Havisham and her beautiful, cold-hearted ward Estella; the sudden generosity of a mysterious benefactor - these form a series of events that change the orphaned Pip's life forever, and he eagerly abandons his humble origins to begin a new life as a gentleman. Dickens' haunting late novel depicts Pip's education and development through adversity as he discovers the true nature of his 'great expectations'.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1463536119"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781463536114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kMGykQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kMGykQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kMGykQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kMGykQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations.html?hl=&id=kMGykQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kMGykQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A terrifying encounter with an escaped convict in a graveyard on the wild Kent marshes; a summons to meet the bitter, decaying Miss Havisham and her beautiful, cold-hearted ward Estella; the sudden generosity of a mysterious benefactor - ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RyG_zQEACAAJ",
+      "etag": "A2M/cawnZd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RyG_zQEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "subtitle": "New Edition - Great Expectations by Charles Dickens",
+        "authors": [
+          "Nahmy Publication",
+          "Charles Dickens"
+        ],
+        "publishedDate": "2020-05-28",
+        "description": "Great Expectations by Charles Dickens is a real classic. You should grab it and read it to experience it yourself. Here's a simple plot to Great Expectations by Charles Dickens On Christmas Eve, around 1812, Pip, an orphan about seven years old, encounters an escaped convict in the village churchyard, while visiting the graves of his parents and siblings. Pip now lives with his hot-tempered elder sister and her kind husband, Joe Gargery, a blacksmith. The convict scares Pip into stealing food and a metal file. Early Christmas morning, Pip returns with the file, a pie, and brandy, though he fears being punished. During Christmas Dinner that evening, at the moment Pip's theft is about to be discovered, soldiers arrive and ask Joe to repair some shackles. Joe and Pip accompany them as they recapture the convict, who is fighting with another escaped convict. The first convict confesses to stealing food from the smithy, clearing Pip of suspicion. A few years pass Miss Havisham, a wealthy, reclusive spinster who was jilted at the altar and still wears her old wedding dress lives in the dilapidated Satis House. She asks Mr Pumblechook, a relation of the Gargerys, to find a boy to visit her. Pip visits Miss Havisham and falls in love with Estella, her adopted daughter. Estella remains aloof and hostile to Pip, which Miss Havisham encourages. Pip visits Miss Havisham regularly, until he is old enough to learn a trade. Joe accompanies Pip for the last visit when she gives the money for Pip to be bound as an apprentice blacksmith. Joe's surly assistant, Dolge Orlick, is envious of Pip and dislikes Mrs Joe. When Pip and Joe are away from the house, Mrs Joe is brutally attacked, leaving her unable to speak or do her work. Orlick is suspected of the attack. Mrs Joe becomes kind-hearted, but brain-damaged, after the attack. Pip's former schoolmate Biddy joins the household to help with her care. Four years into Pip's apprenticeship, Mr Jaggers, a lawyer, informs him that he has been provided with money from an anonymous benefactor, allowing him to become a gentleman. Pip is to leave for London, but presuming that Miss Havisham is his benefactor, he first visits her. ... ... Great Expectations by Charles Dickens",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798649323635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 582,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RyG_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RyG_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RyG_zQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RyG_zQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations.html?hl=&id=RyG_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RyG_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Great Expectations by Charles Dickens is a real classic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dfRmzgEACAAJ",
+      "etag": "V/r1RDbjK2E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dfRmzgEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations by Charles Dickens",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2021-04-14",
+        "description": "Alone in a graveyard one night, he encounters a grizzled and mud-smeared escaped convict. Dragging a heavy shackle from an injured leg, the man demands that Pip steal him food and help him remove the clanging iron. Cowed, Pip accommodates his commands without resistance. It isn't until years later, after Pip has forged a tender relationship with the eccentric Mrs. Havisham, fallen into unexpected prosperity in London, and found himself gripped by love for the charming-yet-fickle Estella, that the true consequences of that night in the graveyard finally come to light.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798737964108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dfRmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dfRmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dfRmzgEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dfRmzgEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations_by_Charles_Dickens.html?hl=&id=dfRmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dfRmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alone in a graveyard one night, he encounters a grizzled and mud-smeared escaped convict."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tjIXtwEACAAJ",
+      "etag": "GMAsL0IBWJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tjIXtwEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "subtitle": "(Annotated)",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2018-02-25",
+        "description": "Charles Dickens's Great Expectations tells the story of Pip, an English orphan who rises to wealth, deserts his true friends, and becomes humbled by his own arrogance. It also introduces one of the more colorful characters in literature: Miss Havisham. Charles Dickens set Great Expectations during the time that England was becoming a wealthy world power. Machines were making factories more productive, yet people lived in awful conditions, and such themes carry into the story. Pip's life is defined by tragedy. Raised an orphan by his abusive older sister, Pip is beaten, ridiculed, and unwanted for much of his life. His love of Estella goes unrequited until the end of the novel, after the deaths of Miss Havisham and Able Magwitch, two important figures in Pip's life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1980398372"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781980398370"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tjIXtwEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tjIXtwEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations.html?hl=&id=tjIXtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tjIXtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Charles Dickens&#39;s Great Expectations tells the story of Pip, an English orphan who rises to wealth, deserts his true friends, and becomes humbled by his own arrogance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fwJ4zgEACAAJ",
+      "etag": "eugGVJAtbSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fwJ4zgEACAAJ",
+      "volumeInfo": {
+        "title": "Charles Dickens Great Expectations",
+        "subtitle": "A Classic Illustrated Edtion",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2021-06-04",
+        "description": "Great Expectations' was his last great novel, and many critics believe it to be his finest. It contains some of Dickens most memorable scenes. One of Dickens's most renowned and enjoyable novels, Great Expectations tells the story of Pip, an orphan boy who wishes to transcend his humble origins and finds himself unexpectedly given the opportunity to live a life of wealth and respectability. Over the course of the tale, in which Pip encounters such famous characters as Miss Havisham, Herbert Pocket and Joe Gargery, he comes to realise that his money is tainted and the girl he loves will not return his affections; happiness must be found in the things he gave up in pursuit of a more sophisticated life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798514907175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fwJ4zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fwJ4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fwJ4zgEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fwJ4zgEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charles_Dickens_Great_Expectations.html?hl=&id=fwJ4zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fwJ4zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Over the course of the tale, in which Pip encounters such famous characters as Miss Havisham, Herbert Pocket and Joe Gargery, he comes to realise that his money is tainted and the girl he loves will not return his affections; happiness must ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bwi8ygEACAAJ",
+      "etag": "y//tB0/a8kA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bwi8ygEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations (illustrated) by Charles Dickens",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2019-01-15",
+        "description": "One of Charles Dickens's most fascinating novels, Great Expectations follows the orphan Pip as he leaves behind a childhood of misery and poverty after an anonymous benefactor offers him a chance at the life of a gentleman. From young Pip's first terrifying encounter with the convict Magwitch in the gloom of a graveyard to the splendidly morbid set pieces in Miss Havisham's mansion to the magnificently realized boat chase down the Thames, the novel is filled with the transcendent excitement that Dickens could so abundantly provide. Written in 1860 at the height of his maturity, it also reveals the novelist's bittersweet understanding of the extent to which our deepest moral dilemmas are born of our own obsessions and illusions. Great Expectations is Charles Dickens's thirteenth novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1794164693"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781794164697"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bwi8ygEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bwi8ygEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations_illustrated_by_Charle.html?hl=&id=bwi8ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bwi8ygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From young Pip&#39;s first terrifying encounter with the convict Magwitch in the gloom of a graveyard to the splendidly morbid set pieces in Miss Havisham&#39;s mansion to the magnificently realized boat chase down the Thames, the novel is filled ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qy_5swEACAAJ",
+      "etag": "sbwA3LyaEFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qy_5swEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations by Charles Dickens - Illustrated",
+        "subtitle": "- Illustrated -Great Expectations by Charles Dickens",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2017-10-21",
+        "description": "Great Expectations Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel; a bildungsroman that depicts the personal growth and personal development of an orphan nicknamed Pip. The novel is set in Kent and London in the early to mid-19th century and contains some of Dickens's most memorable scenes, including the opening in a graveyard, where the young Pip is accosted by the escaped convict, Abel Magwitch. Great Expectations is full of extreme imagery-poverty, prison ships and chains, and fights to the death-and has a colourful cast of characters who have entered popular culture. These include the eccentric Miss Havisham, the beautiful but cold Estella, and Joe, the unsophisticated and kind blacksmith. Dickens's themes include wealth and poverty, love and rejection, and the eventual triumph of good over evil.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978471394"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978471399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Qy_5swEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Qy_5swEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations_by_Charles_Dickens_Il.html?hl=&id=Qy_5swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qy_5swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is set in Kent and London in the early to mid-19th century and contains some of Dickens&#39;s most memorable scenes, including the opening in a graveyard, where the young Pip is accosted by the escaped convict, Abel Magwitch."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XGaQzQEACAAJ",
+      "etag": "gKlh1ujETe8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XGaQzQEACAAJ",
+      "volumeInfo": {
+        "title": "Great Expectations",
+        "subtitle": "Charles Dickens",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2020-03-26",
+        "description": "Great Expectations is Charles Dickens's thirteenth novel and his penultimate (completed) novel; a bildungsroman which depicts the personal growth and personal development of an orphan nicknamed Pip. It is Dickens's second novel, after David Copperfield, to be fully narrated in the first person. The novel was first published as a serial in Dickens's weekly periodical All the Year Round, from 1 December 1860 to August 1861. In October 1861, Chapman and Hall published the novel in three volumes. It is set among marshes in Kent, and in London, in the early to mid-1800s, and contains some of Dickens' most memorable scenes, including the opening, in a graveyard, where the young Pip is accosted by the escaped convict, Abel Magwitch. Great Expectations is full of extreme imagery - poverty; prison ships and chains, and fights to the death - and has a colourful cast of characters who have entered popular culture. These include the eccentric Miss Havisham, the cold and beautiful Estella, and Joe, the kind and generous blacksmith. Dickens's themes include wealth and poverty, love and rejection, and the eventual triumph of good over evil. Great Expectations is popular both with readers and literary critics, and has been translated into many languages, and adapted numerous times into various media. Upon its release, Thomas Carlyle spoke disparagingly of \"all that Pip's nonsense\". Later, George Bernard Shaw praised the novel, as \"All of one piece and consistently truthfull.\" Dickens felt Great Expectations was his best work, calling it \"a very fine, new and grotesque idea\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798630987013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XGaQzQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XGaQzQEACAAJ&dq=Charles+Dickens+Great+Expectations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Great_Expectations.html?hl=&id=XGaQzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XGaQzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel was first published as a serial in Dickens&#39;s weekly periodical All the Year Round, from 1 December 1860 to August 1861. In October 1861, Chapman and Hall published the novel in three volumes."
+      }
+    }
+  ]
+}

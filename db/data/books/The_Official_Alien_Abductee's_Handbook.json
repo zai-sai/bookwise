@@ -1,0 +1,659 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "yyd4_3MlK7AC",
+      "etag": "mLYAIpiLyQo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yyd4_3MlK7AC",
+      "volumeInfo": {
+        "title": "The Official Alien Abductee's Handbook",
+        "subtitle": "How to Recover from Alien Abductions Without Hypnotherapy, Crystals, Or CIA Surveillance",
+        "authors": [
+          "Joseph Tripician"
+        ],
+        "publisher": "Joe Tripician",
+        "publishedDate": "1997",
+        "description": "Extraterrestrials obviously have seeped into our consciousness. Finally, in a hilarious send-up of self-help manuals, Emmy Award-winning author Joe Tripician fearlessly tackles the whole spectrumaliens, UFOs, true believers, government deceptions and other things paranormal. Peppered with facts, conspiracies, opinion, and events too incredible not to be made up (but aren't).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0836227603"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780836227604"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.19.13.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yyd4_3MlK7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yyd4_3MlK7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yyd4_3MlK7AC&pg=PA122&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yyd4_3MlK7AC&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Official_Alien_Abductee_s_Handbook.html?hl=&id=yyd4_3MlK7AC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Official_Alien_Abductee_s_Handbook-sample-pdf.acsm?id=yyd4_3MlK7AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yyd4_3MlK7AC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... - The coming intergalactic gladiator games . X - Files A popular documentary TV show . Zoo —Where missing <b>abductees</b> go . ABOUT THE AUTHOR <b>Joe Tripician</b> started writing <b>alien</b> stories at. 122 The <b>Official Alien Abductee&#39;s Handbook</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jOhtAgAAQBAJ",
+      "etag": "+M4gNoTiC88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jOhtAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Balkanized at Sunrise",
+        "authors": [
+          "Joe Tripician"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2010-10-12",
+        "description": "The Time: the immediate aftermath of the bloody Balkan wars of the 90s. The Man: a penniless science-fiction author. The Job: write the official biography of Croatia's President, Franjo Tudjman. In an effort to keep Tudjman out of the War Crimes Tribunal in The Hague, the Croatian government hired Joe Tripician, author of \"The Official Alien Abductee's Handbook,\" to pen a state-sanctioned biography for US consumption. The biography, far from a whitewashed piece of propaganda, became a darkly comic and sadly tragic tale of deception, danger, death and desire, where guilt abounds, but responsibility remains elusive. \"Balkanized at Sunrise\" is the true story of how Joe navigated between toadying government aides, lying politicians, harassed dissident journalists, and Croatian and Bosnian women looking for a quick visa. It's a fascinating memoir of political, moral, and sexual proportions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780557494514"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0557494516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jOhtAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jOhtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jOhtAgAAQBAJ&pg=PA127&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jOhtAgAAQBAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Balkanized_at_Sunrise.html?hl=&id=jOhtAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Balkanized_at_Sunrise-sample-pdf.acsm?id=jOhtAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jOhtAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>OFFICIAL</b> BIOGRAPHY OF CROATIA&#39;S PRESIDENT , FRANJO TUDJMAN . n an effort to keep Tudjman out of the War Crimes Tribunal in The Hague , the Croatian government hired <b>Joe Tripician</b> , author of The <b>Official Alien Abductee&#39;s Handbook</b> to pen&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Af4DAAAAMBAJ",
+      "etag": "bq3HNVCj39I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Af4DAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Orange Coast Magazine",
+        "publishedDate": "1997-12",
+        "description": "Orange Coast Magazine is the oldest continuously published lifestyle magazine in the region, bringing together Orange County¹s most affluent coastal communities through smart, fun, and timely editorial content, as well as compelling photographs and design. Each issue features an award-winning blend of celebrity and newsmaker profiles, service journalism, and authoritative articles on dining, fashion, home design, and travel. As Orange County¹s only paid subscription lifestyle magazine with circulation figures guaranteed by the Audit Bureau of Circulation, Orange Coast is the definitive guidebook into the county¹s luxe lifestyle.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 230,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Af4DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Af4DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Af4DAAAAMBAJ&pg=PA138&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Af4DAAAAMBAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orange_Coast_Magazine.html?hl=&id=Af4DAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Af4DAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>OFFICIAL ALIEN ABDUCTEE&#39;S Handbook</b> by <b>Joe Tripician</b>. For $7.95 plus tax, this book offers tips on &quot;how to recover from <b>alien</b> abductions without hypnotherapy, crystals or CIA surveillance.&quot; Available at Urban Outfitters, the LAB. LAWN&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TwgxAQAAIAAJ",
+      "etag": "g6uzABNCe1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TwgxAQAAIAAJ",
+      "volumeInfo": {
+        "title": "American Book Publishing Record",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105117254784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TwgxAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TwgxAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TwgxAQAAIAAJ&q=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TwgxAQAAIAAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Book_Publishing_Record.html?hl=&id=TwgxAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TwgxAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "AMERICAN BOOK PUBLISHING RECORD The main section of this listing is ... <b>alien</b> abductions , and government coverups / edited by Kendrick Frazier , Barry Karr , and <b>Joe</b> ... <b>TRIPICIAN</b> , <b>Joseph</b> . 001.942&#39;02&#39;07 The <b>official alien abductee&#39;s handbook</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZD7sdKBg4QgC",
+      "etag": "k6pVtBl2UqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZD7sdKBg4QgC",
+      "volumeInfo": {
+        "title": "The Publishers Weekly",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCD:31175022529450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 878,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZD7sdKBg4QgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZD7sdKBg4QgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZD7sdKBg4QgC&q=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZD7sdKBg4QgC&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Publishers_Weekly.html?hl=&id=ZD7sdKBg4QgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZD7sdKBg4QgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Official Alien Abductee&#39;s HANDBOOK</b> clomide seit book for the Na Millon מיהמ <b>Joe Tripician</b> Die First Collection of the Syndicated Cartoon Fureaurd by Lyna Johnslan Stone Soup 200 BUY A SING COPE MAPER 90 by Jan Eliot al The 1. Pretension&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r8wRh3Z1Cg8C",
+      "etag": "tq0KfG4eDP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r8wRh3Z1Cg8C",
+      "volumeInfo": {
+        "title": "Macromedia Flash MX Magic",
+        "authors": [
+          "Matthew David"
+        ],
+        "publisher": "New Riders Publishing",
+        "publishedDate": "2002",
+        "description": "The CD that accompanies this book contains various resources including project files, Macromedia software demos, and finished files of completed Flash projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0735711607"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735711600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r8wRh3Z1Cg8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r8wRh3Z1Cg8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r8wRh3Z1Cg8C&q=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=r8wRh3Z1Cg8C&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Macromedia_Flash_MX_Magic.html?hl=&id=r8wRh3Z1Cg8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r8wRh3Z1Cg8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Joe Tripician</b> is an Emmy - award - winning producer / writer / director whose work has been broadcast on network and cable television across America , Europe , and Japan . His humor book , The <b>Official Alien Abductee&#39;s Handbook</b> , was&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K0UZAQAAIAAJ",
+      "etag": "l6/d27tyxQY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K0UZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Access",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106020396534"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 764,
+        "printType": "BOOK",
+        "categories": [
+          "American periodicals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.12.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K0UZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K0UZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=K0UZAQAAIAAJ&q=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=K0UZAQAAIAAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Access.html?hl=&id=K0UZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K0UZAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>TRIPICIAN</b> , <b>JOE</b> . THE <b>OFFICIAL ALIEN ABDUCTEE&#39;S HANDBOOK</b> Chambers , John . [ review ] Fate 51 : 61-62 Dec 98 illus . ( 2 ) TRIPLETAIL FISHING - FLORIDA Vance , Randy . Boating 72:84 June 99 illus . ( 1 ) TRIPOD INC . Nelen , M. A.&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zj8bAQAAMAAJ",
+      "etag": "eathkffygmM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zj8bAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Cumulative Book Index",
+        "publishedDate": "1998",
+        "description": "A world list of books in the English language.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015058373922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2362,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zj8bAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zj8bAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Zj8bAQAAMAAJ&pg=PA4120&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Zj8bAQAAMAAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cumulative_Book_Index.html?hl=&id=Zj8bAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zj8bAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nyxYAAAAMAAJ",
+      "etag": "bUW7itPELmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nyxYAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Forthcoming Books",
+        "authors": [
+          "Rose Arny"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015023733077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1608,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nyxYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nyxYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nyxYAAAAMAAJ&pg=PA1199&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nyxYAAAAMAAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Forthcoming_Books.html?hl=&id=nyxYAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nyxYAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GL4vAQAAIAAJ",
+      "etag": "sQM0K+/WUtk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GL4vAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Subject Guide to Books in Print",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105022597087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3074,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GL4vAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GL4vAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GL4vAQAAIAAJ&pg=PA474&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GL4vAQAAIAAJ&dq=Joe+Tripician+The+Official+Alien+Abductee%27s+Handbook&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Subject_Guide_to_Books_in_Print.html?hl=&id=GL4vAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GL4vAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

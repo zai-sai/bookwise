@@ -1,0 +1,723 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "O1gJAAAAQAAJ",
+      "etag": "2zxLtMuOHWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O1gJAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Basil",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "1862",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:300150085"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O1gJAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O1gJAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=O1gJAAAAQAAJ&printsec=frontcover&dq=Wilkie+Collins+Basil&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=O1gJAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=O1gJAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=O1gJAAAAQAAJ&rdid=book-O1gJAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Basil.epub?id=O1gJAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Basil.pdf?id=O1gJAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3CRHkJ2tXLECbNSaF5BTe__lzyuw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O1gJAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vJfNswEACAAJ",
+      "etag": "1su9qW/F824",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vJfNswEACAAJ",
+      "volumeInfo": {
+        "title": "Basil",
+        "subtitle": "By Wilkie Collins - Illustrated",
+        "authors": [
+          "Wilkie Wilkie Collins"
+        ],
+        "publishedDate": "2017-04-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Basil by Wilkie Collins Basil is the second novel written by British author Wilkie Collins, after Antonina. Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he sees on a bus. He follows her and discovers she is Margaret Sherwin, only daughter of a linen draper. He persuades her father to let him marry her secretly. He agrees on the condition, that, as his daughter is only seventeen, they live apart for the first year. At first the secret works, but then the mysterious Mannion, whose emotions cannot be read in his face, returns from abroad. On the last night of the year Basil follows Margaret and Mannion and discovers them in flagrante delicto. Basil attacks Mannion in the street and tries to murder him, but succeeds only in mutilating his face by pushing it into the fresh tarmacadam in the road. Mannion survives, recovers and swears revenge, and it is revealed that Basil's father indirectly caused Mannion's father to be hanged for forgery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521135193"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521135198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vJfNswEACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vJfNswEACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basil.html?hl=&id=vJfNswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vJfNswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About Basil by Wilkie Collins Basil is the second novel written by British author Wilkie Collins, after Antonina."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IzbgCwAAQBAJ",
+      "etag": "/FNTJS5teoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IzbgCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Basil",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Read Books Ltd",
+        "publishedDate": "2016-04-03",
+        "description": "This early work by Wilkie Collins was originally published in 1852. Born in Marylebone, London in 1824, Collins' family enrolled him at the Maida Hill Academy in 1835, but then took him to France and Italy with them between 1836 and 1838. Returning to England, Collins attended Cole's boarding school, and completed his education in 1841, after which he was apprenticed to the tea merchants Antrobus & Co. in the Strand. In 1846, Collins became a law student at Lincoln's Inn, and was called to the bar in 1851, although he never practiced. It was in 1848, a year after the death of his father, that he published his first book, The Memoirs of the Life of William Collins, Esq., R.A., to good reviews. The 1860s saw Collins' creative high-point, and it was during this decade that he achieved fame and critical acclaim, with his four major novels, The Woman in White (1860), No Name (1862), Armadale (1866) and The Moonstone (1868). The Moonstone, meanwhile is seen by many as the first true detective novel - T. S. Eliot called it \"the first, the longest, and the best of modern English detective novels...in a genre invented by Collins and not by Poe.\" Many of the earliest books, particularly those dating back to the 1900's and before, are now extremely scarce and increasingly expensive. We are republishing these classic works in affordable, high quality, modern editions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473366787"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147336678X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IzbgCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IzbgCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IzbgCwAAQBAJ&printsec=frontcover&dq=Wilkie+Collins+Basil&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IzbgCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IzbgCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IzbgCwAAQBAJ&rdid=book-IzbgCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Basil-sample-epub.acsm?id=IzbgCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Basil-sample-pdf.acsm?id=IzbgCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IzbgCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Many of the earliest books, particularly those dating back to the 1900&#39;s and before, are now extremely scarce and increasingly expensive. We are republishing these classic works in affordable, high quality, modern editions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H8SdDAEACAAJ",
+      "etag": "PBkxI8GkAvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H8SdDAEACAAJ",
+      "volumeInfo": {
+        "title": "Basil, by Wilkie Collins (Novel) World's Classics",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-06-29",
+        "description": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina. Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he sees on a bus. He follows her and discovers she is Margaret Sherwin, only daughter of a linen draper. He persuades her father to let him marry her secretly. He agrees on the condition, that, as his daughter is only seventeen, they live apart for the first year. At first the secret works, but then the mysterious Mannion, whose emotions cannot be read in his face, returns from abroad. On the last night of the year Basil follows Margaret and Mannion and discovers them in flagrante delicto. Basil attacks Mannion in the street and tries to murder him, but succeeds only in mutilating his face by pushing it into the fresh tarmacadam in the road. Mannion survives, recovers and swears revenge, and it is revealed that Basil's father indirectly caused Mannion's father to be hanged for forgery. Basil repudiates Margaret, but Sherwin threatens him with exposure unless he holds to his marriage. Basil confesses to his father, who disowns him, but his sister Clara stands by him. Basil's brother Ralph undertakes to buy Sherwin off, but meanwhile Margaret flees to Mannion, thereby acknowledging her guilt. Visiting Mannion in hospital, she catches typhus and dies. Basil, having been put on her track by Ralph, visits her on her deathbed.Basil flees from Mannion to Cornwall. The denouement is worthy of Conan Doyle, set among whirlpools and cliffs near Lands End... In her introduction (Oxford World's Classics Edition), Dorothy Goldman applies psychoanalytic theories to argue that Basil and Mannion, Margaret and Clara, are each like opposite halves of the same person. A further doublet is between the active Ralph and the passive Basil, as the former notes in his dialogue. Mrs Sherwin, Margaret's mother, is apparently feeble-minded and as such is the precursor of Sarah Leeson and other of Collins' deranged woman characters - though she is astute enough to suspect Margaret and Mannion's guilty secret.... William Wilkie Collins (8 January 1824 - 23 September 1889) was an English novelist, playwright, and short story writer. His best-known works are The Woman in White (1859), No Name (1862), Armadale (1866), and The Moonstone (1868). The last is considered the first modern English detective novel. Born into the family of painter William Collins in London, he lived with his family in Italy and France as a child and learned French and Italian. He worked as a clerk for a tea merchant. After his first novel, Antonina, was published in 1850, he met Charles Dickens, who became a close friend, mentor and collaborator. Some of Collins's works were first published in Dickens' journals All the Year Round and Household Words and the two collaborated on drama and fiction. Collins published his best known works in the 1860s, achieved financial stability and an international reputation. During that time he began suffering from gout. After taking opium for the pain, he developed an addiction. During the 1870s and 1880s the quality of his writing declined along with his health. Collins was critical of the institution of marriage and never married; he split his time between Caroline Graves, except for a two-year separation, and his common-law wife Martha Rudd, with whom he had three children.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1534974849"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534974845"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H8SdDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H8SdDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=H8SdDAEACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=H8SdDAEACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basil_by_Wilkie_Collins_Novel_World_s_Cl.html?hl=&id=H8SdDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H8SdDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MN5XzgEACAAJ",
+      "etag": "jmIi007k+/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MN5XzgEACAAJ",
+      "volumeInfo": {
+        "title": "Basil Illustrated",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2021-02-06",
+        "description": "\"Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina.Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he sees on a bus. He follows her and discovers she is Margaret Sherwin, only daughter of a linen draper. \"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798705515103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MN5XzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MN5XzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MN5XzgEACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MN5XzgEACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basil_Illustrated.html?hl=&id=MN5XzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MN5XzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina.Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LBt1zQEACAAJ",
+      "etag": "q3M0dECe5NE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LBt1zQEACAAJ",
+      "volumeInfo": {
+        "title": "Basil Annotated",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2020-04",
+        "description": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina.Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he sees on a bus. He follows her and discovers she is Margaret Sherwin, only daughter of a linen draper. He persuades her father to let him marry her secretly. He agrees on the condition, that, as his daughter is only seventeen, they live apart for the first year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798632774949"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LBt1zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LBt1zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LBt1zQEACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LBt1zQEACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basil_Annotated.html?hl=&id=LBt1zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LBt1zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina.Basil, son of a father who values the family pedigree and who would not let him marry below his station, falls in love at first sight with a girl he ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wk-cDAAAQBAJ",
+      "etag": "yXbi8UB1Uzs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wk-cDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Basil: A Story of Modern Life",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-03-21",
+        "description": "A tale of criminality, almost revolting from its domestic horrors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781609774639"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1609774639"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wk-cDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wk-cDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wk-cDAAAQBAJ&printsec=frontcover&dq=Wilkie+Collins+Basil&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wk-cDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wk-cDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wk-cDAAAQBAJ&rdid=book-wk-cDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Basil_A_Story_of_Modern_Life-sample-epub.acsm?id=wk-cDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wk-cDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A tale of criminality, almost revolting from its domestic horrors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PtNXMQAACAAJ",
+      "etag": "PhucPyz0KDc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PtNXMQAACAAJ",
+      "volumeInfo": {
+        "title": "Wilkie Collins - Basil",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2016-12-14",
+        "description": "When a young aristocrat negotiates a secret marriage to a seventeen-year-old girl, he assents to her father's condition that they not live together for the first year. However, the consequences are tragic for all involved when, the year almost up, Basil catches his bride in a compromising position.A story of love at first sight, Basil was the second novel from Victorian author Wilkie Collins, best-known for The Woman in White. A 1998 film adaptation starred Academy Award-winner Jared Leto as Basil and Claire Forlani (Meet Joe Black) as his young wife.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541059468"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541059467"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PtNXMQAACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PtNXMQAACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilkie_Collins_Basil.html?hl=&id=PtNXMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PtNXMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "However, the consequences are tragic for all involved when, the year almost up, Basil catches his bride in a compromising position.A story of love at first sight, Basil was the second novel from Victorian author Wilkie Collins, best-known ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ksEOzgEACAAJ",
+      "etag": "m9qV3srzemU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ksEOzgEACAAJ",
+      "volumeInfo": {
+        "title": "Basil Annotated",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2020-11-23",
+        "description": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798570204515"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ksEOzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ksEOzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ksEOzgEACAAJ&dq=Wilkie+Collins+Basil&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ksEOzgEACAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basil_Annotated.html?hl=&id=ksEOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ksEOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basil (1852) is the second novel written by British author Wilkie Collins, after Antonina."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KpcwAQAAMAAJ",
+      "etag": "/fwJ7vNiw8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KpcwAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Works of Wilkie Collins: Basil. Little novels",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "1900*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4713423"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 582,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KpcwAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KpcwAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KpcwAQAAMAAJ&q=Wilkie+Collins+Basil&dq=Wilkie+Collins+Basil&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KpcwAQAAMAAJ&dq=Wilkie+Collins+Basil&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Works_of_Wilkie_Collins_Basil_Little.html?hl=&id=KpcwAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KpcwAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

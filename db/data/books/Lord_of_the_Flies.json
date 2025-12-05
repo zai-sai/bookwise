@@ -1,0 +1,683 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zTMROxliNloC",
+      "etag": "4WPjtKqCMIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zTMROxliNloC",
+      "volumeInfo": {
+        "title": "William Golding",
+        "subtitle": "Lord of the Flies",
+        "authors": [
+          "Raychel Haugrud Reiff"
+        ],
+        "publisher": "Marshall Cavendish",
+        "publishedDate": "2010",
+        "description": "An in-depth analysis of William Golding, his writings, and the historical time period in which they were written.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0761447008"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761447009"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zTMROxliNloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zTMROxliNloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zTMROxliNloC&printsec=frontcover&dq=William+Golding+Lord+of+the+Flies&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zTMROxliNloC&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Golding.html?hl=&id=zTMROxliNloC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Golding-sample-epub.acsm?id=zTMROxliNloC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Golding-sample-pdf.acsm?id=zTMROxliNloC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zTMROxliNloC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An in-depth analysis of William Golding, his writings, and the historical time period in which they were written."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lG8dzWV28jsC",
+      "etag": "y/aziZF/5uc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lG8dzWV28jsC",
+      "volumeInfo": {
+        "title": "Lord of the Flies",
+        "authors": [
+          "William Golding"
+        ],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2012-03-15",
+        "description": "Don't miss the world's first graphic novel of William Golding's beloved classic. Lord of the Flies: The Graphic Novel is available for pre-order now The dystopian classic, introduced by Stephen King. W hen a group of schoolboys are stranded on a desert island, what could go wrong? ONE OF THE BBC'S '100 NOVELS THAT SHAPED OUR WORLD' 'The first book with hands - strong ones that reached out of the pages and seized me by the throat. It said to me, 'This is not just entertainment; it's life or death.' ... I've been thinking about it ever since, for fifty years and more.' Stephen King 'One of my favorite books - I read it every couple of years.' Suzanne Collins, author of The Hunger Games INTRODUCED BY STEPHEN KING 'There aren't any grown-ups anywhere.' A plane crashes on a desert island. The only survivors are a group of schoolboys. By day, they explore the dazzling beaches, gorging fruit, seeking shelter, and ripping off their uniforms to swim in the lagoon. At night, in the darkness of the jungle, they are haunted by nightmares of a primitive beast. Orphaned by society, they must forge their own; but it isn't long before their innocent games devolve into something far more dangerous . . . 'Thrills me with all the power a fiction can have ... Exemplary.' Ian McEwan 'An existential fable backlit with death's incandescent glare.' Ben Okri 'Violently real ... An apocalyptic novelist [who writes with] humanist rage and defiance.' Marlon James 'Beautifully written, tragic and provocative.' E. M. Forster 'A fragment of nightmare.' New Statesman 'A post-apocalyptic, dystopian survivor-fantasy ... [A novel] for all time ... A cult classic.' Guardian 'Stands out mightily ... Such a strong statement about the human heart.' Patricia Cornwell 'Terrifying and haunting.' Kingsley Amis What readers are saying: ' Every real human being should read this ... This is what we are.' ' It's brilliant, it's captivating, it's thought provoking and brutal and for some, its truly terrifying.' 'I t can be read and re-read many times, and every time something new will appear.' ' There is a reason why this is studied at school ... Excellent read.' ' This is one of the few books I've read that I keep on my Kindle to read again.' 'I revisit this every few years and it's always fresh and impressive ... One of the best books I've ever read.'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780571267385"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0571267386"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lG8dzWV28jsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lG8dzWV28jsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lG8dzWV28jsC&printsec=frontcover&dq=William+Golding+Lord+of+the+Flies&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lG8dzWV28jsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lG8dzWV28jsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lG8dzWV28jsC&rdid=book-lG8dzWV28jsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_of_the_Flies-sample-epub.acsm?id=lG8dzWV28jsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_of_the_Flies-sample-pdf.acsm?id=lG8dzWV28jsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lG8dzWV28jsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; &#39;I t can be read and re-read many times, and every time something new will appear.&#39; &#39; There is a reason why this is studied at school ... Excellent read.&#39; &#39; This is one of the few books I&#39;ve read that I keep on my Kindle to read again."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_Ce1ar053wwC",
+      "etag": "9nD6Xi3hi1o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_Ce1ar053wwC",
+      "volumeInfo": {
+        "title": "William Golding's Lord of the Flies",
+        "authors": [
+          "Harold Bloom",
+          "Sterling Professor of Humanities Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2010",
+        "description": "Discusses the writing of Lord of the flies by William Golding. Includes critical essays on the work and a brief biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438135397"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438135394"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_Ce1ar053wwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_Ce1ar053wwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_Ce1ar053wwC&printsec=frontcover&dq=William+Golding+Lord+of+the+Flies&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_Ce1ar053wwC&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Golding_s_Lord_of_the_Flies.html?hl=&id=_Ce1ar053wwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Golding_s_Lord_of_the_Flies-sample-epub.acsm?id=_Ce1ar053wwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Golding_s_Lord_of_the_Flies-sample-pdf.acsm?id=_Ce1ar053wwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_Ce1ar053wwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discusses the writing of Lord of the flies by William Golding. Includes critical essays on the work and a brief biography of the author."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DyF3uAEACAAJ",
+      "etag": "1ZAVXMgXql8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DyF3uAEACAAJ",
+      "volumeInfo": {
+        "title": "William Golding's Lord of the Flies",
+        "subtitle": "Text, Notes & Criticism",
+        "authors": [
+          "William Golding"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1036929385"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DyF3uAEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DyF3uAEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Golding_s_Lord_of_the_Flies.html?hl=&id=DyF3uAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DyF3uAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XnW5AQAACAAJ",
+      "etag": "+5BklLXK1vc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XnW5AQAACAAJ",
+      "volumeInfo": {
+        "title": "Notes of William Golding's Lord of the Flies",
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:901794027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XnW5AQAACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XnW5AQAACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notes_of_William_Golding_s_Lord_of_the_F.html?hl=&id=XnW5AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XnW5AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eVlZEQAAQBAJ",
+      "etag": "lx35I78BjMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eVlZEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Lord of the Flies",
+        "subtitle": "The Graphic Novel",
+        "authors": [
+          "William Golding"
+        ],
+        "publisher": "Penguin Group",
+        "publishedDate": "2025-11-04",
+        "description": "For the 70th anniversary of William Golding’s classic, the first graphic novel adaptation of Lord of the Flies The original tale of stranded youth devolving into disorder that inspired Yellowjackets and The Hunger Games, now a Penguin Classics Hardcover The well-known plot: A plane crashes on a desert island. The only survivors are a group of schoolboys. By day, they explore the dazzling beaches, gorging fruit, seeking shelter, and ripping off their uniforms to swim in the lagoon. At night, in the darkness of the jungle, they are haunted by nightmares of a primitive beast. Orphaned by society, they must forge their own; but it isn't long before their innocent games devolve into a murderous hunt … William Golding’s Lord of the Flies was originally published in 1954 and has been a canonical text on school syllabi and a familiar literary reference within the public’s consciousness. For the first time this unforgettable classic has been given new life with Aimée de Jongh’s graphic style and gorgeous color adaptation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143138877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143138871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "ded814bef821dc8d_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eVlZEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eVlZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eVlZEQAAQBAJ&printsec=frontcover&dq=William+Golding+Lord+of+the+Flies&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eVlZEQAAQBAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_of_the_Flies.html?hl=&id=eVlZEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_of_the_Flies-sample-pdf.acsm?id=eVlZEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eVlZEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For the 70th anniversary of William Golding’s classic, the first graphic novel adaptation of Lord of the Flies The original tale of stranded youth devolving into disorder that inspired Yellowjackets and The Hunger Games, now a Penguin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V2-85F-9S2sC",
+      "etag": "ca0tInQCvu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V2-85F-9S2sC",
+      "volumeInfo": {
+        "title": "Understanding Lord of the Flies",
+        "authors": [
+          "Andy Koopmans"
+        ],
+        "publishedDate": "2003",
+        "description": "Discusses the Lord of the Flies by William Golding, including the author's life, the book's historical background, its plot, characters, and theme.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1560067861"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781560067863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V2-85F-9S2sC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V2-85F-9S2sC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V2-85F-9S2sC&q=William+Golding+Lord+of+the+Flies&dq=William+Golding+Lord+of+the+Flies&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=V2-85F-9S2sC&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_Lord_of_the_Flies.html?hl=&id=V2-85F-9S2sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V2-85F-9S2sC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discusses the Lord of the Flies by William Golding, including the author&#39;s life, the book&#39;s historical background, its plot, characters, and theme."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q5lSnwEACAAJ",
+      "etag": "WCmJsnN6FDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q5lSnwEACAAJ",
+      "volumeInfo": {
+        "title": "William Golding: Lord of the Flies",
+        "authors": [
+          "Graham Handley"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630200302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 63,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Q5lSnwEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Q5lSnwEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Golding_Lord_of_the_Flies.html?hl=&id=Q5lSnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q5lSnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-y9WnQEACAAJ",
+      "etag": "3Fv2Uj5f6tI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-y9WnQEACAAJ",
+      "volumeInfo": {
+        "title": "William Golding, Lord of the Flies",
+        "authors": [
+          "Alastair Niven",
+          "William Golding"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:756283274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-y9WnQEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-y9WnQEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Golding_Lord_of_the_Flies.html?hl=&id=-y9WnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-y9WnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fjpuzgEACAAJ",
+      "etag": "w6CiqTIin6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fjpuzgEACAAJ",
+      "volumeInfo": {
+        "title": "Lord of the Flies, by William Golding",
+        "subtitle": "The Text Guide",
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1245550526"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fjpuzgEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fjpuzgEACAAJ&dq=William+Golding+Lord+of+the+Flies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_of_the_Flies_by_William_Golding.html?hl=&id=fjpuzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fjpuzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

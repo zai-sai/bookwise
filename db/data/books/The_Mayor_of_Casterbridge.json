@@ -1,0 +1,731 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gXSuUIFFEywC",
+      "etag": "uQabuAwsY1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gXSuUIFFEywC",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "subtitle": "A Story of a Man of Character",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1994",
+        "description": "Under the influence of rum, Michael Henchard sells his wife and daughter to a sailor. Years later, the widowed wife returns to find her husband the Mayor of Casterbridge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853260983"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853260988"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gXSuUIFFEywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gXSuUIFFEywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gXSuUIFFEywC&printsec=frontcover&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gXSuUIFFEywC&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mayor_of_Casterbridge.html?hl=&id=gXSuUIFFEywC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge-sample-epub.acsm?id=gXSuUIFFEywC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge-sample-pdf.acsm?id=gXSuUIFFEywC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gXSuUIFFEywC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Under the influence of rum, Michael Henchard sells his wife and daughter to a sailor. Years later, the widowed wife returns to find her husband the Mayor of Casterbridge. When a man sells his wife, he should not expect to get away with it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ycG_UgJ1arAC",
+      "etag": "34jX+Y5gsVI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ycG_UgJ1arAC",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2004-06-10",
+        "description": "'The woman is no good to me. Who'll have her?' Michael Henchard is an out-of-work hay-trusser who gets drunk at a local fair and impulsively sells his wife Susan and baby daughter. Eighteen years later Susan and her daughter seek him out, only to discover that he has become the most prominent man in Casterbridge. Henchard attempts to make amends for his youthful misdeeds but his unchanged impulsiveness clouds his relationships in love as well as his fortunes in business. Although Henchard is fated to be a modern-day tragic hero, unable to survive in the new commercial world, his story is also a journey towards love. This edition is the only critically established text of the novel, based on a comprehensive study of the manuscript and Hardy's extensive revisions. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0191517941"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191517945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ycG_UgJ1arAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ycG_UgJ1arAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ycG_UgJ1arAC&printsec=frontcover&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ycG_UgJ1arAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ycG_UgJ1arAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.82,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.19,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ycG_UgJ1arAC&rdid=book-ycG_UgJ1arAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5820000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4190000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge-sample-pdf.acsm?id=ycG_UgJ1arAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ycG_UgJ1arAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition is the only critically established text of the novel, based on a comprehensive study of the manuscript and Hardy&#39;s extensive revisions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4R_RkMoGuXYC",
+      "etag": "Va/wUgUU6xg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4R_RkMoGuXYC",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2001-07-19",
+        "description": "One of Hardy's most powerful novels, \"The Mayor of Casterbridge\" opens with a shocking and haunting scene: In a drunken rage, Michael Henchard sells his wife and daughter to a visiting sailor at a local fair. When they return to Casterbridge some nineteen years later, Henchard--having gained power and success as the mayor--finds he cannot erase the past or the guilt that consumes him. \"The Mayor of Casterbridge\" is a rich, psychological novel about a man whose own flaws combine with fate to cause his ruin. This Modern Library Paperback Classic reprints the authoritative 1912 Wessex edition, as well as Hardy's map of Wessex.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195148107"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "019514810X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4R_RkMoGuXYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4R_RkMoGuXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4R_RkMoGuXYC&printsec=frontcover&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4R_RkMoGuXYC&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mayor_of_Casterbridge.html?hl=&id=4R_RkMoGuXYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge-sample-epub.acsm?id=4R_RkMoGuXYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge-sample-pdf.acsm?id=4R_RkMoGuXYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4R_RkMoGuXYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of Hardy&#39;s most powerful novels, &quot;The Mayor of Casterbridge&quot; opens with a shocking and haunting scene: In a drunken rage, Michael Henchard sells his wife and daughter to a visiting sailor at a local fair."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eikEvgAACAAJ",
+      "etag": "mgxxh4/n74g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eikEvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "authors": [
+          "Thomas Hardy",
+          "Brittany Grace"
+        ],
+        "publishedDate": "2016-08-02",
+        "description": "In a fit of drunken anger, Michael Henchard sells his wife and baby daughter for five guineas at a country fair. Over the course of the following years, he manages to establish himself as a respected and prosperous pillar of the community of Casterbridge, but behind his success there always lurk the shameful secret of his past and a personality prone to self-destructive pride and temper. Subtitled 'A Story of a Man of Character', Hardy's powerful and sympathetic study of the heroic but deeply flawed Henchard is also an intensely dramatic work, tragically played out against the vivid backdrop of a close-knit Dorsetshire town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153685557X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536855579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eikEvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eikEvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eikEvgAACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eikEvgAACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mayor_of_Casterbridge.html?hl=&id=eikEvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eikEvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Subtitled &#39;A Story of a Man of Character&#39;, Hardy&#39;s powerful and sympathetic study of the heroic but deeply flawed Henchard is also an intensely dramatic work, tragically played out against the vivid backdrop of a close-knit Dorsetshire town ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ym8kkJMGzlsC",
+      "etag": "5kI4NeQy/Tk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ym8kkJMGzlsC",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Thorndike Press",
+        "publishedDate": "1886",
+        "description": "One of Hardy's most powerful novels, \"The Mayor of Casterbridge\" opens with a shocking and haunting scene: In a drunken rage, Michael Henchard sells his wife and daughter to a visiting sailor at a local fair. When they return to Casterbridge some nineteen years later, Henchard--having gained power and success as the mayor--finds he cannot erase the past or the guilt that consumes him. \"The Mayor of Casterbridge\" is a rich, psychological novel about a man whose own flaws combine with fate to cause his ruin. This Modern Library Paperback Classic reprints the authoritative 1912 Wessex edition, as well as Hardy's map of Wessex.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0783803516"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780783803517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ym8kkJMGzlsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ym8kkJMGzlsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Ym8kkJMGzlsC&printsec=frontcover&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ym8kkJMGzlsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ym8kkJMGzlsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ym8kkJMGzlsC&rdid=book-Ym8kkJMGzlsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Mayor_of_Casterbridge.epub?id=Ym8kkJMGzlsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ym8kkJMGzlsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of Hardy&#39;s most powerful novels, &quot;The Mayor of Casterbridge&quot; opens with a shocking and haunting scene: In a drunken rage, Michael Henchard sells his wife and daughter to a visiting sailor at a local fair."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XKnDQgAACAAJ",
+      "etag": "D8D31rB1ZGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XKnDQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "subtitle": "An Authoritative Text, Backgrounds Criticism",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "W. W. Norton",
+        "publishedDate": "1977",
+        "description": "From the stunning opening wife-selling scene (at one time a not uncommon phenomenon in England) to the final playing out his tragedy, Michael Henchard proves to be violent, selfish, greedy and crude. At the same time he possesses magnanimity, humility and a comparison that always pleased Hardy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0393091740"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393091748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Atonement"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XKnDQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XKnDQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XKnDQgAACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XKnDQgAACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mayor_of_Casterbridge.html?hl=&id=XKnDQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XKnDQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At the same time he possesses magnanimity, humility and a comparison that always pleased Hardy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9Q5PjgEACAAJ",
+      "etag": "5hI+oxDTleM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9Q5PjgEACAAJ",
+      "volumeInfo": {
+        "title": "Thomas Hardy",
+        "subtitle": "The Mayor of Casterbridge",
+        "authors": [
+          "Douglas Brown"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:901761407"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9Q5PjgEACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9Q5PjgEACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thomas_Hardy.html?hl=&id=9Q5PjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9Q5PjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Z0OFBanTCwC",
+      "etag": "G7QUBD7WCfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Z0OFBanTCwC",
+      "volumeInfo": {
+        "title": "Thomas Hardy's The Mayor of Casterbridge",
+        "authors": [
+          "Michael Goodman"
+        ],
+        "publisher": "Barron's Educational Series",
+        "publishedDate": "1985",
+        "description": "A guide to reading \"The Mayor of Casterbridge\" with a critical and appreciative mind encouraging analysis of plot, style, form, and structure. Also includes background on the author's life and times, sample tests, term paper suggestions, and a reading list.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0812035259"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812035254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Z0OFBanTCwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Z0OFBanTCwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2Z0OFBanTCwC&q=Thomas+Hardy+The+Mayor+of+Casterbridge&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2Z0OFBanTCwC&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thomas_Hardy_s_The_Mayor_of_Casterbridge.html?hl=&id=2Z0OFBanTCwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Z0OFBanTCwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to reading &quot;The Mayor of Casterbridge&quot; with a critical and appreciative mind encouraging analysis of plot, style, form, and structure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DE2_xpNZx9kC",
+      "etag": "4Qo4oDrCNIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DE2_xpNZx9kC",
+      "volumeInfo": {
+        "title": "The Mayor of Casterbridge",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2008-12-30",
+        "description": "\"The tragic story of Michael Henchard and his painful quest to be forgotten -- an unforgettable tale of love, greed, and loss\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416561507"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416561501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DE2_xpNZx9kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DE2_xpNZx9kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DE2_xpNZx9kC&printsec=frontcover&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DE2_xpNZx9kC&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mayor_of_Casterbridge.html?hl=&id=DE2_xpNZx9kC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DE2_xpNZx9kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The tragic story of Michael Henchard and his painful quest to be forgotten -- an unforgettable tale of love, greed, and loss&quot;--P. [4] of cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "57ys0AEACAAJ",
+      "etag": "31NaXOCbeIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/57ys0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Life and Death of the Mayor of Casterbridge",
+        "subtitle": "By Thomas Hardy",
+        "authors": [
+          "Thomas Hardy"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:74196338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Domestic fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=57ys0AEACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=57ys0AEACAAJ&dq=Thomas+Hardy+The+Mayor+of+Casterbridge&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Death_of_the_Mayor_of_Caste.html?hl=&id=57ys0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=57ys0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

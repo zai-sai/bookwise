@@ -1,0 +1,693 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vZVpzgEACAAJ",
+      "etag": "v9eavpaHCNA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vZVpzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars by Bram Stoker Illustrated Edition",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2021-04-22",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798742608431"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vZVpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vZVpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vZVpzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vZVpzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_by_Bram_Stoker.html?hl=&id=vZVpzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vZVpzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTo8zgEACAAJ",
+      "etag": "3WuD8kcmMV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTo8zgEACAAJ",
+      "volumeInfo": {
+        "title": "Bram Stoker",
+        "subtitle": "The Jewel of Seven Stars-Original Edition(Annotated)",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2021-02-16",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798709967403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qTo8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qTo8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qTo8zgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qTo8zgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bram_Stoker.html?hl=&id=qTo8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTo8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MjTezgEACAAJ",
+      "etag": "U055fG3uMXM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MjTezgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars Bram Stoker Illustrated",
+        "authors": [
+          "Bram stoker"
+        ],
+        "publishedDate": "2021-12-07",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798780779506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MjTezgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MjTezgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_Bram_Stoker_Ill.html?hl=&id=MjTezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MjTezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iTo9vgAACAAJ",
+      "etag": "6iVy84edR4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iTo9vgAACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars .( Horror) Novel by",
+        "subtitle": "Bram Stoker",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-09-05",
+        "description": "The Jewel of Seven Stars (also published under the name The Jewel of the Seven Stars) is a horror novel by Bram Stoker first published in 1903. The story is about an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. When The Jewel of Seven Stars was first released in 1903 the publishers received a great deal of criticism from both critics and readers because of its gruesome ending. Shortly before his death in 1912 when Stoker attempted to republish the book he was told that he would have to change the ending if he didn't want it to go out of publication. As a result, Stoker removed Chapter XVI \"Powers - Old and New\" and gave the book a new and happier ending. For many years the original ending was unavailable to most readers. Excerpted from The Jewel of Seven Stars",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537487043"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537487045"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iTo9vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iTo9vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iTo9vgAACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iTo9vgAACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_Horror_Novel_by.html?hl=&id=iTo9vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iTo9vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Jewel of Seven Stars (also published under the name The Jewel of the Seven Stars) is a horror novel by Bram Stoker first published in 1903. The story is about an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gbL_zQEACAAJ",
+      "etag": "CAL6l1gK74U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gbL_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars",
+        "subtitle": "By Bram Stoker - Illustrated",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2020-10-12",
+        "description": "★★★About Bram Stoker & The Jewel of Seven Stars ★★★ The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, (the author of Dracula). Abraham \"Bram\" Stoker (8 November 1847 - 20 April 1912) was an Irish novelist and short story writer. The Jewel of Seven Stars first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. It explores common fin de siècle themes such as imperialism, the rise of the New Woman and feminism, and societal progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798696711850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gbL_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gbL_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gbL_zQEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gbL_zQEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars.html?hl=&id=gbL_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gbL_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Jewel of Seven Stars first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eO1BEAAAQBAJ",
+      "etag": "G3KoVXlw6jI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eO1BEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-09-14",
+        "description": "The Jewel of Seven Stars Bram Stoker - The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783986479466"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3986479465"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eO1BEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eO1BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eO1BEAAAQBAJ&printsec=frontcover&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eO1BEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eO1BEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eO1BEAAAQBAJ&rdid=book-eO1BEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jewel_of_Seven_Stars-sample-epub.acsm?id=eO1BEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jewel_of_Seven_Stars-sample-pdf.acsm?id=eO1BEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eO1BEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JTtqzgEACAAJ",
+      "etag": "F20i2vb/21E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JTtqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars Illustrated",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2021-03-28",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. It explores common fin de siècle themes such as imperialism, the rise of the New Woman and feminism, and societal progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798729574551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JTtqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JTtqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JTtqzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JTtqzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_Illustrated.html?hl=&id=JTtqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JTtqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9UFqzgEACAAJ",
+      "etag": "2oxXEo2EIjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9UFqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars Bram Stoker [Annotated]",
+        "subtitle": "( Education, History, Travel, Classics, Literature)",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-29",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. It explores common fin de siècle themes such as imperialism, the rise of the New Woman and feminism, and societal progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798746444707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9UFqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9UFqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9UFqzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9UFqzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_Bram_Stoker_Ann.html?hl=&id=9UFqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9UFqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hzcIzgEACAAJ",
+      "etag": "ugnpzXeBOBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hzcIzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars Illustrated",
+        "subtitle": "BY Bram Stoker",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2020-10-07",
+        "description": "★★The Jewel of Seven Stars★★ ★★Bram stoker★★ The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. It explores common fin de siècle themes such as imperialism, the rise of the New Woman and feminism, and societal progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798694923408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hzcIzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hzcIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hzcIzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hzcIzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars_Illustrated.html?hl=&id=hzcIzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hzcIzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GoePzgEACAAJ",
+      "etag": "ZhwNijD6rBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GoePzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jewel of Seven Stars",
+        "subtitle": "Bram Stoker (Horor, Classics, Literature) [Annotated]",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "2021-06-09",
+        "description": "The Jewel of Seven Stars is a horror novel by Irish writer Bram Stoker, first published by Heinemann in 1903. The story is a first-person narrative of a young man pulled into an archaeologist's plot to revive Queen Tera, an ancient Egyptian mummy. It explores common fin de siècle themes such as imperialism, the rise of the New Woman and feminism, and societal progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798517757074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GoePzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GoePzgEACAAJ&dq=Bram+Stoker+The+Jewel+of+Seven+Stars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jewel_of_Seven_Stars.html?hl=&id=GoePzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GoePzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is a first-person narrative of a young man pulled into an archaeologist&#39;s plot to revive Queen Tera, an ancient Egyptian mummy."
+      }
+    }
+  ]
+}

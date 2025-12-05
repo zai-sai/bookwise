@@ -1,0 +1,755 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "jpH64hVZ9w0C",
+      "etag": "cCEiq0PMEsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jpH64hVZ9w0C",
+      "volumeInfo": {
+        "title": "Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1993",
+        "description": "Story follows the social and romantic trials of the book's heroine, Catherine Morland.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853260436"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853260438"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jpH64hVZ9w0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jpH64hVZ9w0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jpH64hVZ9w0C&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jpH64hVZ9w0C&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey.html?hl=&id=jpH64hVZ9w0C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey-sample-epub.acsm?id=jpH64hVZ9w0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey-sample-pdf.acsm?id=jpH64hVZ9w0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jpH64hVZ9w0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Story follows the social and romantic trials of the book&#39;s heroine, Catherine Morland."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0sA-SwAACAAJ",
+      "etag": "Ks47dhYynXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0sA-SwAACAAJ",
+      "volumeInfo": {
+        "title": "Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Penguin Books, Limited (UK)",
+        "publishedDate": "1994",
+        "description": "Though Northanger Abbey is one of Jane Austen's earliest novels, it was not published until after her death--well after she'd established her reputation with works such as Pride and Prejudice, Emma, and Sense and Sensibility. the novel is modeled after the day's popular romances and Gothic thrillers, which it then proceeds to ridicule. The heroine is Catherine Morland, who encounters upper-crust society at Bath, falls in love, and becomes targeted by misinformed fortune-seekers. After moving to Northanger Abbey, her imagination goes to work and dreams up mysteries that lead to various social disasters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140620753"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140620757"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "categories": [
+          "Books and reading"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0sA-SwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0sA-SwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0sA-SwAACAAJ&dq=Jane+Austen+Northanger+Abbey&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0sA-SwAACAAJ&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey.html?hl=&id=0sA-SwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0sA-SwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The most authoritative and most fully annotated critical edition available of Austen&#39;s first novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "msiUb_p7aqIC",
+      "etag": "DLYzetSLqwk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/msiUb_p7aqIC",
+      "volumeInfo": {
+        "title": "Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2006-10-19",
+        "description": "The most authoritative and most fully annotated critical edition available of Austen's first novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521824194"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521824192"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=msiUb_p7aqIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=msiUb_p7aqIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=msiUb_p7aqIC&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=msiUb_p7aqIC&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey.html?hl=&id=msiUb_p7aqIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey-sample-pdf.acsm?id=msiUb_p7aqIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=msiUb_p7aqIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The most authoritative and most fully annotated critical edition available of Austen&#39;s first novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a0Vq2g9rCOsC",
+      "etag": "Dg+OweBDpMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a0Vq2g9rCOsC",
+      "volumeInfo": {
+        "title": "Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2004",
+        "description": "\"Illustrated. The last of Jane Austen's works to be published (in 1817), the novel is modeled after the day's popular romances and Gothic thrillers, which it then proceeds to ridicule. The heroine is Catherine Morland, who encounters upper-crust society at Bath, falls in love, and becomes targeted by misinformed fortune-seekers. After moving to Northanger Abbey, her imagination goes to work and dreams up mysteries that lead to various social disasters\"--Publisher's description",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904633307"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904633303"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a0Vq2g9rCOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a0Vq2g9rCOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a0Vq2g9rCOsC&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a0Vq2g9rCOsC&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey.html?hl=&id=a0Vq2g9rCOsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey-sample-epub.acsm?id=a0Vq2g9rCOsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey-sample-pdf.acsm?id=a0Vq2g9rCOsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a0Vq2g9rCOsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is one of Austen&#39;s early works, a broad comedy about learning to distinguish between fiction and reality.Illustrated by Hugh Thomson, with an Afterword by David Pinching."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rtJjDwAAQBAJ",
+      "etag": "4+6P/hIyXqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rtJjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Northanger Abbey - Second Edition",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2002-04-29",
+        "description": "First accepted by a publisher in 1803, Northanger Abbey was eventually published posthumously in 1818. In it Austen weaves a romance full of suspense and comedy around the heroine Catherine Morland”s first foray into society. The style of the novel is a unique hybrid; along the way Austen parodies the eighteenth-century novel of manners, the Gothic novel, and even the educational treatises of the time. The second Broadview edition includes a revised introduction, notes, bibliography, and expanded appendices of background contextual materials.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551114798"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1551114798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rtJjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rtJjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rtJjDwAAQBAJ&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rtJjDwAAQBAJ&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey_Second_Edition.html?hl=&id=rtJjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey_Second_Edition-sample-pdf.acsm?id=rtJjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rtJjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The style of the novel is a unique hybrid; along the way Austen parodies the eighteenth-century novel of manners, the Gothic novel, and even the educational treatises of the time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3OHOUzhs6qQC",
+      "etag": "1QEfdAjHY1E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3OHOUzhs6qQC",
+      "volumeInfo": {
+        "title": "Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044010698082"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 40,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.14.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3OHOUzhs6qQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3OHOUzhs6qQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3OHOUzhs6qQC&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3OHOUzhs6qQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3OHOUzhs6qQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3OHOUzhs6qQC&rdid=book-3OHOUzhs6qQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Northanger_Abbey.epub?id=3OHOUzhs6qQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Northanger_Abbey.pdf?id=3OHOUzhs6qQC&hl=&output=pdf&sig=ACfU3U12r1Et4bhalaXQ5JBTPSFlsd8cyA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3OHOUzhs6qQC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GN5TEAAAQBAJ",
+      "etag": "xgjpqOXzUEA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GN5TEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Northanger Abbey (Jane Austen Collection)",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Harper Muse",
+        "publishedDate": "2023-03-14",
+        "description": "Obsessed with Gothic fiction, seventeen-year-old Catherine Morland is wintering in Bath when she encounters dashing gentleman Henry Tilney and the charismatic Thorpe siblings. Swept up by the high society she has found herself in, Catherine and her overactive imagination lead her into numerous comical misunderstandings with the Tilney family. Northanger Abbey boldly and humorously explores society in Regency-era England. The Northanger Abbey Jane Austen Edition is a beautiful and unique special edition, perfect for book collectors, Jane Austen lovers, and fans of classic literature. Whether you’re buying this as a gift or as for yourself, this remarkable edition features: Decorative interior pages featuring quotes distributed throughout Part of a 6-volume Jane Austen series including Mansfield Park, Pride and Prejudice, Sense and Sensibility, Emma, and Persuasion Northanger Abbey by Jane Austen is one of three inaugural titles in the Jane Austen collection and also includes Mansfield Park and Pride and Prejudice. The series will conclude with Sense and Sensibility, Emma, and Persuasion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780785293422"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0785293426"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GN5TEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GN5TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GN5TEAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GN5TEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GN5TEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GN5TEAAAQBAJ&rdid=book-GN5TEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Northanger_Abbey_Jane_Austen_Collection-sample-epub.acsm?id=GN5TEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GN5TEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collected alongside the other timeless works in the Jane Austen Collection or enjoyed on its own, this deluxe edition of Northanger Abbey is both a literary treasure and a perfect gift for fans of classic literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yco80AEACAAJ",
+      "etag": "Iti0qcLAmpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yco80AEACAAJ",
+      "volumeInfo": {
+        "title": "Northanger Abbey and Persuasion",
+        "authors": [
+          "Jane Austen",
+          "James Kinsley"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192811789"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192811783"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Books and reading"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yco80AEACAAJ&dq=Jane+Austen+Northanger+Abbey&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yco80AEACAAJ&dq=Jane+Austen+Northanger+Abbey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Northanger_Abbey_and_Persuasion.html?hl=&id=yco80AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yco80AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zj6FEAAAQBAJ",
+      "etag": "6+aajVc1v0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zj6FEAAAQBAJ",
+      "volumeInfo": {
+        "title": "NORTHANGER ABBEY",
+        "subtitle": "UNABRIDGED ORIGINAL CLASSIC",
+        "authors": [
+          "JANE AUSTEN"
+        ],
+        "publisher": "PURE SNOW PUBLISHING",
+        "publishedDate": "2022-08-25",
+        "description": "NORTHANGER ABBEY is the story of seventeen-year-old Catherine Morland, one of ten children of a country clergyman, who imagines life as living in one of the Gothic novels with which she is excessively fond of reading. When she is invited by her wealthy neighbors, the Fullertons, to accompany them to the spa town of Bath she experiences her first taste of the fashionable upper-class society of England. Catherine meets the clever young gentleman, Henry Tilney, his sister Eleanor, and their father, the imposing General Tilney. The Tilneys invite Catherine to come stay with them at their estate, the titular Northanger Abbey. Catherine’s naïve over-active imagination quickly leads to embarrassment when she infers some sinister circumstances regarding the lack of emotion that General Tilney shows for the loss of his deceased wife. Eventually Catherine realizes that real life is not at all like that of a Gothic novel. Noted for the insight it gives to Austen’s one opinions of the literature of her day, “Northanger Abbey” is both a satirical parody of the gothic romance novel and the story of a young girl’s maturation into womanhood. First published posthumously in 1817, “Northanger Abbey” was actually the first finished novel that Jane Austen wrote.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zj6FEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zj6FEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Zj6FEAAAQBAJ&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Zj6FEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Zj6FEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Zj6FEAAAQBAJ&rdid=book-Zj6FEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zj6FEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NORTHANGER ABBEY is the story of seventeen-year-old Catherine Morland, one of ten children of a country clergyman, who imagines life as living in one of the Gothic novels with which she is excessively fond of reading."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mRR5Be_0yRIC",
+      "etag": "T1htTEIK6uo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRR5Be_0yRIC",
+      "volumeInfo": {
+        "title": "The Novels of Jane Austen: Northanger Abbey",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:605446246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mRR5Be_0yRIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mRR5Be_0yRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mRR5Be_0yRIC&printsec=frontcover&dq=Jane+Austen+Northanger+Abbey&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mRR5Be_0yRIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mRR5Be_0yRIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mRR5Be_0yRIC&rdid=book-mRR5Be_0yRIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Novels_of_Jane_Austen_Northanger_Abb.epub?id=mRR5Be_0yRIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRR5Be_0yRIC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

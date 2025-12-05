@@ -1,0 +1,711 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "T6S_swEACAAJ",
+      "etag": "qgdE5GQYPg4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T6S_swEACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle by Richard Marsh",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publishedDate": "2017-10-16",
+        "description": "The Beetle by Richard Marsh",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978337337"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978337336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=T6S_swEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=T6S_swEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle_by_Richard_Marsh.html?hl=&id=T6S_swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T6S_swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Beetle by Richard Marsh"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d6B-vwEACAAJ",
+      "etag": "OoeGdY2eYDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d6B-vwEACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle by Richard Marsh",
+        "subtitle": "Annotated",
+        "authors": [
+          "Richard Richard Marsh"
+        ],
+        "publishedDate": "2018-11-22",
+        "description": "A fantastic creature, \"born of neither god nor man,\" hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "179020514X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781790205141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 131,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d6B-vwEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d6B-vwEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle_by_Richard_Marsh.html?hl=&id=d6B-vwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d6B-vwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fantastic creature, &quot;born of neither god nor man,&quot; hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vNuaDAAAQBAJ",
+      "etag": "MnmEDq6oF1E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vNuaDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Beetle",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2013-02-20",
+        "description": "The Beetle is about about a mysterious oriental figure who pursues a British politician to London, where he wreaks havoc with his powers of hypnosis and shape-shifting. Marsh's novel is of a piece with other sensational turn-of-the-century fictions such as Stoker's Dracula, George du Maurier's Trilby, and Sax Rohmer's Fu Manchu novels.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781625582980"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1625582986"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 412,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vNuaDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vNuaDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vNuaDAAAQBAJ&printsec=frontcover&dq=Richard+Marsh+The+Beetle&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vNuaDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vNuaDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vNuaDAAAQBAJ&rdid=book-vNuaDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Beetle-sample-epub.acsm?id=vNuaDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vNuaDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Beetle is about about a mysterious oriental figure who pursues a British politician to London, where he wreaks havoc with his powers of hypnosis and shape-shifting."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2EHhRQAACAAJ",
+      "etag": "kEnPR5cBiqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2EHhRQAACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "Hardpress Publishing",
+        "publishedDate": "2010-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1407630466"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781407630465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2EHhRQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2EHhRQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2EHhRQAACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2EHhRQAACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle.html?hl=&id=2EHhRQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2EHhRQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RAIVMQAACAAJ",
+      "etag": "zuWtFMG0/6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RAIVMQAACAAJ",
+      "volumeInfo": {
+        "title": "Richard Marsh - the Beetle",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publishedDate": "2016-11-10",
+        "description": "A classic tale of supernatural horror.Richard Marsh's novel \"The Beetle\" is the story of a British statesman, Paul Lessingham, who is haunted by his youthful indiscretions in Egypt. A shape-shifting figure follows him from Egypt, intent upon getting revenge on Lessingham.The characters are well drawn: Paul Lessingham, a budding cabinet minister with an ominous gap in his past; lovely Marjorie Linton, a witty New Woman caught between her Radical lover (Paul) and her Tory father; madcap young scientist Sydney Atherton who also adores Miss Linton and is meanwhile working on weapons of mass destruction for the glory of the British Empire; Robert Holt, down-and-out clerk who falls into the clutches of the Beetle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540321568"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540321565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RAIVMQAACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RAIVMQAACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Richard_Marsh_the_Beetle.html?hl=&id=RAIVMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RAIVMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A classic tale of supernatural horror.Richard Marsh&#39;s novel &quot;The Beetle&quot; is the story of a British statesman, Paul Lessingham, who is haunted by his youthful indiscretions in Egypt."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYZYtAEACAAJ",
+      "etag": "Nd6VwE5n6ug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYZYtAEACAAJ",
+      "volumeInfo": {
+        "title": "Richard Marsh - The Beetle",
+        "subtitle": "A Mystery: Those Who Hate Are Kin",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "Horse's Mouth",
+        "publishedDate": "2018-03-12",
+        "description": "Richard Bernard Heldmann was born on 12th October 1857, in St Johns Wood, North London. By his early 20's Heldmann began publishing fiction for the myriad magazine publications that had sprung up and were eager for good well-written content. In October 1882, Heldmann was promoted to co-editor of Union Jack, a popular magazine, but his association with the publication ended suddenly in June 1883. It appears Heldman was prone to issuing forged cheques to finance his lifestyle. In April 1884 He was sentenced to 18 months hard labour. In order to be well away from the scandal and damage this had caused to his reputation Heldmann adopted a pseudonym on his release from jail. Shortly thereafter the name 'Richard Marsh' began to appear in the literary periodicals. The use of his mother's maiden name as part of it seems both a release and a lifeline. A stroke of very good fortune arrived with his novel The Beetle published in 1897. This would turn out to be his greatest commercial success and added some much-needed gravitas to his literary reputation. Marsh was a prolific writer and wrote almost 80 volumes of fiction as well as many short stories, across many genres from horror and crime to romance and humour.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787378233"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787378230"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYZYtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYZYtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UYZYtAEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UYZYtAEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Richard_Marsh_The_Beetle.html?hl=&id=UYZYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYZYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1897, Richard Marsh&#39;s classic work of gothic horror, The Beetle, opens with Robert Holt, an out-of-work clerk seeking shelter in an abandoned house."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "njYjEQAAQBAJ",
+      "etag": "0LlbOXCHyF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/njYjEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Beetle A Mystery",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2024-01-01",
+        "description": "\"The Beetle\" is a gripping and unconventional Gothic horror novel written by Richard Marsh. The narrative is a tale of supernatural terror set in late 19th-century London. The story follows a mysterious Egyptian creature referred to as \"The Beetle\" that possesses shape-transferring skills, permitting it to expect numerous bureaucracy and wreak havoc on the lives of its sufferers. The plot revolves around a series of disturbing events prompted with the aid of the historic Egyptian creature's malevolent affect. The narrative is offered via a couple of perspectives, providing insights into the psychological and emotional turmoil skilled through the characters ensnared in The Beetle's net. The crucial war entails the relentless pursuit of a younger guy named Paul Lessingham by using The Beetle, who seeks revenge for perceived wrongs. Marsh's \"The Beetle\" explores issues of fear, obsession, and the clash among ancient and cutting-edge beliefs. The novel gained popularity for its precise narrative style and unconventional storytelling. As a work of past due Victorian horror fiction, \"The Beetle\" stands out for its exploration of cultural anxieties and the mysterious, supernatural elements that permeate the narrative.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789361426285"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9361426281"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=njYjEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=njYjEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=njYjEQAAQBAJ&printsec=frontcover&dq=Richard+Marsh+The+Beetle&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=njYjEQAAQBAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle_A_Mystery.html?hl=&id=njYjEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Beetle_A_Mystery-sample-pdf.acsm?id=njYjEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=njYjEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Marsh&#39;s &quot;The Beetle&quot; explores issues of fear, obsession, and the clash among ancient and cutting-edge beliefs. The novel gained popularity for its precise narrative style and unconventional storytelling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-5aVxQEACAAJ",
+      "etag": "7oBg6nyKJkU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-5aVxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle",
+        "subtitle": "Large Print",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-05-20",
+        "description": "A fantastic creature, \"born of neither god nor man,\" hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1099443342"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781099443343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-5aVxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-5aVxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-5aVxQEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-5aVxQEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle.html?hl=&id=-5aVxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-5aVxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fantastic creature, &quot;born of neither god nor man,&quot; hypnotic and supernatural, stalks British politician Paul Lessingham through turn-of-the-century London. A classic tale of supernatural horror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4zO_zQEACAAJ",
+      "etag": "QuyW3tSNLvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4zO_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle Annotated",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publishedDate": "2020-08-15",
+        "description": "The Beetle (or The Beetle: A Mystery) is an 1897 horror novel by the British writer Richard Marsh, in which a polymorphous Ancient Egyptian entity seeks revenge on a British Member of Parliament. It initially outsold by six times Bram Stoker's similar horror story Dracula, which appeared the same year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798675505531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4zO_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4zO_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4zO_zQEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4zO_zQEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle_Annotated.html?hl=&id=4zO_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4zO_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Beetle (or The Beetle: A Mystery) is an 1897 horror novel by the British writer Richard Marsh, in which a polymorphous Ancient Egyptian entity seeks revenge on a British Member of Parliament."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pTc8zgEACAAJ",
+      "etag": "MPc5XtM06Kw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pTc8zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Beetle A Mystery",
+        "subtitle": "Annotated",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publishedDate": "2021-02-19",
+        "description": "The Beetle: A Mystery by Richard Marsh A story about a mysterious oriental figure chasing a British politician in London, where he wreaks havoc with his hypnotic and shapeshifting powers, Marsh's novel is a piece with other sensational turn-of-the-century fictions such as Stoker's Dracula, George's Trilby du Maurier and Fu Manchu by Sax Rohmer. Like Dracula and many of the sensational novels introduced by Wilkie Collins and others in the 1860s, The Beetle is told from the perspective of multiple characters, a technique used in many late 19th-century novels (those of Wilkie Collins and Stoker, for example) to create suspense Richard Marsh was the pseudonym of the British author Richard Bernard Heldmann. The title character is Mary Louise Burrows. In the first books of the series, she is a fifteen-year-old girl with an unusual maturity (although the other girls at her boarding school find her a bit cheeky). She is suddenly confronted with the fact that her beloved grandfather is suspected no less of a crime than of treason against the United States. With the help of old and new friends of Mary Louise ... the truth is discovered. The novel features a federal agent named John O'Gorman; he is assisted by his daughter Josie, a young woman who he trained himself to function as an investigator. (Josie O'Gorman's character, despite her predating Nancy Drew by over a decade, is far less traditionally female.)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798711332176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pTc8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pTc8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pTc8zgEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pTc8zgEACAAJ&dq=Richard+Marsh+The+Beetle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beetle_A_Mystery.html?hl=&id=pTc8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pTc8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel features a federal agent named John O&#39;Gorman; he is assisted by his daughter Josie, a young woman who he trained himself to function as an investigator. (Josie O&#39;Gorman&#39;s character, despite her predating Nancy Drew by over a ..."
+      }
+    }
+  ]
+}

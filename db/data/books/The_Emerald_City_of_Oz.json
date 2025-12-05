@@ -1,0 +1,692 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "BGISMQAACAAJ",
+      "etag": "ODATd20A2Nk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BGISMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz",
+        "subtitle": "By L. Frank Baum - Illustrated",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-11",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About The Emerald City of Oz by L. Frank Baum The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently. While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books. Baum had intended to cease writing Oz stories with this book, but financial pressures prompted him to write and publish The Patchwork Girl of Oz, with seven other Oz books to follow.The book was dedicated to \"Her Royal Highness Cynthia II of Syracuse\" - actually the daughter (born in the previous year, 1909) of the author's younger brother, Henry Clay \"Harry\" Baum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540869881"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540869883"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BGISMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BGISMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BGISMQAACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BGISMQAACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz.html?hl=&id=BGISMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BGISMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Unabridged (100% Original content) Font adjustments &amp; biography included Illustrated About The Emerald City of Oz by L. Frank Baum The Emerald City of Oz is the sixth of L. Frank Baum&#39;s fourteen Land of Oz books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "56evJwDkCgcC",
+      "etag": "HpYCnvDuVGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/56evJwDkCgcC",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "1st World Publishing",
+        "publishedDate": "2004-10",
+        "description": "Dorothy's aunt and uncle get acquainted with Oz after they lose their farm and Ozma invites them to live with her.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421805641"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421805642"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=56evJwDkCgcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=56evJwDkCgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=56evJwDkCgcC&printsec=frontcover&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=56evJwDkCgcC&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz.html?hl=&id=56evJwDkCgcC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Emerald_City_of_Oz-sample-epub.acsm?id=56evJwDkCgcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Emerald_City_of_Oz-sample-pdf.acsm?id=56evJwDkCgcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=56evJwDkCgcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dorothy&#39;s aunt and uncle get acquainted with Oz after they lose their farm and Ozma invites them to live with her."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aUoUwQEACAAJ",
+      "etag": "R2yQ+8YOnGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aUoUwQEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz (1910) by L. Frank Baum (Original Version)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-12-15",
+        "description": "Leaving their financial troubles behind, Dorothy Gale, Uncle Henry and Aunty Em move to Oz. As they tour the magical land on their way to the Emerald City, Dorothy and her family visit never-before seen strange and wonderful parts of Oz, including a city of paper dolls, a city of jigsaw people, and a city of bunnies. Meanwhile, the wicked Nome king plots to conquer Oz and enslave its people, and prepares to invade the Emerald City just as Dorothy and her family arrive. The Wonderful Wizard of Oz and its thirteen sequels have enchanted audiences since their publication in the early twentieth century. The Emerald City of Oz is the sixth novel in the Oz series and was adapted into a Canadian animated film in 1987.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1522770151"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781522770152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aUoUwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aUoUwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aUoUwQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aUoUwQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz_1910_by_L_Frank_B.html?hl=&id=aUoUwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aUoUwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Emerald City of Oz is the sixth novel in the Oz series and was adapted into a Canadian animated film in 1987."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yIcNzgEACAAJ",
+      "etag": "w5t32ihrtiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yIcNzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-11-17",
+        "description": "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently. While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798566444871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yIcNzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yIcNzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yIcNzgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yIcNzgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz_Illustrated.html?hl=&id=yIcNzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yIcNzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V4NPtgEACAAJ",
+      "etag": "8HLL6mvVORA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V4NPtgEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz",
+        "subtitle": "Special Edition",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-04-20",
+        "description": "Book 6 of L. Frank Baum's beloved OZ books, in which the wicked Nome king, who plots to conquer Oz and enslave its people, prepares to invade the Emerald City just as Dorothy and her Aunt Em and Uncle Henry arrive! We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717174884"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717174888"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V4NPtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V4NPtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=V4NPtgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=V4NPtgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz.html?hl=&id=V4NPtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V4NPtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FC6JzQEACAAJ",
+      "etag": "484PnLUXfCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FC6JzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz",
+        "subtitle": "Original Text",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-03-27",
+        "description": "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798630540461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FC6JzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FC6JzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FC6JzQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FC6JzQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz.html?hl=&id=FC6JzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FC6JzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9wWUzQEACAAJ",
+      "etag": "MviR9y8gDOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9wWUzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz Original Edition (Illustrated)",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-06-06",
+        "description": "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently. While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798651645855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9wWUzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9wWUzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9wWUzQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9wWUzQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz_Original_Edition.html?hl=&id=9wWUzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9wWUzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kYl2zgEACAAJ",
+      "etag": "OgBx3VDv9Uw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kYl2zgEACAAJ",
+      "volumeInfo": {
+        "title": "Emerald City of Oz",
+        "subtitle": "(illustrated Edition)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-06-05",
+        "description": "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798515082666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kYl2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kYl2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kYl2zgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kYl2zgEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Emerald_City_of_Oz.html?hl=&id=kYl2zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kYl2zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JVcnwQEACAAJ",
+      "etag": "sDZS0kVNLak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JVcnwQEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz: Large Print",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2018-09-26",
+        "description": "The Emerald City of Oz: Large PrintBy L. Frank BaumThe Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently. While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books.[1]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1727605160"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781727605167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JVcnwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JVcnwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JVcnwQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JVcnwQEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz_Large_Print.html?hl=&id=JVcnwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JVcnwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books.[1]"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vTRMtwEACAAJ",
+      "etag": "AYrPzqShJhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vTRMtwEACAAJ",
+      "volumeInfo": {
+        "title": "The Emerald City of Oz",
+        "subtitle": "By L. Frank Baum",
+        "authors": [
+          "L. Baum"
+        ],
+        "publishedDate": "2018-05-07",
+        "description": "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land of Oz books. It was also adapted into a Canadian animated film in 1987. Originally published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry and Aunt Em coming to live in Oz permanently. While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books.Baum had intended to cease writing Oz stories with this book, but financial pressures prompted him to write and publish The Patchwork Girl of Oz, with seven other Oz books to follow.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1718814127"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718814127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vTRMtwEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vTRMtwEACAAJ&dq=L.+Frank+Baum+The+Emerald+City+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Emerald_City_of_Oz.html?hl=&id=vTRMtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vTRMtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "While they are toured through the Quadling Country, the Nome King is assembling allies for an invasion of Oz. This is the first time in the Oz series that Baum made use of double plots for one of the books.Baum had intended to cease writing ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2Rbp7JGn88oC",
+      "etag": "l4AqwMHiMa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Rbp7JGn88oC",
+      "volumeInfo": {
+        "title": "The Merchant of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "2000",
+        "description": "The Arden Shakespeare has long been acclaimed as the established scholarly edition of Shakespeare's work. Now being totally reedited for the third time, Arden editions offer the very best in contemporary scholarship. Each volume provides a clear and authoritative text, edited to the highest standards; detailed textual notes and commentary on the same page of the text; full contextual, illustrated introduction, including an in-depth survey of critical and performance approaches to the play; and selected bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1840224312"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781840224313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Rbp7JGn88oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Rbp7JGn88oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2Rbp7JGn88oC&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2Rbp7JGn88oC&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Merchant_of_Venice.html?hl=&id=2Rbp7JGn88oC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Merchant_of_Venice-sample-pdf.acsm?id=2Rbp7JGn88oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Rbp7JGn88oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Arden Shakespeare has long been acclaimed as the established scholarly edition of Shakespeare&#39;s work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KL05AQAAMAAJ",
+      "etag": "6jj9MtzTxm4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KL05AQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Merchant of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015082146120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KL05AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KL05AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KL05AQAAMAAJ&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KL05AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KL05AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KL05AQAAMAAJ&rdid=book-KL05AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Merchant_of_Venice.epub?id=KL05AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KL05AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_LGDAAAQBAJ",
+      "etag": "4iWT3oMk1U8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_LGDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Merchant of Venice",
+        "subtitle": "The Merchant of Venice: Shakespeare's Timeless Tale of Love, Justice, and the Human Spirit",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "The Merchant of Venice is one of Shakespeare’s most popular comedies, but it remains deeply controversial. The text may seem anti-Semitic; yet repeatedly, in performance, it has revealed a contrasting nature. Shylock, though vanquished in the law-court, often triumphs in the theatre. In his intensity he can dominate the play, challenging abrasively its romantic and lyrical affirmations. What results is a bitter-sweet drama. Though The Merchant of Venice offers some of the traditional pleasures of romantic comedy, it also exposes the operations of prejudice. Thus Shakespeare remains our contemporary",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_LGDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_LGDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5_LGDAAAQBAJ&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5_LGDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5_LGDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.38,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.38,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5_LGDAAAQBAJ&rdid=book-5_LGDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 380000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 380000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Merchant_of_Venice-sample-epub.acsm?id=5_LGDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Merchant_of_Venice-sample-pdf.acsm?id=5_LGDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_LGDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Merchant of Venice is one of Shakespeare’s most popular comedies, but it remains deeply controversial. The text may seem anti-Semitic; yet repeatedly, in performance, it has revealed a contrasting nature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X4TFDAAAQBAJ",
+      "etag": "nCsOCCBwehE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X4TFDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Merchant of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2016-08-23",
+        "description": "A complex and controversial play from the master playwright, fully illustrated by Sir John Gilbert and with an introduction by Ned Halley.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909621893"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1909621897"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 171,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X4TFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X4TFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X4TFDAAAQBAJ&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=X4TFDAAAQBAJ&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Merchant_of_Venice.html?hl=&id=X4TFDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X4TFDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A complex and controversial play from the master playwright The Merchant of Venice is most associated not with its titular hero, Antonio, but with the complex, unforgettable figure of the money-lender, Shylock."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qB55UN3X0RMC",
+      "etag": "w1lioValbq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qB55UN3X0RMC",
+      "volumeInfo": {
+        "title": "The Merchant of Venice of William Shakespeare",
+        "authors": [
+          "S.S. Agarwalla"
+        ],
+        "publisher": "Atlantic Publishers & Dist",
+        "publishedDate": "1997-12",
+        "description": "The Merchant Of Venice Bases Its Dramatic Logic On The New Testament Premise That You Get What You Give, And The Play S Consistent Enactment Of This Looking-Glass Logic Creates A World In Which Mirroring Is A Major Internal Principle Of Order. The Indian Philosophy, Distilled In Our Vedas, Puranas And Epics, Speaks In Almost The Same Vein. Shylock Is Cunning, Cruel And Implacable. For Centuries, The Shylocks Of India, In Various Garbs, Have Tried And Succeeded Partially, To Get Their Pounds Of Flesh From Their Victims. Usury Was Condemned In The Elizabethan Period But We, In India, Still Nourish It. Secondly, Shylock S Sense Of Jessica Is Anti-Human As Well As Anti¬Social. He Is Aware Of Her As Of An Item Of Inventory, As Many Father, In India, Do With Their Daughters.Bassanio Must Have Learnt From Shylock S Example: A Wrong, Even A Small One, Is Always A Wrong And Calls Forth Its Own Punishment Automatically, For, As We Shall See, In Dr. Agarwalla S Interpretation Of The Play, The Law Sleeps Only Until Unoffended, When It Reacts By Reflecting The Offence In Kind. The Law Has No Power To Make Anyone Choose To Do Right, It Can Only Punish Those Who Do Wrong. The Prince Of Morocco, Like Any Prince Of Yester-Years, In India, Is Chivalrous, Amorous, Gracious And Sexually Virile. It Was Unkind Of Portia To Say Uncomplimentary Words For Him But She, Like White-Skinned Ladies, Have Always Done So In The Past And Are Doing It, At Present. Thus The Merchant Of Venice Is As Much Relevant To Indians As It Was And Is To The English And To The World, In General. Dr. Shyam S. Agarwalla Gives A New Approach, A New Presentation And A New Direction To The Reading And Critical Analysis Of The Play. At Times, His Critical Examination Of The Play Is Unconventional, Provocative But Nonetheless Educative. That Marks Him Off From Other Indian Editors Of The Merchant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8171565832"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788171565832"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qB55UN3X0RMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qB55UN3X0RMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qB55UN3X0RMC&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qB55UN3X0RMC&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Merchant_of_Venice_of_William_Shakes.html?hl=&id=qB55UN3X0RMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Merchant_of_Venice_of_William_Shakes-sample-pdf.acsm?id=qB55UN3X0RMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qB55UN3X0RMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He Is Aware Of Her As Of An Item Of Inventory, As Many Father, In India, Do With Their Daughters.Bassanio Must Have Learnt From Shylock S Example: A Wrong, Even A Small One, Is Always A Wrong And Calls Forth Its Own Punishment Automatically ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zChXAAAAYAAJ",
+      "etag": "qQsrZod6MZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zChXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Shakespeare's Merchant of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000314623"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Avarice"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zChXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zChXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zChXAAAAYAAJ&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zChXAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zChXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zChXAAAAYAAJ&rdid=book-zChXAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Merchant_of_Venice.epub?id=zChXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Merchant_of_Venice.pdf?id=zChXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1d9Esobh9Uh9SJBE6odJwvNhxMJw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zChXAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yMppHzBFYFAC",
+      "etag": "2qcbFG2d4jM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yMppHzBFYFAC",
+      "volumeInfo": {
+        "title": "William Shakespeare's the Merchant of Venice",
+        "authors": [
+          "Sterling Professor of Humanities Harold Bloom",
+          "William Shakespeare"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2010",
+        "description": "William Shakespeare's The Merchant of Venice is a richly complicated and, to some, a deeply;disturbing work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438134352"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438134355"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yMppHzBFYFAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yMppHzBFYFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yMppHzBFYFAC&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yMppHzBFYFAC&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_the_Merchant_of_Ve.html?hl=&id=yMppHzBFYFAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_the_Merchant_of_Ve-sample-epub.acsm?id=yMppHzBFYFAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_the_Merchant_of_Ve-sample-pdf.acsm?id=yMppHzBFYFAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yMppHzBFYFAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Shakespeare&#39;s The Merchant of Venice is a richly complicated and, to some, a deeply;disturbing work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MCkacAAACAAJ",
+      "etag": "XRDTc8UMT6A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MCkacAAACAAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare: the Merchant of Venice",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Createspace Independent Pub",
+        "publishedDate": "2010-07-08",
+        "description": "\"The Merchant of Venice\" is William Shakespeare's story of Antonio and his friend Bassanio. Bassanio is in need of money so that he may woo Portia, a wealthy heiress. Bassanio asks Antonio for a loan and Antonio agrees to this loan, however all his money is tied up in shipping ventures. Together the two go to Shylock, a Jewish moneylender, to request a loan for Bassanio to be guaranteed against Antonio's shipping ventures. Shylock agrees to the loan at no interest in the condition that if the debt is not repaid Shylock may collect a pound of Antonio's flesh. At the same time Portia, who is being wooed by various suitors, is upset over a curious stipulation in her father's will regarding the man that she may marry. \"Merchant\" is categorized among Shakespeare's comedies, primarily because of the romantic subplot that ends --as most of the Bard's comedies do-- in serial weddings. \"The Merchant of Venice\" also raises questions about the value of gold and money against the value of friendship and loyalty. Shylock, the Jewish moneylender is portrayed as greedy and more concerned about his money than he is about his own daughter. Shakespeare's language is as powerful as ever in this play, but the unlikeable Shylock and the venom doled out to him by his sordid persecutors makes \"The Merchant of Venice\" play a stomach-churning challenge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1453691405"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781453691403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MCkacAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MCkacAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MCkacAAACAAJ&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MCkacAAACAAJ&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_the_Merchant_of_Veni.html?hl=&id=MCkacAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MCkacAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Merchant of Venice&quot; is William Shakespeare&#39;s story of Antonio and his friend Bassanio."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LwcJAAAAQAAJ",
+      "etag": "8hwRX6SuQIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LwcJAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Shakespeare's Merchant of Venice, abridged to 727 lines, with notes and intr",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590901125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LwcJAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LwcJAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LwcJAAAAQAAJ&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LwcJAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LwcJAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LwcJAAAAQAAJ&rdid=book-LwcJAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Merchant_of_Venice_abridge.epub?id=LwcJAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_Merchant_of_Venice_abridge.pdf?id=LwcJAAAAQAAJ&hl=&output=pdf&sig=ACfU3U06nRQpCaRgY8D-L04OZhyABGS82g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LwcJAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "87TTFKOTEnEC",
+      "etag": "xTrR5JgWGNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/87TTFKOTEnEC",
+      "volumeInfo": {
+        "title": "A Routledge Literary Sourcebook on William Shakespeare's The Merchant of Venice",
+        "authors": [
+          "S. P. Cerasano"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "2004",
+        "description": "This student friendly book draws together text, context, criticism and performance history to provide an integrated view of one of the most dazzling works of the early modern theatre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0415240522"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780415240529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=87TTFKOTEnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=87TTFKOTEnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=87TTFKOTEnEC&printsec=frontcover&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=87TTFKOTEnEC&dq=William+Shakespeare+The+Merchant+of+Venice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Routledge_Literary_Sourcebook_on_Willi.html?hl=&id=87TTFKOTEnEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Routledge_Literary_Sourcebook_on_Willi-sample-pdf.acsm?id=87TTFKOTEnEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=87TTFKOTEnEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Combining accessible commentary with a range of reprinted materials, S. P. Cerasano: *explores the contexts of the play, including early modern images of Venice, the commercialism of the play, Shakespeare&#39;s theatre and London, and images of ..."
+      }
+    }
+  ]
+}

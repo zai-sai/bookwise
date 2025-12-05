@@ -1,0 +1,739 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1NtnZ19XpJwC",
+      "etag": "y5vXMfCb2bA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1NtnZ19XpJwC",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2002",
+        "description": "In the spring of 1863, as he faces battle for the first time at Chancellorsville, Virginia, a young Union soldier matures to manhood and finds peace of mind as he comes to grips with his conflicting emotions about war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780689820007"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0689820003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1NtnZ19XpJwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1NtnZ19XpJwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1NtnZ19XpJwC&printsec=frontcover&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1NtnZ19XpJwC&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage.html?hl=&id=1NtnZ19XpJwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1NtnZ19XpJwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the spring of 1863, as he faces battle for the first time at Chancellorsville, Virginia, a young Union soldier matures to manhood and finds peace of mind as he comes to grips with his conflicting emotions about war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EaVwCgAAQBAJ",
+      "etag": "j8/+ik5IdAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EaVwCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Study Guide for Stephen Crane's The Red Badge of Courage",
+        "authors": [
+          "Gale, Cengage Learning"
+        ],
+        "publisher": "Gale, Cengage Learning ",
+        "publishedDate": "2015-03-13",
+        "description": "A Study Guide for Stephen Crane's \"The Red Badge of Courage,\" excerpted from Gale's acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Novels for Students for all of your research needs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410320919"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "141032091X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EaVwCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EaVwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EaVwCgAAQBAJ&printsec=frontcover&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EaVwCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EaVwCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EaVwCgAAQBAJ&rdid=book-EaVwCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Stephen_Crane_s_The_Re-sample-epub.acsm?id=EaVwCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Study_Guide_for_Stephen_Crane_s_The_Re-sample-pdf.acsm?id=EaVwCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EaVwCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study Guide for Stephen Crane&#39;s &quot;The Red Badge of Courage,&quot; excerpted from Gale&#39;s acclaimed Novels for Students.This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aXZYAAAAYAAJ",
+      "etag": "4y6n7vhUFw0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aXZYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Stephen Crane's The Red Badge of Courage",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Chelsea House",
+        "publishedDate": "1996",
+        "description": "Includes a brief biography of Stephen Crane, thematic and structural analysis of the work, critical views, and an index of themes and ideas.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000026746517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aXZYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aXZYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aXZYAAAAYAAJ&q=Stephen+Crane+The+Red+Badge+of+Courage&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aXZYAAAAYAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_Crane_s_The_Red_Badge_of_Courage.html?hl=&id=aXZYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aXZYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Includes a brief biography of Stephen Crane, thematic and structural analysis of the work, critical views, and an index of themes and ideas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-lftAEACAAJ",
+      "etag": "6pHZJAYA/0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-lftAEACAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage",
+        "subtitle": "By Stephen Crane - Illustrated",
+        "authors": [
+          "Stephen Stephen Crane"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Red Badge of Courage by Stephen Crane The Red Badge of Courage is a war novel by American author Stephen Crane (1871-1900). Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, who flees from the field of battle. Overcome with shame, he longs for a wound, a \"red badge of courage,\" to counteract his cowardice. When his regiment once again faces the enemy, Henry acts as standard-bearer. Although Crane was born after the war, and had not at the time experienced battle first-hand, the novel is known for its realism. He began writing what would become his second novel in 1893, using various contemporary and written accounts (such as those published previously by Century Magazine) as inspiration. It is believed that he based the fictional battle on that of Chancellorsville; he may also have interviewed veterans of the 124th New York Volunteer Infantry Regiment, commonly known as the Orange Blossoms. Initially shortened and serialized in newspapers in December 1894, the novel was published in full in October 1895. A longer version of the work, based on Crane's original manuscript, was published in 1982.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521908346"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521908341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j-lftAEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j-lftAEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage.html?hl=&id=j-lftAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-lftAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Initially shortened and serialized in newspapers in December 1894, the novel was published in full in October 1895. A longer version of the work, based on Crane&#39;s original manuscript, was published in 1982."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LQh-AwAAQBAJ",
+      "etag": "wyLd9sSviQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LQh-AwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage (Illustrated)",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-04-29",
+        "description": "Stephen Crane's classic 1895 Civil War novel continues to be read, studied, and discussed, generation after generation. Its searing images of war, destruction, and fear endure in the collective American mind. This Fourth Edition of the Norton Critical Edition of The Red Badge of Courage is again based on the 1895 first edition, published by D. Appleton & Co., conservatively amended and accompanied by explanatory annotations. Crane's uncanceled but unpublished manuscript passages, including his discarded Chapter XII, are reprinted in the Textual Appendix. \"Backgrounds and Sources\" contains biographical, historical, and contextual material on both Crane and The Red Badge of Courage, with much new material in the Fourth Edition bearing on the novel's Civil War context. Frederick C. Crews, Donald Pizer, Stephen Crane, Jay Martin, John Higham, Charles J. LaRocca, Harold R. Hungerford, Perry Lentz, Eric Solomon, and J. C. Levenson provide the framework for understanding the novel as both literature and history. A number of essays, sketches, and photographs give readers a glimpse of the battle of Chancellorsville, the real-life inspiration for the novel, and of the soldiers who fought it. \"Criticism\" is a collection of fifteen essays (two new and one expanded in this edition) that represent the best of what has been written about The Red Badge of Courage, from the earliest assessments to current schools of critical interpretation. Contributors include Donald Pizer, Stephen Crane (in self-judgment), George Wyndham, Frank Norris, R. W. Stallman, John E. Hart, Charles C. Walcutt, John Fraser, James Nagel, Amy Kaplan, James M. Cox, James E. Curran, Jr., and James B. Colvert. A Chronologyand updated Selected Bibliography are also included. In the spring of 1863, as he faces battle for the first time at Chancellorsville, Virginia, a young Union soldier matures to manhood and finds peace of mind as he comes to grips with his conflicting emotions about war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783736804678"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3736804679"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LQh-AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LQh-AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LQh-AwAAQBAJ&printsec=frontcover&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LQh-AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LQh-AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LQh-AwAAQBAJ&rdid=book-LQh-AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LQh-AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Fourth Edition of the Norton Critical Edition of The Red Badge of Courage is again based on the 1895 first edition, published by D. Appleton &amp; Co., conservatively amended and accompanied by explanatory annotations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IinYzQEACAAJ",
+      "etag": "ahtmrApHQzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IinYzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage Annotated",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publishedDate": "2020-09-10",
+        "description": "The Red Badge of Courage is a war novel by American author Stephen Crane. Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, who flees from the field of battle. Overcome with shame, he longs for a wound, a \"red badge of courage,\" to counteract his cowardice. When his regiment once again faces the enemy, Henry acts as standard-bearer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798684746819"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IinYzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IinYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IinYzQEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IinYzQEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage_Annotated.html?hl=&id=IinYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IinYzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Red Badge of Courage is a war novel by American author Stephen Crane. Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, who flees from the field of battle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cJFaAAAAMAAJ",
+      "etag": "cfH78WJ9exs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cJFaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage",
+        "subtitle": "Text and Criticism",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publishedDate": "1960",
+        "description": "The Red Badge of courage tells the tale of young soldier Henry Fleming's initial experiences in combat during the Civil War still startles. Fleming's uncertainty and fear, his egotism, his talent for self-justification and the \"wild battle madness\" underlies much of his later heroism.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015066051999"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Chancellorsville (Virginia), Battle of, 1863"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cJFaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cJFaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cJFaAAAAMAAJ&q=Stephen+Crane+The+Red+Badge+of+Courage&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cJFaAAAAMAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage.html?hl=&id=cJFaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cJFaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Red Badge of courage tells the tale of young soldier Henry Fleming&#39;s initial experiences in combat during the Civil War still startles."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FsAmtQEACAAJ",
+      "etag": "uMV3Tzczyow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FsAmtQEACAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage by Stephen Crane",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publishedDate": "2018-03-16",
+        "description": "The Red Badge of Courage by Stephen Crane",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986552853"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986552851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FsAmtQEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FsAmtQEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage_by_Stephen_Cran.html?hl=&id=FsAmtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FsAmtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Red Badge of Courage by Stephen Crane"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7byjzgEACAAJ",
+      "etag": "KyD8kVqLjbE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7byjzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage by Stephen Crane Annotated",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publishedDate": "2021-07-12",
+        "description": "The Red Badge of Courage is an 1895 war novel by American author Stephen Crane. It is considered one of the most influential works in American literature. The novel, a depiction on the cruelty of the American Civil War, features a young recruit who overcomes initial fears to become a hero on the battlefield. The book made Crane an international success. Although he was born after the war and had not at the time experienced battle firsthand, the novel is considered an example of Realism. So don't wait! Scroll up and buy now.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798536250570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7byjzgEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7byjzgEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage_by_Stephen_Cran.html?hl=&id=7byjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7byjzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel, a depiction on the cruelty of the American Civil War, features a young recruit who overcomes initial fears to become a hero on the battlefield. The book made Crane an international success."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bV1awgEACAAJ",
+      "etag": "v3eLAOlM0/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bV1awgEACAAJ",
+      "volumeInfo": {
+        "title": "The Red Badge of Courage",
+        "subtitle": "Illustrated Classic",
+        "authors": [
+          "Stephen Crane"
+        ],
+        "publisher": "SeaWolf Press",
+        "publishedDate": "2019-02-15",
+        "description": "The Red Badge of Courage is a war novel by American author Stephen Crane. Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, who flees from the field of battle. Overcome with shame, he longs for a wound, a \"red badge of courage,\" to counteract his cowardice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1950435059"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781950435050"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bV1awgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bV1awgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bV1awgEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bV1awgEACAAJ&dq=Stephen+Crane+The+Red+Badge+of+Courage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Red_Badge_of_Courage.html?hl=&id=bV1awgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bV1awgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Red Badge of Courage is a war novel by American author Stephen Crane. Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, who flees from the field of battle."
+      }
+    }
+  ]
+}

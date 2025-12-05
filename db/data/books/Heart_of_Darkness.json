@@ -1,0 +1,836 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cWDcDAAAQBAJ",
+      "etag": "uxFg28qzQuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWDcDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Heart of Darkness",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1990",
+        "description": "Dark allegory describes the narrator's journey up the Congo River and his meeting with, and fascination by, Mr. Kurtz, a mysterious personage who dominates the unruly inhabitants of the region. Masterly blend of adventure, character development, psychological penetration. Considered by many Conrad's finest, most enigmatic story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486264646"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486264645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWDcDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWDcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cWDcDAAAQBAJ&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cWDcDAAAQBAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heart_of_Darkness.html?hl=&id=cWDcDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness-sample-pdf.acsm?id=cWDcDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWDcDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered by many Conrad&#39;s finest, most enigmatic story. In Conrad&#39;s haunting tale, Marlow, a seaman and wanderer, recounts his physical and psychological journey in search of the enigmatic Kurtz."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FSPZDQAAQBAJ",
+      "etag": "5+B6iB/rDhE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FSPZDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Heart of Darkness",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2017-01-04",
+        "description": "\"He struggled with himself, too. I saw it -- I heard it. I saw the inconceivable mystery of a soul that knew no restraint, no faith, and no fear, yet struggling blindly with itself.\" Aboard an anchored boat on the Thames a sailor named Charlie Marlow tells his fellow sailors a shocking story from his youth as a ferry boat captain traveling up the Congo River. It soon becomes clear to his audience that Marlow is more than a little obsessed with the brilliant ivory trader he met there, Kurtz. Though gifted, powerful and charismatic, the young Marlow suspected the man had gone mad. ‘Heart of Darkness’ (1899) is a timeless book and a breathtaking story about the corruptive European colonialism. It is the inspiration behind the classic 1979 movie, Apocalypse Now starring Marlon Brando and Martin Sheen. Joseph Conrad (1857-1924) was a Polish-born author who left Poland in his teens to avoid enlistment in the Russian Army. He learned English aboard British ships and started writing in the language after settling in England. His most famous novel is ‘Heart of Darkness’ (1899), which was inspired by his experiences on the open sea.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789176393420"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9176393429"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FSPZDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FSPZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FSPZDQAAQBAJ&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FSPZDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FSPZDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.04,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.28,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FSPZDQAAQBAJ&rdid=book-FSPZDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3040000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2280000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness-sample-epub.acsm?id=FSPZDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FSPZDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the inspiration behind the classic 1979 movie, Apocalypse Now starring Marlon Brando and Martin Sheen. Joseph Conrad (1857-1924) was a Polish-born author who left Poland in his teens to avoid enlistment in the Russian Army."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R71_5HnAVrYC",
+      "etag": "siA23LQaxNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R71_5HnAVrYC",
+      "volumeInfo": {
+        "title": "Heart of Darkness",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-01-01",
+        "description": "Heart of Darkness is Joseph Conrad's disturbing novella recounted by the itinerant captain Marlow sent to find and bring home the shadowy and inscrutable Captain Kurtz. Marlow and his men follow a river deep into a jungle, the \"Heart of Darkness\" of Africa looking for Kurtz, an unhinged leader of an isolated trading station. This highly symbolic psychological drama was the founding myth for Francis Ford Coppola's 1979 movie Apocalypse Now.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775411567"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1775411567"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R71_5HnAVrYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R71_5HnAVrYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R71_5HnAVrYC&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R71_5HnAVrYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R71_5HnAVrYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=R71_5HnAVrYC&rdid=book-R71_5HnAVrYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness-sample-epub.acsm?id=R71_5HnAVrYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R71_5HnAVrYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Heart of Darkness is Joseph Conrad&#39;s disturbing novella recounted by the itinerant captain Marlow sent to find and bring home the shadowy and inscrutable Captain Kurtz."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "irPGHDFssegC",
+      "etag": "PNPxCDoOZSQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/irPGHDFssegC",
+      "volumeInfo": {
+        "title": "Joseph Conrad's Heart of Darkness",
+        "authors": [
+          "Harold Bloom",
+          "Sterling Professor of Humanities Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2014-05-14",
+        "description": "Discusses the writing of Heart of darkness by Joseph Conrad. Includes critical essays on the work and a brief biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438117102"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438117108"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=irPGHDFssegC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=irPGHDFssegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=irPGHDFssegC&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=irPGHDFssegC&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joseph_Conrad_s_Heart_of_Darkness.html?hl=&id=irPGHDFssegC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joseph_Conrad_s_Heart_of_Darkness-sample-epub.acsm?id=irPGHDFssegC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joseph_Conrad_s_Heart_of_Darkness-sample-pdf.acsm?id=irPGHDFssegC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=irPGHDFssegC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discusses the writing of Heart of darkness by Joseph Conrad. Includes critical essays on the work and a brief biography of the author."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MEP4LgEACAAJ",
+      "etag": "96a7794jjaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MEP4LgEACAAJ",
+      "volumeInfo": {
+        "title": "Joseph Conrad's Heart of Darkness",
+        "authors": [
+          "D. C. R. A. Goonetilleke"
+        ],
+        "publisher": "Taylor & Francis US",
+        "publishedDate": "2007",
+        "description": "Presenting a selection of new essays and reprinted critical essays, this guide to Conrads captivating novel is essential reading for all those needing a way through the wealth of contextual and critical material that surrounds Heart of Darkness .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0415357764"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780415357760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MEP4LgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MEP4LgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MEP4LgEACAAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MEP4LgEACAAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joseph_Conrad_s_Heart_of_Darkness.html?hl=&id=MEP4LgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MEP4LgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presenting an accessible introduction to Joseph Conrad&#39;s &#39;Heart of Darkness&#39;, this title includes a selection of new essays and reprinted critical essays providing a range of perspectives on the novel and extending the coverage of key ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMLQCwAAQBAJ",
+      "etag": "D0Dim23i5xY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMLQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Joseph Conrad's Heart of Darkness",
+        "subtitle": "A Casebook",
+        "authors": [
+          "Gene M. Moore"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2010-04-10",
+        "description": "Heart of Darkness, Joseph Conrad's fictional account of a journey up the Congo river in 1890, raises important questions about colonialism and narrative theory. This casebook contains materials relevant to a deeper understanding of the origins and reception of this controversial text, including Conrad's own story \"An Outpost of Progress,\" together with a little-known memoir by one of Conrad's oldest English friends, a brief history of the Congo Free State by Sir Arthur Conan Doyle, and a parody of Conrad by Max Beerbohm. A wide range of theoretical approaches are also represented, examining Conrad's text in terms of cultural, historical, textual, stylistic, narratological, post-colonial, feminist, and reader-response criticism. The volume concludes with an interview in which Conrad compares his adventures on the Congo with Mark Twain's experiences as a Mississippi pilot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195303698"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0195303695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LMLQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LMLQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LMLQCwAAQBAJ&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LMLQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LMLQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 14.29,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LMLQCwAAQBAJ&rdid=book-LMLQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 14290000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Joseph_Conrad_s_Heart_of_Darkness-sample-pdf.acsm?id=LMLQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMLQCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The volume concludes with an interview in which Conrad compares his adventures on the Congo with Mark Twain&#39;s experiences as a Mississippi pilot."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oBWezQEACAAJ",
+      "etag": "fDvTM400P9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oBWezQEACAAJ",
+      "volumeInfo": {
+        "title": "Heart of Darkness",
+        "subtitle": "Is an 1899 Novella",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-07-04",
+        "description": "Heart of Darkness by Joseph Conrad Heart of Darkness, a novel by Joseph Conrad, was originally a three-part series in Blackwood's Magazine in 1899. It is a story within a story, following a character named Charlie Marlow, who recounts his adventure to a group of men onboard an anchored ship. The story told is of his early life as a ferry boat captain. Although his job was to transport ivory downriver, Charlie develops an interest in investing an ivory procurement agent, Kurtz, who is employed by the government. Preceded by his reputation as a brilliant emissary of progress, Kurtz has now established himself as a god among the natives in \"one of the darkest places on earth.\" Marlow suspects something else of Kurtz: he has gone mad. A reflection on corruptive European colonialism and a journey into the nightmare psyche of one of the corrupted, Heart of Darkness is considered one of the most influential works ever written.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798663686266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oBWezQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oBWezQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oBWezQEACAAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oBWezQEACAAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heart_of_Darkness.html?hl=&id=oBWezQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oBWezQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is a story within a story, following a character named Charlie Marlow, who recounts his adventure to a group of men onboard an anchored ship. The story told is of his early life as a ferry boat captain."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lkVCDQAAQBAJ",
+      "etag": "xNmYxV63eRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lkVCDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Heart of Darkness (Fifth Edition) (Norton Critical Editions)",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2016-08-29",
+        "description": "“This is the best Norton Critical Edition yet! All my students have become intensely interested in reading Conrad—largely because of this excellent work.” —Elise F. Knapp, Western Connecticut State University This Norton Critical Edition includes: - A newly edited text based on the first English book edition (1902), the last version to which Conrad is known to have actively contributed. “Textual History and Editing Principles” provides an overview of the textual controversies and ambiguities perpetually surrounding Heart of Darkness. - Background and source materials on colonialism and the Congo, nineteenth-century attitudes toward race, Conrad in the Congo, and Conrad on art and literature. - Fifteen illustrations. - Seven contemporary responses to the novella along with eighteen essays in criticism—ten of them new to the Fifth Edition, including an entirely new subsection on film adaptations of Heart of Darkness. - A Chronology and an updated Selected Bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393270600"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393270602"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lkVCDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lkVCDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lkVCDQAAQBAJ&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lkVCDQAAQBAJ&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heart_of_Darkness_Fifth_Edition_Norton_C.html?hl=&id=lkVCDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness_Fifth_Edition_Norton_C-sample-epub.acsm?id=lkVCDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lkVCDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All my students have become intensely interested in reading Conrad—largely because of this excellent work.” —Elise F. Knapp, Western Connecticut State University This Norton Critical Edition includes: - A newly edited text based on ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QKuiIqgSfjoC",
+      "etag": "X/jAkh1bMD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QKuiIqgSfjoC",
+      "volumeInfo": {
+        "title": "Heart of Darkness and Other Stories",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1995",
+        "description": "Generally regarded as the pre-eminent work of Conrad's shorter fiction, 'Heart of Darkness' is a chilling tale of horror which, as the author intended, is capable of many interpretations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853262404"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853262401"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QKuiIqgSfjoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QKuiIqgSfjoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QKuiIqgSfjoC&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QKuiIqgSfjoC&dq=Joseph+Conrad+Heart+of+Darkness&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heart_of_Darkness_and_Other_Stories.html?hl=&id=QKuiIqgSfjoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness_and_Other_Stories-sample-epub.acsm?id=QKuiIqgSfjoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Heart_of_Darkness_and_Other_Stories-sample-pdf.acsm?id=QKuiIqgSfjoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QKuiIqgSfjoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Generally regarded as the pre-eminent work of Conrad&#39;s shorter fiction, &#39;Heart of Darkness&#39; is a chilling tale of horror which, as the author intended, is capable of many interpretations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RZQfBgAAQBAJ",
+      "etag": "i77fHlSRLXc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RZQfBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Envisioning Africa",
+        "subtitle": "Racism and Imperialism in Conrad's Heart of Darkness",
+        "authors": [
+          "Peter Edgerly Firchow"
+        ],
+        "publisher": "University Press of Kentucky",
+        "publishedDate": "2014-07-11",
+        "description": "For one hundred years, Heart of Darkness has been among the most widely read and taught novels in the English language. Hailed as an incisive indictment of European imperialism in Africa upon its publication in 1899, more recently it has been repeatedly denounced as racist and imperialist. Peter Firchow counters these claims, and his carefully argued response allows the charges of Conrad's alleged bias to be evaluated as objectively as possible. He begins by contrasting the meanings of race, racism, and imperialism in Conrad's day to those of our own time. Firchow then argues that Heart of Darkness is a novel rather than a sociological treatise; only in relation to its aesthetic significance can real social and intellectual-historical meaning be established. Envisioning Africa responds in detail to negative interpretations of the novel by revealing what they distort, misconstrue, or fail to take into account. Firchow uses a framework of imagology to examine how national, ethnic, and racial images are portrayed in the text, differentiating the idea of a national stereotype from that of national character. He believes that what Conrad saw personally in Africa should not be confused with the Africa he describes in the novel; Heart of Darkness is instead an envisioning and a revisioning of Conrad's experiences in the medium of fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780813149752"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0813149754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RZQfBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RZQfBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RZQfBgAAQBAJ&printsec=frontcover&dq=Joseph+Conrad+Heart+of+Darkness&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RZQfBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RZQfBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 26,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RZQfBgAAQBAJ&rdid=book-RZQfBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26000000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 26000000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RZQfBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Envisioning Africa responds in detail to negative interpretations of the novel by revealing what they distort, misconstrue, or fail to take into account."
+      }
+    }
+  ]
+}

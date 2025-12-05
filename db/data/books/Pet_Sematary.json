@@ -1,0 +1,645 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FNn5DQAAQBAJ",
+      "etag": "PfS7MSyBsSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FNn5DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-01-31",
+        "description": "A horror story of a children's pet cemetery and another graveyard behind it from which the dead return.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501156700"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501156705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FNn5DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FNn5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FNn5DQAAQBAJ&printsec=frontcover&dq=Stephen+King+Pet+Sematary&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FNn5DQAAQBAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary.html?hl=&id=FNn5DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FNn5DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A horror story of a children&#39;s pet cemetery and another graveyard behind it from which the dead return."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G6PiAgAAQBAJ",
+      "etag": "RyyDfiMl5Ug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G6PiAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary (Edizione Italiana)",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "SPERLING & KUPFER",
+        "publishedDate": "2014-02-25",
+        "description": "La nuova casa dei Creed è vicino a Pet Sematary, il luogo dove i ragazzi seppelliscono i propri animaletti. Ma presto la loro vita è sconvolta da forze oscure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788873399797"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8873399797"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.33.34.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G6PiAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G6PiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.co.uk/books?id=G6PiAgAAQBAJ&printsec=frontcover&dq=Stephen+King+Pet+Sematary&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=G6PiAgAAQBAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary_Edizione_Italiana.html?hl=&id=G6PiAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Pet_Sematary_Edizione_Italiana-sample-epub.acsm?id=G6PiAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Pet_Sematary_Edizione_Italiana-sample-pdf.acsm?id=G6PiAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G6PiAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La nuova casa dei Creed è vicino a Pet Sematary, il luogo dove i ragazzi seppelliscono i propri animaletti. Ma presto la loro vita è sconvolta da forze oscure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cRSzKQEACAAJ",
+      "etag": "LM8Wse4ZfIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cRSzKQEACAAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Everbind",
+        "publishedDate": "2011-04-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0784833923"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780784833926"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cRSzKQEACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cRSzKQEACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary.html?hl=&id=cRSzKQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cRSzKQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HtGlPwAACAAJ",
+      "etag": "eNwg03+7Jqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HtGlPwAACAAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary",
+        "authors": [
+          "Stephen King",
+          "Dave Campbell"
+        ],
+        "publisher": "Signet",
+        "publishedDate": "1984-11-01",
+        "description": "\"\"Sometimes dead is better....\"\" When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat. But the nearby woods hide a blood-chilling truth -- more terrifying than death itself...and hideously more powerful.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451157753"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451157751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 411,
+        "printType": "BOOK",
+        "categories": [
+          "Cemeteries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HtGlPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HtGlPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary.html?hl=&id=HtGlPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HtGlPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;&quot;Sometimes dead is better."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RNqvSgAACAAJ",
+      "etag": "tB3/Ym+uCt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RNqvSgAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's Pet Sematary",
+        "authors": [
+          "Dale Midkiff",
+          "Fred Gwynne",
+          "Denise Crosby",
+          "Mary M. Lambert",
+          "Paramount Pictures Corporation"
+        ],
+        "publishedDate": "1989",
+        "description": "Press kit includes 1 booklet and 2 full-size and 2 1/2-size photographs.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:67231434"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RNqvSgAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RNqvSgAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_Pet_Sematary.html?hl=&id=RNqvSgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RNqvSgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Press kit includes 1 booklet and 2 full-size and 2 1/2-size photographs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1VJmPwAACAAJ",
+      "etag": "T3WVT84TmVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1VJmPwAACAAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "G K Hall & Company",
+        "publishedDate": "1984",
+        "description": "When a little boy's pet dies, and he persuades his parents to bury it in an old Indian cemetery, reputed by legend to house restless spirits, a nightmare of death and destruction begins",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0816136912"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816136919"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 634,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1VJmPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1VJmPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary.html?hl=&id=1VJmPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1VJmPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;&quot;Sometimes dead is better."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IfsmygAACAAJ",
+      "etag": "ueXdwjiw1H4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IfsmygAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's \"Pet Sematary\" Or the Spiral of the Secret",
+        "authors": [
+          "Jessica Joëlle Folio"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493146013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IfsmygAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IfsmygAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_Pet_Sematary_Or_the_Spira.html?hl=&id=IfsmygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IfsmygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rSFxPwAACAAJ",
+      "etag": "uvq1AamPhw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rSFxPwAACAAJ",
+      "volumeInfo": {
+        "title": "Pet Sematary",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Coronet",
+        "publishedDate": "1999-05-20",
+        "description": "A Radio 4 dramatization of a Stephen King horror novel. Dr Louis Creed and his wife chose rural Maine to settle their family and bring up their children. It was a better place than smog-covered Chicago - or so they thought before they became acquainted with the old pet cemetery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340765895"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340765890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rSFxPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rSFxPwAACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Sematary.html?hl=&id=rSFxPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rSFxPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;&quot;Sometimes dead is better."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HfNaAAAAMAAJ",
+      "etag": "Lo5vu3AD8wY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HfNaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Stephen King",
+        "subtitle": "The First Decade, Carrie to Pet Sematary",
+        "authors": [
+          "Joseph Reino"
+        ],
+        "publisher": "Twayne Publishers",
+        "publishedDate": "1988",
+        "description": "A critical examination of King's horror novels.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014143617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HfNaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HfNaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HfNaAAAAMAAJ&q=Stephen+King+Pet+Sematary&dq=Stephen+King+Pet+Sematary&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HfNaAAAAMAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King.html?hl=&id=HfNaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HfNaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A critical examination of King&#39;s horror novels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dMuD0AEACAAJ",
+      "etag": "xyc/VY5yHAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dMuD0AEACAAJ",
+      "volumeInfo": {
+        "title": "PET SEMATARY",
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:801224780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dMuD0AEACAAJ&dq=Stephen+King+Pet+Sematary&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dMuD0AEACAAJ&dq=Stephen+King+Pet+Sematary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/PET_SEMATARY.html?hl=&id=dMuD0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dMuD0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

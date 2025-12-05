@@ -1,0 +1,676 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2T-yDwAAQBAJ",
+      "etag": "6Fm7MJhDUtI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2T-yDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mr. Standfast",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2019-09-25",
+        "description": "Reproduction of the original: Mr. Standfast by John Buchan",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783734081965"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3734081963"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2T-yDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2T-yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2T-yDwAAQBAJ&printsec=frontcover&dq=John+Buchan+Mr.+Standfast&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2T-yDwAAQBAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast.html?hl=&id=2T-yDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Mr_Standfast-sample-pdf.acsm?id=2T-yDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2T-yDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: Mr. Standfast by John Buchan"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jn2cswEACAAJ",
+      "etag": "oIwwWiOghFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jn2cswEACAAJ",
+      "volumeInfo": {
+        "title": "Mr. Standfast",
+        "subtitle": "By John Buchan - Illustrated",
+        "authors": [
+          "John John Buchan"
+        ],
+        "publishedDate": "2017-12-17",
+        "description": "Why buy our paperbacks? Expedited shipping High Quality Paper Made in USA Standard Font size of 10 for all books 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated Mr. Standfast by John Buchan Mr Standfast is the third of five Richard Hannay novels by John Buchan. It is one of two Hannay novels set during the First World War, the other being Greenmantle; Hannay's first and best-known adventure, The Thirty-Nine Steps, is set in the period immediately before the war started. The title refers to a character in John Bunyan's Pilgrim's Progress, to which there are many other references in the novel; Hannay uses a copy of Pilgrim's Progress to decipher coded messages from his contacts, and letters from his friend Peter Pienaar. Plot Summary: Dick Hannay, under forty and already a successful Brigadier-General with good prospects of advancement, is called out of uniform by his old comrade, spymaster Sir Walter Bullivant, and sent to Fosse Manor in the Cotswolds to receive further instructions. He must pose as a South African, an objector to the war, and once more takes on the name Cornelius Brand (an Anglicisation of the name he had used on his adventures in Germany in Greenmantle). He is upset by the idea of such a pose, but comforted by thoughts of his friend Peter Pienaar, briefly a successful airman and now a prisoner in Germany, and by the beauty of the Cotswold countryside. At Fosse, he meets two middle-aged spinsters, their cousin Launcelot Wake, a conscientious objector, and their niece Mary Lamington, a girl whose prettiness had struck Hannay earlier, while visiting a shell-shocked friend in the hospital where she works. It emerges that she is his contact, but she can tell him little more than that he must immerse himself in the world of pacifists and objectors, picking up \"atmosphere\". She gives him a label to paste inside his watch, an address where he will be staying, and advises him to pick up a copy of Pilgrim's Progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1977605397"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781977605399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jn2cswEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jn2cswEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast.html?hl=&id=jn2cswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jn2cswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Unabridged (100% Original content) Font adjustments &amp; biography included Illustrated Mr. Standfast by John Buchan Mr Standfast is the third of five Richard Hannay novels by John Buchan."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-MHzgEACAAJ",
+      "etag": "P85AZvELqFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-MHzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mr. Standfast Illustrated",
+        "subtitle": "(The Richard Hannay Adventures)",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2020-10-17",
+        "description": "\"Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder & Stoughton, London.It is one of two Hannay novels set during the First World War, the other being Greenmantle (1916); Hannay's first and best-known adventure, The Thirty-Nine Steps (1915), is set in the period immediately before the war started.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798698965855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-MHzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-MHzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s-MHzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s-MHzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_Illustrated.html?hl=&id=s-MHzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-MHzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder &amp; Stoughton, London.It is one of two Hannay novels set during the First World War, the other being Greenmantle (1916); Hannay&#39;s first ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RpsvuAEACAAJ",
+      "etag": "Z08yEXHKhdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RpsvuAEACAAJ",
+      "volumeInfo": {
+        "title": "MR Standfast (1919) by",
+        "subtitle": "John Buchan ( Novel )",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-08",
+        "description": "Mr. Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919. It is one of two Hannay novels set during the First World War, the other being Greenmantle (1916). The title is taken from John Bunyan's The Pilgrim's Progress, which is referenced throughout the novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154299926X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542999267"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RpsvuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RpsvuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RpsvuAEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RpsvuAEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/MR_Standfast_1919_by.html?hl=&id=RpsvuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RpsvuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is one of two Hannay novels set during the First World War, the other being Greenmantle (1916). The title is taken from John Bunyan&#39;s The Pilgrim&#39;s Progress, which is referenced throughout the novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M3dQvgAACAAJ",
+      "etag": "3G4HUe3tf5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M3dQvgAACAAJ",
+      "volumeInfo": {
+        "title": "Mr Standfast . ( Is the Third of Five Richard Hannay NOVEL ) By: John Buchan",
+        "subtitle": "Novel",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-10",
+        "description": "Mr. Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919. It is one of two Hannay novels set during the First World War, the other being Greenmantle (1916). The title is taken from John Bunyan's The Pilgrim's Progress, which is referenced throughout the novel.Set in the later years of World War I, Brigadier-General Hannay is recalled from active service on the Western Front to undertake a secret mission hunting for a dangerous German agent at large in Britain. Hannay is required to work undercover disguised as a pacifist, roaming the country incognito to investigate a German spy and his agents, and then heads to the Swiss Alps to save Europe from being overwhelmed by the German army",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536996653"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536996654"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M3dQvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M3dQvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=M3dQvgAACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=M3dQvgAACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_Is_the_Third_of_Five_Richar.html?hl=&id=M3dQvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M3dQvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The title is taken from John Bunyan&#39;s The Pilgrim&#39;s Progress, which is referenced throughout the novel.Set in the later years of World War I, Brigadier-General Hannay is recalled from active service on the Western Front to undertake a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zXARzgEACAAJ",
+      "etag": "Eu4M5NCxjPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zXARzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mr Standfast Annotated",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2020-12-02",
+        "description": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder & Stoughton, London.It is one of two Hannay novels set during the First World War, the other being Greenmantle 1916; Hannay's first and best known adventure, The Thirty Nine Steps 1915, is set in the period immediately before the war started.The title refers to a character in John Bunyan's Pilgrim's Progress, to which there are many other references in the novel; Hannay uses a copy of Pilgrim's Progress to decipher coded messages from his contacts, and letters from his friend Peter Pienaar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798575213369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zXARzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zXARzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zXARzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zXARzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_Annotated.html?hl=&id=zXARzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zXARzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder &amp; Stoughton, London.It is one of two Hannay novels set during the First World War, the other being Greenmantle 1916; Hannay&#39;s first ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_LizQEACAAJ",
+      "etag": "6k5DBy4LCl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_LizQEACAAJ",
+      "volumeInfo": {
+        "title": "Mr. Standfast Annotated",
+        "authors": [
+          "John John"
+        ],
+        "publishedDate": "2020-09-20",
+        "description": "Mr Standfast is the third of five Richard Hannay novels by John Buchan. It is one of two Hannay novels set during the First World War, the other being Greenmantle. The title refers to a character in John Bunyan's Pilgrim's Progress, to which there are many other references in the novel. Set in the later years of World War I, Brigadier-General Hannay is recalled from active service on the Western Front to undertake a secret mission hunting for a dangerous German agent at large in Britain. Hannay is required to work undercover disguised as a pacifist, roaming the country incognito to investigate a German spy and his agents, and then heads to the Swiss Alps to save Europe from being overwhelmed by the German army.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798688394504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i_LizQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i_LizQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=i_LizQEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=i_LizQEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_Annotated.html?hl=&id=i_LizQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_LizQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is one of two Hannay novels set during the First World War, the other being Greenmantle. The title refers to a character in John Bunyan&#39;s Pilgrim&#39;s Progress, to which there are many other references in the novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kTvAzQEACAAJ",
+      "etag": "GU1V0HZcgkA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kTvAzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mr Standfast-Original Edition(Annotated)",
+        "authors": [
+          "John Buchan"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-07-21",
+        "description": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder & Stoughton, London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798668186303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kTvAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kTvAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kTvAzQEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kTvAzQEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_Original_Edition_Annotated.html?hl=&id=kTvAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kTvAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehaPzgEACAAJ",
+      "etag": "ZFz4D6JYz5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehaPzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mr Standfast John Buchan (Illustrated)",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2021-05-24",
+        "description": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder & Stoughton, London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798509352362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ehaPzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ehaPzgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_John_Buchan_Illustrated.html?hl=&id=ehaPzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehaPzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder &amp; Stoughton, London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gN1szgEACAAJ",
+      "etag": "ba2tMJk3HTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gN1szgEACAAJ",
+      "volumeInfo": {
+        "title": "Mr. Standfast (illustrated Edition)",
+        "authors": [
+          "John Buchan"
+        ],
+        "publishedDate": "2021-05-02",
+        "description": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder & Stoughton, London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798747527591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gN1szgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gN1szgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gN1szgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gN1szgEACAAJ&dq=John+Buchan+Mr.+Standfast&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Standfast_illustrated_Edition.html?hl=&id=gN1szgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gN1szgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr Standfast is the third of five Richard Hannay novels by John Buchan, first published in 1919 by Hodder &amp; Stoughton, London."
+      }
+    }
+  ]
+}

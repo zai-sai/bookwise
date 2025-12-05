@@ -1,0 +1,751 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SJrcEAAAQBAJ",
+      "etag": "LvFI7BwfPOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SJrcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2023-10-21",
+        "description": "The Sea Fairies by L. Frank Baum is a mesmerizing journey into a world beneath the waves. As the protagonists navigate the vast expanse of the ocean, they encounter majestic sea creatures, age-old legends, and challenges that test their mettle. Baum's lyrical prose and imaginative storytelling make this a standout addition to any fantasy lover's collection.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547594062"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SJrcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SJrcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SJrcEAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SJrcEAAAQBAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies.html?hl=&id=SJrcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies-sample-epub.acsm?id=SJrcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies-sample-pdf.acsm?id=SJrcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SJrcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sea Fairies by L. Frank Baum is a mesmerizing journey into a world beneath the waves."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UHFnCwAAQBAJ",
+      "etag": "IPGlJKmEOJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UHFnCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies",
+        "subtitle": "American Literature",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "VM eBooks",
+        "publishedDate": "2016-01-19",
+        "description": "Table of Contents CHAPTER 1 TROT AND CAP'N BILL CHAPTER 2 THE MERMAIDS CHAPTER 3 THE DEPTHS OF THE DEEP BLUE SEA CHAPTER 4 THE PALACE OF QUEEN AQUAREINE CHAPTER 5 THE SEA-SERPENT CHAPTER 6 EXPLORING THE OCEAN CHAPTER 7 THE ARISTOCRATIC CODFISH CHAPTER 8 A BANQUET UNDER WATER CHAPTER 9 THE BASHFUL OCTOPUS CHAPTER 10 THE UNDISCOVERED ISLAND CHAPTER 11 ZOG THE TERRIBLE AND HIS SEA DEVILS CHAPTER 12 THE ENCHANTED ISLAND CHAPTER 13 PRISONERS OF THE SEA MONSTER CHAPTER 14 CAP'N JOE AND CAP'N BILL CHAPTER 15 THE MAGIC OF THE MERMAIDS CHAPTER 16 THE TOP OF THE GREAT DOME CHAPTER 17 THE QUEEN'S GOLDEN SWORD CHAPTER 18 A DASH FOR LIBERTY CHAPTER 19 KING ANKO TO THE RESCUE CHAPTER 20 THE HOME OF THE OCEAN MONARCH CHAPTER 21 KING JOE CHAPTER 22 TROT LIVES TO TELL THE TALE",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UHFnCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UHFnCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UHFnCwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UHFnCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UHFnCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UHFnCwAAQBAJ&rdid=book-UHFnCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies-sample-epub.acsm?id=UHFnCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies-sample-pdf.acsm?id=UHFnCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UHFnCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Table of Contents CHAPTER 1 TROT AND CAP&#39;N BILL CHAPTER 2 THE MERMAIDS CHAPTER 3 THE DEPTHS OF THE DEEP BLUE SEA CHAPTER 4 THE PALACE OF QUEEN AQUAREINE CHAPTER 5 THE SEA-SERPENT CHAPTER 6 EXPLORING THE OCEAN CHAPTER 7 THE ARISTOCRATIC ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UqPfAwAAQBAJ",
+      "etag": "szWtQnpIQxc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UqPfAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies (Illustrated ) paperback VS Handel",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2012-08-06",
+        "description": "This book Contains 43 beautiful fantasy illustrations by Babette van den Berg. The Seafairies by L. Frank Baum with a beautiful fantasy story about a little girl named Mayre Griffiths, nicknamed Trot and her companion Cap'n Bill Weedles. Trot spends most of her days roaming the beaches, rowing and sailing along the coast near home with her companion Cap'n Bill Weedles. Trot wishes that she could see a mermaid one day; her wish is overheard and then the excited journey begins. They see amazing sights in the land of Mermaid Queen Aquarine, King Anko and the villain Zog, the evil Magician.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781291019155"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1291019154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UqPfAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UqPfAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UqPfAwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UqPfAwAAQBAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies_Illustrated_paperback_VS.html?hl=&id=UqPfAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies_Illustrated_paperback_VS-sample-pdf.acsm?id=UqPfAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UqPfAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book Contains 43 beautiful fantasy illustrations by Babette van den Berg. The Seafairies by L. Frank Baum with a beautiful fantasy story about a little girl named Mayre Griffiths, nicknamed Trot and her companion Cap&#39;n Bill Weedles."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-EczgEACAAJ",
+      "etag": "bNaO4hy7WRk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-EczgEACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-12-12",
+        "description": "The Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1911 by the Reilly & Britton Company, the publisher of Baum's series of Oz books.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798580664675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j-EczgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j-EczgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j-EczgEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j-EczgEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies_Illustrated.html?hl=&id=j-EczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-EczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1911 by the Reilly &amp; Britton Company, the publisher of Baum&#39;s series of Oz books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lN5RswEACAAJ",
+      "etag": "WkGQ4QIoiAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lN5RswEACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies by Lyman Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2017-10-11",
+        "description": "The Sea Fairies by Lyman Frank Baum",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978128614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978128613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lN5RswEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lN5RswEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies_by_Lyman_Frank_Baum.html?hl=&id=lN5RswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lN5RswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sea Fairies by Lyman Frank Baum"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HAU_vgAACAAJ",
+      "etag": "JY1hknMsVnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HAU_vgAACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies (1911) by L. Frank Baum . (Children's Classics)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-09-07",
+        "description": "The Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1911 by the Reilly & Britton Company, the publisher of Baum's series of Oz books. Baum dedicated the book to the otherwise-unknown \"Judith of Randolph, Massachusetts\" - most likely one of the child readers who corresponded with the author Contents 1Genre 2Plot 3Reception 4Other media 5References 6External links As an underwater fantasy, Baum's The Sea Fairies can be classed with earlier books with similar themes, like Charles Kingsley's The Water-Babies (1863), and successors too, like E. Nesbit's Wet Magic (1913). Baum's novel has no relation to the 1830 poem of the same name by Alfred, Lord Tennyson. In 1905, however, a musical setting of Tennyson's poem for female chorus and orchestra, composed by Amy Beach, was in performance; the title may have stuck in the back of Baum's mind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537526294"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537526294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HAU_vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HAU_vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HAU_vgAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HAU_vgAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies_1911_by_L_Frank_Baum_Chi.html?hl=&id=HAU_vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HAU_vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Baum dedicated the book to the otherwise-unknown &quot;Judith of Randolph, Massachusetts&quot; - most likely one of the child readers who corresponded with the author Contents 1 Genre 2 Plot 3 Reception 4 Other media 5 References 6 External links As ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PptiAQAACAAJ",
+      "etag": "BmtTjDlKBlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PptiAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "1911",
+        "description": "\"Children and adults - who have enjoyed L. Frank Baum's OZ books will be delighted to follow their author into the mysterious fairydom that lies under the sea.\"--Dust jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542939097"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542939096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Oz (Imaginary place)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PptiAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PptiAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PptiAQAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PptiAQAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies.html?hl=&id=PptiAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PptiAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Baum dedicated the book to the otherwise-unknown &quot;Judith of Randolph, Massachusetts&quot; - most likely one of the child readers who corresponded with the author."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hZjWDwAAQBAJ",
+      "etag": "7rPPZXk4Tko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hZjWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies by L. Frank Baum - Delphi Classics (Illustrated)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘The Sea Fairies by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Baum includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Sea Fairies by L. Frank Baum - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Baum’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788771306"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788771303"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hZjWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hZjWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hZjWDwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hZjWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hZjWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hZjWDwAAQBAJ&rdid=book-hZjWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies_by_L_Frank_Baum_Delphi_C-sample-epub.acsm?id=hZjWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Sea_Fairies_by_L_Frank_Baum_Delphi_C-sample-pdf.acsm?id=hZjWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hZjWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook features the unabridged text of ‘The Sea Fairies by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nL8uMQAACAAJ",
+      "etag": "lc0S9Sw+1rc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nL8uMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies",
+        "authors": [
+          "Lyman Frank Lyman Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-12",
+        "description": "Mayre Griffiths, nicknamed Trot, or sometimes Tiny Trot, is a little girl who lives on the coast of southern California. Her father is the captain of a sailing schooner, and her constant companion is Cap'n Bill Weedles, a retired sailor with a wooden leg. (Cap'n Bill had been Trot's father's skipper, and Charlie Griffiths had been his mate, before the accident that took the older man's leg.) Trot and Cap'n Bill spend many of their days roaming the beaches near home, or rowing and sailing along the coast. One day, Trot wishes that she could see a mermaid; her wish is overheard, and granted the next day. The mermaids explain to Trot, and the distressed Cap'n Bill, that they are benevolent fairies; when they offer Trot a chance to pay a visit to their land in mermaid form, Trot is enthusiastic, and Bill is too loyal to let her go off without him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541068874"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541068872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nL8uMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nL8uMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nL8uMQAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nL8uMQAACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies.html?hl=&id=nL8uMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nL8uMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mayre Griffiths, nicknamed Trot, or sometimes Tiny Trot, is a little girl who lives on the coast of southern California."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Az2GxAEACAAJ",
+      "etag": "4PKX0EBuLsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Az2GxAEACAAJ",
+      "volumeInfo": {
+        "title": "The Sea Fairies .",
+        "subtitle": "Is a Children's Fantasy NOVEL.",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-04-21",
+        "description": "The Sea Fairies is a children's fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1911 by the Reilly & Britton Company, the publisher of Baum's series of Oz books.As an underwater fantasy, Baum's The Sea Fairies can be classed with earlier books with similar themes, like Charles Kingsley's The Water-Babies (1863), and successors too, like E. Nesbit's Wet Magic (1913). Baum's novel has no relation to the 1830 poem of the same name by Alfred, Lord Tennyson. In 1905, however, a musical setting of Tennyson's poem for female chorus and orchestra, composed by Amy Beach, was in performance; the title may have stuck in the back of Baum's mind.Mayre Griffiths, nicknamed Trot, or sometimes Tiny Trot, is a little girl who lives on the coast of southern California. Her father is the captain of a sailing schooner, and her constant companion is Cap'n Bill Weedles, a retired sailor with a wooden leg. (Cap'n Bill had been Trot's father's skipper, and Charlie Griffiths had been his mate, before the accident that took the older man's leg.) Trot and Cap'n Bill spend many of their days roaming the beaches near home, or rowing and sailing along the coast. One day, Trot wishes that she could see a mermaid; her wish is overheard, and granted the next day. The mermaids explain to Trot, and the distressed Cap'n Bill, that they are benevolent fairies; when they offer Trot a chance to pay a visit to their land in mermaid form, Trot is enthusiastic, and Bill is too loyal to let her go off without him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "109544770X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781095447703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Az2GxAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Az2GxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Az2GxAEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Az2GxAEACAAJ&dq=L.+Frank+Baum+The+Sea+Fairies&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sea_Fairies.html?hl=&id=Az2GxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Az2GxAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sea Fairies is a children&#39;s fantasy novel written by L. Frank Baum, illustrated by John R. Neill, and published in 1911 by the Reilly &amp; Britton Company, the publisher of Baum&#39;s series of Oz books.As an underwater fantasy, Baum&#39;s The Sea ..."
+      }
+    }
+  ]
+}

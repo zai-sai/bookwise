@@ -1,0 +1,708 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_RzkFXYi6GcC",
+      "etag": "t9w5h8/ANsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_RzkFXYi6GcC",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "D H Lawrence"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2010-10-31",
+        "description": "‘What beauties the book contains! There are many pages in it so saturated with warm and lovely intimacies that one reads absorbed’ Guardian Women in Love begins one blossoming spring day in England and ends with a terrible catastrophe in the snow of the Alps. Ursula and Gudrun are very different sisters who become entangled with two friends, Rupert and Gerald, who live in their hometown. The bonds between the couples quickly become intense and passionate but whether this passion is creative or destructive is unclear.In this astonishing novel, widely considered to be D.H. Lawrence's best work, he explores what it means to be human in an age of conflict and confusion. WITH AN INTRODUCTION BY HOWARD JACOBSON",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781409058045"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1409058042"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 495,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.17.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_RzkFXYi6GcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_RzkFXYi6GcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_RzkFXYi6GcC&printsec=frontcover&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_RzkFXYi6GcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_RzkFXYi6GcC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_RzkFXYi6GcC&rdid=book-_RzkFXYi6GcC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Women_in_Love-sample-epub.acsm?id=_RzkFXYi6GcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_RzkFXYi6GcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "‘What beauties the book contains!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rFD2zAEACAAJ",
+      "etag": "jAJjLZSdJEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rFD2zAEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "D. H. Lawrence"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1987-05-21",
+        "description": "D. H. Lawrence's Women in Love - 'the beginning of a new world', as he called it - suffered in the course of its revision, transcription, and publication some of the most spectacular damage ever inflicted upon one of his books. Until now no text of Women in Love has ever been published which is faithful to all of Lawrence's revisions. This edition, edited by scholars in England and America, clears the text of literally thousands of accumulated errors allowing its readers to read and understand the novelist's work as he himself created it. The edition includes the 'Foreword' Lawrence wrote in 1919 and two preliminary and discarded chapters which have attracted widespread critical and biographical discussion. The introduction gives a full history of the novel's composition, revision, publication and reception, and notes explain allusions and references; the textual apparatus records all variants between the base-text and the first printed editions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521280419"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521280419"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 696,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rFD2zAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rFD2zAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=rFD2zAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rFD2zAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition, edited by scholars in England and America, clears the text of literally thousands of accumulated errors allowing its readers to read and understand the novelist&#39;s work as he himself created it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ljHuAAAAMAAJ",
+      "etag": "c4YQgRCPmRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljHuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "subtitle": "Cambridge Lawrence Edition",
+        "authors": [
+          "D. H. Lawrence"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "2007-09-25",
+        "description": "Women in Love is widely regarded as D. H. Lawrence's greatest novel. The novel continues where The Rainbow left off with the third generation of Brangwens: Ursula Brangwen, now a teacher at Beldover, a mining town in the Midlands, and her sister Gudrun, who has returned from art school in London. The focus of the novel is primarily on their relationships, Ursula's with Rupert Birkin, a school inspector, though he gives that up, and Gudrun's with Gerald Crich, an industrialist, and later with a sculptor, Loerke.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015073611363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 612,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljHuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljHuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ljHuAAAAMAAJ&q=D.+H.+Lawrence+Women+in+Love&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ljHuAAAAMAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=ljHuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljHuAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The focus of the novel is primarily on their relationships, Ursula&#39;s with Rupert Birkin, a school inspector, though he gives that up, and Gudrun&#39;s with Gerald Crich, an industrialist, and later with a sculptor, Loerke."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lGU90AEACAAJ",
+      "etag": "499VwkFjRXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lGU90AEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love, by D.H. Lawrence",
+        "authors": [
+          "David Herbert Lawrence"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459489417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lGU90AEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lGU90AEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love_by_D_H_Lawrence.html?hl=&id=lGU90AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lGU90AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5o8nAQAAMAAJ",
+      "etag": "/LoAdoBfJjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5o8nAQAAMAAJ",
+      "volumeInfo": {
+        "title": "D.H. Lawrence's Women in Love",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Facts On File",
+        "publishedDate": "1988",
+        "description": "Selections of literary criticism on Lawrence's novel \"Women in Love.\"",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39076001031124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5o8nAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5o8nAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5o8nAQAAMAAJ&q=D.+H.+Lawrence+Women+in+Love&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5o8nAQAAMAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_H_Lawrence_s_Women_in_Love.html?hl=&id=5o8nAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5o8nAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Selections of literary criticism on Lawrence&#39;s novel &quot;Women in Love.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zGo4zQEACAAJ",
+      "etag": "5NvBIuZTPvA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zGo4zQEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "D.h. Lawrence"
+        ],
+        "publishedDate": "2019-12-20",
+        "description": "* This version of Women In Love includes a biography of the author D. H. Lawrence at the end of the book * This includes life before and after the release of the book Women in Love (1920) is a novel by British author D. H. Lawrence. It is a sequel to his earlier novel The Rainbow (1915), and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an industrialist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1677974001"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781677974009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 429,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zGo4zQEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zGo4zQEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=zGo4zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zGo4zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "* This version of Women In Love includes a biography of the author D. H. Lawrence at the end of the book * This includes life before and after the release of the book Women in Love (1920) is a novel by British author D. H. Lawrence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WG1KtAEACAAJ",
+      "etag": "A08T1CQJOpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WG1KtAEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "D. H. Lawrence"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-04-20",
+        "description": "Women in Love is a novel by British author D. H. Lawrence, published in 1920. It is a sequel to his earlier novel The Rainbow (1915), and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an industrialist. Lawrence contrasts this pair with the love that develops between Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many opinions associated with the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154549942X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545499429"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WG1KtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WG1KtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WG1KtAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WG1KtAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=WG1KtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WG1KtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Women in Love is a novel by British author D. H. Lawrence, published in 1920."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6g95tAEACAAJ",
+      "etag": "DwQTo77kDG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6g95tAEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "Lawrence David Herbert"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-11-28",
+        "description": "Women in Love is a novel by British author D. H. Lawrence, published in 1920. It is a sequel to his earlier novel The Rainbow (1915), and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an industrialist. Lawrence contrasts this pair with the love that develops between Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many opinions associated with the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981228950"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981228959"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6g95tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6g95tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6g95tAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6g95tAEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=6g95tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6g95tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Women in Love is a novel by British author D. H. Lawrence, published in 1920."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MJd7zQEACAAJ",
+      "etag": "TT1bGrjZs6Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MJd7zQEACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love (Illustrated)",
+        "authors": [
+          "D H Lawrence"
+        ],
+        "publishedDate": "2020-03-27",
+        "description": "Women in Love is a novel written by British author D. H. Lawrence in 1920. This novel is a sequel of his earlier novel The Rainbow (1915), and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, pursues a destructive relationship with Gerald Crich, an industrialist. Lawrence differntitates this pair with the love that develops between Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many opinions associated with the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798631357556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 668,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MJd7zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MJd7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MJd7zQEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MJd7zQEACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love_Illustrated.html?hl=&id=MJd7zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MJd7zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Women in Love is a novel written by British author D. H. Lawrence in 1920. This novel is a sequel of his earlier novel The Rainbow (1915), and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iqJBvgAACAAJ",
+      "etag": "y18ZibcQwdI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iqJBvgAACAAJ",
+      "volumeInfo": {
+        "title": "Women in Love",
+        "authors": [
+          "Lawrence David"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-19",
+        "description": "Women in Love is a novel by British author D. H. Lawrence, published in 1920. It is a sequel to his earlier novel The Rainbow 1915, and follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an industrialist. Lawrence contrasts this pair with the love that develops between Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many opinions associated with the author. The emotional relationships thus established are given further depth and tension by an intense psychological and physical attraction between Gerald and Rupert.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537175548"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537175546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iqJBvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iqJBvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iqJBvgAACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iqJBvgAACAAJ&dq=D.+H.+Lawrence+Women+in+Love&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Love.html?hl=&id=iqJBvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iqJBvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Women in Love is a novel by British author D. H. Lawrence, published in 1920."
+      }
+    }
+  ]
+}

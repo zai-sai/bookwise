@@ -1,0 +1,837 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5y2l-FVPJG8C",
+      "etag": "qljMN2drIhI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5y2l-FVPJG8C",
+      "volumeInfo": {
+        "title": "The Petrovitch Trilogy",
+        "subtitle": "An omnibus edition",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2013-03-01",
+        "description": "Welcome to the Metrozone - post-apocalyptic London of the future. Whilst the rest of Britain has devolved to anarchy, the M25 cordon protects a decaying city filled with homeless refugees, street gangs, exiled yakuza, crooked cops and mad cults. And something else; something new and dangerous. Enter Samuil Petrovitch: a Russian émigré with a smart mouth, a dodgy heart and a dodgier past. He's brilliant, friendless, cocky and - armed only with a genius-level intellect, prototype cyberware and a prodigious vocabulary of Russian swear words - might just be most unlikely champion a city has ever had. Welcome to the future. Mind the gap. This omnibus edition contains Equations of Life, Theories of Flight and Degrees of Freedom.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405528504"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405528508"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 707,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5y2l-FVPJG8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5y2l-FVPJG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5y2l-FVPJG8C&printsec=frontcover&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5y2l-FVPJG8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5y2l-FVPJG8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5y2l-FVPJG8C&rdid=book-5y2l-FVPJG8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Petrovitch_Trilogy-sample-epub.acsm?id=5y2l-FVPJG8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5y2l-FVPJG8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Welcome to the future. Mind the gap. This omnibus edition contains Equations of Life, Theories of Flight and Degrees of Freedom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "78nPoQEACAAJ",
+      "etag": "iIDHBeZUQPI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/78nPoQEACAAJ",
+      "volumeInfo": {
+        "title": "Degrees of Freedom",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publishedDate": "2014-05-10",
+        "description": "The final book in the stunning Samuil Petrovitch trilogy. Michael is an AI of incalculable complexity trapped under the remains of Oshicora tower. Petrovitch will free him one day; he just has to trust Michael will still be sane by the time he does. Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316134333"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316134330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=78nPoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=78nPoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Degrees_of_Freedom.html?hl=&id=78nPoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=78nPoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The final book in the stunning Samuil Petrovitch trilogy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uAfWoQEACAAJ",
+      "etag": "2jyQChmFkxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uAfWoQEACAAJ",
+      "volumeInfo": {
+        "title": "Equations of Life",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publishedDate": "2014-06-06",
+        "description": "The first novel in a new trilogy. Samuil Petrovitch survived the nuclear fallout in St. Petersburg and hid in the London Metrozone--the last city in England. He's lived this long because he's a man of rules and logic. Now, the equation of Petrovitch's life is looking increasingly complex. Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316175498"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316175494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uAfWoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uAfWoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uAfWoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uAfWoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Equations_of_Life.html?hl=&id=uAfWoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uAfWoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first novel in a new trilogy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JW1cRwAACAAJ",
+      "etag": "LrcGRVa3Csk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JW1cRwAACAAJ",
+      "volumeInfo": {
+        "title": "Equations of Life",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publisher": "Orbit Books",
+        "publishedDate": "2011",
+        "description": "Samuil Petrovitch is a survivor. He survived the nuclear fallout in St. Petersburg and hid in the London Metrozone - the last city in England. He's lived this long because he's a man of rules and logic. For example: GETTING INVOLVED = A BAD IDEA. But when he stumbles into a kidnapping in progress, he acts without even thinking. Before he can stop himself, he's saved the daughter of the most dangerous man in London. And clearly: SAVING THE GIRL = GETTING INVOLVED. Now, the equation of Petrovitch's life is looking increasingly complex: RUSSIAN MOBSTERS + YAKUZA + SOMETHING CALLED THE NEW MACHINE JIHAD = ONE DEAD PETROVITCH. But Petrovitch has a plan - he always has a plan - he's just not sure it's a good one.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "184149948X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781841499482"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Armageddon"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JW1cRwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JW1cRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JW1cRwAACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JW1cRwAACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Equations_of_Life.html?hl=&id=JW1cRwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JW1cRwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Samuil Petrovitch is a survivor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KUvHoQEACAAJ",
+      "etag": "plAl5XOmDpo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KUvHoQEACAAJ",
+      "volumeInfo": {
+        "title": "Theories of Flight",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publishedDate": "2014-06-05",
+        "description": "Morden presents the second novel in his Samuil Petrovitch trilogy--the follow-up to \"Equations of Life.\" Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316175439"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316175432"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KUvHoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KUvHoQEACAAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Theories_of_Flight.html?hl=&id=KUvHoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KUvHoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Morden presents the second novel in his Samuil Petrovitch trilogy--the follow-up to &quot;Equations of Life.&quot; Original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zjtbGnaUujAC",
+      "etag": "bE/fR+sOKEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zjtbGnaUujAC",
+      "volumeInfo": {
+        "title": "The Curve of the Earth",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2013-03-19",
+        "description": "WELCOME TO THE METROZONE Post-apocalyptic London, full of street gangs and homeless refugees. A dangerous city needs an equally dangerous saviour. Step forward Samuil Petrovitch, a genius with extensive cybernetic replacements, a built-in AI with god-like capabilities and a full armoury of Russian swear words. He's dragged the city back from the brink more than once - and made a few enemies on the way. So when his adopted daughter Lucy goes missing in Alaska, he has some clue who's responsible and why. It never occurs to him that guessing wrong could tip the delicate balance of nuclear-armed nations. This time it's not just a city that needs saving: it's the whole world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405516761"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405516763"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zjtbGnaUujAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zjtbGnaUujAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zjtbGnaUujAC&printsec=frontcover&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zjtbGnaUujAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zjtbGnaUujAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zjtbGnaUujAC&rdid=book-zjtbGnaUujAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Curve_of_the_Earth-sample-epub.acsm?id=zjtbGnaUujAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zjtbGnaUujAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WELCOME TO THE METROZONE Post-apocalyptic London, full of street gangs and homeless refugees."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IrTburoJI7wC",
+      "etag": "Np3bYgboIwc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IrTburoJI7wC",
+      "volumeInfo": {
+        "title": "Degrees Of Freedom",
+        "subtitle": "Metrozone Book 3",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2011-06-02",
+        "description": "The Six Degrees of Samuel Petrovitch: * Michael is an AI of incalculable complexity trapped under the remains of Oshicora tower. Petrovitch will free him one day, he just has to trust Michael will still be sane by the time he does. * Maddy and Petrovitch have trust issues. But Petrovitch is pretty sure she still loves him. * Sonja Oshicora loves Petrovitch too. But she's playing a complicated game and it's not clear that she means to save him from what's coming. * The CIA wants to save the world. Well, just America, but they'll call it what they like. * The New Machine Jihad is calling. But Petrovitch killed it. Didn't he? * And the Armageddonists tried to kill pretty much everyone by blowing the world up. Now, they want to do it again. Once again, all roads lead back to Petrovitch. Everyone wants something from him, but all he wants is to be free . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748122950"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0748122958"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IrTburoJI7wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IrTburoJI7wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IrTburoJI7wC&printsec=frontcover&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IrTburoJI7wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IrTburoJI7wC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IrTburoJI7wC&rdid=book-IrTburoJI7wC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Degrees_Of_Freedom-sample-epub.acsm?id=IrTburoJI7wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IrTburoJI7wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Six Degrees of Samuel Petrovitch: * Michael is an AI of incalculable complexity trapped under the remains of Oshicora tower."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gNTsBQAAQBAJ",
+      "etag": "G+O1SmjojEA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gNTsBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Strange Tales",
+        "authors": [
+          "Mark West"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2013-09-17",
+        "description": "Ten years on from its first publication, this special edition features the eleven short stories originally published plus an introduction by the author and a bonus short story. With stories ranging from the dark delights of \"Infantophobia\" and \"Speckles\", to the bleak narrative of \"Empty Souls, Drowning\" and \"The City In The Rain\", by way of the gruesome \"Having A Bad Day\", this is a welcome revisit to a volume out-of-print since 2004. Table of Contents Infantophobia Having A Bad Day Empty Souls, Drowning Dead Skin Speckles Up For Anything Together Forever The Darkest Hour The City In The Rain Dreaming Of A Black Christmas Beach plus - A Quiet Weekend Away Story Notes Publishing History",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781291562705"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1291562702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gNTsBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gNTsBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gNTsBQAAQBAJ&pg=PA87&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gNTsBQAAQBAJ&dq=Simon+Morden+Petrovitch+Trilogy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strange_Tales.html?hl=&id=gNTsBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Strange_Tales-sample-pdf.acsm?id=gNTsBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gNTsBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... compassion and logic to a series of abnormal psychopaths and deranged souls . If you&#39;re at all squeamish , look away now ... <b>Simon Morden</b> , author of &quot; The Samuil <b>Petrovitch Trilogy</b> &quot; About The Author Mark West was born in Kettering&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u_vTA_8smeAC",
+      "etag": "8KYYeZNRIuk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u_vTA_8smeAC",
+      "volumeInfo": {
+        "title": "Arcanum",
+        "authors": [
+          "Simon Morden"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2014-01-28",
+        "description": "The kingdom of Carinthia is rich, powerful and undefeated. A thousand years ago, its ancestors were the spell-wielding northern tribes who crushed the Roman Empire. Their legendary hexmasters can destroy whole armies and turn battlefields into fiery lakes of lava. Magic is Carinthia's wealth, protection and way of life. But the age of magic is dying. Some would do anything to see it return: any act, no matter how terrible, is justified, so long as the hexmasters can still protect their homeland. The kingdom is poised between order and chaos - and the smallest spark is the difference between disaster and triumph. ARCANUM is powerful new epic fantasy from an award-winning author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405516778"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405516771"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 856,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u_vTA_8smeAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u_vTA_8smeAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u_vTA_8smeAC&pg=PT2&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u_vTA_8smeAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u_vTA_8smeAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u_vTA_8smeAC&rdid=book-u_vTA_8smeAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Arcanum-sample-epub.acsm?id=u_vTA_8smeAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u_vTA_8smeAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... a couple of miniature panthers. Find out more about <b>Simon Morden</b> and other Orbit authors by registering for the free monthly newsletter at www.orbitbooks.net. BY <b>SIMON MORDEN</b> The <b>Petrovitch trilogy</b> Equations of Life Theories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gkzWBgAAQBAJ",
+      "etag": "ERM28Varypw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gkzWBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Pendragon Protocol",
+        "authors": [
+          "Philip Purser-Hallard"
+        ],
+        "publisher": "Snowbooks Ltd",
+        "publishedDate": "2014-07-01",
+        "description": "The Circle are the modern-day successors of the Knights of the Round Table. Armed with the latest military hardware and operating from a hidden fortress on the South Bank, they protect 21st-century Britain from certain very specific threats – criminals who, like the Circle’s own Knights, have characters from Arthurian legend living inside their heads. Jory Taylor, the Knight bearing the device of Sir Gawain, has grappled on the Circle’s behalf with mercenaries, serial killers and far-right terrorist cells. However, when he is captured by Gawain’s traditional enemy the Green Knight, he discovers a new side to the myths he lives by – one which, as he learns more about this clandestine world, becomes both threateningly personal and terrifyingly political. The legends of King Arthur are not the only stories with influence on the British psyche – and some of the others have their own, very different agendas. A smart, contemporary political thriller and a new kind of urban fantasy, The Pendragon Protocol is the first volume in The Devices Trilogy. Read more at http://devicestrilogy.wordpress.com A violently erudite genre mash-up by a very clever man indeed – Paul Magrs (Never the Bride, Enter Wildthyme) Philip Purser-Hallard is a master craftsman. His stories are both cleverly constructed and wrought in the sharpest prose, and he's always a joy to read. Not to be missed. -- George Mann Purser-Hallard takes urban fantasy back from fey vampires and rugged werewolves and puts it firmly back where it belongs, rooted deep in the myths and legends of old Britain. He combines a startlingly original premise with some bloody good story-telling. I'm in for the long run, and you should be too. -- Simon Morden (Philip K Dick Award winner, The Samuil Petrovich trilogy)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909679184"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1909679186"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gkzWBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gkzWBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gkzWBgAAQBAJ&pg=PP1&dq=Simon+Morden+Petrovitch+Trilogy&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gkzWBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gkzWBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gkzWBgAAQBAJ&rdid=book-gkzWBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pendragon_Protocol-sample-epub.acsm?id=gkzWBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pendragon_Protocol-sample-pdf.acsm?id=gkzWBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gkzWBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>SIMON MORDEN</b> ( PHILIP K DICK AWARD WINNER , THE SAMUIL <b>PETROVICH TRILOGY</b> THE PENDRAGON PROTOCOL THE FIRST VOLUME IN THE DEVICES <b>TRILOGY</b> PHILIP PURSER - HALLARD THE PENDRAGON PROTOCOL PHILIP PURSER-HALLARD Proudly Published by Snowbooks&nbsp;..."
+      }
+    }
+  ]
+}

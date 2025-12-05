@@ -1,16 +1,23 @@
 <div class="px-3">
+
   <div class="d-flex align-items-center justify-content-between m-4">
     <h1><%= @shelf.name %></h1>
     <%= render "shelf_actions", shelf: @shelf  %>
   </div>
 
-  <div class="row row-cols-3 row-cols-lg-6 g-3">
+  <div class="d-flex flex-wrap">
+  <% if @shelf_books.any? %>
     <% @shelf_books.each do |shelf_book| %>
-      <div class="col">
-        <div class="shadow rounded-3 d-flex align-items-center justify-content-center">
-          <img src="..." class="rounded float-start book-card" alt="...">
-        </div>
+      <div class="">
+        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+          <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" height="300px" class="shadow-sm rounded-3">
+        </button>
       </div>
+      <%= render "books/modal", book: shelf_book %>
     <% end %>
+  <% else %>
+    <p class="lead">This shelf is currently empty.</p>
+  <% end %>
   </div>
+
 </div>

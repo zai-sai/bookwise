@@ -1,0 +1,703 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 9,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "g4AdAwAAQBAJ",
+      "etag": "yL0ABvZb9rQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g4AdAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tomorrow and Tomorrow",
+        "authors": [
+          "Tom Sweterlitsch"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2014-07-17",
+        "description": "Ten years after the attack that reduced Pittsburgh to ashes, all that remains is the Archive: an interactive digital record of the city and its people. John Dominic Blaxton is a 'lucky one'. He survived the blast, but, crippled by the loss of his wife and unborn daughter, his days are spent immersed in the Archive with the ghosts of yesterday. It is there that he finds the record of a forgotten body. Who was this woman? And why is someone hacking the system to delete her seemingly unremarkable life? The hunt for the truth will drag Dominic from the darkest corners of the past into a deadly and very present nightmare.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472214881"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1472214889"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g4AdAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g4AdAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=g4AdAwAAQBAJ&printsec=frontcover&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g4AdAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g4AdAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g4AdAwAAQBAJ&rdid=book-g4AdAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tomorrow_and_Tomorrow-sample-epub.acsm?id=g4AdAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g4AdAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ten years after the attack that reduced Pittsburgh to ashes, all that remains is the Archive: an interactive digital record of the city and its people."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Us2qDwAAQBAJ",
+      "etag": "f2Lz32Fq4PU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Us2qDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Reality Simulation in Science Fiction Literature, Film and Television",
+        "authors": [
+          "Heather Duerre Humann"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2019-08-16",
+        "description": "In recent decades, science fiction in both print and visual media has produced an outpouring of story lines that feature forms of simulated reality. These depictions appear with such frequency that fictional portrayals of simulated worlds have become a popular sci-fi trope--one that prompts timeless questions about the nature of reality while also tapping into contemporary debates about emerging technologies. In combination with tech-driven tensions, this study shows that our collective sense of living in politically uncertain times also propels the popularity of these story lines. Because of the kinds of questions they raise and the cultural anxieties they provoke, these fictional representations provide a window into contemporary culture and demonstrate how we are reassessing our own reality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476637983"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476637989"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Us2qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Us2qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Us2qDwAAQBAJ&pg=PA188&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Us2qDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Us2qDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.8,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 20.8,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Us2qDwAAQBAJ&rdid=book-Us2qDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20800000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 20800000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Reality_Simulation_in_Science_Fiction_Li-sample-epub.acsm?id=Us2qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Reality_Simulation_in_Science_Fiction_Li-sample-pdf.acsm?id=Us2qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Us2qDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Tomorrow and Tomorrow</b>.” Publishers Weekly 261, no. 18 (May 2014): 46. Print. “<b>Tomorrow and Tomorrow</b> by <b>Thomas Sweterlitsch</b>: Book Review.” For Winter Nights— A Bookish Blog. 16 July 2014. Web. Accessed 10 March 2019. The Truman Show&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c0UR2a54WhEC",
+      "etag": "soV5IJkmYkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c0UR2a54WhEC",
+      "volumeInfo": {
+        "title": "Talking Book Topics",
+        "publishedDate": "2015-07",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PURD:32754084005119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Talking books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c0UR2a54WhEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c0UR2a54WhEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=c0UR2a54WhEC&q=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=c0UR2a54WhEC&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Talking_Book_Topics.html?hl=&id=c0UR2a54WhEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c0UR2a54WhEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Tomorrow and Tomorrow</b> DB79772 10 hours 31 minutes by <b>Thomas Sweterlitsch</b> read by Adam Paul Pittsburgh . Ten years after an apocalyp- tic attack , Dominic Braxton investigates insurance claims using the Archive - a virtual reality&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QCARzwEACAAJ",
+      "etag": "97VRCZ4LQ9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QCARzwEACAAJ",
+      "volumeInfo": {
+        "title": "Tomorrow and Tomorrow",
+        "authors": [
+          "Thomas Sweterlitsch"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "014751987X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780147519870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QCARzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QCARzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QCARzwEACAAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QCARzwEACAAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tomorrow_and_Tomorrow.html?hl=&id=QCARzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QCARzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "45WNEAAAQBAJ",
+      "etag": "IBqaJIJwLy8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/45WNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Gone World",
+        "authors": [
+          "Tom Sweterlitsch"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-02-05",
+        "description": "Inception meets True Detective in this science fiction thriller of spellbinding tension and staggering scope that follows a special agent into a savage murder case with grave implications for the fate of mankind.... “I promise you have never read a story like this.”—Blake Crouch, New York Times bestselling author of Dark Matter Shannon Moss is part of a clandestine division within the Naval Criminal Investigative Service. In western Pennsylvania, 1997, she is assigned to solve the murder of a Navy SEAL's family—and to locate his vanished teenage daughter. Though she can't share the information with conventional law enforcement, Moss discovers that the missing SEAL was an astronaut aboard the spaceship U.S.S. Libra—a ship assumed lost to the currents of Deep Time. Moss knows first-hand the mental trauma of time-travel and believes the SEAL's experience with the future has triggered this violence. Determined to find the missing girl and driven by a troubling connection from her own past, Moss travels ahead in time to explore possible versions of the future, seeking evidence to crack the present-day case. To her horror, the future reveals that it's not only the fate of a family that hinges on her work, for what she witnesses rising over time's horizon and hurtling toward the present is the Terminus: the terrifying and cataclysmic end of humanity itself. Luminous and unsettling, The Gone World bristles with world-shattering ideas yet remains at its heart an intensely human story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780425278901"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0425278905"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=45WNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=45WNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=45WNEAAAQBAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=45WNEAAAQBAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Gone_World.html?hl=&id=45WNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=45WNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inception meets True Detective in this science fiction thriller of spellbinding tension and staggering scope that follows a special agent into a savage murder case with grave implications for the fate of mankind.... “I promise you have ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8xnKrQEACAAJ",
+      "etag": "kNeT/vZUMiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8xnKrQEACAAJ",
+      "volumeInfo": {
+        "title": "Tomorrow & Tomorrow",
+        "subtitle": "Roman - diezukunft.de - Edition",
+        "authors": [
+          "Thomas Carl Sweterlitsch"
+        ],
+        "publishedDate": "2015-04-14",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3453316487"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783453316485"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8xnKrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8xnKrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=8xnKrQEACAAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8xnKrQEACAAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tomorrow_Tomorrow.html?hl=&id=8xnKrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8xnKrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "31FVAAAAYAAJ",
+      "etag": "JtupmP1y+/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/31FVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Library Journal",
+        "publishedDate": "1980-07",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001085447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1052,
+        "printType": "BOOK",
+        "categories": [
+          "Libraries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=31FVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=31FVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=31FVAAAAYAAJ&q=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=31FVAAAAYAAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Library_Journal.html?hl=&id=31FVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=31FVAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Thomas</b> W. McConkey , CHIEF , ADMINISTRATIVE SERVICES. The Creative Woman ... <b>Sweterlitsch</b> , Oral History Assn . , Box 13734 , North Texas State Univ ... <b>tomorrow&#39;s</b> equipment will well as five or six scholarly articles on make&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rkTgBQAAQBAJ",
+      "etag": "4W4bKiDBy+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rkTgBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Tomorrow & Tomorrow",
+        "subtitle": "Roman - diezukunft.de - Edition",
+        "authors": [
+          "Thomas Carl Sweterlitsch"
+        ],
+        "publisher": "Heyne Verlag",
+        "publishedDate": "2015-04-14",
+        "description": "Ausgelöscht Die nahe Zukunft. Vor zehn Jahren wurde bei einem Anschlag die Stadt Pittsburgh vollständig ausgelöscht. Mithilfe eines gewaltigen Datenarchivs konnte die Stadt jedoch als virtuelle Simulation wiederhergestellt werden. Hier ermittelt John Dominic Blaxton unaufgeklärte Verbrechen, und insbesondere ein Fall lässt ihn nicht los: Das Bild einer wunderschönen Frau, die ermordet wurde, wird offenbar aus dem Archiv und damit aus der virtuellen Realität gelöscht. Auf der Suche nach Antworten stolpert Dominic über eine grauenvolle Entdeckung ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641162573"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641162572"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rkTgBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rkTgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=rkTgBQAAQBAJ&printsec=frontcover&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rkTgBQAAQBAJ&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tomorrow_Tomorrow.html?hl=&id=rkTgBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tomorrow_Tomorrow-sample-epub.acsm?id=rkTgBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Tomorrow_Tomorrow-sample-pdf.acsm?id=rkTgBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rkTgBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ausgelöscht Die nahe Zukunft."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TEtVDwAAQBAJ",
+      "etag": "6hZvDKdda2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TEtVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Am Ende der Zeit",
+        "subtitle": "Roman",
+        "authors": [
+          "Thomas Carl Sweterlitsch"
+        ],
+        "publisher": "Heyne Verlag",
+        "publishedDate": "2019-03-11",
+        "description": "Shannon Moss ist Spezialagentin und Sonderermittlerin. Als sie zum Tatort gerufen wird, an dem die Familie eines Ex-Navy-SEALs ermordet wurde, entdeckt sie schon bald, dass der Exsoldat mit einem streng geheimen Raumfahrtprogramm in Verbindung stand. Aber was war so geheim an Bord des Raumschiffs, dass Moss durch die Zeit reisen muss, um der Spur des Mörders nachzugehen? Wohin ist der Exsoldat verschwunden? Und welches Grauen wartet an den Grenzen der Zeit selbst?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641162825"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641162823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TEtVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TEtVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=TEtVDwAAQBAJ&printsec=frontcover&dq=Thomas+Sweterlitsch+Tomorrow+and+Tomorrow&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TEtVDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TEtVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TEtVDwAAQBAJ&rdid=book-TEtVDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Am_Ende_der_Zeit-sample-epub.acsm?id=TEtVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Am_Ende_der_Zeit-sample-pdf.acsm?id=TEtVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TEtVDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shannon Moss ist Spezialagentin und Sonderermittlerin."
+      }
+    }
+  ]
+}

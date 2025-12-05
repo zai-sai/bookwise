@@ -1,0 +1,773 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-Yn9rQEACAAJ",
+      "etag": "BC/foUyKQW8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-Yn9rQEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Oxford Children's Classics",
+        "publishedDate": "2015",
+        "description": "Sherlock Holmes and Dr. Watson travel to the bleak wastes of Dartmoor to solve the mystery surrounding the late Sir Charles Baskerville and a ghostly hound. Includes study guide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0192743589"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192743589"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-Yn9rQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-Yn9rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-Yn9rQEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-Yn9rQEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles.html?hl=&id=-Yn9rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-Yn9rQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sherlock Holmes and Dr. Watson travel to the bleak wastes of Dartmoor to solve the mystery surrounding the late Sir Charles Baskerville and a ghostly hound. Includes study guide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aFg5EAAAQBAJ",
+      "etag": "kbAPFZHBaxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aFg5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles - Arthur Conan Doyle",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-07-28",
+        "description": "We owe The Hound of the Baskervilles (1902) to Arthur Conan Doyles good friend Fletcher Bobbles Robinson, who took him to visit some scary English moors and prehistoric ruins, and told him marvelous local legends about escaped prisoners and a 17th-century aristocrat who fell afoul of the family dog. Doyle transmogrified the legend: generations ago, a hound of hell tore out the throat of devilish Hugo Baskerville on the moonlit moor. Poor, accursed Baskerville Hall now has another mysterious death: that of Sir Charles Baskerville. Could the culprit somehow be mixed up with secretive servant Barrymore, history-obsessed Dr. Frankland, butterfly-chasing Stapleton, or Selden, the Notting Hill murderer at large? Someones been signaling with candles from the mansions windows. Nor can supernatural forces be ruled out. Can Dr. Watson left alone by Sherlock Holmes to sleuth in fear for much of the novel save the next Baskerville, Sir Henry, from the hound's fangs?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985949755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985949751"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 171,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aFg5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aFg5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aFg5EAAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aFg5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aFg5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aFg5EAAAQBAJ&rdid=book-aFg5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Hound_of_the_Baskervilles_Arthur_Con-sample-epub.acsm?id=aFg5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Hound_of_the_Baskervilles_Arthur_Con-sample-pdf.acsm?id=aFg5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aFg5EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nor can supernatural forces be ruled out. Can Dr. Watson left alone by Sherlock Holmes to sleuth in fear for much of the novel save the next Baskerville, Sir Henry, from the hound&#39;s fangs?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3Xk1CwAAQBAJ",
+      "etag": "3PK4izjeyKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Xk1CwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles & The Valley of Fear",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2016-08-11",
+        "description": "Supernatural hounds, a family curse, a mysterious cipher and the return of a deadly enemy . . . Sherlock Holmes will have to utilize every skill he has to solve the two classic mysteries collected here. The Hound of the Baskervilles sees Holmes and Dr Watson travel to the misty wilds of Dartmoor to confront a devilish apparition, while in The Valley of Fear the pair investigate a gruesome murder that may be the work of the dastardly Professor Moriarty himself. Part of the Macmillan Collector’s Library; a series of stunning, clothbound, pocket-sized classics with gold foiled edges and ribbon markers. These beautiful books make perfect gifts or a treat for any book lover. In this edition, Sherlock scholar David Stuart Davies provides both an illuminating afterword and a fascinating chronology of the Sherlock Holmes stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781509826964"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1509826963"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 425,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3Xk1CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3Xk1CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3Xk1CwAAQBAJ&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3Xk1CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3Xk1CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3Xk1CwAAQBAJ&rdid=book-3Xk1CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Hound_of_the_Baskervilles_The_Valley-sample-epub.acsm?id=3Xk1CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Xk1CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These beautiful books make perfect gifts or a treat for any book lover. In this edition, Sherlock scholar David Stuart Davies provides both an illuminating afterword and a fascinating chronology of the Sherlock Holmes stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nHBpxQEACAAJ",
+      "etag": "QwLwn0VdHI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nHBpxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles by Sir Arthur Conan Doyle (Illustrated)",
+        "authors": [
+          "Sir Arthur Conan"
+        ],
+        "publishedDate": "2019-01-25",
+        "description": "This adventure concerns the mysterious death of Sir Charles Baskerville, and the possibility that the heir to his fortune might be the object of murder. Before the novel begins, Sir Charles Baskerville had died suddenly, perhaps the victim of a ghostly hound believed to haunt his family because of an age-old curse. The Baskerville estate is located out in the remote moor of Devonshire.Holmes and Watson are introduced to the case by Dr. Mortimer, a friend of Sir Charles Baskerville. Mortimer believes that a hound has in fact killed Sir Charles, because he found a paw print near Sir Charles's corpse. He is worried that there may be some truth to the superstitious legend, which is detailed in an old manuscript, and thus approaches Holmes in hopes that the detective can protect Sir Henry, who is soon to arrive to claim the family estate and fortune.When Sir Henry arrives in London, he exhibits no fear of the old legend. Instead, he insists on leaving soon for Baskerville Hall. However, several strange things happen while he is in London: an anonymous letter arrives, warning him to stay away from the moor; two boots are stolen from his hotel, each from a different pair; and Holmes observes a bearded man following him around the city. Certain that something insidious is afoot, Holmes sends Watson to Devonshire, where he is to accompany and protect Sir Henry while Holmes wraps up some business in London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1795121289"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781795121286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nHBpxQEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nHBpxQEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles_by_Sir_Art.html?hl=&id=nHBpxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nHBpxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Before the novel begins, Sir Charles Baskerville had died suddenly, perhaps the victim of a ghostly hound believed to haunt his family because of an age-old curse."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p1u6-TU8jfMC",
+      "etag": "/I+sF/E1I3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p1u6-TU8jfMC",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles and the Valley of Fear",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Collector's Library",
+        "publishedDate": "2004",
+        "description": ".0000000000The Hound of the Baskervilles is one of Doyle's best-known Holmes novels, frequently adapted for film and television, which is not surprising given the highly dramatic scenes of mist-wrapped moors echoing to the horrific howls of a supernatural hound. Is this a genuinely devilish apparition or is there a cunning murderer at work? Only Sherlock Holmes can solve the mystery. This volume also contains The Valley of Fear, a dark, powerful tale in which Holmes confronts the evil Professor Moriarty once more. With an Afterword by David Stuart Davies, a Fellow of the Royal Literary Fund, and an authority on Sherlock Holmes. He has written the Afterwords for all the Collector's Library Holmes volumes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904633722"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904633723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p1u6-TU8jfMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p1u6-TU8jfMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=p1u6-TU8jfMC&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=p1u6-TU8jfMC&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles_and_the_Va.html?hl=&id=p1u6-TU8jfMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Hound_of_the_Baskervilles_and_the_Va-sample-pdf.acsm?id=p1u6-TU8jfMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p1u6-TU8jfMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Only Sherlock Holmes can solve the mystery. This volume also contains The Valley of Fear, a dark, powerful tale in which Holmes confronts the evil Professor Moriarty once more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DhyeLX_ModgC",
+      "etag": "GoR6BFADgi0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DhyeLX_ModgC",
+      "volumeInfo": {
+        "title": "Sherlock Holmes: The Hound of the Baskervilles (Sherlock Complete Set 5)",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2011-08-04",
+        "description": "Terrifying, thrilling and addictive - the celebrated tale of chilling murder, played out on the bleak, eerie wilds of a West Country moor. The greatest detective of them all is back... 'Never in the delirious dream of a disordered brain could anything more savage, more appalling, more hellish be conceived than that dark form and savage face'. Death by natural causes? Sherlock Holmes knows that Sir Charles Baskerville's demise was due to no such thing. Was he killed by a phantom hound or is this the work of a calculating murderer?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780755387618"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0755387619"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DhyeLX_ModgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DhyeLX_ModgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DhyeLX_ModgC&printsec=frontcover&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DhyeLX_ModgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DhyeLX_ModgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DhyeLX_ModgC&rdid=book-DhyeLX_ModgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Sherlock_Holmes_The_Hound_of_the_Baskerv-sample-epub.acsm?id=DhyeLX_ModgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DhyeLX_ModgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Death by natural causes? Sherlock Holmes knows that Sir Charles Baskerville&#39;s demise was due to no such thing. Was he killed by a phantom hound or is this the work of a calculating murderer?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5kNyswEACAAJ",
+      "etag": "W1BqBXBUwlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5kNyswEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles by Arthur Conan Doyle",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2017-11-18",
+        "description": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes. Originally serialised in The Strand Magazine from August 1901 to April 1902, it is set largely on Dartmoor in Devon in England's West Country and tells the story of an attempted murder inspired by the legend of a fearsome, diabolical hound of supernatural origin. Sherlock Holmes and his companion Dr. Watson investigate the case. This was the first appearance of Holmes since his intended death in \"The Final Problem\", and the success of The Hound of the Baskervilles led to the character's eventual revival.At Baskerville Hall on the grim moors of Devonshire, a legendary curse has apparently claimed one more victim. Sir Charles Baskerville has been found dead. There are no signs of violence, but his face is hideously distorted with terror. Years earlier, a hound-like beast with blazing eyes and dripping jaws was reported to have torn out the throat of Hugo Baskerville. Has the spectral destroyer struck again? More important, is Sir Henry Baskerville, younger heir to the estate, now in danger?Enter Sherlock Holmes, summoned to protect Sir Henry from the fate that has threatened the Baskerville family. As Holmes and Watson begin to investigate, a blood-chilling howl from the fog-shrouded edges of the great Grimpen Mire signals that the legendary hound of the Baskervilles is poised for yet another murderous attack.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979834660"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979834667"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5kNyswEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5kNyswEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles_by_Arthur.html?hl=&id=5kNyswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5kNyswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PUhkzgEACAAJ",
+      "etag": "f3qh0xdCpH4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PUhkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles Illustrated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-04-05",
+        "description": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes. Based on a local legend of a spectral hound that haunted Dartmoor in Devonshire, England, the story is set in the moors at Baskerville Hall and the nearby Grimpen Mire, and the action takes place mostly at night, when the terrifying hound howls for blood.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733379821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PUhkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PUhkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PUhkzgEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PUhkzgEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles_Illustrate.html?hl=&id=PUhkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PUhkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jnnTtAEACAAJ",
+      "etag": "ALzQW2Klbjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jnnTtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "2017-09-26",
+        "description": "The Baskerville Hound, also translated as The Baskerville Dog or The Baskerville Mastiff, is the third novel by Arthur Conan Doyle which has as main protagonist Sherlock Holmes. It was published by installments in The Strand Magazine between 1901 and 1902. The novel is mainly set in Dartmoor, in Devon, a county of the west of England. Conan Doyle wrote this story shortly after returning from South Africa, where he had worked as a medical volunteer at The Langman Field Hospital in Bloemfontein. He was assisted in the plot by a 30-year-old journalist from the Daily Express named Bertram Fletcher Robinson (1870-1907). His ideas come from the legend of Richard Cabell, who was the inspiration of the legend of the Baskerville. His tomb can be seen in a village called Buckfastleigh.Richard Cabell lived during the 1600s and was the local squire at Buckfastleigh. He had a passion for hunting and was what in those days described himself as a \"monstrously evil man.\" He gained this reputation for, among other things, his immorality and for having sold his soul to the devil. It was also rumored that he had murdered his wife. On July 5, 1677 he died and was buried in his tomb, but that was only the beginning of the story. On the night of his burial, a dog-shaped ghost appeared all around the moor and howled in his grave. Since that night, you can find the ghost, usually on the anniversary of his death. If he does not go hunting, it is possible to find him in his grave howling and screaming.Conan Doyle's description of Baskerville Hall was inspired by a visit to Cromer Hall in Norfolk. Some elements of the story were inspired by a stay at the Real Links Hotel in Cromer, where Conan Doyle heard for the first time the story of Black Shuck, the ghost dog from the Cromer area, who is said to walk between Overstrand in East and East Runton in the west.When Sir Charles Baskerville is found dead on a path in the wasteland of Devonshire, Dr. Mortimer comes to London to seek the help of Sherlock Holmes: he reads to Holmes the manuscript about the curse of the Baskerville, supposedly initiated with Hugo de Baskerville, killed by an infernal hound as punishment for his evil. After this, the doctor tells him about the bloodhound tracks found a short distance from the corpse. It also lets him know that he wishes to know his opinion, since the only heir of the Baskerville, Sir Henry, coming from the United States, was about to arrive in England to accept the inheritance (in addition to money, the mansion of the Baskervilles) and Dr. Mortimer did not know what to do with him, for he feared that what was supposed to have been a familiar legend was really truth, that is, he feared for the life of Sir Henry. Holmes replies that he is calm and will accompany the young heir all the time, not leaving him alone, while he is in charge of resolving the case. Later, Dr. Mortimer returned with Sir Henry, worried, because a mysterious letter came to them which contained cut-out words, except \"paramo\". The letter said: \"If you value your life or your sanity, you must keep away from the moor.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1549832271"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781549832277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jnnTtAEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jnnTtAEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles.html?hl=&id=jnnTtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jnnTtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conan Doyle wrote this story shortly after returning from South Africa, where he had worked as a medical volunteer at The Langman Field Hospital in Bloemfontein."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5-plzgEACAAJ",
+      "etag": "wSp5hdApkUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5-plzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Hound of the Baskervilles Illustrated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-12",
+        "description": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes. Originally serialised in The Strand Magazine from August 1901 to April 1902, it is set largely on Dartmoor in Devon in England's West Country and tells the story of an attempted murder inspired by the legend of a fearsome, diabolical hound of supernatural origin. Sherlock Holmes and his companion Dr. Watson investigate the case. This was the first appearance of Holmes since his apparent death in \"The Final Problem\", and the success of The Hound of the Baskervilles led to the character's eventual revival",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798736883219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5-plzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5-plzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5-plzgEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5-plzgEACAAJ&dq=Arthur+Conan+Doyle+The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hound_of_the_Baskervilles_Illustrate.html?hl=&id=5-plzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5-plzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0xfTswEACAAJ",
+      "etag": "7kC+SmkKc64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0xfTswEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "subtitle": "By Henry Rider Haggard - Illustrated",
+        "authors": [
+          "Henry Rider Henry Rider Haggard"
+        ],
+        "publishedDate": "2017-07-26",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About A Tale of Three Lions by Henry Rider Haggard Most of you will have heard that Allan Quatermain, who was one of the party that discovered King Solomon's mines some little time ago, and who afterwards came to live in England near his friend Sir Henry Curtis. He went back to the wilderness again, as these old hunters almost invariably do, on one pretext or another. Taking place in the heart of Africa, \"The Tale of Three Lions\" is one more thrilling adventure from the eventful life of old hunter Quatermain, the famous hero of \"King Solomons Mines\". This time, though there are no bloodthirsty people for the old hunter to deal with, the dangers are no less. He has to face the mighty and fierce King of Animals - the Lion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521944342"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521944349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0xfTswEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0xfTswEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=0xfTswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0xfTswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "edPdjwEACAAJ",
+      "etag": "WTcVNTxPAQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/edPdjwEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions.",
+        "authors": [
+          "H. Rider Haggard."
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-03-05",
+        "description": "A Tale of Three Lions by H. Rider Haggard.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153038432X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530384327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=edPdjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=edPdjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=edPdjwEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=edPdjwEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=edPdjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=edPdjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Tale of Three Lions by H. Rider Haggard."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VUB0AAAACAAJ",
+      "etag": "K5aCZ64SnrE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VUB0AAAACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2004-06-01",
+        "description": "Something over a fortnight had passed since the night when I lost half-a-sovereign and found twelve hundred and fifty pounds in looking for it, and instead of that horrid hole, for which, after all, Eldorado was hardly a misnomer, a very different scene stretched away before us clad in the silver robe of the moonlight.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1419203614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781419203619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VUB0AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VUB0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VUB0AAAACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VUB0AAAACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=VUB0AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VUB0AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Something over a fortnight had passed since the night when I lost half-a-sovereign and found twelve hundred and fifty pounds in looking for it, and instead of that horrid hole, for which, after all, Eldorado was hardly a misnomer, a very ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z5E8zgEACAAJ",
+      "etag": "o+RE/MXPYr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z5E8zgEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "authors": [
+          "Sir H Rider Haggard"
+        ],
+        "publishedDate": "2021-02-16",
+        "description": "A Tale of Three Lionsby Henry Rider Haggard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798700238793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z5E8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z5E8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=z5E8zgEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=z5E8zgEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=z5E8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z5E8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Tale of Three Lionsby Henry Rider Haggard"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fF_eDwAAQBAJ",
+      "etag": "0eJrkDjPTVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fF_eDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "subtitle": "Bestseller Book by H. Rider Haggard: A Tale of Three Lions",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "Embark on an unforgettable adventure into the heart of Africa with \"A Tale of Three Lions\" by H. Rider Haggard. This timeless classic transports readers to a world of intrigue, danger, and exploration as they follow the gripping tale of Allan Quatermain and his enthralling encounters with the majestic lions of Africa. As you delve into \"A Tale of Three Lions,\" prepare to be captivated by Haggard's masterful storytelling and vivid descriptions of the African landscape. Follow Allan Quatermain on his quest through the untamed wilderness, where he must confront not only the fierce lions but also the challenges of survival in the wild. But here's the twist that will keep you on the edge of your seat: What secrets lie hidden in the heart of the African wilderness, and what mysteries will Allan Quatermain uncover as he ventures deeper into the unknown? Prepare to be swept away by the thrill of discovery and the allure of the untamed wilderness. Immerse yourself in the rich tapestry of African culture and wildlife as you journey alongside Allan Quatermain in \"A Tale of Three Lions.\" Haggard's vivid prose and compelling narrative will transport you to a world where danger lurks around every corner and adventure awaits at every turn. Are you ready to embark on a journey of discovery and adventure unlike any other? Join Allan Quatermain on his quest into the heart of Africa in \"A Tale of Three Lions,\" and experience the thrill of the hunt, the majesty of the lions, and the wonder of the African wilderness. Prepare to be spellbound from beginning to end. Don't miss your chance to experience the magic of H. Rider Haggard's classic tale. Order your copy of \"A Tale of Three Lions\" today and set out on an unforgettable safari through the pages of this timeless adventure.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fF_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fF_eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fF_eDwAAQBAJ&printsec=frontcover&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fF_eDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fF_eDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.68,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.68,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fF_eDwAAQBAJ&rdid=book-fF_eDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 680000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 680000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Tale_of_Three_Lions-sample-epub.acsm?id=fF_eDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Tale_of_Three_Lions-sample-pdf.acsm?id=fF_eDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fF_eDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Don&#39;t miss your chance to experience the magic of H. Rider Haggard&#39;s classic tale. Order your copy of &quot;A Tale of Three Lions&quot; today and set out on an unforgettable safari through the pages of this timeless adventure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JMedEAAAQBAJ",
+      "etag": "QfoemeSG3hs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JMedEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "subtitle": "in large print",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-11-24",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368321338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368321331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JMedEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JMedEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JMedEAAAQBAJ&printsec=frontcover&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JMedEAAAQBAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=JMedEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Tale_of_Three_Lions-sample-pdf.acsm?id=JMedEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JMedEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IRAnzgEACAAJ",
+      "etag": "FT6xtOZ43pQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IRAnzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions Annotated",
+        "authors": [
+          "H Rider Haggard"
+        ],
+        "publishedDate": "2021-01-04",
+        "description": "A Tale of Three Lions is a thrilling story from action-adventure master H. Rider Haggard that starts out as an enjoyable father-son outing but then turns into something entirely different . ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798590263677"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IRAnzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IRAnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IRAnzgEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IRAnzgEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions_Annotated.html?hl=&id=IRAnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IRAnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Tale of Three Lions is a thrilling story from action-adventure master H. Rider Haggard that starts out as an enjoyable father-son outing but then turns into something entirely different . ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2WbAzQEACAAJ",
+      "etag": "SH1s6XuDkKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2WbAzQEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions Annotated",
+        "authors": [
+          "Henry Rider Haggard"
+        ],
+        "publishedDate": "2020-08-12",
+        "description": "A Tale of Three Lions is a thrilling story from action-adventure master H. Rider Haggard that starts out as an enjoyable father-son outing but then turns into something entirely different . ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798674590828"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2WbAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2WbAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2WbAzQEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2WbAzQEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions_Annotated.html?hl=&id=2WbAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2WbAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Tale of Three Lions is a thrilling story from action-adventure master H. Rider Haggard that starts out as an enjoyable father-son outing but then turns into something entirely different . ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_W4kygEACAAJ",
+      "etag": "rd6ZjXGejuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_W4kygEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "subtitle": "Large Print",
+        "authors": [
+          "H. Rider Haggard"
+        ],
+        "publishedDate": "2019-09-26",
+        "description": "A Tale of Three Lions - Allan Quatermain Stories - By H. Rider Haggard - Most of you will have heard that Allan Quatermain, who was one of the party that discovered King Solomon's mines some little time ago, and who afterwards came to live in England near his friend Sir Henry Curtis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1695774434"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781695774438"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_W4kygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_W4kygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_W4kygEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_W4kygEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=_W4kygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_W4kygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Tale of Three Lions - Allan Quatermain Stories - By H. Rider Haggard - Most of you will have heard that Allan Quatermain, who was one of the party that discovered King Solomon&#39;s mines some little time ago, and who afterwards came to live ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vb_MswEACAAJ",
+      "etag": "QhyLQQb5Qt0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vb_MswEACAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Three Lions",
+        "authors": [
+          "Haggard Henry Rider"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-05-05",
+        "description": "Sir Henry Rider Haggard, KBE (22 June 1856 - 14 May 1925), known as H. Rider Haggard, was an English writer of adventure novels set in exotic locations, predominantly Africa, and a pioneer of the Lost World literary genre. He was also involved in agricultural reform throughout the British Empire. His stories, situated at the lighter end of Victorian literature, continue to be popular and influential.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1546505091"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781546505099"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vb_MswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vb_MswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Vb_MswEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Vb_MswEACAAJ&dq=H.+Rider+Haggard+A+Tale+of+Three+Lions&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Tale_of_Three_Lions.html?hl=&id=Vb_MswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vb_MswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sir Henry Rider Haggard, KBE (22 June 1856 - 14 May 1925), known as H. Rider Haggard, was an English writer of adventure novels set in exotic locations, predominantly Africa, and a pioneer of the Lost World literary genre."
+      }
+    }
+  ]
+}

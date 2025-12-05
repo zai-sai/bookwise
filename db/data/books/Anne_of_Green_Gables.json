@@ -1,0 +1,763 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "jfhq49WlmIgC",
+      "etag": "0TvLg8fTnh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jfhq49WlmIgC",
+      "volumeInfo": {
+        "title": "Anne of Green Gables",
+        "authors": [
+          "Lucy Maud Montgomery"
+        ],
+        "publisher": "Ryerson Press",
+        "publishedDate": "1968",
+        "description": "Orphan Anne has always dreamed of being part of a proper family. So when she's chosen to go and live with the Cuthberts, life looks grand. But the Cuthberts wanted a little boy to help them on Green Gables farm, not a girl.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0770000088"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780770000080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jfhq49WlmIgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jfhq49WlmIgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jfhq49WlmIgC&q=Lucy+Maud+Montgomery+Anne+of+Green+Gables&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jfhq49WlmIgC&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_of_Green_Gables.html?hl=&id=jfhq49WlmIgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jfhq49WlmIgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Orphan Anne has always dreamed of being part of a proper family. So when she&#39;s chosen to go and live with the Cuthberts, life looks grand. But the Cuthberts wanted a little boy to help them on Green Gables farm, not a girl."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fV5DMQAACAAJ",
+      "etag": "b8yhz4xGWwg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fV5DMQAACAAJ",
+      "volumeInfo": {
+        "title": "Lucy Maud (L. M. ) Montgomery Anne of Avonlea (Anne of Green Gables Collection)",
+        "authors": [
+          "Lucy Montgomery"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-03",
+        "description": "Following Anne of Green Gables (1908), the book covers the second chapter in the life of Anne Shirley. This book follows Anne from the age of 16 to 18, during the two years that she teaches at Avonlea school. It includes many of the characters from Anne of Green Gables, as well as new ones like Mr Harrison, Miss Lavendar Lewis, Paul Irving, and the twins Dora and Davy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541398823"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541398825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fV5DMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fV5DMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fV5DMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fV5DMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucy_Maud_L_M_Montgomery_Anne_of_Avonlea.html?hl=&id=fV5DMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fV5DMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Following Anne of Green Gables (1908), the book covers the second chapter in the life of Anne Shirley. This book follows Anne from the age of 16 to 18, during the two years that she teaches at Avonlea school."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RCkvEAAAQBAJ",
+      "etag": "8ErqJbokWaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RCkvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Anne of Green Gables - Lucy Maud Montgomery",
+        "authors": [
+          "Lucy Maud Montgomery"
+        ],
+        "publisher": "Lumbreras Classics Books",
+        "publishedDate": "2021-05-27",
+        "description": "This heartwarming story has beckoned generations of readers into the special world of Green Gables, an old-fashioned farm outside a town called Avonlea. Anne Shirley, an eleven-year-old orphan, has arrived in this verdant corner of Prince Edward Island only to discover that the Cuthbertselderly Matthew and his stern sister, Marillawant to adopt a boy, not a feisty redheaded girl. But before they can send her back, Annewho simply must have more scope for her imagination and a real homewins them over completely. A much-loved classic that explores all the vulnerability, expectations, and dreams of a child growing up, Anne of Green Gables is also a wonderful portrait of a time, a place, a family and, most of all, love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985511525"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985511527"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RCkvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RCkvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RCkvEAAAQBAJ&printsec=frontcover&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RCkvEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RCkvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RCkvEAAAQBAJ&rdid=book-RCkvEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Anne_of_Green_Gables_Lucy_Maud_Montgomer-sample-epub.acsm?id=RCkvEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Anne_of_Green_Gables_Lucy_Maud_Montgomer-sample-pdf.acsm?id=RCkvEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RCkvEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This heartwarming story has beckoned generations of readers into the special world of Green Gables, an old-fashioned farm outside a town called Avonlea."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tp5LMQAACAAJ",
+      "etag": "LiCBjG7tEAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tp5LMQAACAAJ",
+      "volumeInfo": {
+        "title": "Lucy Maud (L. M. ) Montgomery Anne of Green Gables",
+        "authors": [
+          "L. M. Montgomery"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-01",
+        "description": "Marilla and Matthew had originally decided to adopt a boy from the orphanage to help Matthew run their farm at Green Gables in Prince Edward Island, which is set in the fictional city of Avonlea. Through a misunderstanding, the orphanage sends Anne instead. The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541395492"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541395497"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tp5LMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tp5LMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tp5LMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tp5LMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucy_Maud_L_M_Montgomery_Anne_of_Green_G.html?hl=&id=tp5LMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tp5LMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through a misunderstanding, the orphanage sends Anne instead. The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vjSLswEACAAJ",
+      "etag": "jrRMLRRMtFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vjSLswEACAAJ",
+      "volumeInfo": {
+        "title": "Anne of Green Gables by Lucy Maud Montgomery",
+        "authors": [
+          "L. M. Montgomery"
+        ],
+        "publishedDate": "2017-07-17",
+        "description": "Anne of Green Gables by Lucy Maud Montgomery",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548949264"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548949266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vjSLswEACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vjSLswEACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_of_Green_Gables_by_Lucy_Maud_Montgo.html?hl=&id=vjSLswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vjSLswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anne of Green Gables by Lucy Maud Montgomery"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OnBMMQAACAAJ",
+      "etag": "H6u+bDHaqe4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OnBMMQAACAAJ",
+      "volumeInfo": {
+        "title": "Lucy Maud (L. M. ) Montgomery Anne of the Island (Anne of Green Gables Collection)",
+        "authors": [
+          "Lucy Montgomery",
+          "Illumination Publishing"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-03",
+        "description": "Anne of the Island was published in 1915, seven years after the bestselling Anne of Green Gables. In the continuing story of Anne Shirley, Anne attends Redmond College in Kingsport, where she is studying for her BA. Anne leaves Green Gables and her work as a teacher in Avonlea to pursue her original dream (which she gave up in Anne of Green Gables) of taking further education at Redmond College in Nova Scotia. Gilbert Blythe and Charlie Sloane enroll as well, as does Anne's friend from Queen's Academy, Priscilla Grant. During her first week of school, Anne befriends Philippa Gordon, a beautiful girl whose frivolous ways charm her. Philippa (Phil for short) also happens to be from Anne's birthplace in Bolingbroke, Nova Scotia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1541396790"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781541396791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OnBMMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OnBMMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OnBMMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OnBMMQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucy_Maud_L_M_Montgomery_Anne_of_the_Isl.html?hl=&id=OnBMMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OnBMMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the continuing story of Anne Shirley, Anne attends Redmond College in Kingsport, where she is studying for her BA. Anne leaves Green Gables and her work as a teacher in Avonlea to pursue her original dream (which she gave up in Anne of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9kpgvRjMlNMC",
+      "etag": "QTGU3f51kU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9kpgvRjMlNMC",
+      "volumeInfo": {
+        "title": "Anne of Green Gables",
+        "authors": [
+          "L.M. Montgomery"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2004-11-17",
+        "description": "L.M. Montgomery’s Anne of Green Gables is one of the best-known and most enduringly popular novels of the twentieth century. First published in 1908, it has never been out of print, and it continues, nearly a century after its first appearance, to appeal to new readers in many locations around the world. Anne of Green Gables is the story of how a little girl, adopted from an orphan asylum by a brother and sister seeking a boy to help them on their Prince Edward Island farm, grows to responsible young adulthood and, as she grows, brings light and life to her adoptive home. Although it is, as Montgomery described it in her journal, a “simple little tale,” it has nonetheless generated not only an international readership but, more recently, an increasing critical interest that focuses on the text’s engagement with social and political issues, its relation to Montgomery’s life and her other writing, and its circulation as a popular cultural commodity in Canada and elsewhere. This Broadview edition is based on the first edition of Anne of Green Gables. It includes a critical introduction and a fascinating selection of contemporary documents, including contemporary reviews of the novel, other writings by L.M. Montgomery (stories, writings on gender and on writing), and excerpts from the “Pansy” books by Isabella Macdonald Alden.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1551113627"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551113623"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9kpgvRjMlNMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9kpgvRjMlNMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9kpgvRjMlNMC&printsec=frontcover&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9kpgvRjMlNMC&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_of_Green_Gables.html?hl=&id=9kpgvRjMlNMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Anne_of_Green_Gables-sample-epub.acsm?id=9kpgvRjMlNMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Anne_of_Green_Gables-sample-pdf.acsm?id=9kpgvRjMlNMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9kpgvRjMlNMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Broadview edition is based on the first edition of Anne of Green Gables."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rKVsnQAACAAJ",
+      "etag": "bcGDICsJvmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rKVsnQAACAAJ",
+      "volumeInfo": {
+        "title": "Anne of Green Gables (1908) by",
+        "subtitle": "Lucy Maud Montgomery ( Children's Novel )",
+        "authors": [
+          "L. M. Montgomery"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-03",
+        "description": "Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud Montgomery (published as L. M. Montgomery). Written for all ages, it has been considered a children's novel since the mid-twentieth century. It recounts the adventures of Anne Shirley, an 11-year-old orphan girl who is mistakenly sent to Matthew and Marilla Cuthbert, a middle-aged brother and sister who had intended to adopt a boy to help them on their farm in Prince Edward Island. The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town. Since its publication, Anne of Green Gables has sold more than 50 million copies and has been translated into 20 languages. Montgomery wrote numerous sequels, and since her death, another sequel has been published, as well as an authorized prequel. The original book is taught to students around the world",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542920264"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542920261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rKVsnQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rKVsnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rKVsnQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rKVsnQAACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_of_Green_Gables_1908_by.html?hl=&id=rKVsnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rKVsnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town. Since its publication, Anne of Green Gables has sold more than 50 million copies and has been translated into 20 languages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u53sswEACAAJ",
+      "etag": "LXPSjpf+bRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u53sswEACAAJ",
+      "volumeInfo": {
+        "title": "Anne of Green Gables",
+        "subtitle": "By Lucy Maud Montgomery - Illustrated",
+        "authors": [
+          "Lucy Maud Lucy Maud Montgomery"
+        ],
+        "publishedDate": "2017-07-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Anne of Green Gables by Lucy Maud Montgomery Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud Montgomery (published as L. M. Montgomery). Written for all ages, it has been considered a children's novel since the mid-twentieth century. It recounts the adventures of Anne Shirley, an 11-year-old orphan girl who is mistakenly sent to Matthew and Marilla Cuthbert, a middle-aged brother and sister who had intended to adopt a boy to help them on their farm in Prince Edward Island. The novel recounts how Anne makes her way with the Cuthberts, in school, and within the town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521927650"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521927656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=u53sswEACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=u53sswEACAAJ&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_of_Green_Gables.html?hl=&id=u53sswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u53sswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wec_DwAAQBAJ",
+      "etag": "0k5kcGVx6lE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wec_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Anne of Green Gables Collection",
+        "authors": [
+          "L. M. Montgomery"
+        ],
+        "publisher": "Arcturus Publishing",
+        "publishedDate": "2017-11-22",
+        "description": "Follow the journey of 11-year-old orphan Anne Shirley as she experiences the adventures of growing up and discovers love, friendship and motherhood. This unabridged collection comprises all six stories in L. M. Montgomery's much-loved Anne of Green Gables series, which is guaranteed to delight readers aged 8 and up.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788881067"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788881060"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1535,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wec_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wec_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Wec_DwAAQBAJ&printsec=frontcover&dq=Lucy+Maud+Montgomery+Anne+of+Green+Gables&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wec_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wec_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wec_DwAAQBAJ&rdid=book-Wec_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Anne_of_Green_Gables_Collection-sample-epub.acsm?id=Wec_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Anne_of_Green_Gables_Collection-sample-pdf.acsm?id=Wec_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wec_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This unabridged collection comprises all six stories in L. M. Montgomery&#39;s much-loved Anne of Green Gables series, which is guaranteed to delight readers aged 8 and up."
+      }
+    }
+  ]
+}
