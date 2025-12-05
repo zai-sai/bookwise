@@ -49,6 +49,14 @@ require "faker"
 #   end
 # end
 
+puts "Clearing old data..."
+ShelfBook.delete_all
+UserBook.delete_all
+Book.delete_all
+Shelf.delete_all
+User.delete_all
+
+puts "Seeding books..."
 image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder.png"
 100.times do
   Book.create!(
@@ -56,18 +64,20 @@ image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder
     author: Faker::Book.author,
     # genre: Faker::Book.genre,
     description: "A great #{Faker::Book.genre} book",
-    image_link:
+    image_link: image_link
   )
 end
+
+puts "Creating user..."
 user = User.create!(username: "spongebob", email: "example@example.com", password: "password")
 
-
+puts "Creating user's shelves and books..."
 ["My Fantasy Shelf", "My Crime Shelf"].each do |shelf_name|
   shelf = Shelf.create!(user: user, name: shelf_name)
   (5..10).to_a.sample.times do
     user_book = UserBook.create!(book: Book.all.sample, user: user, status: ["read", "unread"].sample)
-
     ShelfBook.create!(shelf: shelf, user_book: user_book)
-
   end
 end
+
+puts "Done!"

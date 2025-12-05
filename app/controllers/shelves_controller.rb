@@ -1,4 +1,5 @@
 class ShelvesController < ApplicationController
+  skip_before_action :authenticate_user!, only: [ :index ]
   def index
     @shelves = Shelf.all
     @shelf_books = current_user
