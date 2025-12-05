@@ -43,11 +43,10 @@
             <h1 class="modal-title fs-5" id="bookCardModalLabel">Modal title</h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-          <div class="modal-body">
-
-            <%= render "books/book", book: book %>
-
-
+           <div class="modal-body">
+            <div class="d-flex justify-content-center center-modal">
+              <%= render "books/book", book: book %>
+            </div>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -81,7 +80,7 @@
 
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-secondary rounded-pill" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
       </div>
