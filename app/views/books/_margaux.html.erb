@@ -23,10 +23,26 @@
 <%# TODO: add functionality to click on basket to buy book %>
 
   </div>
-<%# TODO: Add date-picker functionality %>
+  <%# TODO: Add date-picker functionality %>
   <div class="book-reading-dates">
-    <%= button_to "start date", {} %>
-    <%= button_to "end date", {} %>
+    <%= form_with model: UserBook.new, url: user_books_path, class: "w-100" do |f| %>
+      <%= f.hidden_field :book_id, value: book.id %>
+      <div class="d-flex justify-content-evenly">
+        <div class="col-auto">
+          <%= f.label :date_started, "Start" %>
+          <%= f.date_field :date_started, class: "form-control form-control-sm", style: "width: 13ch;" %>
+        </div>
+
+        <div class="col-auto">
+          <%= f.label :date_finished, "End" %>
+          <%= f.date_field :date_finished, class: "form-control form-control-sm", style: "width: 13ch;" %>
+        </div>
+        <div class="col-auto" style="align-self: end;">
+          <%= f.submit "Save", class: "btn btn-primary btn-sm rounded-pill" %>
+        </div>
+      </div>
+
+    <% end %>
   </div>
   <div class="book-author-description">
     <p><strong>Author:</strong> <%= book.author %></p>
