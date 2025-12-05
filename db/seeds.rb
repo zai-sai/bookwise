@@ -50,7 +50,7 @@ require "faker"
 # end
 
 def seed_from_apis
-
+  puts "Creating Books"
   books = []
 
   limit = 25
@@ -63,8 +63,8 @@ def seed_from_apis
       url_OL = "https://openlibrary.org/subjects/#{subject}.json?limit=#{limit}"
       result = JSON.parse(URI.open(url_OL).read)
       File.write("db/data/genres/#{subject}.json", JSON.pretty_generate(result))
+      p "Found #{result["works"].length} results for #{subject}"
     end
-    p "Found #{result["works"].length} results for #{subject}"
     result["works"].each do |work|
       books << {
         title: work["title"],
@@ -111,6 +111,7 @@ def seed_from_apis
     end
     Book.create(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
   end
+  puts "Books done!"
 end
 
 def generate_from_faker
@@ -124,17 +125,24 @@ def generate_from_faker
       image_link:
     )
   end
+
+end
+
+def create_user_with_books
+  puts "Creating user..."
   user = User.create!(username: "spongebob", email: "example@example.com", password: "password")
 
-
-  ["My Fantasy Shelf", "My Crime Shelf"].each do |shelf_name|
+  puts "Creating user's shelves and books..."
+  ["Fantastic Fantasy", "Murder Club"].each do |shelf_name|
     shelf = Shelf.create!(user: user, name: shelf_name)
     (5..10).to_a.sample.times do
       user_book = UserBook.create!(book: Book.all.sample, user: user, status: ["read", "unread"].sample)
-
       ShelfBook.create!(shelf: shelf, user_book: user_book)
     end
   end
+
+  puts "Done!"
 end
 
 seed_from_apis
+create_user_with_books
