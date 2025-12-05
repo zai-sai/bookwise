@@ -3,7 +3,7 @@
 
   <div class="mb-2 pt-3">
     <% if @current_query.blank? %>
-    <h5 class="text-left">No Results Found, search for a book dummy</h5>
+    <h5 class="text-left">No results found. Type a keyword to search for a book.</h5>
     <% else %>
     <h5 class="text-left">Search Results - <strong><%= @current_query.capitalize %></strong></h5>
     <% end %>
@@ -58,6 +58,16 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
+            <div class="shadow rounded-3 p-3 mb-3">
+              <h4 class="m-0 text-center text-dark-emphasis d-flex justify-content-between">My Library
+                <%= button_to add_to_library_user_books_path,
+                              method: :post,
+                              params: { book_id: book },
+                              class: "p-0 border-0 bg-transparent w-100" do %>
+                  <i class="fa-solid fa-circle-plus fa-2xl"></i>
+                <% end %>
+              </h4>
+            </div>
             <% @shelves.each do |shelf| %>
               <div class="shadow rounded-3 p-3 mb-3">
                 <h4 class="m-0 text-center text-dark-emphasis d-flex justify-content-between"><%= shelf.name %>

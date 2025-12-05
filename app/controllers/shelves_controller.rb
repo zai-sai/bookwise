@@ -1,9 +1,8 @@
 class ShelvesController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:index]
-
+  skip_before_action :authenticate_user!, only: [ :index ]
   def index
-    @shelves = Shelf.all
-    @shelf_books = current_user
+    @shelves = Shelf.where(user: current_user)
+    @user_books = UserBook.where(user: current_user)
   end
 
   def new
@@ -32,7 +31,9 @@ def add_to_collection
   # end
   shelf_book = ShelfBook.new(user_book: user_book, shelf: shelf)
   if shelf_book.save
-    redirect_to home_path
+    render notice: "Book added successfully!"
+  else
+    render error: "Sorry, unable to add book."
   end
 end
 
