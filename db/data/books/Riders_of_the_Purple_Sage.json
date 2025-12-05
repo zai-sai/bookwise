@@ -1,0 +1,745 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TxlDEAAAQBAJ",
+      "etag": "lhWZ9ujTurE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TxlDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-09-27",
+        "description": "Riders of the Purple Sage Zane Grey - Riders of the Purple Sage\" is Zane Grey's best-known novel. Originally published in 1912, it was one of the earliest works of Western fiction and played a significant role in popularizing that genre. The story uses a third person narrator to tell the story from the point of view of two main characters Bern Venter and Jane Withersteen and a few minor characters. Jane Withersteen, Mormon-born Utah native, goes against her church when she befriends a young Gentile rider, Venters. He is trailing the mysterious Masked Rider through the Old West. Both Venters and a notorious gunman named Lassiter bring adventure, intrigue, and romance to the Withersteen ranch. The story is also somewhat complex, with several plots unfolding that eventually come together at the end of the story, and conveniently leave open the certainty of a sequel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985944842"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985944849"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TxlDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TxlDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TxlDEAAAQBAJ&printsec=frontcover&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TxlDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TxlDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TxlDEAAAQBAJ&rdid=book-TxlDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Riders_of_the_Purple_Sage-sample-epub.acsm?id=TxlDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Riders_of_the_Purple_Sage-sample-pdf.acsm?id=TxlDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TxlDEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Riders of the Purple Sage Zane Grey - Riders of the Purple Sage&quot; is Zane Grey&#39;s best-known novel. Originally published in 1912, it was one of the earliest works of Western fiction and played a significant role in popularizing that genre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t6mtoQEACAAJ",
+      "etag": "Bfki7i2ehqc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t6mtoQEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage",
+        "subtitle": "(Zane Grey Classics Collection)",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-08-23",
+        "description": "That year, 1871, had marked a change which had been gradually coming in the lives of the peace-loving Mormons of the border. Glaze—Stone Bridge—Sterling, villages to the north, had risen against the invasion of Gentile settlers and the forays of rustlers. There had been opposition to the one and fighting with the other. And now Cottonwoods had begun to wake and bestir itself and grown har",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1500935603"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781500935603"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t6mtoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t6mtoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=t6mtoQEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=t6mtoQEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage.html?hl=&id=t6mtoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t6mtoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "That year, 1871, had marked a change which had been gradually coming in the lives of the peace-loving Mormons of the border."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fe_1CQAAQBAJ",
+      "etag": "63ERL8XySjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fe_1CQAAQBAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage",
+        "subtitle": "A Novel",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2015-07-14",
+        "description": "A Mormon from birth, Jane Withersteen nevertheless resists marriage to one of the local church leaders, Elder Tull and, following her adoption of a Christian child, grows increasingly disillusioned with the strict dogma and rampant discrimination practised by her church. As attacks on Jane’s ranch and friends escalate, she enlists the help of Lassiter, a well-known gunslinger, and eventually escapes to a new life in which she is free to love whomever she chooses. Zane Grey’s Riders of the Purple Sage is widely recognized as one of the first Western novels, and is credited with shaping the genre. HarperPerennial Classics brings great works of literature to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperPerennial Classics collection to build your digital library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443448239"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443448230"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fe_1CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fe_1CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fe_1CQAAQBAJ&printsec=frontcover&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fe_1CQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fe_1CQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.75,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.75,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fe_1CQAAQBAJ&rdid=book-fe_1CQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 750000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 750000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Riders_of_the_Purple_Sage-sample-epub.acsm?id=fe_1CQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fe_1CQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Zane Grey’s Riders of the Purple Sage is widely recognized as one of the first Western novels, and is credited with shaping the genre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JbRtzgEACAAJ",
+      "etag": "d+vePUC9eGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JbRtzgEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage By Zane Grey",
+        "subtitle": "Classic Original Edition Illustrated (Penguin Classics)",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2021-05-03",
+        "description": "Riders of the Purple Sage is a Western novel by Zane Grey, first published by Harper & Brothers in 1912. Considered by scholars to have played a significant role in shaping the formula of the popular Western genre, the novel has been called \"the most popular western novel of all time",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798748064651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JbRtzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JbRtzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JbRtzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=JbRtzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_By_Zane_Grey.html?hl=&id=JbRtzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JbRtzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered by scholars to have played a significant role in shaping the formula of the popular Western genre, the novel has been called &quot;the most popular western novel of all time"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oJ1PngEACAAJ",
+      "etag": "cZ5U5uyBALw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oJ1PngEACAAJ",
+      "volumeInfo": {
+        "title": "Zane Grey Combo #2",
+        "subtitle": "Riders of the Purple Sage/The Lone Star Ranger/The Mysterious Rider",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2013-08-09",
+        "description": "Three novels in one book! RIDERS OF THE PURPLE SAGE THE LONE STAR RANGER THE MYSTERIOUS RIDER Three books for one low price in one excellent volume!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492113751"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492113751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Frontier and pioneer life"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oJ1PngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oJ1PngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oJ1PngEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oJ1PngEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Zane_Grey_Combo_2.html?hl=&id=oJ1PngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oJ1PngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Three novels in one book! RIDERS OF THE PURPLE SAGE THE LONE STAR RANGER THE MYSTERIOUS RIDER Three books for one low price in one excellent volume!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cvc3zgEACAAJ",
+      "etag": "6zmOnw0C94w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cvc3zgEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage Illustrated Annotated",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2020-11-13",
+        "description": "Riders of the Purple Sage is a Western novel by Zane Grey, first published by Harper & Brothers in 1912. Considered by scholars[1] to have played a significant role in shaping the formula of the popular Western genre, the novel has been called \"the most popular western novel of all time",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798564096461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cvc3zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cvc3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=cvc3zgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=cvc3zgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_Illustrated_An.html?hl=&id=cvc3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cvc3zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered by scholars[1] to have played a significant role in shaping the formula of the popular Western genre, the novel has been called &quot;the most popular western novel of all time"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qzGwzgEACAAJ",
+      "etag": "/LEYpPa7Los",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qzGwzgEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage Annotated",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2021-07-06",
+        "description": "Riders of the Purple Sage is a Western by Zane Grey, first published by Harper & Brothers in 1912. Considered by scholars to have played a significant role in shaping the formula of the popular Western genre, the novel has been called \"the most popular western novel of all time.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798532832220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qzGwzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qzGwzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_Annotated.html?hl=&id=qzGwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qzGwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered by scholars to have played a significant role in shaping the formula of the popular Western genre, the novel has been called &quot;the most popular western novel of all time.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6c4xtAEACAAJ",
+      "etag": "Wl6pbaU6x1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6c4xtAEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage Zane Grey",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-03-31",
+        "description": "Riders of the Purple Sage is a classic of the Western genre. It is the story of Lassiter, a gunslinging avenger in black, who shows up in a remote Utah town just in time to save the young and beautiful rancher Jane Withersteen from having to marry a Mormon elder against her will.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1545043620"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545043622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6c4xtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6c4xtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6c4xtAEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6c4xtAEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_Zane_Grey.html?hl=&id=6c4xtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6c4xtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the story of Lassiter, a gunslinging avenger in black, who shows up in a remote Utah town just in time to save the young and beautiful rancher Jane Withersteen from having to marry a Mormon elder against her will."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5MFkPgAACAAJ",
+      "etag": "JWHVubvU+kI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5MFkPgAACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage by Zane Grey, Fiction, Westerns",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2007-02",
+        "description": "First published in 1912. Considered by many critics to have played a significant role in shaping the formula of the popular Western genre, Riders of the Purple Sage has been called \"the most popular western novel of all time.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1603120629"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781603120623"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mormon women"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5MFkPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5MFkPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5MFkPgAACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5MFkPgAACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_by_Zane_Grey_F.html?hl=&id=5MFkPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5MFkPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1912. Considered by many critics to have played a significant role in shaping the formula of the popular Western genre, Riders of the Purple Sage has been called &quot;the most popular western novel of all time.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "917fzgEACAAJ",
+      "etag": "VRGWUawJPvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/917fzgEACAAJ",
+      "volumeInfo": {
+        "title": "Riders of the Purple Sage Illustrated Edition",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2021-08-21",
+        "description": "Riders of the Purple Sage is a Western novel by Zane Grey, first published by Harper & Brothers in 1912. Considered by scholars[1] to have played a significant role in shaping the formula of the popular Western genre, the novel has been called \"the most popular western novel of all time",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798460969050"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=917fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=917fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=917fzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=917fzgEACAAJ&dq=Zane+Grey+Riders+of+the+Purple+Sage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Riders_of_the_Purple_Sage_Illustrated_Ed.html?hl=&id=917fzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=917fzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered by scholars[1] to have played a significant role in shaping the formula of the popular Western genre, the novel has been called &quot;the most popular western novel of all time"
+      }
+    }
+  ]
+}

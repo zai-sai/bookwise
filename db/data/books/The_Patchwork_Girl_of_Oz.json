@@ -1,0 +1,694 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wLgeQwAACAAJ",
+      "etag": "SI4YGwZYjhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wLgeQwAACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz",
+        "subtitle": "From the Book by L. Frank Baum",
+        "authors": [
+          "Vern Adix",
+          "L. Frank. The Patchwork Girl of Oz Baum"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:367902981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Children's plays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wLgeQwAACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wLgeQwAACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz.html?hl=&id=wLgeQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wLgeQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ebjbDwAAQBAJ",
+      "etag": "ohe0JFgwm3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ebjbDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2020-04-14",
+        "description": "In this exciting children’s story from the Oz series, a young Munchkin ventures to the Emerald City with the help of a live patchwork doll. Ojo the Unlucky isn’t sure how he got his nickname, but he finds it fitting after a visit to Dr. Pipt the Crooked Magician. There, he learns about Dr. Pipt’s incredible Powder of Life, which has turned an old patchwork quilt into a living girl. But when Dr. Pipt’s Liquid of Petrification accidentally turns Ojo’s uncle into a statue, Ojo must seek out the magic ingredients that will bring Unc Nunkie back to life. On his journey to the Emerald City to find a six-leaved clover, Ojo is joined by an arrogant Glass Cat, a four-legged Woozy, the resourceful Shaggy Man, and the Patchwork Girl herself. Along the way, Ojo meets a thoughtful Scarecrow, a caring Tin Woodman, and a kind young lady from Kansas named Dorothy Gale. And while gathering the life-saving ingredients isn’t easy, his adventures might just teach him that luck is what you make of it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781504062237"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "150406223X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ebjbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ebjbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ebjbDwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ebjbDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ebjbDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ebjbDwAAQBAJ&rdid=book-ebjbDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Patchwork_Girl_of_Oz-sample-epub.acsm?id=ebjbDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Patchwork_Girl_of_Oz-sample-pdf.acsm?id=ebjbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ebjbDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this exciting children&#39;s story from the Oz series, a young Munchkin ventures to the Emerald City with the help of a live patchwork doll."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o5e3yQEACAAJ",
+      "etag": "4nPxUHLplR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o5e3yQEACAAJ",
+      "volumeInfo": {
+        "title": "The PATCHWORK Girl of OZ",
+        "authors": [
+          "Lyman F. Baum"
+        ],
+        "publishedDate": "2019-09-17",
+        "description": "The Patchwork Girl of Oz by L. Frank Baum is a children's novel, the 7th set in the Land of Oz. Characters include the Woozy, Ojo \"the Unlucky\", Unc Nunkie, Dr. Pipt, Scraps, and others. The book was first published on July 1, 1913, with illustrations by John R. Neill.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1693769778"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781693769771"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o5e3yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o5e3yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o5e3yQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o5e3yQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_PATCHWORK_Girl_of_OZ.html?hl=&id=o5e3yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o5e3yQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was first published on July 1, 1913, with illustrations by John R. Neill."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v9hY0AEACAAJ",
+      "etag": "ge/sXyPQowM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v9hY0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz",
+        "subtitle": "(L. Frank Baum Classics Collection)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-02-02",
+        "description": "\"By to-morrow morning,\" the boy went on, \"we must go where there is something to eat, or we shall grow very hungry and become very unhappy.\" \"Where?\" asked Unc. \"Where shall we go? I don't know, I'm sure,\" replied Ojo. \"But you must know, Unc. You must have traveled, in your time, because you're so old. I don't remember it, because ever since I could remember anything we've lived right here in this lonesome, round house, with a little garden back of it and the thick woods all around. All I've ever seen of the great Land of Oz, Unc dear, is the view of that mountain over at the south, where they say the Hammerheads live-who won't let anybody go by them-and that mountain at the north, where they say nobody lives.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1507834063"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781507834060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v9hY0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v9hY0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=v9hY0AEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=v9hY0AEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz.html?hl=&id=v9hY0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v9hY0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;By to-morrow morning,&quot; the boy went on, &quot;we must go where there is something to eat, or we shall grow very hungry and become very unhappy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C4MTswEACAAJ",
+      "etag": "0f+Uk24/TWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C4MTswEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz (Annotated)",
+        "authors": [
+          "L. Frank L. Frank Baum"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-08-12",
+        "description": "*This Book is annotated (it contains a detailed biography of the author). *This book has been checked and corrected for spelling errors. The Patchwork Girl of Oz by L. Frank Baum, is a children's novel, the 7th set in the Land of Oz. Characters include the Woozy, Ojo \"the Unlucky,\" Unc Nunkie, Dr. Pipt, Scraps (the patchwork girl), and others. The book was first published on July 1, 1913. In 1914, Baum adapted the book to film through his \"Oz Film Manufacturing Company.\" Ojo the Unlucky is a Munchkin boy who, devoted to life with his uncle Unc Nunkie in the wilderness but on the verge of starvation, goes to see a neighboring \"magician\" and old friend of Unc, Dr. Pipt. While there they see a demonstration of the Pipt-made Powder of Life, which animates any object it touches. Unc Nunkie and Dr. Pipt's wife are also the sufferers of the consequences of another of the Doctor's inventions, the Liquid of Petrifaction, which turns them into solid marble statues.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1516867068"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781516867066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C4MTswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C4MTswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C4MTswEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=C4MTswEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz_Annotated.html?hl=&id=C4MTswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C4MTswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was first published on July 1, 1913. In 1914, Baum adapted the book to film through his &quot;Oz Film Manufacturing Company."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Lf5oQEACAAJ",
+      "etag": "raPxYPwNpwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Lf5oQEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-10-28",
+        "description": "In this, the seventh book of L. Frank Baum's delightful Oz series, a living doll named Scraps and a Munchkin boy named Ojo set out to free Ojo's Uncle Nunkie from a dangerous magical spell that has turned him into a statue. This whimsical journey will delight fantasy fiction fans of all ages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1503004562"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781503004566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Lf5oQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Lf5oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5Lf5oQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5Lf5oQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz.html?hl=&id=5Lf5oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Lf5oQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this, the seventh book of L. Frank Baum&#39;s delightful Oz series, a living doll named Scraps and a Munchkin boy named Ojo set out to free Ojo&#39;s Uncle Nunkie from a dangerous magical spell that has turned him into a statue."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HUBmzgEACAAJ",
+      "etag": "7pfTmLMEhjQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HUBmzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-04-12",
+        "description": "The Patchwork Girl of Oz by L. Frank Baum is a children's novel, the 7th set in the Land of Oz. Characters include the Woozy, Ojo \"the Unlucky\", Unc Nunkie, Dr. Pipt, Scraps (the patchwork girl), and others. The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his \"Oz Film Manufacturing Company.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798736792610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HUBmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HUBmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HUBmzgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HUBmzgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz_Illustrated.html?hl=&id=HUBmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HUBmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his &quot;Oz Film Manufacturing Company.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ckq3zgEACAAJ",
+      "etag": "Aif0Vv9pmNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ckq3zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz-(illustrated Edition)",
+        "authors": [
+          "L. Frank L. Frank Baum"
+        ],
+        "publishedDate": "2021-08-31",
+        "description": "The Patchwork Girl of Oz by L. Frank Baum is a children's novel, the seventh in the Oz series. Characters include the Woozy, Ojo \"the Unlucky\", Unc Nunkie, Dr. Pipt, Scraps, and others. The book was first published on July 1, 1913, with illustrations by John R. Neill",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798468087602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ckq3zgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ckq3zgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz_illustrated_Edi.html?hl=&id=ckq3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ckq3zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Characters include the Woozy, Ojo &quot;the Unlucky&quot;, Unc Nunkie, Dr. Pipt, Scraps, and others. The book was first published on July 1, 1913, with illustrations by John R. Neill"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fkNlzgEACAAJ",
+      "etag": "MBSNk3UdST0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fkNlzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz (Annotated)",
+        "subtitle": "Fiction & Fantasy",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-04-05",
+        "description": "The Patchwork Girl of Oz by L. Frank Baum is a children's novel, the seventh in the Oz series. Characters include the Woozy, Ojo \"the Unlucky\", Unc Nunkie, Dr. Pipt, Scraps (the patchwork girl), and others. The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his \"Oz Film Manufacturing Company.\"In the previous Oz book, The Emerald City of Oz, magic was used to isolate Oz from all contact with the outside world. Baum did this to end the Oz series, but was forced to restart the series with this book due to financial hardship. In the prologue, he reconciles Oz's isolation with the appearance of a new Oz book by explaining that he contacted Dorothy in Oz via wireless telegraphy, and she obtained Ozma's permission to tell Baum this story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733225470"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fkNlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fkNlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fkNlzgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fkNlzgEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz_Annotated.html?hl=&id=fkNlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fkNlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his &quot;Oz Film Manufacturing Company."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LL1uzQEACAAJ",
+      "etag": "LFhpIVXatB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LL1uzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Patchwork Girl of Oz ILLUSTRATED",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-03-18",
+        "description": "The Patchwork Girl of Oz by L. Frank Baum is a children's novel, the seventh in the Oz series. Characters include the Woozy, Ojo \"the Unlucky\", Unc Nunkie, Dr. Pipt, Scraps (the patchwork girl), and others. The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his \"Oz Film Manufacturing Company.\"In the previous Oz book, The Emerald City of Oz, magic was used to isolate Oz from all contact with the outside world. Baum did this to end the Oz series, but was forced to restart the series with this book due to financial hardship.[1] In the prologue, he reconciles Oz's isolation with the appearance of a new Oz book by explaining that he contacted Dorothy in Oz via wireless telegraphy, and she obtained Ozma's permission to tell Baum this story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798627387512"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LL1uzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LL1uzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LL1uzQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LL1uzQEACAAJ&dq=L.+Frank+Baum+The+Patchwork+Girl+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Patchwork_Girl_of_Oz_ILLUSTRATED.html?hl=&id=LL1uzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LL1uzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was first published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum adapted the book to film through his &quot;Oz Film Manufacturing Company."
+      }
+    }
+  ]
+}

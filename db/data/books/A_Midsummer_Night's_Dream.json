@@ -1,0 +1,765 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "A2eMEGrq5msC",
+      "etag": "9O2mTZksN/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A2eMEGrq5msC",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2003-04-28",
+        "description": "The New Cambridge Shakespeare appeals to students worldwide for its up-to-date scholarship and emphasis on performance. The series features line-by-line commentaries and textual notes on the plays and poems. Introductions are regularly refreshed with accounts of new critical, stage and screen interpretations. This second edition of A Midsummer Night's Dream retains R. A. Foakes' text and has been extensively updated by him. In the Introduction to what is widely acknowledged as Shakespeare's most popular comedy, Foakes describes the two main traditions in the play's stage history, one emphasising charm and innocence, the other stressing darker suggestions of violence and sexuality. He shows that both are necessary to a full understanding of the play. For this edition the editor has added a new account of important theatrical productions and scholarly criticism on the play that have appeared in recent years. The reading list has also been revised and updated.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521532471"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521532477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A2eMEGrq5msC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A2eMEGrq5msC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A2eMEGrq5msC&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A2eMEGrq5msC&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Midsummer_Night_s_Dream.html?hl=&id=A2eMEGrq5msC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream-sample-pdf.acsm?id=A2eMEGrq5msC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A2eMEGrq5msC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introductions are regularly refreshed with accounts of new critical, stage and screen interpretations. This second edition of A Midsummer Night&#39;s Dream retains R. A. Foakes&#39; text and has been extensively updated by him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GUxBCgAAQBAJ",
+      "etag": "8VCn/LgjZC4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GUxBCgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream",
+        "subtitle": "Comedy by William Shakespeare",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "谷月社",
+        "publishedDate": "2015-07-28",
+        "description": "A Midsummer Night's Dream is a comedy play by William Shakespeare, believed to have been written between 1590 and 1597. It portrays the events surrounding the marriage of the Duke of Athens, Theseus, and Hippolyta. These include the adventures of four young Athenian lovers and a group of six amateur actors (mechanicals), who are controlled and manipulated by the fairies who inhabit the forest in which most of the play is set. The play is one of Shakespeare's most popular works for the stage and is widely performed across the world.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GUxBCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GUxBCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GUxBCgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GUxBCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GUxBCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.22,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GUxBCgAAQBAJ&rdid=book-GUxBCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2220000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream-sample-epub.acsm?id=GUxBCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream-sample-pdf.acsm?id=GUxBCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GUxBCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Midsummer Night&#39;s Dream is a comedy play by William Shakespeare, believed to have been written between 1590 and 1597."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lw90apjOgrIC",
+      "etag": "J2Qvz5F8BLY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lw90apjOgrIC",
+      "volumeInfo": {
+        "title": "William Shakespeare's A Midsummer Night's Dream",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "description": "Presents a collection of interpretations of William Shakespeare's comedy, A midsummer night's dream.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438132013"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438132018"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": [
+          "Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lw90apjOgrIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lw90apjOgrIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lw90apjOgrIC&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lw90apjOgrIC&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_A_Midsummer_Night.html?hl=&id=lw90apjOgrIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_A_Midsummer_Night-sample-epub.acsm?id=lw90apjOgrIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/William_Shakespeare_s_A_Midsummer_Night-sample-pdf.acsm?id=lw90apjOgrIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lw90apjOgrIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a collection of interpretations of William Shakespeare&#39;s comedy, A midsummer night&#39;s dream."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gd1sPwAACAAJ",
+      "etag": "WRo8oHql1iU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gd1sPwAACAAJ",
+      "volumeInfo": {
+        "title": "Midsummer Night's Dream",
+        "authors": [
+          "Albert Cullum",
+          "William Shakespeare"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0590314610"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780590314619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "categories": [
+          "English drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gd1sPwAACAAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gd1sPwAACAAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Midsummer_Night_s_Dream.html?hl=&id=gd1sPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gd1sPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4EAgAQAAIAAJ",
+      "etag": "hzo7vnjmcps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4EAgAQAAIAAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream, William Shakespeare",
+        "authors": [
+          "Linda Cookson",
+          "Bryan Loughrey"
+        ],
+        "publisher": "Longman Publishing Group",
+        "publishedDate": "1991",
+        "description": "Performance of Shakespeare's \"A Midsummer Night's Dream\", part of the 1990 Adelaide Festival of Arts, directed by Glenn Elston, music by Michael Barker, costume design by Laurel Frank and Wiggy Brennan, cast members listed are: Michael Barker, Jane Bayly, Alan Clarke, Maude Davey, Russell Fletcher, Simon Hughes, Roger Selleck, Phil Sumner, Doris Younane, Caitlin Morris and David Wicks.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105043294334"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4EAgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4EAgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4EAgAQAAIAAJ&q=William+Shakespeare+A+Midsummer+Night%27s+Dream&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4EAgAQAAIAAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Midsummer_Night_s_Dream_William_Shakes.html?hl=&id=4EAgAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4EAgAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Performance of Shakespeare&#39;s &quot;A Midsummer Night&#39;s Dream&quot;, part of the 1990 Adelaide Festival of Arts, directed by Glenn Elston, music by Michael Barker, costume design by Laurel Frank and Wiggy Brennan, cast members listed are: Michael ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "11b2zQEACAAJ",
+      "etag": "469y2Dil+2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11b2zQEACAAJ",
+      "volumeInfo": {
+        "title": "William Shakespeare's A Midsummer Night's Dream",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:772805091"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=11b2zQEACAAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=11b2zQEACAAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare_s_A_Midsummer_Night.html?hl=&id=11b2zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=11b2zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gl8tEAAAQBAJ",
+      "etag": "smCBuBatLt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gl8tEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream: The Oxford Shakespeare",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2008-04-17",
+        "description": "A Midsummer Night's Dream is perhaps the best loved of Shakepeare's plays. It brings together aristocrats, workers, and fairies in a wood outside Athens, and from there the enchantment begins. Simple and engaging on the surface, it is none the less a highly original and sophisticated work, remarkable for both its literary and its theatrical mastery. It is one of the very few of Shakespeare's plays which do not draw on narrative sources, which suggests that it reflects his deepest imaginative concerns to an unusual degree. In his introduction Peter Holland pays particular attention to dreams and dreamers, and to Shakespeare's construction of a world of night and shadows. Both here and in his commentary he explores the play's extensive performance history to illustrate the wide range of interpretations of which it is capable. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192655882"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192655884"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gl8tEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gl8tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Gl8tEAAAQBAJ&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Gl8tEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Gl8tEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.2,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Gl8tEAAAQBAJ&rdid=book-Gl8tEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4000000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3200000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream_The_Oxford_Sha-sample-pdf.acsm?id=Gl8tEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gl8tEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KJ9UDwAAQBAJ",
+      "etag": "TWgfNr9a558",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KJ9UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream by William Shakespeare",
+        "authors": [
+          "Dr. Lisa Marie Portugal"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2018-04-03",
+        "description": "A Midsummer Night's Dream By William Shakespeare This edition was created and published by Dr. Lisa Marie Portugal, 2018 To order books in bulk or single copy by the Editor and Publisher contact: Dr. Lisa Marie Portugal Email: lisamarieportugal@msn.com Websites: Find Dr. Lisa Marie Portugal on Lulu & Weebly Telephone: 602-434-3562 Phoenix, Arizona School discounts available. Classics, anthologies, and unique, personalized compilations can be created and ordered based on your specifications and individual needs. When you are born in a world you donÕt fit in, itÕs because you were born to help create a new one.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781387702794"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1387702793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KJ9UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KJ9UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KJ9UDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KJ9UDwAAQBAJ&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Midsummer_Night_s_Dream_by_William_Sha.html?hl=&id=KJ9UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream_by_William_Sha-sample-pdf.acsm?id=KJ9UDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KJ9UDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Midsummer Night&#39;s Dream By William Shakespeare This edition was created and published by Dr. Lisa Marie Portugal, 2018 To order books in bulk or single copy by the Editor and Publisher contact: Dr. Lisa Marie Portugal Email: ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G_QrDwAAQBAJ",
+      "etag": "/so9NP6+GV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G_QrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream",
+        "subtitle": "Third Series",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2017-07-27",
+        "description": "The Arden Shakespeare is the established edition of Shakespeare's work. Justly celebrated for its authoritative scholarship and invaluable commentary, Arden editions guide you to a richer understanding and appreciation of Shakespeare's plays. This edition of A Midsummer Night's Dream provides a clear and authoritative text, detailed notes and commentary on the same page as the text and a full introduction discussing the critical and historical background to the play. The editor brings fresh perspectives on global productions and adaptations of this most-loved of Shakespeare's comedies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408142776"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408142775"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G_QrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G_QrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=G_QrDwAAQBAJ&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G_QrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G_QrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.09,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.42,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G_QrDwAAQBAJ&rdid=book-G_QrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8090000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5420000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream-sample-epub.acsm?id=G_QrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Midsummer_Night_s_Dream-sample-pdf.acsm?id=G_QrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G_QrDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition of A Midsummer Night&#39;s Dream provides a clear and authoritative text, detailed notes and commentary on the same page as the text and a full introduction discussing the critical and historical background to the play."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J2OVi8Gm8boC",
+      "etag": "KXb/KEnK/ns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J2OVi8Gm8boC",
+      "volumeInfo": {
+        "title": "Shakespeare's A Midsummer-night's Dream",
+        "subtitle": "With Introduction, and Notes Explanatory and Critical. For Use in Schools and Families",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108003522417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J2OVi8Gm8boC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J2OVi8Gm8boC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=J2OVi8Gm8boC&printsec=frontcover&dq=William+Shakespeare+A+Midsummer+Night%27s+Dream&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J2OVi8Gm8boC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J2OVi8Gm8boC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=J2OVi8Gm8boC&rdid=book-J2OVi8Gm8boC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Shakespeare_s_A_Midsummer_night_s_Dream.epub?id=J2OVi8Gm8boC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J2OVi8Gm8boC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "kKM6DAAAQBAJ",
+      "etag": "Nw4xWI3JBCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kKM6DAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Jungle",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2016-04-20",
+        "description": "The Jungle by Upton Sinclair from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “The great corporation which employed you lied to you, and lied to the whole country—from top to bottom it was nothing but one gigantic lie.” ― Upton Sinclair, The Jungle Upton’s Sinclair’s classic novel changed the American relationship with food and used its illumination of the horrors of the meat packing industry to indict the evil of American society.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681959757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1681959755"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kKM6DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kKM6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kKM6DAAAQBAJ&printsec=frontcover&dq=Upton+Sinclair+The+Jungle&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kKM6DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kKM6DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.42,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.42,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kKM6DAAAQBAJ&rdid=book-kKM6DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7420000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7420000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jungle-sample-epub.acsm?id=kKM6DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jungle-sample-pdf.acsm?id=kKM6DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kKM6DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Jungle by Upton Sinclair from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “The great corporation which employed you lied to you, and lied to the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8UtbAAAAMAAJ",
+      "etag": "miFXr6wXjV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8UtbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Lost First Edition of Upton Sinclair's The Jungle",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publisher": "St. Luke's Press",
+        "publishedDate": "1988",
+        "description": "The horrifying conditions in the meatpacking industry in the early 1900's are revealed through the experiences of immigrants as they try to make a living by working in the Chicago stockyards.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014731171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8UtbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8UtbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8UtbAAAAMAAJ&q=Upton+Sinclair+The+Jungle&dq=Upton+Sinclair+The+Jungle&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8UtbAAAAMAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_First_Edition_of_Upton_Sinclair.html?hl=&id=8UtbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8UtbAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The horrifying conditions in the meatpacking industry in the early 1900&#39;s are revealed through the experiences of immigrants as they try to make a living by working in the Chicago stockyards."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oahbvNBFr_sC",
+      "etag": "riBkTbShLLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oahbvNBFr_sC",
+      "volumeInfo": {
+        "title": "The Jungle - Upton Sinclair",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2009",
+        "description": "Upton Sinclair's The Jungle not only drew attention from the likes of Winston Churchill and President Theodore Roosevelt-it drew action. The novel's depiction of what takes place in a meat-processing plant pressed the U.S. government into tak",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438113975"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438113978"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oahbvNBFr_sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oahbvNBFr_sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oahbvNBFr_sC&printsec=frontcover&dq=Upton+Sinclair+The+Jungle&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oahbvNBFr_sC&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle_Upton_Sinclair.html?hl=&id=oahbvNBFr_sC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jungle_Upton_Sinclair-sample-epub.acsm?id=oahbvNBFr_sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Jungle_Upton_Sinclair-sample-pdf.acsm?id=oahbvNBFr_sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oahbvNBFr_sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel&#39;s depiction of what takes place in a meat-processing plant pressed the U.S. government into tak"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s4c4ngEACAAJ",
+      "etag": "jF3XL74aJGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s4c4ngEACAAJ",
+      "volumeInfo": {
+        "title": "Upton Sinclair's the Jungle",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publishedDate": "2013-06-26",
+        "description": "Upton Sinclair's The Jungle is one of the few books that truly changed the world. In The Jungle, Upton Sinclair tells the story of a fictional character Jurgis Rudkus and his family trying to survive as immigrants in the terribly all-too-real working conditions of the meatpacking district in Chicago.Besides weaving a fantastic story, Upton Sinclair also changed the world. Following the publication of The Jungle, the Meat Inspection Act and the Pure Food and Drug Act of 1906 were passed. Read this fantastic and world-changing story, The Jungle by Upton Sinclair today!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1490535896"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781490535890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s4c4ngEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s4c4ngEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Upton_Sinclair_s_the_Jungle.html?hl=&id=s4c4ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s4c4ngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Upton Sinclair&#39;s The Jungle is one of the few books that truly changed the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YX26tAEACAAJ",
+      "etag": "b8wrrcpVqTA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YX26tAEACAAJ",
+      "volumeInfo": {
+        "title": "The Jungle",
+        "subtitle": "By Upton Sinclair - Illustrated",
+        "authors": [
+          "Upton Upton Sinclair"
+        ],
+        "publishedDate": "2017-07-25",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Jungle by Upton Sinclair The Jungle is a novel written by the American journalist and novelist Upton Sinclair. Sinclair wrote the novel to portray the harsh conditions and exploited lives of meat packing industries in the United States in Chicago and similar industrialized cities. However, most readers were more concerned with his exposure of health violations and unsanitary practices in the American meatpacking industry during the early 20th century, greatly contributing to a public outcry which led to reforms including the Meat Inspection Act. Sinclair famously said of the public reaction \"I aimed at the public's heart, and by accident I hit it in the stomach.\" The book depicts working class poverty, the lack of social supports, harsh and unpleasant living and working conditions, and a hopelessness among many workers. These elements are contrasted with the deeply rooted corruption of people in power. A review by the writer Jack London called it \"the Uncle Tom's Cabin of wage slavery.\" Sinclair was considered a muckraker, or journalist who exposed corruption in government and business. In 1904, Sinclair had spent seven weeks gathering information while working incognito in the meatpacking plants of the Chicago stockyards for the newspaper. He first published the novel in serial form in 1905 in the Socialist newspaper Appeal to Reason and it was published as a book by Doubleday in 1906. Plot: The main character in the book is Jurgis Rudkus, a Lithuanian immigrant trying to make ends meet in Chicago. The book begins with his and Ona's wedding feast. He and his family live near the stockyards and meatpacking district, where many immigrants work who do not know much English. He takes a job at Brown's slaughterhouse. Rudkus had thought the US would offer more freedom, but he finds working conditions harsh. He and his young wife struggle to survive. They fall deeply into debt and are prey to con men. Hoping to buy a house, they exhaust their savings on the down-payment for a sub-standard slum house, which they cannot afford. The family is eventually evicted after their money is taken.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152193312X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521933121"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YX26tAEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YX26tAEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle.html?hl=&id=YX26tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YX26tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The Jungle by Upton Sinclair The Jungle is a novel written by the American journalist and novelist Upton Sinclair."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AWexngEACAAJ",
+      "etag": "hBuEhwW8il0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AWexngEACAAJ",
+      "volumeInfo": {
+        "title": "The Jungle Upton Sinclair",
+        "subtitle": "First Edition",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publishedDate": "1906-02-26",
+        "description": "The Jungle is a 1906 novel by the American journalist and novelist Upton Sinclair (1878-1968).Sinclair wrote the novel to portray the harsh conditions and exploited lives of immigrants in the United States in Chicago and similar industrialized cities. His primary purpose in describing the meat industry and its working conditions was to advance socialism in the United States. However, most readers were more concerned with several passages exposing health violations and unsanitary practices in the American meat packing industry during the early 20th century, which greatly contributed to a public outcry which led to reforms including the Meat Inspection Act. Sinclair famously said of the public reaction, \"I aimed at the public's heart, and by accident I hit it in the stomach.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2382260173"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382260173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AWexngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AWexngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=AWexngEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=AWexngEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle_Upton_Sinclair.html?hl=&id=AWexngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AWexngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Jungle is a 1906 novel by the American journalist and novelist Upton Sinclair (1878-1968).Sinclair wrote the novel to portray the harsh conditions and exploited lives of immigrants in the United States in Chicago and similar ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9qu7SX_brhUC",
+      "etag": "T0od5kXg+/I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9qu7SX_brhUC",
+      "volumeInfo": {
+        "title": "The Jungle",
+        "subtitle": "A Penguin Enriched eBook Classic",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2008-11-25",
+        "description": "Upton Sinclair's dramatic and deeply moving story exposed the brutal conditions in the Chicago stockyards at the turn of the nineteenth century and brought into sharp moral focus the appalling odds against which immigrants and other working people struggled for their share of the American dream. Denounced by the conservative press as an un-American libel on the meatpacking industry, the book was championed by more progressive thinkers, including then President Theodore Roosevelt, and was a major catalyst to the passing of the Pure Food and Meat Inspection act, which has tremendous impact to this day. Enriched eBook Features Editor Jonathan Beecher Field provides the following specially commissioned features for this Enriched eBook Classic: * Chronology * Filmography (and the 1914 The Jungle Film Poster) * Early Twentieth-Century Reviews of The Jungle * Suggestions for Further Reading * The Jungle and the Pure Food and Drug Act of 1906 * The Jungle Book Cover Designs * Federal Food and Drugs Act of 1906 * Immigrants and the Meatpacking Industry, Then and Now * Images of the Chicago Stockyards * Images of Cuts of Beef and Pork * Enriched eBook Notes The enriched eBook format invites readers to go beyond the pages of these beloved works and gain more insight into the life and times of an author and the period in which the book was originally written for a rich reading experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440656668"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440656665"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9qu7SX_brhUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9qu7SX_brhUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9qu7SX_brhUC&dq=Upton+Sinclair+The+Jungle&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9qu7SX_brhUC&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle.html?hl=&id=9qu7SX_brhUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9qu7SX_brhUC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Enriched eBook Features Editor Jonathan Beecher Field provides the following specially commissioned features for this Enriched eBook Classic: * Chronology * Filmography (and the 1914 The Jungle Film Poster) * Early Twentieth-Century Reviews ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iqD2feH0XYMC",
+      "etag": "xSQNzDSrPd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iqD2feH0XYMC",
+      "volumeInfo": {
+        "title": "The Jungle",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-05",
+        "description": "\"Includes detailed explanatory notes, an overview of key themes, and more\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743487627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743487621"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 481,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iqD2feH0XYMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iqD2feH0XYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iqD2feH0XYMC&printsec=frontcover&dq=Upton+Sinclair+The+Jungle&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iqD2feH0XYMC&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle.html?hl=&id=iqD2feH0XYMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iqD2feH0XYMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Includes detailed explanatory notes, an overview of key themes, and more&quot;--Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U58nzgEACAAJ",
+      "etag": "ukPVfEpcXE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U58nzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Jungle BY Upton Sinclair ( Classics Illustrated )",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-01-16",
+        "description": "The Jungle is a 1906 novel written by the American journalist and novelist Upton Sinclair (1878-1968). Sinclair wrote the novel to portray the harsh conditions and exploited lives of immigrants in the United States in Chicago and similar industrialized cities. However, most readers were more concerned with his exposure of health violations and unsanitary practices in the American meatpacking industry during the early 20th century, based on an investigation he did for a socialist newspaper.The book depicts working class poverty, the lack of social supports, harsh and unpleasant living and working conditions, and a hopelessness among many workers. These elements are contrasted with the deeply rooted corruption of people in power. A review by the writer Jack London called it, \"the Uncle Tom's Cabin of wage slavery\".Sinclair was considered a muckraker, or journalist who exposed corruption in government and business.He first published the novel in serial form in 1905, in the Socialist newspaper, Appeal to Reason, between February 25, 1905 and November 4, 1905. In 1904, Sinclair had spent seven weeks gathering information while working incognito in the meatpacking plants of the Chicago stockyards for the newspaper. It was published as a book on February 26, 1906, by Doubleday and in a subscribers' edition.A film version of the novel was made in 1914, but it has since become lost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798595660990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U58nzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U58nzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=U58nzgEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U58nzgEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle_BY_Upton_Sinclair_Classics_Il.html?hl=&id=U58nzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U58nzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sinclair wrote the novel to portray the harsh conditions and exploited lives of immigrants in the United States in Chicago and similar industrialized cities."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OZTRygEACAAJ",
+      "etag": "zT1Bj4eLT68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OZTRygEACAAJ",
+      "volumeInfo": {
+        "title": "The Jungle",
+        "subtitle": "Upton Sinclair Novel",
+        "authors": [
+          "Upton Sinclair"
+        ],
+        "publishedDate": "2019-09-30",
+        "description": "A manifesto for social change, The Jungle savagely reveals the American dream gone sour. Sinclair strips away the myth of America as a boon to the tired, the poor, the huddled masses yearning to breathe free. Instead, the golden land of manifest destiny is shown to be a Dickensian nightmare, where wage slaves can barely survive, where powerless immigrants are chewed up by a capitalist machine oiled by corruption and bald greed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1696485630"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781696485630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 435,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OZTRygEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OZTRygEACAAJ&dq=Upton+Sinclair+The+Jungle&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jungle.html?hl=&id=OZTRygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OZTRygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A manifesto for social change, The Jungle savagely reveals the American dream gone sour. Sinclair strips away the myth of America as a boon to the tired, the poor, the huddled masses yearning to breathe free."
+      }
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3G9XMQAACAAJ",
+      "etag": "tny3lwuUXA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3G9XMQAACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It (1902) Children's Novel by",
+        "subtitle": "Edith Nesbit (Illustrated)",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-01-23",
+        "description": "Five Children and It is a children's novel by English author E. Nesbit. It was first published as a book in 1902, having been expanded from a series of stories published in the Strand Magazine in 1900 under the general title The Psammead, or the Gifts. It is the first volume of a trilogy that includes The Phoenix and the Carpet (1904) and The Story of the Amulet (1906). The book has never been out of print since its initial publication.Like Nesbit's The Railway Children, the story begins when a group of children move from London to the countryside of Kent. The five children - Cyril, Anthea, Robert, Jane, and their baby brother, known as the Lamb - are playing in a gravel pit when they uncover a rather grumpy, ugly, and occasionally malevolent Psammead or sand-fairy, who has the ability to grant wishes. He persuades the children to take one wish each day to be shared among them, with the caveat that the wishes will turn to stone at sunset. This, apparently, used to be the rule in the Stone Age,",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542702445"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542702447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3G9XMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3G9XMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3G9XMQAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3G9XMQAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It_1902_Children_s_Nov.html?hl=&id=3G9XMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3G9XMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book has never been out of print since its initial publication.Like Nesbit&#39;s The Railway Children, the story begins when a group of children move from London to the countryside of Kent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-YMwuwEACAAJ",
+      "etag": "AYLdWg5DqRQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-YMwuwEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-27",
+        "description": "To Cyril, Anthea, Robert, Jane, and their baby brother, the house in the country promises a summer of freedom and play. But when they accidently uncover an accident Psammead--or Sand-fairy--who has the power to make wishes come true, they find themselves having the holiday of a lifetime, sharing one thrilling adventure after another. Asleep since dinosaurs roamed the earth, the ill-tempered, odd--looking Psammead --with his spider-shaped body, bat's ears, and snail's eyes --grudgingly agrees to grant the children one wish per day. Soon, though the children discover that their wishes have a tendancy to turn out quite differnetly than expected. Whatever they wish whether it's to fly like a bird, live in a mighty castle, or have an immense fortune --something goes terribly wrong, hilariously wrong. Then an accidental wish has horrible consequences, and the children are faced with a difficult choice: to let an innoncent manbe charged with a crime or to lose for all time their gift of magical wishes. Five Children and It is one of E. Nesbit's most beloved tales of enchantment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1726261158"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726261159"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-YMwuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-YMwuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=-YMwuwEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=-YMwuwEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It.html?hl=&id=-YMwuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-YMwuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Five Children and It is one of E. Nesbit&#39;s most beloved tales of enchantment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R5nXzwEACAAJ",
+      "etag": "eWMdvKe33pk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R5nXzwEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children And It",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9357277846"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789357277846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R5nXzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R5nXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R5nXzwEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=R5nXzwEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_And_It.html?hl=&id=R5nXzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R5nXzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since its initial release, the book has never been out of print. The novel opens with a group of kids moving from London to the Kent countryside, much like Nesbit&#39;s The Railway Children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gzhdvgAACAAJ",
+      "etag": "WTKuzWOSQNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gzhdvgAACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It",
+        "subtitle": "Illustrated",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-01",
+        "description": "Five Children and It is a children's novel by English author E. Nesbit. It was first published as a book in 1902, having been expanded from a series of stories published in the Strand Magazine in 1900 under the general title The Psammead, or the Gifts. Edith Nesbit (1858-1924) wrote or collaborated on more than 60 books of fiction for children. The story begins when a group of children move from London to the countryside of Kent. The five children - Cyril, Anthea, Robert, Jane, and their baby brother, known as the Lamb - are playing in a gravel pit when they uncover a rather grumpy, ugly, and occasionally malevolent Psammead or sand-fairy, who has the ability to grant wishes. He persuades the children to take one wish each day to be shared among them, with the caveat that the wishes will turn to stone at sunset. This, apparently, used to be the rule in the Stone Age, when all that children wished for was food, the bones of which then became fossils. The five children's first wish is to be \"as beautiful as the day.\" The wish ends at sunset and its effects simply vanish, leading the Psammead to observe that some wishes are too fanciful to be changed to stone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153741500X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537415000"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gzhdvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gzhdvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gzhdvgAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gzhdvgAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It.html?hl=&id=gzhdvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gzhdvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edith Nesbit (1858-1924) wrote or collaborated on more than 60 books of fiction for children. The story begins when a group of children move from London to the countryside of Kent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "17ePzgEACAAJ",
+      "etag": "7zlWs0G1TN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/17ePzgEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It by Edith Nesbit",
+        "subtitle": "With Original Annotated",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publishedDate": "2021-07-05",
+        "description": "The five children find a cantankerous sand fairy, a psammead, in a gravel pit. Every day 'It' will grant each of them a wish that lasts until sunset, often with disastrous consequences. Never out of print since 1902. The Introduction to this edition examines Nesbit's life and her reading, showing the change in childrens' literature from Victorian times.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798532273016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=17ePzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=17ePzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It_by_Edith_Nesbit.html?hl=&id=17ePzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=17ePzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Never out of print since 1902. The Introduction to this edition examines Nesbit&#39;s life and her reading, showing the change in childrens&#39; literature from Victorian times."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3msfzgEACAAJ",
+      "etag": "KOf0B/1Qkeg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3msfzgEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It Illustrated",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-12-25",
+        "description": "Five Children and It is a children's novel by English author E. Nesbit. It was originally published in 1902 in the Strand Magazine under the general title The Psammead, or the Gifts, with a segment appearing each month from April to December. The stories were then expanded into a novel which was published the same year. It is the first volume of a trilogy that includes The Phoenix and the Carpet (1904) and The Story of the Amulet (1906). The book has never been out of print since its initial publication. Like Nesbit's The Railway Children, the story begins when a group of children move from London to the countryside of Kent. The five children - Cyril, Anthea, Robert, Jane, and their baby brother, known as the Lamb - are playing in a gravel pit when they uncover a rather grumpy, ugly, and occasionally malevolent Psammead, a sand-fairy with ability to grant wishes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798586596369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3msfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3msfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=3msfzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=3msfzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It_Illustrated.html?hl=&id=3msfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3msfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book has never been out of print since its initial publication. Like Nesbit&#39;s The Railway Children, the story begins when a group of children move from London to the countryside of Kent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2vUnzgEACAAJ",
+      "etag": "todUu0Gi8NM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2vUnzgEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It",
+        "subtitle": "Annotated",
+        "authors": [
+          "Edith Nesbit"
+        ],
+        "publishedDate": "2020-12-31",
+        "description": "Five Children and It is a children's novel by English author E. Nesbit. It was originally published in 1902 in the Strand Magazine under the general title The Psammead, or the Gifts, with a segment appearing each month from April to December. The stories were then expanded into a novel that was published the same year. It is the first volume of a trilogy that includes The Phoenix and the Carpet (1904) and The Story of the Amulet (1906). The book has never been out of print since its initial publication. Like Nesbit's The Railway Children, the story begins when a group of children moves from London to the countryside of Kent. The five children - Cyril, Anthea, Robert, Jane, and their baby brother, known as the Lamb - are playing in a gravel pit when they uncover a rather grumpy, ugly, and occasionally malevolent Psammead, a sand-fairy with the ability to grant wishes. The Psammead persuades the children to take one wish each day to be shared among them, with the caveat that the wishes will turn to stone at sunset. This, apparently, used to be the rule in the Stone Age, when all that children wished for was food, the bones of which then became fossils. The five children's first wish is to be \"as beautiful as the day\". The wish ends at sunset and its effects simply vanish, leading the Psammead to observe that some wishes are too fanciful to be changed to stone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798589048261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2vUnzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2vUnzgEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It.html?hl=&id=2vUnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2vUnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book has never been out of print since its initial publication. Like Nesbit&#39;s The Railway Children, the story begins when a group of children moves from London to the countryside of Kent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x_87EAAAQBAJ",
+      "etag": "GXOTATtKVfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x_87EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Five Children and It (HarperCollins Children’s Classics)",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2021-09-30",
+        "description": "This beautiful HarperCollins Children’s Classics edition of E. Nesbit’s Five Children and It is the perfect addition to any bookshelf.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780008514334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "000851433X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x_87EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x_87EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=x_87EAAAQBAJ&printsec=frontcover&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x_87EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x_87EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x_87EAAAQBAJ&rdid=book-x_87EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Five_Children_and_It_HarperCollins_Child-sample-epub.acsm?id=x_87EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x_87EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This beautiful HarperCollins Children’s Classics edition of E. Nesbit’s Five Children and It is the perfect addition to any bookshelf."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pJ2rnQAACAAJ",
+      "etag": "oDhmzEhUQB4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pJ2rnQAACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It",
+        "subtitle": "By E. Nesbit - Illustrated",
+        "authors": [
+          "E. E. Nesbit"
+        ],
+        "publishedDate": "2017-02-18",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Formatted for e-reader Illustrated About Five Children And It by E. Nesbit Five Children and It is a children's novel by English author E. Nesbit. Like Nesbit's The Railway Children, the story begins when a group of children move from London to the countryside of Kent. The five children - Cyril, Anthea, Robert, Jane, and their baby brother, known as the Lamb - are playing in a gravel pit when they uncover a rather grumpy, ugly, and occasionally malevolent Psammead or sand-fairy, who has the ability to grant wishes. He persuades the children to take one wish each day to be shared among them, with the caveat that the wishes will turn to stone at sunset. This, apparently, used to be the rule in the Stone Age, when all that children wished for was food, the bones of which then became fossils. The five children's first wish is to be \"as beautiful as the day\". The wish ends at sunset and its effects simply vanish, leading the Psammead to observe that some wishes are too fanciful to be changed to stone. All the wishes go comically wrong. The children wish to be beautiful, but the servants do not recognise them and shut them out of the house. They wish to be rich, then find themselves with a gravel-pit full of gold spade guineas that no shop will accept as they are no longer in circulation, so they can't buy anything. A wish for wings seems to be going well, but at sunset the children find themselves stuck on top of a church bell tower with no way down, getting them into trouble with the gamekeeper who must take them home (though this wish has the happy side-effect of introducing the gamekeeper to the children's housemaid, who later marries him). Robert is bullied by the baker's boy, then wishes that he was bigger -- whereupon he becomes eleven feet tall, and the other children show him at a travelling fair for coins. They also wish themselves into a castle, only to learn that it is being besieged, while a wish to meet real Red Indians ends with the children nearly being scalped.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520640846"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520640846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pJ2rnQAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pJ2rnQAACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It.html?hl=&id=pJ2rnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pJ2rnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s9IctAEACAAJ",
+      "etag": "8wYjL7BKKts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s9IctAEACAAJ",
+      "volumeInfo": {
+        "title": "Five Children and It - Classic Book",
+        "authors": [
+          "E. Nesbit"
+        ],
+        "publishedDate": "2017-06-28",
+        "description": "Whilst out playing in the countryside, five children come across a Psammead called 'It' - a cantankerous little sand fairy who agrees to grant them one wish every day, though its effects will only last until sunset. The possibilities seem endless to the adventurous siblings but whatever their wishes, whether it's having piles of money, growing wings, or disposing of their annoying infant brother, their days never seem to go as planned. Indeed, the consequences of all their wishes lead the children into many thrilling and often hilarious escapades. Edith Nesbit was inspired by her own five children to write this enchanting novel, and its warm and funny portrayal of a magical childhood has ensured its presence in print ever since. This beautifully illustrated Macmillan Collector's Library edition of Five Children and It features the drawings of H. R. Millar, and an afterword by writer, critic and broadcaster Nicolette Jones. Designed to appeal to the book lover, the Macmillan Collector's Library is a series of beautiful gift editions of much loved classic titles. Macmillan Collector's Library are books to love and treasure",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548416886"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548416881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s9IctAEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s9IctAEACAAJ&dq=Edith+Nesbit+Five+Children+and+It&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Five_Children_and_It_Classic_Book.html?hl=&id=s9IctAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s9IctAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edith Nesbit was inspired by her own five children to write this enchanting novel, and its warm and funny portrayal of a magical childhood has ensured its presence in print ever since."
+      }
+    }
+  ]
+}

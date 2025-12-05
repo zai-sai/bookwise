@@ -1,0 +1,652 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OJ9etgEACAAJ",
+      "etag": "6dXeoPXPNGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OJ9etgEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd by Edward Phillips Oppenheim",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publishedDate": "2018-04-21",
+        "description": "The Evil Shepherd by Edward Phillips Oppenheim",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717237436"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717237439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OJ9etgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OJ9etgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd_by_Edward_Phillips_Opp.html?hl=&id=OJ9etgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OJ9etgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Evil Shepherd by Edward Phillips Oppenheim"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "058gtAEACAAJ",
+      "etag": "aQrMLjudmOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/058gtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd by Edward Phillips Oppenheim",
+        "authors": [
+          "Edward Oppenheim"
+        ],
+        "publishedDate": "2017-10-17",
+        "description": "The Evil Shepherd by Edward Phillips Oppenheim",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978365160"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978365162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=058gtAEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=058gtAEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd_by_Edward_Phillips_Opp.html?hl=&id=058gtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=058gtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Evil Shepherd by Edward Phillips Oppenheim"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lb24zgEACAAJ",
+      "etag": "M1RXIEJGfXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lb24zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd",
+        "authors": [
+          "Edward Oppenheim"
+        ],
+        "publishedDate": "2021-10-10",
+        "description": "The evil shepherd From Edward Phillips Oppenheim",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798457315013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lb24zgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lb24zgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd.html?hl=&id=lb24zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lb24zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The evil shepherd From Edward Phillips Oppenheim"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0YeOzgEACAAJ",
+      "etag": "1GWwUcewXTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0YeOzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd Edward Phillips Oppenheim (Illustrated)",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publishedDate": "2021-04-15",
+        "description": "\"The Evil Shepherd\" by E. Phillips Oppenheim. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798738260858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0YeOzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0YeOzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd_Edward_Phillips_Oppenh.html?hl=&id=0YeOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0YeOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Good Press publishes a wide range of titles that encompasses every genre. From well-known classics &amp; literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bFAKvQEACAAJ",
+      "etag": "nwzJhUwfHLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bFAKvQEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd.",
+        "subtitle": "Illustrated",
+        "authors": [
+          "E. Phillips Oppenheim",
+          "ernest fuhr ernest fuhr 1874-1933"
+        ],
+        "publishedDate": "2018-05-25",
+        "description": "Edward Phillips Oppenheim (22 October 1866 - 3 February 1946) was an English novelist, in his lifetime a major and successful writer of genre fiction including thrillers.Edward Phillips Oppenheim was born 22 October 1866 in Leicester, the son of Henrietta Susannah Temperley Budd and Edward John Oppenheim, a leather merchant. He worked in his father's business for almost twenty years. He went to Wyggeston Grammar School.Oppenheim's literary success enabled him to buy a villa in France and a yacht, then a house in Guernsey, though he lost access to this during the Second World War. Afterwards he regained the house, le Vanquiédor in St. Peter Port, and he died there on 3 February 1946",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1719599327"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781719599320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bFAKvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bFAKvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bFAKvQEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bFAKvQEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd.html?hl=&id=bFAKvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bFAKvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edward Phillips Oppenheim (22 October 1866 - 3 February 1946) was an English novelist, in his lifetime a major and successful writer of genre fiction including thrillers.Edward Phillips Oppenheim was born 22 October 1866 in Leicester, the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZB0yvgAACAAJ",
+      "etag": "KfP2z4C3EIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZB0yvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-08",
+        "description": "The Evil Shepherd By Edward Phillips Oppenheim",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536959510"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536959512"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZB0yvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZB0yvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZB0yvgAACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZB0yvgAACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd.html?hl=&id=ZB0yvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZB0yvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Evil Shepherd By Edward Phillips Oppenheim"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NnjJzgEACAAJ",
+      "etag": "tX1yLPttrBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NnjJzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd",
+        "subtitle": "Edward Phillips Oppenheim (Fiction, Classic, Story, Literary) [Annotated]",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publishedDate": "2021-11-22",
+        "description": "A novel of English life of a melodramatic character, so fascinating and so stirring that the most hardened reader can hardly fail to receive a series of thrills.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798771671673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NnjJzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NnjJzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd.html?hl=&id=NnjJzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NnjJzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A novel of English life of a melodramatic character, so fascinating and so stirring that the most hardened reader can hardly fail to receive a series of thrills."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_0NmzgEACAAJ",
+      "etag": "wppe13CvxwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_0NmzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd Illustrated",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publishedDate": "2021-04-15",
+        "description": "\"A former defense attorney turned righteous crusader is the hero of this blockbuster novel from an early master of the thriller genreA businessman is found stabbed through the heart, the obvious suspect his partner: Oliver Hilditch, a cold-eyed fellow with a paper-thin alibi. Hilditch seems destined for the gallows, but he is saved by brilliant defense attorney Francis Ledsam, who uses every legal trick he knows to free his client. It is a defense to be proud of, but Ledsam's joy vanishes when Hilditch's wife informs him that her husband is guilty of crimes far more monstrous than murder. His faith in his career shaken, Ledsam vows never again to defend a guilty man. But when his newfound principles run up against the harsh reality of real-world justice, he finds himself trapped between his love for a beautiful woman and a powerful desire to do the right thing-no matter the cost\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798738761003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_0NmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_0NmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_0NmzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_0NmzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd_Illustrated.html?hl=&id=_0NmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_0NmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A former defense attorney turned righteous crusader is the hero of this blockbuster novel from an early master of the thriller genreA businessman is found stabbed through the heart, the obvious suspect his partner: Oliver Hilditch, a cold ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I8bZzgEACAAJ",
+      "etag": "cy6TNtRmvks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I8bZzgEACAAJ",
+      "volumeInfo": {
+        "title": "Edward Phillips Oppenheim: the Evil Shepherd (Superb Classics Illustrated Edition)",
+        "authors": [
+          "Edward Phillips Oppenheim"
+        ],
+        "publishedDate": "2021-08-06",
+        "description": "the most hardened reader can hardly fail to receive a series of thrills. A former defense attorney turned righteous crusader is the hero of this blockbuster novel from an early master of the thriller genre.A businessman is found stabbed through the heart, the obvious suspect his partner: Oliver Hilditch, a cold-eyed fellow with a paper-thin alibi. Hilditch seems destined for the gallows, but he is saved by brilliant defense attorney Francis Ledsam, who uses every legal trick he knows to free his client. It is a defense to be proud of, but Ledsam's joy vanishes when Hilditch's wife informs him that her husband is guilty of crimes far more monstrous than murder.His faith in his career shaken, Ledsam vows never again to defend a guilty man. But when his newfound principles run up against the harsh reality of real-world justice, he finds himself trapped between his love for a beautiful woman and a powerful desire to do the right thing--no matter the cost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798451173718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=I8bZzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=I8bZzgEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Edward_Phillips_Oppenheim_the_Evil_Sheph.html?hl=&id=I8bZzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I8bZzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A former defense attorney turned righteous crusader is the hero of this blockbuster novel from an early master of the thriller genre.A businessman is found stabbed through the heart, the obvious suspect his partner: Oliver Hilditch, a cold ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YQk_swEACAAJ",
+      "etag": "qVa5hTn340k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQk_swEACAAJ",
+      "volumeInfo": {
+        "title": "The Evil Shepherd",
+        "authors": [
+          "E. Phillips (Edward Phillips) Oppenheim"
+        ],
+        "publishedDate": "2018",
+        "description": "The Evil Shepherd by E. Phillips (Edward Phillips) Oppenheim is a rare manuscript, the original residing in some of the great libraries of the world. This book is a reproduction of that original, typed out and formatted to perfection, allowing new generations to enjoy the work. Publishers of the Valley's mission is to bring long out of print manuscripts back to life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986246353"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986246354"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YQk_swEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YQk_swEACAAJ&dq=Edward+Phillips+Oppenheim+The+Evil+Shepherd&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Evil_Shepherd.html?hl=&id=YQk_swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQk_swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a reproduction of that original, typed out and formatted to perfection, allowing new generations to enjoy the work. Publishers of the Valley&#39;s mission is to bring long out of print manuscripts back to life."
+      }
+    }
+  ]
+}

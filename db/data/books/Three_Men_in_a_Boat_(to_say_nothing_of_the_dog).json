@@ -1,0 +1,737 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NQWBvgAACAAJ",
+      "etag": "p/d2yH+VYKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NQWBvgAACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "subtitle": "To Say Nothing of the Dog",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publishedDate": "2016-10-23",
+        "description": "Three Men in a BoatTo Say Nothing of the DogJerome K. JeromeCOMPLETE: ILLUSTRATEDThree Men in a Boat (To Say Nothing of the Dog), published in 1889, is a humorous account by English writer Jerome K. Jerome of a two-week boating holiday on the Thames from Kingston upon Thames to Oxford and back to Kingston. The book was initially intended to be a serious travel guide, with accounts of local history along the route, but the humorous elements took over to the point where the serious and somewhat sentimental passages seem a distraction to the comic novel. One of the most praised things about Three Men in a Boat is how undated it appears to modern readers - the jokes seem fresh and witty even today.The story begins by introducing George, Harris, Jerome (always referred to as \"J.\"), and Jerome's dog, a fox terrier called Montmorency. The men are spending an evening in J.'s room, smoking and discussing illnesses from which they fancy they suffer. They conclude that they are all suffering from \"overwork\" and need a holiday. A stay in the country and a sea trip are both considered. The country stay is rejected because Harris claims that it would be dull, the sea-trip after J. describes bad experiences of his brother-in-law and a friend on sea trips. The three eventually decide on a boating holiday up the River Thames, from Kingston upon Thames to Oxford, during which they will camp, notwithstanding more of J.'s anecdotes about previous mishaps with tents and camping stoves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539701263"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539701262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NQWBvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NQWBvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NQWBvgAACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NQWBvgAACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat.html?hl=&id=NQWBvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NQWBvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of the most praised things about Three Men in a Boat is how undated it appears to modern readers - the jokes seem fresh and witty even today.The story begins by introducing George, Harris, Jerome (always referred to as &quot;J.&quot;), and Jerome ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gcw9swEACAAJ",
+      "etag": "WteqsyMghzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gcw9swEACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat (to Say Nothing of the Dog) Illustrated",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publishedDate": "2017-08-08",
+        "description": "The story begins by introducing George, Harris, Jerome (always referred to as \"J.\"), and Jerome's dog, a fox terrier called Montmorency. The men are spending an evening in J.'s room, smoking and discussing illnesses from which they fancy they suffer. They conclude that they are all suffering from \"overwork\", and need a holiday.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1522054545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781522054542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gcw9swEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gcw9swEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat_to_Say_Nothing_of_th.html?hl=&id=gcw9swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gcw9swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story begins by introducing George, Harris, Jerome (always referred to as &quot;J.&quot;), and Jerome&#39;s dog, a fox terrier called Montmorency."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1EeEswEACAAJ",
+      "etag": "qIcgiq3QKWs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1EeEswEACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "subtitle": "To Say Nothing of the Dog",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "1889",
+        "description": "The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who would become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the book), with whom he often took boating trips. The dog, Montmorency, is entirely fictional but, \"as Jerome admits, developed out of that area of inner consciousness which, in all Englishmen, contains an element of the dog.\" The trip is a typical boating holiday of the time in a Thames camping skiff. This was just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1496083938"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781496083937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1EeEswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1EeEswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1EeEswEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1EeEswEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat.html?hl=&id=1EeEswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1EeEswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who would become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D6uMiATz3YQC",
+      "etag": "AfkzVh0Lch4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D6uMiATz3YQC",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "subtitle": "(To Say Nothing of the Dog!)",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publisher": "Barnes & Noble Publishing",
+        "publishedDate": "2004",
+        "description": "\"The most ordinary circumstances turn hilarious as J., an idler who exhibits a 'general disinclination to work of any kind,' his friends journey up the Thames River. Getting into many scrapes along the way, the friends consider 'assulting a policeman' just to have 'a night's lodging in the station-house,' but ultimately reject the proposition, fearful that he would hit them back without locking them up. The real scene stealer, though, is Montmorence, a small fox terrier who appears to be 'born with about four times as much original sin in [him] as other dogs are.'\" --From back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0760757569"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780760757567"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D6uMiATz3YQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D6uMiATz3YQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=D6uMiATz3YQC&pg=PT2&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=D6uMiATz3YQC&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat.html?hl=&id=D6uMiATz3YQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Three_Men_in_a_Boat-sample-epub.acsm?id=D6uMiATz3YQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Three_Men_in_a_Boat-sample-pdf.acsm?id=D6uMiATz3YQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D6uMiATz3YQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "(To <b>Say Nothing</b> of the <b>Dog</b>!) <b>Jerome Klapka</b> Jerome. Literature $ 7.95 U.S. $ 11.95 Canada <b>J THREE MEN</b> IN A <b>BOAT</b> erome K. Jerome&#39;s comic classic <b>Three Men</b> in a <b>Boat</b> ( To <b>say nothing</b> of the <b>Dog</b> ! ) is unsinkable . One of the most widely&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dbk0nwEACAAJ",
+      "etag": "NJo54s5+P8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dbk0nwEACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "subtitle": "To Say Nothing of the Dog",
+        "authors": [
+          "Jerome Jerome"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2013-11-23",
+        "description": "The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who would become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the book), with whom he often took boating trips. The dog, Montmorency, is entirely fictional but, \"as Jerome admits, developed out of that area of inner consciousness which, in all Englishmen, contains an element of the dog.\" The trip is a typical boating holiday of the time in a Thames camping skiff. This was just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1494252155"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781494252151"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dbk0nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dbk0nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Dbk0nwEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Dbk0nwEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat.html?hl=&id=Dbk0nwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dbk0nwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who would become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kqPf57TYvwIC",
+      "etag": "nB9ZzdC+OhE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kqPf57TYvwIC",
+      "volumeInfo": {
+        "title": "Three Men in a Boat (to Say Nothing of the Dog)",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLI:3807693-10"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Boats and boating"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kqPf57TYvwIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kqPf57TYvwIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kqPf57TYvwIC&pg=PA54&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kqPf57TYvwIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kqPf57TYvwIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kqPf57TYvwIC&rdid=book-kqPf57TYvwIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Three_Men_in_a_Boat_to_Say_Nothing_of_th.epub?id=kqPf57TYvwIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kqPf57TYvwIC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Jerome Klapka</b> Jerome. hamper and killed <b>three of them</b> before Harris could land him with the frying - pan . Harris said I encouraged him . I didn&#39;t encourage him . A <b>dog</b> like that don&#39;t want any encourage- ment . It&#39;s the natural&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hmJVEAAAQBAJ",
+      "etag": "StwwvhjZ1hY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hmJVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat (To Say Nothing of the Dog)",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publisher": "McClelland & Stewart",
+        "publishedDate": "2022-01-04",
+        "description": "One of the best-loved and most entertaining comic novels ever penned, Three Men in a Boat has been a classic since it was first published in 1889. J., George, and Harris (not forgetting Montmorency, the mischievous, irascible fox terrier)—our young heroes—take a boating holiday along the Thames. Their aim is to escape the weary work-a-day world and improve their health, but they are ill prepared for the various escapades, difficulties and vicissitudes that they encounter along the watery way. The adventures of these incompetent innocents abroad are magnified to epic proportions by the storyteller, J., whose narration gives the book not only a wonderful endearing freshness but also a series of hilarious moments of timeless comedy. Penguin Random House Canada is proud to bring you classic works of literature in e-book form, with the highest quality production values. Find more today and rediscover books you never knew you loved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735254688"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0735254680"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hmJVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hmJVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hmJVEAAAQBAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hmJVEAAAQBAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat_To_Say_Nothing_of_th.html?hl=&id=hmJVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hmJVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The adventures of these incompetent innocents abroad are magnified to epic proportions by the storyteller, J., whose narration gives the book not only a wonderful endearing freshness but also a series of hilarious moments of timeless comedy ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WBVoswEACAAJ",
+      "etag": "PXtI6oqyi9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WBVoswEACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat -Illustrated Version",
+        "subtitle": "To Say Nothing of the Dog",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publishedDate": "2017-11-13",
+        "description": "Three Men in a Boat (To Say Nothing of the Dog), published in 1889, is a humorous account by Jerome K. Jerome of a boating holiday on the Thames between Kingston and Oxford. The book was initially intended to be a serious travel guide, with accounts of local history along the route, but the humorous elements took over to the point where the serious and somewhat sentimental passages seem a distraction to the comic novel. One of the most praised things about Three Men in a Boat is how undated it appears to modern readers, the jokes seem fresh and witty even today. The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who went on to become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the book), with whom he often took boating trips. The dog, Montmorency, is entirely fictional, but \"as Jerome admits, developed out of that area of inner consciousness which, in all Englishmen, contains an element of the dog.\" The trip is a typical boating holiday of the time in a Thames camping skiff. This is just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973292998"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973292999"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 133,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WBVoswEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WBVoswEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat_Illustrated_Version.html?hl=&id=WBVoswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WBVoswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; The trip is a typical boating holiday of the time in a Thames camping skiff. This is just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wGFjyAEACAAJ",
+      "etag": "dGKQ/5B+18E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wGFjyAEACAAJ",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "subtitle": "Large Print",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "2019-07-30",
+        "description": "Three Men in a Boat (To Say Nothing of the Dog), published in 1889, is a humorous account by Jerome K. Jerome of a boating holiday on the Thames between Kingston and Oxford.The book was initially intended to be a serious travel guide, with accounts of local history along the route, but the humorous elements took over to the point where the serious and somewhat sentimental passages seem a distraction to the comic novel. One of the most praised things about Three Men in a Boat is how undated it appears to modern readers, the jokes seem fresh and witty even today.The three men are based on Jerome himself (the narrator J.) and two real-life friends, George Wingrave (who went on to become a senior manager in Barclays Bank) and Carl Hentschel (the founder of a London printing business, called Harris in the book), with whom he often took boating trips. The dog, Montmorency, is entirely fictional, but \"as Jerome admits, developed out of that area of inner consciousness which, in all Englishmen, contains an element of the dog.\" The trip is a typical boating holiday of the time in a Thames camping skiff. This is just after commercial boat traffic on the Upper Thames had died out, replaced by the 1880s craze for boating as a leisure activity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1086190696"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781086190694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wGFjyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wGFjyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wGFjyAEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wGFjyAEACAAJ&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Men_in_a_Boat.html?hl=&id=wGFjyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wGFjyAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Three Men in a Boat (To Say Nothing of the Dog), published in 1889, is a humorous account by Jerome K. Jerome of a boating holiday on the Thames between Kingston and Oxford.The book was initially intended to be a serious travel guide, with ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7_dfANWJ0P4C",
+      "etag": "MWejkY5D1sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7_dfANWJ0P4C",
+      "volumeInfo": {
+        "title": "Three Men in a Boat",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2004-03-25",
+        "description": "A comic masterpiece that has never been out of print since it was first published in 1889, Jerome K. Jerome's Three Men in a Boat includes an introduction and notes by Jeremy Lewis in Penguin Classics. Martyrs to hypochondria and general seediness, J. and his friends George and Harris decide that a jaunt up the Thames would suit them to a 'T'. But when they set off, they can hardly predict the troubles that lie ahead with tow-ropes, unreliable weather forecasts and tins of pineapple chunks - not to mention the devastation left in the wake of J.'s small fox-terrier Montmorency. Three Men in a Boat was an instant success when it appeared in 1889, and, with its benign escapism, authorial discursions and wonderful evocation of the late-Victorian 'clerking classes', it hilariously captured the spirit of its age. In his introduction, Jeremy Lewis examines Jerome K. Jerome's life and times, and the changing world of Victorian England he depicts - from the rise of a new mass-culture of tabloids and bestselling novels to crazes for daytripping and bicycling. Jerome K. Jerome (1859-1927) was born in Walstall, Staffordshire, and educated at Marylebone Grammar School. He left school at fourteen to become a railway clerk, the first in a long line of jobs that included actor, teacher and journalist. His first book, On Stage and Off, a collection of humorous pieces about the theatre, was published in 1885, and was followed the year after with the more commercially-successful The Idle Thoughts of an Idle Fellow; but it was with Three Men in a Boat (1889) that Jerome achieved lasting fame. He later went on to become one of the founders of the humorous magazine, The Idler, and continued to write articles and plays. If you enjoyed Three Men in a Boat, you might like Stella Gibbons's Cold Comfort Farm, also available in Penguin Classics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141907390"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141907398"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7_dfANWJ0P4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7_dfANWJ0P4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7_dfANWJ0P4C&printsec=frontcover&dq=Jerome+Klapka+J+Three+Men+in+a+Boat+(to+say+nothing+of+the+dog)&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7_dfANWJ0P4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7_dfANWJ0P4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7_dfANWJ0P4C&rdid=book-7_dfANWJ0P4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Three_Men_in_a_Boat-sample-epub.acsm?id=7_dfANWJ0P4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_dfANWJ0P4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A comic masterpiece that has never been out of print since it was first published in 1889, Jerome K. Jerome&#39;s Three Men in a Boat includes an introduction and notes by Jeremy Lewis in Penguin Classics."
+      }
+    }
+  ]
+}

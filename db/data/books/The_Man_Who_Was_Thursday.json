@@ -1,0 +1,765 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DkHLAgAAQBAJ",
+      "etag": "8eq9rIuI2Lw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DkHLAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2014-02-05",
+        "description": "The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book is sometimes referred to as a metaphysical thriller.In Edwardian era London, Gabriel Syme is recruited at Scotland Yard to a secret anti-anarchist police corps. Lucian Gregory, an anarchistic poet, lives in the suburb of Saffron Park. Syme meets him at a party and they debate the meaning of poetry. Gregory argues revolt is the basis of poetry. Syme demurs, insisting the essence of poetry is not revolution, but rather law. He antagonizes Gregory by asserting the most poetical of human creations is the timetable for the London Underground. He suggests Gregory isn't really serious about his anarchism. This so irritates Gregory that he takes Syme to an underground anarchist meeting place, revealing his public endorsement of anarchy is a ruse to make him seem harmless, when in fact he is an influential member of the local chapter of the European anarchist council.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783730970287"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3730970283"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.97.93.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DkHLAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DkHLAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DkHLAgAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DkHLAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DkHLAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DkHLAgAAQBAJ&rdid=book-DkHLAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DkHLAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is sometimes referred to as a metaphysical thriller.In Edwardian era London, Gabriel Syme is recruited at Scotland Yard to a secret anti-anarchist police corps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uKYzMQAACAAJ",
+      "etag": "V3gN+caItt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uKYzMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday",
+        "subtitle": "By G. K. Chesterton : Illustrated",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-10",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About The Man Who Was Thursday by G. K. Chesterton The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book is sometimes referred to as a metaphysical thriller.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540842517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540842510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uKYzMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uKYzMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uKYzMQAACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uKYzMQAACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday.html?hl=&id=uKYzMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uKYzMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PoY6EAAAQBAJ",
+      "etag": "fTJ2ztoHvnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PoY6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday a Nightmare",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-10",
+        "description": "The Man Who Was Thursday a Nightmare - G. K. Chesterton - A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE. It is very difficult to classify \"The Man Who Was Thursday.\" It is possible to say that it is a gripping adventure story of murderous criminals and brilliant policemen; but it was to be expected that the author of the Father Brown stories should tell a detective story like no-one else. On this level, therefore, \"The Man Who Was Thursday\" succeeds superbly; if nothing else, it is a magnificent tour-de-force of suspense-writing. However, the reader will soon discover that it is much more than that. Carried along on the boisterous rush of the narrative by Chesterton's wonderful high-spirited style, he will soon see that he is being carried into much deeper waters than he had planned on; and the totally unforeseeable denouement will prove for the modern reader, as it has for thousands of others since 1908 when the book was first published, an inevitable and moving experience, as the investigators finally discover who Sunday is.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985511051"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985511055"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PoY6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PoY6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PoY6EAAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PoY6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PoY6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PoY6EAAAQBAJ&rdid=book-PoY6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_Who_Was_Thursday_a_Nightmare-sample-epub.acsm?id=PoY6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_Who_Was_Thursday_a_Nightmare-sample-pdf.acsm?id=PoY6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PoY6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Carried along on the boisterous rush of the narrative by Chesterton&#39;s wonderful high-spirited style, he will soon see that he is being carried into much deeper waters than he had planned on; and the totally unforeseeable denouement will ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WN72zgEACAAJ",
+      "etag": "EgrjaHFLqKk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WN72zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday by Gilbert Keith Chesterton(Illustrated Edition)",
+        "authors": [
+          "G K Chesterton"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2022-02-23",
+        "description": "The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book has been referred to as a metaphysical thriller. Although it deals with anarchists, the novel is not an exploration or rebuttal of anarchist thought; Chesterton's ad hoc construction of \"Philosophical Anarchism\" is distinguished from ordinary anarchism and is referred to several times not so much as a rebellion against government but as a rebellion against God. The novel has been described as \"one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798421982128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WN72zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WN72zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WN72zgEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WN72zgEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday_by_Gilbert_Keit.html?hl=&id=WN72zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WN72zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book has been referred to as a metaphysical thriller."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "smKYEAAAQBAJ",
+      "etag": "Ow+z6YfGSTA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/smKYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday; A Nightmare",
+        "subtitle": "in large print",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-10-28",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368312077"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368312073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=smKYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=smKYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=smKYEAAAQBAJ&printsec=frontcover&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=smKYEAAAQBAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday_A_Nightmare.html?hl=&id=smKYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_Who_Was_Thursday_A_Nightmare-sample-pdf.acsm?id=smKYEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=smKYEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yTpzvgAACAAJ",
+      "etag": "64w7wepyEPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yTpzvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday",
+        "subtitle": "A Nightmare",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-01",
+        "description": "The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book has been referred to as a metaphysical thriller. Although it deals with anarchists, the novel is not an exploration or rebuttal of anarchist thought; Chesterton's ad hoc construction of \"Philosophical Anarchism\" is distinguished from ordinary anarchism and is referred to several times not so much as a rebellion against government but as a rebellion against God. The novel has been described as \"one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539856232"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539856238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yTpzvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yTpzvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yTpzvgAACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yTpzvgAACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday.html?hl=&id=yTpzvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yTpzvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book has been referred to as a metaphysical thriller."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LJvnjwEACAAJ",
+      "etag": "0ekZkz67toI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LJvnjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday",
+        "subtitle": "By G. K. Chesterton : Illustrated and Unabridged",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publishedDate": "2016-04-20",
+        "description": "Why buy our paperbacks? Unabridged (100% Original content) Printed in USA on High Quality Paper 30 Days Money Back Guarantee Standard Font size of 10 for all books Fulfilled by Amazon Expedited shipping BEWARE OF LOW-QUALITY SELLERS Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. About The Man Who Was Thursday by G. K. Chesterton The Man Who Was Thursday: A Nightmare is a novel by G. K. Chesterton, first published in 1908. The book is sometimes referred to as a metaphysical thriller.In Edwardian era London, Gabriel Syme is recruited at Scotland Yard to a secret anti-anarchist police corps. Lucian Gregory, an anarchistic poet, lives in the suburb of Saffron Park. Syme meets him at a party and they debate the meaning of poetry. Gregory argues that revolt is the basis of poetry. Syme demurs, insisting the essence of poetry is not revolution but law.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1532844255"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532844256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LJvnjwEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LJvnjwEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday.html?hl=&id=LJvnjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LJvnjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is sometimes referred to as a metaphysical thriller.In Edwardian era London, Gabriel Syme is recruited at Scotland Yard to a secret anti-anarchist police corps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kxNSMpRatSAC",
+      "etag": "iCbaXDk17NE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kxNSMpRatSAC",
+      "volumeInfo": {
+        "title": "The Man who was Thursday",
+        "subtitle": "A Nightmare",
+        "authors": [
+          "Gilbert Keith Chesterton"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1986-01-01",
+        "description": "Delicious, witty, fast-paced novel about a club of anarchists in turn-of-the-century London and a poet/sleuth who infiltrates their ranks. Inventive and ingenious story becomes a vehicle for Chesterton's brilliant social, religious, and philosophical speculations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486251219"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486251217"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kxNSMpRatSAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kxNSMpRatSAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kxNSMpRatSAC&printsec=frontcover&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kxNSMpRatSAC&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_who_was_Thursday.html?hl=&id=kxNSMpRatSAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Man_who_was_Thursday-sample-pdf.acsm?id=kxNSMpRatSAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kxNSMpRatSAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dreamlike, prophetic, and frequently funny, the novel attacks contemporary pessimism and, through a bizarre series of pursuits and unmaskings, returns Syme - and us - to earth more aware of its beauty, promise, and creative potential."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s7nfugEACAAJ",
+      "etag": "UZcWGt9qbLY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s7nfugEACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday",
+        "subtitle": "Large Print",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-13",
+        "description": "The Man Who Was Thursday By G.K. Chesterton The Man Who Was Thursday begins in Edwardian London, where a young man named Gabriel Syme finds himself approached by an agent of Scotland Yard. Promptly recruited by the police, who are attempting to infiltrate and subvert anarchist groups, the young Syme is pointed in the direction of a suspected anarchist named Gregory. Naturally versed in literature, Syme debates the man and wins access to his shadowy group - a council of European anarchists. We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1724847546"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781724847546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s7nfugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s7nfugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=s7nfugEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=s7nfugEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday.html?hl=&id=s7nfugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s7nfugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iyiJDAEACAAJ",
+      "etag": "TgmayUc+vHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iyiJDAEACAAJ",
+      "volumeInfo": {
+        "title": "The Man Who Was Thursday, a Nightmare",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-02-13",
+        "description": "G.K. Chesterton's 1908 masterpiece, The Man Who Was Thursday, is a metaphysical thriller, and a detective story filled with poetry and politics. Gabriel Syme is a poet and a police detective. Lucian Gregory is a poet and a bomb-throwing anarchist. Syme infiltrates a secret meeting of anarchists and becomes 'Thursday', one of the seven members of the Central Anarchist Council. He soon learns, however, that he is not the only one in disguise, and the nightmare begins",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530033071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530033072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iyiJDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iyiJDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iyiJDAEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iyiJDAEACAAJ&dq=Gilbert+Keith+Chesterton+The+Man+Who+Was+Thursday&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_Who_Was_Thursday_a_Nightmare.html?hl=&id=iyiJDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iyiJDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "G.K. Chesterton&#39;s 1908 masterpiece, The Man Who Was Thursday, is a metaphysical thriller, and a detective story filled with poetry and politics."
+      }
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ENQ7EQAAQBAJ",
+      "etag": "IgwojhXxnqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ENQ7EQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Comprehensive Summary and Analysis of A Strange Disappearance by Anna Katharine Green",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2025-01-02",
+        "description": "Anna Katharine Green's “A Strange Disappearance” is a masterfully crafted mystery novel that takes the reader on a thrilling journey through the complexities of human relationships, hidden identities, and the relentless pursuit of truth. The story unfolds through the eyes of a detective, known only as Q, who recounts a perplexing case that rivals even the most renowned of his experiences. The narrative is layered with intriguing characters, unexpected twists, and a suspenseful atmosphere that keeps the reader captivated until the final revelation. This summary delves deep into the novel's plot, characters, and themes, offering a comprehensive analysis of Green's compelling work.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ENQ7EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ENQ7EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ENQ7EQAAQBAJ&printsec=frontcover&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ENQ7EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ENQ7EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.14,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.14,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ENQ7EQAAQBAJ&rdid=book-ENQ7EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 140000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 140000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Comprehensive_Summary_and_Analysis_of-sample-epub.acsm?id=ENQ7EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Comprehensive_Summary_and_Analysis_of-sample-pdf.acsm?id=ENQ7EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ENQ7EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Readers who enjoy suspenseful mysteries with psychological depth and a rich historical setting will find this book impossible to put down."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mt-CDwAAQBAJ",
+      "etag": "TPpmL0E/uz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mt-CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance",
+        "authors": [
+          "Anna Katharine Green",
+          "Sheba Blake"
+        ],
+        "publisher": "Sheba Blake Publishing",
+        "publishedDate": "2019-01-23",
+        "description": "\"Talking of sudden disappearances the one you mention of Hannah in that Leavenworth case of ours, is not the only remarkable one which has come under my direct notice. Indeed, I know of another that in some respects, at least, surpasses that in points of interest, and if you will promise not to inquire into the real names of the parties concerned, as the affair is a secret, I will relate you my experience regarding it.\" Anna Green was an early 20th century novelist. She was one of the first authors to write detective stories in America. Her stories are known for their well thought out plots and their legal accuracy. Although Green wrote in a genre previously dominated by men she did n think much of feminists and opposed women's suffrage. Her second novel A Strange Disappearance was published in 1880.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783965443969"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3965443968"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mt-CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mt-CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Mt-CDwAAQBAJ&printsec=frontcover&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Mt-CDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mt-CDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Mt-CDwAAQBAJ&rdid=book-Mt-CDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-epub.acsm?id=Mt-CDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-pdf.acsm?id=Mt-CDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mt-CDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Although Green wrote in a genre previously dominated by men she did n think much of feminists and opposed women&#39;s suffrage. Her second novel A Strange Disappearance was published in 1880."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eY11zwEACAAJ",
+      "etag": "/eUh4bE1Xw0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eY11zwEACAAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance (1880) by",
+        "subtitle": "Anna Katharine Green",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-10",
+        "description": "Anna Katharine Green (November 11, 1846 - April 11, 1935) was an American poet and novelist. She was one of the first writers of detective fiction in America and distinguished herself by writing well plotted, Anna Green was an early 20th century novelist. She was one of the first authors to write detective stories in America. Her stories are known for their well thought out plots and their legal accuracy. Although Green wrote in a genre previously dominated by men she did n think much of feminists and opposed women's suffrage. Her second novel A Strange Disappearance was published in 1880.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154033273X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540332738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eY11zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eY11zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eY11zwEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=eY11zwEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Strange_Disappearance_1880_by.html?hl=&id=eY11zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eY11zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anna Katharine Green (November 11, 1846 - April 11, 1935) was an American poet and novelist."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HYoCvgAACAAJ",
+      "etag": "GyJyARdcDEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HYoCvgAACAAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance.by",
+        "subtitle": "Anna Katharine Green",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-07-28",
+        "description": "Anna Katharine Green (November 11, 1846 - April 11, 1935) was an American poet and novelist. She was one of the first writers of detective fiction in America and distinguished herself by writing well plotted, legally accurate stories. Green has been called \"the mother of the detective novel She was born in Brooklyn, New York on November 11, 1846. Green had an early ambition to write romantic verse, and she corresponded with Ralph Waldo Emerson. When her poetry failed to gain recognition, she produced her first and best known novel, The Leavenworth Case (1878), praised by Wilkie Collins, and the hit of the year. She became a bestselling author, eventually publishing about 40 books. On November 25, 1884, Green married the actor and stove designer, and later noted furniture maker, Charles Rohlfs (1853 - 1936), who was seven years her junior. Rohlfs toured in a dramatization of Green's The Leavenworth Case. After his theater career faltered, he became a furniture maker in 1897, and Green collaborated with him on some of his designs. Together they had one daughter and two sons: Rosamund Rohlfs, Roland Rohlfs, and Sterling Rohlfs. Green died on April 11, 1935 in Buffalo, New York, at the age of 88",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153556959X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535569590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HYoCvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HYoCvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HYoCvgAACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HYoCvgAACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Strange_Disappearance_by.html?hl=&id=HYoCvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HYoCvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Green has been called &quot;the mother of the detective novel She was born in Brooklyn, New York on November 11, 1846. Green had an early ambition to write romantic verse, and she corresponded with Ralph Waldo Emerson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gFBJMQAACAAJ",
+      "etag": "tgH+Fwwrb/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gFBJMQAACAAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance",
+        "authors": [
+          "Anna Green"
+        ],
+        "publishedDate": "2017-01-26",
+        "description": "A young woman has disappeared from a fifth avenue home in New York. The bachelor owner, Mr Holman Blake, says he knows nothing of her. But the housekeeper Mrs Daniel is worried and goes to the police. Investigator Q finds blood on the windowsill and the woman has not taken the time to pack. It seems that she left unwillingly. But why leaving from the roof when she could have used the servant door?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1542756812"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781542756815"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gFBJMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gFBJMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gFBJMQAACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gFBJMQAACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Strange_Disappearance.html?hl=&id=gFBJMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gFBJMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A young woman has disappeared from a fifth avenue home in New York."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mzS7zgEACAAJ",
+      "etag": "2QiDuC5hrOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mzS7zgEACAAJ",
+      "volumeInfo": {
+        "title": "Anna Katharine Green: a Strange Disappearance (Annotated)",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publishedDate": "2021-08-29",
+        "description": "A housekeeper reports the disappearance of a sewing-maid from a wealthy household. She insists that the girl has been abducted. Mr Gryce and a young detective investigate. The missing young woman has a secret. But she is not the only one...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798467023328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mzS7zgEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mzS7zgEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anna_Katharine_Green_a_Strange_Disappear.html?hl=&id=mzS7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mzS7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A housekeeper reports the disappearance of a sewing-maid from a wealthy household."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Q6KtQEACAAJ",
+      "etag": "EOOTd4LkuTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Q6KtQEACAAJ",
+      "volumeInfo": {
+        "title": "Anne Katherine Green - A Strange Disappearance",
+        "subtitle": "The Finger of Suspicion Never Forgets the Way It Has Once Pointed ....",
+        "authors": [
+          "Anna Katherine Green"
+        ],
+        "publisher": "Horse's Mouth",
+        "publishedDate": "2018-03-26",
+        "description": "Anna Katharine Green was born in Brooklyn, New York on November 11th, 1846. Anna's initial ambition was to be a poet. However that path failed to ignite any significant interest and she turned to fiction writing. She published her first - and most famous work in 1878 - 'The Leavenworth Case'. Wilkie Collins praised it and it sold extremely well It led to Anna writing 40 novels and to becoming known as 'the mother of the detective novel.' In helping to shape the genre she brought many other innovations including a series detective: her main character was detective Ebenezer Gryce of the New York Metropolitan Police Force, but in three novels he is assisted by the nosy society spinster Amelia Butterworth, another innovation and a prototype for Miss Marple, Miss Silver and others. She also invented the 'girl detective': in the character of Violet Strange, a debutante with a secret life as a sleuth. Anna's other innovations included the now familiar dead bodies in libraries, newspaper clippings as \"clews,\" the coroner's inquest, and expert witnesses. Yale Law School once used her books to demonstrate how damaging it can be to rely on circumstantial evidence. Her career was now well advanced and she was much admired. On November 25, 1884, Green married the actor and stove designer, and later noted furniture maker, Charles Rohlfs, who was seven years her junior. They had three children; Rosamund, Roland and Sterling. Although Anna was a progressive she did not approve of many of her feminist contemporaries, and was opposed to women's suffrage. On November 25, 1884, Anna married the actor and noted furniture maker, Charles Rohlfs, who was seven years her junior. They had three children; Rosamund, Roland and Sterling. Anna Katharine Green died on April 11, 1935 in Buffalo, New York, at the age of 88.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787378799"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787378797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Q6KtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Q6KtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7Q6KtQEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7Q6KtQEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anne_Katherine_Green_A_Strange_Disappear.html?hl=&id=7Q6KtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Q6KtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She published her first - and most famous work in 1878 - &#39;The Leavenworth Case&#39;. Wilkie Collins praised it and it sold extremely well It led to Anna writing 40 novels and to becoming known as &#39;the mother of the detective novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zBsQuAEACAAJ",
+      "etag": "59kbDKNr8Zg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zBsQuAEACAAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance (1880). By: Anna Katharine Green",
+        "subtitle": "Second Novel By: Anna Katharine Green",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-05-27",
+        "description": "Anna Katharine Green (November 11, 1846 - April 11, 1935) was an American poet and novelist. She was one of the first writers of detective fiction in America and distinguished herself by writing well plotted, legally accurate stories. Green has been called \"the mother of the detective novel\" Life and work: She was born in Brooklyn, New York on November 11, 1846. Green had an early ambition to write romantic verse, and she corresponded with Ralph Waldo Emerson. When her poetry failed to gain recognition, she produced her first and best known novel, The Leavenworth Case (1878), praised by Wilkie Collins, and the hit of the year. She became a bestselling author, eventually publishing about 40 books. On November 25, 1884, Green married the actor and stove designer, and later noted furniture maker, Charles Rohlfs (1853 - 1936), who was seven years her junior.Rohlfs toured in a dramatization of Green's The Leavenworth Case. After his theater career faltered, he became a furniture maker in 1897, and Green collaborated with him on some of his designs. Together they had one daughter and two sons: Rosamund Rohlfs, Roland Rohlfs, and Sterling Rohlfs. Her daughter Rosamund married Robert Twitty Palmer. She died in 1935 and was buried in Buffalo, NY where her grave is today located in the Forest Lawn Cemetery. Green died on April 11, 1935 in Buffalo, New York, at the age of 88.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1720400415"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781720400417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zBsQuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zBsQuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zBsQuAEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zBsQuAEACAAJ&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Strange_Disappearance_1880_By_Anna_Kat.html?hl=&id=zBsQuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zBsQuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Green has been called &quot;the mother of the detective novel&quot; Life and work: She was born in Brooklyn, New York on November 11, 1846. Green had an early ambition to write romantic verse, and she corresponded with Ralph Waldo Emerson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XWfSDgAAQBAJ",
+      "etag": "V9LfQ+0GGhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XWfSDgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance",
+        "subtitle": "A Strange Disappearance: A Gripping Mystery Novel from Anna Katharine Green",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "The present novel 'A Strange Disappearance' was written by the famous writer Anna Katharine Green. It was first published in the year 1879. It is a mysterious detective fictional novel from the late nineteenth century.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XWfSDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XWfSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XWfSDgAAQBAJ&printsec=frontcover&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XWfSDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XWfSDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XWfSDgAAQBAJ&rdid=book-XWfSDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-epub.acsm?id=XWfSDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-pdf.acsm?id=XWfSDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XWfSDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The present novel &#39;A Strange Disappearance&#39; was written by the famous writer Anna Katharine Green. It was first published in the year 1879. It is a mysterious detective fictional novel from the late nineteenth century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FusaEQAAQBAJ",
+      "etag": "2qeoVZDru4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FusaEQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Strange Disappearance",
+        "subtitle": "Anna Katharine Green's Bestseller & Famous Book",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2024-08-20",
+        "description": "Step into the world of mystery and suspense with Anna Katharine Green’s gripping novel, \"A Strange Disappearance.\" This enthralling tale centers around a baffling case of a young woman’s sudden and unexplained vanishing, leaving a trail of clues that will keep you guessing until the end. In \"A Strange Disappearance,\" Green masterfully crafts a story filled with intrigue as the protagonist uncovers disturbing evidence in a room where a struggle has clearly taken place. The locked door, torn curtains, and an overturned chair all point to a night of chaos and a mysterious exit through the window. What led to this dramatic and perplexing scene? What could explain the girl's sudden disappearance and the signs of a violent struggle? Green’s narrative explores these questions with precision, drawing readers into a web of clues and red herrings. As the investigation unfolds, the story reveals a complex puzzle where every detail matters. Delve into this thrilling mystery to uncover the truth behind the strange disappearance. Green’s keen eye for detail and suspenseful storytelling will captivate you as you follow the clues and unravel the secrets hidden within. Are you ready to solve the mystery of \"A Strange Disappearance\"? Immerse yourself in this riveting novel and test your deductive skills against Anna Katharine Green’s cleverly woven plot. Don’t miss out on this captivating mystery. Purchase \"A Strange Disappearance\" today and embark on a journey filled with suspense and intrigue.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FusaEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FusaEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FusaEQAAQBAJ&printsec=frontcover&dq=Anna+Katharine+Green+A+strange+disappearance&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FusaEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FusaEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FusaEQAAQBAJ&rdid=book-FusaEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-epub.acsm?id=FusaEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Strange_Disappearance-sample-pdf.acsm?id=FusaEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FusaEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Are you ready to solve the mystery of &quot;A Strange Disappearance&quot;? Immerse yourself in this riveting novel and test your deductive skills against Anna Katharine Green’s cleverly woven plot. Don’t miss out on this captivating mystery."
+      }
+    }
+  ]
+}

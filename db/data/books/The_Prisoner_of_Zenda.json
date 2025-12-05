@@ -1,0 +1,678 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sWR7DwAAQBAJ",
+      "etag": "tX9++xxDip0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWR7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2009-07-30",
+        "description": "Anthony Hope's swashbuckling romance transports his English gentleman hero, Rudolf Rassendyll, from a comfortable life in London to fast-moving adventures in Ruritania, a mythical land steeped in political intrigue. Rassendyll bears a striking resemblance to Rudolf Elphberg who is about to be crowned King of Ruritania. When the rival to the throne, Black Michael of Strelsau, attempts to seize power by imprisoning Elphberg in the Castle of Zenda, Rassendyll is obliged to impersonate the King to uphold the rightful sovereignty and ensure political stability. Rassendyll endures a trial of strength in his encounters with the notorious Rupert of Hentzau, and a test of a different sort as he grows to love Princess Flavia. Five times filmed, The Prisoner of Zenda has been deservedly popular as a classic of romance and adventure since its publication in 1894.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199555284"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199555281"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sWR7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sWR7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sWR7DwAAQBAJ&printsec=frontcover&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sWR7DwAAQBAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda.html?hl=&id=sWR7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Prisoner_of_Zenda-sample-pdf.acsm?id=sWR7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWR7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Five times filmed, The Prisoner of Zenda has been deservedly popular as a classic of romance and adventure since its publication in 1894."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o88dc4BpcGwC",
+      "etag": "m2WNcC2uz1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o88dc4BpcGwC",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "2006",
+        "description": "Five times made into film versions since its original publication in 1894, The Prisoner of Zenda is a perennially popular adventure and romance story. Hope's swashbuckling romance transports his English gentleman hero, Rudolf Rassendyll, from a comfortable life in London to fast-paced adventures in Ruritania, a mythical land steeped in political intrigue. Rassendyll must impersonate the rightful king in order to rescue him from the castle Zenda, all the while facing tests of honor with the beautiful Princess Flavia, and enduring tests of strength in his encounters with the villainous Black Michael and his handsome, debonair bodyguard, Rupert of Hentzau.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781425001902"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1425001904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o88dc4BpcGwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o88dc4BpcGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o88dc4BpcGwC&printsec=frontcover&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o88dc4BpcGwC&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda.html?hl=&id=o88dc4BpcGwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Prisoner_of_Zenda-sample-pdf.acsm?id=o88dc4BpcGwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o88dc4BpcGwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Five times filmed, The Prisoner of Zenda has been deservedly popular as a classic of romance and adventure since its publication in 1894."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pd0zzgEACAAJ",
+      "etag": "RbiRXQIt6tY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pd0zzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda",
+        "subtitle": "Annotated",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2021-01-27",
+        "description": "The Prisoner of Zenda by Anthony Hope The Prisoner of Zenda, novel by Anthony Hope, published in 1894. This popular late Victorian novel tells the adventures of Rudolf Rassendyll, an English gentleman living in Ruritania who impersonates the king to save him from a treacherous plot. Though the story is unlikely, it is saved by Hope's lively and often ironic tone. The book was so successful that Hope left her law firm and went on to write a sequel, Rupert of Hentzau (1898).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798701095302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pd0zzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pd0zzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Pd0zzgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Pd0zzgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda.html?hl=&id=Pd0zzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pd0zzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Though the story is unlikely, it is saved by Hope&#39;s lively and often ironic tone. The book was so successful that Hope left her law firm and went on to write a sequel, Rupert of Hentzau (1898)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gXUQjwEACAAJ",
+      "etag": "ZXv0TEtA2c4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gXUQjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda by Anthony Hope Novel (World's Classics)",
+        "publishedDate": "2015-12-27",
+        "description": "Sir Anthony Hope Hawkins, better known as Anthony Hope (9 February 1863 - 8 July 1933), was an English novelist and playwright.[1] He was a prolific writer, especially of adventure novels but he is remembered best for only two books: The Prisoner of Zenda (1894) and its sequel Rupert of Hentzau (1898). These works, \"minor classics\" of English literature, are set in the contemporaneous fictional country of Ruritania and spawned the genre known as Ruritanian romance.[2] Zenda has inspired many adaptations, most notably the 1937 Hollywood movie of the same name.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1522935037"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781522935032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gXUQjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gXUQjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gXUQjwEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gXUQjwEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda_by_Anthony_Hope_No.html?hl=&id=gXUQjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gXUQjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These works, &quot;minor classics&quot; of English literature, are set in the contemporaneous fictional country of Ruritania and spawned the genre known as Ruritanian romance.[2] Zenda has inspired many adaptations, most notably the 1937 Hollywood ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KbOZtQEACAAJ",
+      "etag": "I97N72RVRnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KbOZtQEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda by Anthony Hope",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2018-03-25",
+        "description": "The Prisoner of Zenda by Anthony Hope",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986808815"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986808811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KbOZtQEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KbOZtQEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda_by_Anthony_Hope.html?hl=&id=KbOZtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KbOZtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Prisoner of Zenda by Anthony Hope"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "miRnzgEACAAJ",
+      "etag": "Spt8OEhYVS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/miRnzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda Classic Edition by Anthony Hope",
+        "subtitle": "With Illustration",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2021-04-14",
+        "description": "The Prisoner of Zenda is an 1894 adventure novel by Anthony Hope, in which the King of Ruritania is drugged on the eve of his coronation and thus is unable to attend the ceremony. Political forces within the realm are such that, in order for the king to retain the crown, his coronation must proceed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798738033834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 197,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=miRnzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=miRnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=miRnzgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=miRnzgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda_Classic_Edition_by.html?hl=&id=miRnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=miRnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Prisoner of Zenda is an 1894 adventure novel by Anthony Hope, in which the King of Ruritania is drugged on the eve of his coronation and thus is unable to attend the ceremony."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QURozgEACAAJ",
+      "etag": "yAUFsIGgbe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QURozgEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda by Anthony Hope",
+        "subtitle": "With Original Illustrations",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2021-04-18",
+        "description": "THE PRISONER OF ZENDA BY ANTHONY HOPE 'We must leave for Zenda at once, to find the King!' cried Sapt. 'If we're caught, we'll all be killed!' So Rudolf Rassendyll and Sapt gallop through the night to find the King of Ruritania. But the King is now a prisoner in the Castle of Zenda. Who will rescue him from his enemies, the dangerous Duke Michael and Rupert of Hentzau?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798740284989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QURozgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QURozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QURozgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QURozgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda_by_Anthony_Hope.html?hl=&id=QURozgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QURozgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE PRISONER OF ZENDA BY ANTHONY HOPE &#39;We must leave for Zenda at once, to find the King!&#39; cried Sapt."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kkoezgEACAAJ",
+      "etag": "kMxAabQUE4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kkoezgEACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda Illustrated",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2020-12-13",
+        "description": "This article is about the 1894 novel by Anthony Hope Hawkins. For other uses, see The Prisoner of Zenda is an 1894 adventure novel by Anthony Hope, in which the King of Ruritania is drugged on the eve of his coronation and thus is unable to attend the ceremony",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798580804996"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kkoezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kkoezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kkoezgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kkoezgEACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda_Illustrated.html?hl=&id=kkoezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kkoezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This article is about the 1894 novel by Anthony Hope Hawkins."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YYW1AQAACAAJ",
+      "etag": "Xp3+rI/2ys4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YYW1AQAACAAJ",
+      "volumeInfo": {
+        "title": "The Prisoner of Zenda",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2017-02-12",
+        "description": "The Prisoner of Zenda (1894), by Anthony Hope, is an adventure novel in which the King of Ruritania is drugged on the eve of his coronation and thus is unable to attend the ceremony. Political forces within the realm are such that, in order for the king to retain the crown, his coronation must proceed. Fortuitously, an English gentleman on holiday in Ruritania who resembles the monarch is persuaded to act as his political decoy in an effort to save the unstable political situation of the interregnum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543064019"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543064018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YYW1AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YYW1AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YYW1AQAACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YYW1AQAACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prisoner_of_Zenda.html?hl=&id=YYW1AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YYW1AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Prisoner of Zenda (1894), by Anthony Hope, is an adventure novel in which the King of Ruritania is drugged on the eve of his coronation and thus is unable to attend the ceremony."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mCApMQAACAAJ",
+      "etag": "bumq8PW7bc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mCApMQAACAAJ",
+      "volumeInfo": {
+        "title": "Anthony Hope - the Prisoner of Zenda",
+        "authors": [
+          "Anthony Hope"
+        ],
+        "publishedDate": "2016-11-08",
+        "description": "The Prisoner of Zenda is an adventure novel by Anthony Hope, published in 1894. The king of the fictional country of Ruritania is abducted on the eve of his coronation, and the protagonist, an English gentleman on holiday who fortuitously resembles the monarch, is persuaded to act as his political decoy in an attempt to save the situation. The villainous Rupert of Hentzau gave his name to the sequel published in 1898, which is included in some editions of this novel. The books were extremely popular and inspired a new genre of Ruritanian romance, including the Graustark novels by George Barr McCutcheon.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539985954"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539985952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mCApMQAACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mCApMQAACAAJ&dq=Anthony+Hope+The+Prisoner+of+Zenda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anthony_Hope_the_Prisoner_of_Zenda.html?hl=&id=mCApMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mCApMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The villainous Rupert of Hentzau gave his name to the sequel published in 1898, which is included in some editions of this novel."
+      }
+    }
+  ]
+}

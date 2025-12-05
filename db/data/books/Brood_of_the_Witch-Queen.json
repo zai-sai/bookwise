@@ -1,0 +1,674 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VUw7vAEACAAJ",
+      "etag": "LgMThPxEGcM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VUw7vAEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch Queen",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-12-26",
+        "description": "The strange deeds of Antony Ferrara, as herein related, are intended to illustrate certain phases of Sorcery as it was formerly practised (according to numerous records) not only in Ancient Egypt but also in Europe, during the Middle Ages. In no case do the powers attributed to him exceed those which are claimed for a fully equipped Adept.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981934448"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981934447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VUw7vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VUw7vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=VUw7vAEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=VUw7vAEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen.html?hl=&id=VUw7vAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VUw7vAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The strange deeds of Antony Ferrara, as herein related, are intended to illustrate certain phases of Sorcery as it was formerly practised (according to numerous records) not only in Ancient Egypt but also in Europe, during the Middle Ages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o2QrzgEACAAJ",
+      "etag": "SLaL3ME+G9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o2QrzgEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch Queen Illustrated",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publishedDate": "2021-01-13",
+        "description": "Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798594339460"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o2QrzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o2QrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o2QrzgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o2QrzgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen_Illustrated.html?hl=&id=o2QrzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o2QrzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pLwczgEACAAJ",
+      "etag": "/XA9Gx70cpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pLwczgEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen Illustrated",
+        "authors": [
+          "Rohmerbrood of the Witch Queen Is a 191"
+        ],
+        "publishedDate": "2020-12-13",
+        "description": "\"Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer.The story deals with Robert Cairn and his suspicions of Antony Ferrara, the adopted son of an old friend and colleague of Robert's father, Dr Bruce Cairn, of infernal magic and supernatural influence.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798580703671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pLwczgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pLwczgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pLwczgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pLwczgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen_Illustrated.html?hl=&id=pLwczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pLwczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer.The story deals with Robert Cairn and his suspicions of Antony Ferrara, the adopted son of an old friend and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9l1izgEACAAJ",
+      "etag": "pZskyWBRZKE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9l1izgEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen Annotated",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publishedDate": "2021-03-30",
+        "description": "Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798730445642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9l1izgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9l1izgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9l1izgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9l1izgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen_Annotated.html?hl=&id=9l1izgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9l1izgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jL8YBwAAQBAJ",
+      "etag": "VR+tXyvBIJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jL8YBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch Queen",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2014-08-16",
+        "description": "The Brood of The Witch Queen is a supernatural novel by Sax Rohmer. Sometimes called \"Rohmers masterpiece\" or \"the scariest book ever written.\" The story deals with Robert Cairn and his suspicions of Antony Ferrara, the adopted son of an old friend and colleague of Robert's father, Dr Bruce Cairn, of infernal magic and supernatural influence. The novel begins with the strange murder of Sir Michael Ferrara. A horrifying series of events follows, many of them take place in an inner secret chamber inside a pyramid in Egypt. Summoned elements, burned corpses, women forced to prey upon their own husbands...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781304969910"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1304969916"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jL8YBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jL8YBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jL8YBwAAQBAJ&printsec=frontcover&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jL8YBwAAQBAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen.html?hl=&id=jL8YBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Brood_of_the_Witch_Queen-sample-pdf.acsm?id=jL8YBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jL8YBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Brood of The Witch Queen is a supernatural novel by Sax Rohmer. Sometimes called &quot;Rohmers masterpiece&quot; or &quot;the scariest book ever written."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CNlmswEACAAJ",
+      "etag": "0Bet+zzYn5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CNlmswEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen by Sax Rohmer",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publishedDate": "2017-07-22",
+        "description": "Brood of the Witch-Queen by Sax Rohmer",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973821842"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973821847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CNlmswEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=CNlmswEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen_by_Sax_Rohmer.html?hl=&id=CNlmswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CNlmswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brood of the Witch-Queen by Sax Rohmer"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WZMcMQAACAAJ",
+      "etag": "YBNNmtC/LwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WZMcMQAACAAJ",
+      "volumeInfo": {
+        "title": "Sax Rohmer - Brood of the Witch-Queen",
+        "authors": [
+          "Sax Rohmer",
+          "Arthur Henry Sarsfield Ward"
+        ],
+        "publishedDate": "2016-11-10",
+        "description": "Although best known as the creator of the Fu-Manchu series of mystery novels, British author Arthur Henry Sarsfield Ward (who usually wrote under the pseudonym Sax Rohmer) also penned a number of science fiction, fantasy, and supernatural novels. Long himself associated with the occult, Rohmer brings captivating depth and detail to his story of a dabbler in the supernatural whose dark interests spin out of control -- with tragic results.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154032298X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540322982"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WZMcMQAACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WZMcMQAACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sax_Rohmer_Brood_of_the_Witch_Queen.html?hl=&id=WZMcMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WZMcMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Although best known as the creator of the Fu-Manchu series of mystery novels, British author Arthur Henry Sarsfield Ward (who usually wrote under the pseudonym Sax Rohmer) also penned a number of science fiction, fantasy, and supernatural ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UzdLswEACAAJ",
+      "etag": "Ai5KVTwDk8o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UzdLswEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen",
+        "subtitle": "Special Edition",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-02-22",
+        "description": "There was sincerity in the appeal, spoken in the softest, most silvern tone which he had ever heard. He stood beside the veiled woman, and met the glance of her dark eyes with a consciousness of some magnetic force in the glance which seemed to set his nerves quivering. We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public. The aim of our publishing program is to facilitate rapid access to this vast reservoir of literature, and our view is that this is a significant literary work, which deserves to be brought back into print after many decades. The contents of the vast majority of titles in the Classic Library have been scanned from the original works. To ensure a high quality product, each title has been meticulously hand curated by our staff. Our philosophy has been guided by a desire to provide the reader with a book that is as close as possible to ownership of the original work. We hope that you will enjoy this wonderful classic work, and that for you it becomes an enriching experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1985689685"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781985689688"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UzdLswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UzdLswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UzdLswEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=UzdLswEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen.html?hl=&id=UzdLswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UzdLswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We are delighted to publish this classic book as part of our extensive Classic Library collection. Many of the books in our collection have been out of print for decades, and therefore have not been accessible to the general public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dBR5zgEACAAJ",
+      "etag": "WiGfsZGvM54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dBR5zgEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen (Illustrated Edition)",
+        "authors": [
+          "Sax Rohmer"
+        ],
+        "publishedDate": "2021-05-25",
+        "description": "Brood of the Witch Queen is a 1918 supernatural novel by Arthur Henry Sarsfield Ward, known better under his pseudonym, Sax Rohmer. The story deals with Robert Cairn and his suspicions of Antony Ferrara, the adopted son of an old friend and colleague of Robert's father, Dr Bruce Cairn, of infernal magic and supernatural influence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798509984327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dBR5zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dBR5zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dBR5zgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dBR5zgEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen_Illustrated_Edi.html?hl=&id=dBR5zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dBR5zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story deals with Robert Cairn and his suspicions of Antony Ferrara, the adopted son of an old friend and colleague of Robert&#39;s father, Dr Bruce Cairn, of infernal magic and supernatural influence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qGBaawEACAAJ",
+      "etag": "1tlj1Vw/1hg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qGBaawEACAAJ",
+      "volumeInfo": {
+        "title": "Brood of the Witch-Queen",
+        "authors": [
+          "Sax Rohmer",
+          "Arthur Henry Ward"
+        ],
+        "publishedDate": "2015-09-17",
+        "description": "Although best known as the creator of the Fu-Manchu series of mystery novels, British author Arthur Henry Sarsfield Ward (who usually wrote under the pseudonym Sax Rohmer) also penned a number of science fiction, fantasy, and supernatural novels. Long himself associated with the occult, Rohmer brings captivating depth and detail to his story of a dabbler in the supernatural whose dark interests spin out of control -- with tragic results.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1517334160"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781517334161"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qGBaawEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qGBaawEACAAJ&dq=Sax+Rohmer+Brood+of+the+Witch-Queen&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brood_of_the_Witch_Queen.html?hl=&id=qGBaawEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qGBaawEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Although best known as the creator of the Fu-Manchu series of mystery novels, British author Arthur Henry Sarsfield Ward (who usually wrote under the pseudonym Sax Rohmer) also penned a number of science fiction, fantasy, and supernatural ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wOkqDwAAQBAJ",
+      "etag": "+exxFsY3e2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wOkqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dark Tower I",
+        "subtitle": "The Gunslinger",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-07-11",
+        "description": "Roland, the world's last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501182105"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501182102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wOkqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wOkqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wOkqDwAAQBAJ&printsec=frontcover&dq=Stephen+King+The+Gunslinger&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wOkqDwAAQBAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Tower_I.html?hl=&id=wOkqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wOkqDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roland, the world&#39;s last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Geq0uKAxZPEC",
+      "etag": "FZQXTh4XaY8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Geq0uKAxZPEC",
+      "volumeInfo": {
+        "title": "The Dark Tower VII",
+        "subtitle": "The Dark Tower",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-09-21",
+        "description": "Sams Local 11-7-2004 $35.00.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1880418622"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781880418628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 908,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 59,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Geq0uKAxZPEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Geq0uKAxZPEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Geq0uKAxZPEC&printsec=frontcover&dq=Stephen+King+The+Gunslinger&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Geq0uKAxZPEC&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Tower_VII.html?hl=&id=Geq0uKAxZPEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Geq0uKAxZPEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sams Local 11-7-2004 $35.00."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "38aQPwAACAAJ",
+      "etag": "UYO7FZuu+g4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/38aQPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Gunslinger",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0848807804"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780848807801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=38aQPwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=38aQPwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Gunslinger.html?hl=&id=38aQPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=38aQPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eerie, dreamlike, set in a world that is weirdly related to our own, The Gunslinger introduces Roland Deschain of Gilead, of In-World that was, as he pursues his enigmatic antagonist to the mountains that separate the desert from the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4yT_QQAACAAJ",
+      "etag": "4Js+OzWiTZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4yT_QQAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King the Dark Tower Gunslinger (Roland) Complete Paperback Set 1-7 the Gunslinger, the Drawing of Three, the Wastelands, Wizard and Glass, Wolves of the Calla, the Song of Susannah, the Dark Tower",
+        "authors": [
+          "Stephen King"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1608943720"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608943722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4yT_QQAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4yT_QQAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_the_Dark_Tower_Gunslinger_R.html?hl=&id=4yT_QQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4yT_QQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sIc2rIDp8ykC",
+      "etag": "+4rQKmH9ERY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sIc2rIDp8ykC",
+      "volumeInfo": {
+        "title": "The Gunslinger",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Signet",
+        "publishedDate": "1982",
+        "description": "The End Is Near. Start At The Beginning.Prepare for the climax of Stephen King's career...Get ready for the final Dark Tower books this fall...Stock up on the first Dark Tower book this summer...The #I BestsellerBook one in mass market paperback from Signet!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451160525"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451160522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 43,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sIc2rIDp8ykC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sIc2rIDp8ykC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sIc2rIDp8ykC&dq=Stephen+King+The+Gunslinger&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sIc2rIDp8ykC&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Gunslinger.html?hl=&id=sIc2rIDp8ykC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sIc2rIDp8ykC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The End Is Near. Start At The Beginning.Prepare for the climax of Stephen King&#39;s career...Get ready for the final Dark Tower books this fall...Stock up on the first Dark Tower book this summer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J-R-PwAACAAJ",
+      "etag": "d9/ZKB0dQnc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J-R-PwAACAAJ",
+      "volumeInfo": {
+        "title": "The Gunslinger",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Turtleback Books",
+        "publishedDate": "2003-01-01",
+        "description": "For use in schools and libraries only. Roland, the world's last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0613669703"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780613669702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J-R-PwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J-R-PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=J-R-PwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=J-R-PwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Gunslinger.html?hl=&id=J-R-PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J-R-PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only. Roland, the world&#39;s last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HdfMwQEACAAJ",
+      "etag": "shmA2MsAAx8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HdfMwQEACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's The Dark Tower: The Gunslinger",
+        "subtitle": "The Complete Graphic Novel Series",
+        "authors": [
+          "Stephen King",
+          "Robin Furth",
+          "Peter David"
+        ],
+        "publisher": "Gallery 13",
+        "publishedDate": "2019-10-22",
+        "description": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of fans were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled past and lifelong odyssey is revealed. Sumptuously drawn by Sean Phillips, Luke Ross, Michael Lark, Laurence Campbell, Alex Maleev, and Richard Isanove, adapted by Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Gunslinger is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. This boxed set includes the complete graphic novel series: The Gunslinger: The Journey Begins, The Little Sisters of Eluria, The Battle of Tull, The Way Station, The Man in Black, and Last Shots.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1982123168"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982123161"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HdfMwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HdfMwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HdfMwQEACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HdfMwQEACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_The_Dark_Tower_The_Gunsli.html?hl=&id=HdfMwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HdfMwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HoVMlgEACAAJ",
+      "etag": "3oYQq4/Y5WA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HoVMlgEACAAJ",
+      "volumeInfo": {
+        "title": "The Dark Tower: The Gunslinger",
+        "subtitle": "The Way Station",
+        "publisher": "Marvel",
+        "publishedDate": "2013-07-30",
+        "description": "When last we saw the gunslinger Roland, he was following the Man in Black's path to find the Dark Tower and set Mid-World right. Along the trail, Roland came to Tull, a sleepy little town in the middle of the desert where the Man in Black's sinister power had taken hold. Barely escaping with his life and leaving a pile of bodies in his wake, Roland arrived at the Way Station, where he meets Jake Chambers. Who is this sophisticated boy, and what is his connection to the world outside Mid-World? And is the Man in Black's flight across the desert just an illusion? Prepare for a tale of fantasy, horror, revenge and betrayal - a tale that could only come from the mind of master storyteller Stephen King. COLLECTING: Dark Tower : The Gunslinger - The Way Station 1-5",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0785149368"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780785149361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HoVMlgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HoVMlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HoVMlgEACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HoVMlgEACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Tower_The_Gunslinger.html?hl=&id=HoVMlgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HoVMlgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare for a tale of fantasy, horror, revenge and betrayal - a tale that could only come from the mind of master storyteller Stephen King. COLLECTING: Dark Tower : The Gunslinger - The Way Station 1-5"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XGPZEAAAQBAJ",
+      "etag": "q7g1pKcSrko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XGPZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Stephen King's The Dark Tower: The Gunslinger Omnibus",
+        "authors": [
+          "Stephen King",
+          "Peter David",
+          "Robin Furth"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2023-10-24",
+        "description": "Collects Stephen King's Dark Tower series in graphic novel format.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668021217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668021218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 736,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "2fbf857e8ef88609_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XGPZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XGPZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XGPZEAAAQBAJ&printsec=frontcover&dq=Stephen+King+The+Gunslinger&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XGPZEAAAQBAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_The_Dark_Tower_The_Gunsli.html?hl=&id=XGPZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XGPZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collects Stephen King&#39;s Dark Tower series in graphic novel format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "seqOtwAACAAJ",
+      "etag": "zpr80nuuS/4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/seqOtwAACAAJ",
+      "volumeInfo": {
+        "title": "Stephen King's Dark Tower: The Gunslinger: The Journey Begins",
+        "publisher": "Marvel",
+        "publishedDate": "2012-11-14",
+        "description": "The Barony of Gilead has fallen to the forces of the evil John Farson, as the Gunslingers are massacred at the Battle of Jericho Hill. But one Gunslinger rises from the ashes: Roland Deschain. As Deschain's limp body is tossed onto a funeral pyre ... he's not dead yet. Roland escapes; as the last of the Gunslingers, he sets out in search of the mysterious Dark Tower - the one place where he can set the events of his out-of-synch world right. Along the way, Roland will battle the Not-Men, the Slow Mutants and more as he trails the Man in Black, the sorcerer who holds the key to Roland's finding the Dark Tower. COLLECTING: DARK TOWER: THE GUNSLINGER 1-5",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0785147101"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780785147107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=seqOtwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=seqOtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=seqOtwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=seqOtwAACAAJ&dq=Stephen+King+The+Gunslinger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_s_Dark_Tower_The_Gunslinger.html?hl=&id=seqOtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=seqOtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Barony of Gilead has fallen to the forces of the evil John Farson, as the Gunslingers are massacred at the Battle of Jericho Hill. But one Gunslinger rises from the ashes: Roland Deschain."
+      }
+    }
+  ]
+}

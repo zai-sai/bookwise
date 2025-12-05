@@ -1,0 +1,788 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "le0dcHAeI-cC",
+      "etag": "OmzwwRN2vgk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/le0dcHAeI-cC",
+      "volumeInfo": {
+        "title": "The Amateur Cracksman",
+        "authors": [
+          "E. W. Hornung"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-06-01",
+        "description": "First published in 1899, The Amateur Cracksman was the first collection of stories detailing the exploits and intrigues of gentleman thief A. J. Raffles in late Victorian England. Raffles was E. W. Hornung's most famous character. Popular in its day, the book led to three later works: The Black Mask and A Thief in the Night, both collections of short stories, and Mr. Justice Raffles, a complete novel. In public a popular sportsman, in private a cunning burglar with a weakness for valuable jewelery, Arthur Raffles, with the help of his side-kick Bunny Manders, always manages to thwart the investigations of Scotland Yard's Inspector Mackenzie.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775415107"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1775415104"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=le0dcHAeI-cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=le0dcHAeI-cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=le0dcHAeI-cC&printsec=frontcover&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=le0dcHAeI-cC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=le0dcHAeI-cC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=le0dcHAeI-cC&rdid=book-le0dcHAeI-cC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Amateur_Cracksman-sample-epub.acsm?id=le0dcHAeI-cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=le0dcHAeI-cC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1899, The Amateur Cracksman was the first collection of stories detailing the exploits and intrigues of gentleman thief A. J. Raffles in late Victorian England. Raffles was E. W. Hornung&#39;s most famous character."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1l9dEQAAQBAJ",
+      "etag": "yriEB2IDsxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1l9dEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Raffles Further Adventures of the Amateur Cracksman",
+        "authors": [
+          "E. W. Hornung"
+        ],
+        "publisher": "Otbebookpublishing",
+        "publishedDate": "2021-10-08",
+        "description": "Raffles: Further Adventures of the Amateur Cracksman. It is the second collection of stories in Hornung's series concerning A. J. Raffles, a gentleman thief in late Victorian London. Following the events of the final story of the preceding short story collection, the reputations of A. J. Raffles and his companion Bunny Manders are ruined. Raffles is assumed to have drowned in the Mediterranean, and Bunny has faced eighteen months in prison and is struggling to get back on his feet. The eight stories in this collection follow their remarkable reunion, and their joint return to crime, though as hardened criminals rather than respectable gentlemen. The stories are in chronological order, yet each is mostly independent and can be read separately.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985315680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "398531568X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1l9dEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1l9dEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1l9dEQAAQBAJ&printsec=frontcover&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1l9dEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1l9dEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1l9dEQAAQBAJ&rdid=book-1l9dEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1l9dEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Raffles: Further Adventures of the Amateur Cracksman. It is the second collection of stories in Hornung&#39;s series concerning A. J. Raffles, a gentleman thief in late Victorian London."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KX8ZEQAAQBAJ",
+      "etag": "ygxnKmDq+k4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KX8ZEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Raffles: The Amateur Cracksman",
+        "authors": [
+          "E. W. Hornung"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2024-08-28",
+        "description": "Art for art's sake is a vile catchword, but I confess it appeals to me' Gentleman by day and thief by night, A. J. Raffles lives a double life. Taking 'Art for art's sake' as his motto, Raffles supports his debonair lifestyle by performing lucrative, artistic, and ingenious burglaries of the wealthy elite of Victorian London. Dedicated to his brother-in-law Arthur Conan Doyle, Hornung's first collection of Raffles stories, The Amateur Cracksman (1899), can be seen as an inverted spin-off of the former's celebrated detective stories. But it is Raffles' outlaw status that has drawn generations of readers to these swift-paced tales of a charismatic and cool-headed thief and his less worldly partner, Bunny. Hornung had Oscar Wilde in mind as much as Sherlock Holmes when he created Raffles, and the account of their double life offers one of the turn of the century's most touching accounts of a same-sex couple. Frequently adapted for stage and screen, Hornung's original stories have never lost their power to captivate readers. Admired by writers like George Orwell, Graham Greene, and Anthony Powell, Hornung's crisp prose evokes a late Victorian London of clubland bachelors, hansom cabs, champagne suppers, Australian heiresses, and South African diamond moguls. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192691323"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192691325"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KX8ZEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KX8ZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KX8ZEQAAQBAJ&printsec=frontcover&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KX8ZEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KX8ZEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.66,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.46,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KX8ZEQAAQBAJ&rdid=book-KX8ZEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6660000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4460000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Raffles_The_Amateur_Cracksman-sample-epub.acsm?id=KX8ZEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Raffles_The_Amateur_Cracksman-sample-pdf.acsm?id=KX8ZEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KX8ZEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But it is Raffles&#39; outlaw status that has drawn generations of readers to these swift-paced tales of a charismatic and cool-headed thief and his less worldly partner, Bunny."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O-QRDgAAQBAJ",
+      "etag": "dn/qlNuFxR0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O-QRDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Amateur Cracksman",
+        "subtitle": "The Amateur Cracksman: A Classic Collection of Short Stories from E. W. Hornung",
+        "authors": [
+          "E.W. Hornung"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "The Amateur Cracksman' was the original short story collection by E.W. Hornung featuring his most famous character A. J. Raffles, a gentleman thief in late Victorian England. It was first published in 1899. The book was very well received and spawned three follow-ups: two more short story collections, 'The Black Mask' (1901) and 'A Thief in the Night' (1904), as well as a full-length novel, 'Mr. Justice Raffles' in 1909.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O-QRDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O-QRDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=O-QRDgAAQBAJ&printsec=frontcover&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=O-QRDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=O-QRDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.41,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=O-QRDgAAQBAJ&rdid=book-O-QRDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 410000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Amateur_Cracksman-sample-epub.acsm?id=O-QRDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Amateur_Cracksman-sample-pdf.acsm?id=O-QRDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O-QRDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Amateur Cracksman&#39; was the original short story collection by E.W. Hornung featuring his most famous character A. J. Raffles, a gentleman thief in late Victorian England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1vRgjwEACAAJ",
+      "etag": "uefBJz+59rA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1vRgjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Amateur Cracksman",
+        "authors": [
+          "E. Hornung"
+        ],
+        "publishedDate": "2016-01-30",
+        "description": "The Amateur Cracksman by E.W. Hornung features his most famous character, A. J. Raffles, a gentleman thief in late Victorian Great Britain. This is a classic tale that has been loved by many for generations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523779993"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523779994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1vRgjwEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1vRgjwEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Amateur_Cracksman.html?hl=&id=1vRgjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1vRgjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Amateur Cracksman by E.W. Hornung features his most famous character, A. J. Raffles, a gentleman thief in late Victorian Great Britain. This is a classic tale that has been loved by many for generations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1agnzgEACAAJ",
+      "etag": "cxyXHvltrtM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1agnzgEACAAJ",
+      "volumeInfo": {
+        "title": "Raffles The Amateur Cracksman Annotated",
+        "authors": [
+          "E W Hornung"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-01-16",
+        "description": "The Amateur Cracksman is an 1899 short story collection by E. W. Hornung. It was published in the UK by Methuen & Co., London, and in the US by Scribner's, New York. It was the original short story collection by Hornung featuring his most famous character, A. J. Raffles, a gentleman thief in late Victorian Great Britain. The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798595631075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1agnzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1agnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1agnzgEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1agnzgEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raffles_The_Amateur_Cracksman_Annotated.html?hl=&id=1agnzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1agnzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y0YJzgEACAAJ",
+      "etag": "4a7xtapHzaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y0YJzgEACAAJ",
+      "volumeInfo": {
+        "title": "Raffles The Amateur Cracksman Annotated",
+        "authors": [
+          "Ernest William Hornung"
+        ],
+        "publishedDate": "2020-10-24",
+        "description": "The Amateur Cracksman is an 1899 short story collection by E. W. Hornung. It was published in the UK by Methuen & Co., London, and in the US by Scribner's, New York. It was the original short story collection by Hornung featuring his most famous character, A. J. Raffles, a gentleman thief in late Victorian Great Britain. The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798552335114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y0YJzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y0YJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=y0YJzgEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=y0YJzgEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raffles_The_Amateur_Cracksman_Annotated.html?hl=&id=y0YJzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y0YJzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Io4xDwAAQBAJ",
+      "etag": "qS0Y+ry/gnM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Io4xDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Raffles: Further Adventures of the Amateur Cracksman",
+        "authors": [
+          "Ernest William Hornung"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2017-08-06",
+        "description": "These \"\"Further Adventures\"\" is a collection of stories about the ever-popular amateur thief Raffles, following the success of \"\"The Amateur Cracksman.\"\" Arthur J. Raffles is a character created in the 1890s by E. W. Hornung, brother-in-law to Sir Arthur Conan Doyle, the creator of Sherlock Holmes. Raffles is, in many ways, a deliberate inversion of Holmes - he is a \"\"gentleman thief,\"\" living at the Albany, a prestigious address in London, playing cricket for the Gentlemen of England and supporting himself by carrying out ingenious burglaries. He is called the \"\"Amateur Cracksman,\"\" and often, at first, differentiates between himself and the \"\"professors\"\" - professional criminals from the lower classes. As Holmes has Dr. Watson to chronicle his adventures, Raffles has Harry \"\"Bunny\"\" Manders - a former schoolmate saved from disgrace and suicide by Raffles, whom Raffles persuaded to accompany him on a burglary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781387148585"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1387148583"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Io4xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Io4xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Io4xDwAAQBAJ&printsec=frontcover&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Io4xDwAAQBAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raffles_Further_Adventures_of_the_Amateu.html?hl=&id=Io4xDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Raffles_Further_Adventures_of_the_Amateu-sample-pdf.acsm?id=Io4xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Io4xDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These &quot;Further Adventures&quot; is a collection of stories about the ever-popular amateur thief Raffles, following the success of &quot;The Amateur Cracksman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X2VZxQEACAAJ",
+      "etag": "xVrhxTTFcNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X2VZxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Amateur Cracksman",
+        "subtitle": "Large Print",
+        "authors": [
+          "E W Hornung"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-04-30",
+        "description": "Gentleman thief Raffles is daring, debonair, devilishly handsome-and a first-rate cricketer. In these eight stories, the master burglar indulges his passion for cricket and crime: stealing jewels from a country house, outwitting the law, pilfering from the nouveau riche, and, of course, bowling like a demon-all with the assistance of his plucky sidekick, Bunny. Encouraged by his brother-in-law, Arthur Conan Doyle, to write a series about a public school villain, and influenced by his own experiences at Uppingham, E. W. Hornung created a unique form of crime story, where, in stealing as in sport, it is playing the game that counts, and there is always honor among thieves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1096244012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781096244011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X2VZxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X2VZxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X2VZxQEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=X2VZxQEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Amateur_Cracksman.html?hl=&id=X2VZxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X2VZxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In these eight stories, the master burglar indulges his passion for cricket and crime: stealing jewels from a country house, outwitting the law, pilfering from the nouveau riche, and, of course, bowling like a demon-all with the assistance ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ubDXzQEACAAJ",
+      "etag": "RyGvyWdDssI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ubDXzQEACAAJ",
+      "volumeInfo": {
+        "title": "Raffles The Amateur Cracksman Annotated",
+        "authors": [
+          "E W Hornung"
+        ],
+        "publishedDate": "2020-09-14",
+        "description": "The Amateur Cracksman is an 1899 short story collection by E. W. Hornung. It was published in the UK by Methuen & Co., London, and in the US by Scribner's, New York. It was the original short story collection by Hornung featuring his most famous character, A. J. Raffles, a gentleman thief in late Victorian Great Britain. The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798685834652"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ubDXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ubDXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ubDXzQEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ubDXzQEACAAJ&dq=E.+W.+Hornung+The+Amateur+Cracksman&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raffles_The_Amateur_Cracksman_Annotated.html?hl=&id=ubDXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ubDXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book was very well received and spawned three follow-ups: two more short story collections, The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length novel, Mr. Justice Raffles in 1909."
+      }
+    }
+  ]
+}

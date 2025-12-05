@@ -1,0 +1,821 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QIfb0_tTFugC",
+      "etag": "kYhUrW92ihA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QIfb0_tTFugC",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "岡倉覚三",
+          "Kakuzo Okakura"
+        ],
+        "publisher": "Applewood Books",
+        "publishedDate": "2008",
+        "description": "Written in English by a Japanese scholar in 1906, \"\"The Book of Tea\"\" is an elegant attempt to explain the philosophy of the Japanese Tea Ceremony, with its Taoist and Zen Buddhist roots, to a Western audience in clear and simple terms. One of the most widely-read English works about Japan, it had a profound influence on western undertsanding of East Asian tradition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429012799"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142901279X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QIfb0_tTFugC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QIfb0_tTFugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QIfb0_tTFugC&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QIfb0_tTFugC&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Tea.html?hl=&id=QIfb0_tTFugC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Tea-sample-pdf.acsm?id=QIfb0_tTFugC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QIfb0_tTFugC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in English by a Japanese scholar in 1906, &quot;The Book of Tea&quot; is an elegant attempt to explain the philosophy of the Japanese Tea Ceremony, with its Taoist and Zen Buddhist roots, to a Western audience in clear and simple terms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WebU_NUMuBsC",
+      "etag": "RmplQFYX+54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WebU_NUMuBsC",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "Kakuzo Okakura"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-04-01",
+        "description": "The Book of Tea discusses the impact of \"Teaism\" on all aspects of Japanese culture and life. Kakuzo elaborates on the relationship between tea ceremony and Zen and Taoism. He also talks about the tea masters and their contribution to the tea ceremony. Kakuzo spoke English from an early age, and so was able to make his writings accessible to the Western mind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781775414933"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1775414930"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WebU_NUMuBsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WebU_NUMuBsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WebU_NUMuBsC&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WebU_NUMuBsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WebU_NUMuBsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.29,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.29,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WebU_NUMuBsC&rdid=book-WebU_NUMuBsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5290000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5290000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Tea-sample-epub.acsm?id=WebU_NUMuBsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WebU_NUMuBsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Book of Tea discusses the impact of &quot;Teaism&quot; on all aspects of Japanese culture and life. Kakuzo elaborates on the relationship between tea ceremony and Zen and Taoism."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ht1a77Trl9YC",
+      "etag": "ksTYidqJClk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ht1a77Trl9YC",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "Kakuz_ Okakura"
+        ],
+        "publisher": "Library of Alexandria",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465555625"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465555625"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ht1a77Trl9YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ht1a77Trl9YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ht1a77Trl9YC&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ht1a77Trl9YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ht1a77Trl9YC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ht1a77Trl9YC&rdid=book-ht1a77Trl9YC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Tea-sample-epub.acsm?id=ht1a77Trl9YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ht1a77Trl9YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgRADwAAQBAJ",
+      "etag": "bfp6roAHrLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgRADwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "Okakura-Kakuzo"
+        ],
+        "publisher": "FV Éditions",
+        "publishedDate": "2017-11-23",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791029904615"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CgRADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CgRADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=CgRADwAAQBAJ&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CgRADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CgRADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.48,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CgRADwAAQBAJ&rdid=book-CgRADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1480000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgRADwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PiqODwAAQBAJ",
+      "etag": "pT53sSyaMOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PiqODwAAQBAJ",
+      "volumeInfo": {
+        "title": "Book of Tea",
+        "subtitle": "Beauty, Simplicity and the Zen Aesthetic",
+        "authors": [
+          "Okakura Kakuzo"
+        ],
+        "publisher": "Tuttle Publishing",
+        "publishedDate": "2018-11-20",
+        "description": "\"Transcending the narrow confines of its title, presents a unified concept of life, art and nature. Along the way exploring topics related to tea appreciation, including Zen, flower arranging and Taoism. An early cultural activist, Okakura's mission was to preserve Japanese art and aesthetic practices from an extinction that seemed imminent. -- Stephen Mansfield, The Japan Times\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781462920495"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1462920497"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PiqODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PiqODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PiqODwAAQBAJ&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PiqODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PiqODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.02,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PiqODwAAQBAJ&rdid=book-PiqODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6020000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Book_of_Tea-sample-epub.acsm?id=PiqODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Book_of_Tea-sample-pdf.acsm?id=PiqODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PiqODwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Book of Tea is a delightful cup of enlightenment from a man far ahead of his time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k66oDwAAQBAJ",
+      "etag": "E9A+1x25EYc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k66oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "Okakura Kakuzo"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2020-02-06",
+        "description": "The Book of Tea describes all aspects of the Japanese tea ceremony and explains how its rituals blend seamlessly with traditional Japanese life. Part of the Macmillan Collector’s Library; a series of stunning, clothbound, pocket-sized classics. These beautiful books make perfect gifts or a treat for any book lover. This edition has an afterword by Anna Sherman and delightful illustrations by Sayuri Romei. This short book, written in English by a Japanese scholar and artist, was first published in 1906 at a time when Japan was opening up to Western culture. In response to that, Okakura Kakuzo set out to explain the beauty and simplicity of Japanese daily life which was greatly inspired by teaism. He describes in detail the different aspects of the tea ceremony, how it was founded, the role of the tea masters, the architecture of the tea-room and the stages of making and serving the tea. He then goes on to explain the connection between Taoism and Zennism with tea and he also writes chapters on art appreciation and the art of flower arranging.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529029727"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529029724"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k66oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k66oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=k66oDwAAQBAJ&printsec=frontcover&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=k66oDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=k66oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=k66oDwAAQBAJ&rdid=book-k66oDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Tea-sample-epub.acsm?id=k66oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k66oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These beautiful books make perfect gifts or a treat for any book lover. This edition has an afterword by Anna Sherman and delightful illustrations by Sayuri Romei."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rwjGzgEACAAJ",
+      "etag": "siaj+P1gow0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rwjGzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea Kakuzo Okakura (classics Illustrated)",
+        "authors": [
+          "Kakuzo Okakura"
+        ],
+        "publishedDate": "2021-06-23",
+        "description": "\"The original 1906 edition of The Book of Tea is one of the classic texts found on the desks of artists, poets, teaists and Zen Buddhists around the world. The book has been re-designed and expanded for a contemporary audience.You will discover the fascinating character of Okakura Kakuzo and the story of how he came to write one of the twentieth century's most influential books on art, beauty, and simplicity--all steeped in the world's communal cup of tea. His incredible journey took him from Yokohama to New York, Paris, Bombay, and Boston, where his life intertwined with such luminaries as Rabindranath Tagore, John Singer Sargent, Henry James, John La Farge, Isabella Stewart Gardner, Ezra Pound, and Henri Matisse. His writings influenced the work of such notable artists as Frank Lloyd Wright and Georgia O'Keeffe.American tea writer Bruce Richardson includes many historical photographs and illustrations in this updated edition of Okakura's classic text, along with unique insight into how Okakura's philosophy continues to inspire today's tea culture. Plus, Richardson includes an all-new chapter on America's thirst for Japanese tea during the late 1800s, illustrated with archival photographs.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798525386594"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rwjGzgEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rwjGzgEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Tea_Kakuzo_Okakura_classics.html?hl=&id=rwjGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rwjGzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book has been re-designed and expanded for a contemporary audience.You will discover the fascinating character of Okakura Kakuzo and the story of how he came to write one of the twentieth century&#39;s most influential books on art, beauty, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S0RlswEACAAJ",
+      "etag": "/I9zBb59yJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S0RlswEACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea",
+        "authors": [
+          "Okakura Kakuzo"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-05-15",
+        "description": "The Book of Tea ( Cha no Hon?) by Okakura Kakuzo (1906) is a long essay linking the role of tea (teaism) to the aesthetic and cultural aspects of Japanese life. Addressed to a western audience, it was originally written in English and is one of the great English tea classics. Okakura had been taught at a young age to speak English and was proficient at communicating his thoughts to the Western mind. In his book, he discusses such topics as Zen and Taoism, but also the secular aspects of tea and Japanese life. The book emphasizes how Teaism taught the Japanese many things; most importantly, simplicity. Kakuzo argues that this tea-induced simplicity affected art and architecture, and he was a long-time student of the visual arts. He ends the book with a chapter on Tea Masters, and spends some time talking about Sen no Rikyu and his contribution to the Japanese tea ceremony..... Okakura Kakuzo ( February 14, 1862 - September 2, 1913) (also known as Okakura Tenshin) was a Japanese scholar who contributed to the development of arts in Japan. Outside Japan, he is chiefly remembered today as the author of The",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1546704256"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781546704256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S0RlswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S0RlswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=S0RlswEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=S0RlswEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Tea.html?hl=&id=S0RlswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S0RlswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Book of Tea ( Cha no Hon?) by Okakura Kakuzo (1906) is a long essay linking the role of tea (teaism) to the aesthetic and cultural aspects of Japanese life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MPJ3jwEACAAJ",
+      "etag": "c+V3vNdZXJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MPJ3jwEACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea by Kakuzo Okakura (World's Classics)",
+        "authors": [
+          "Kakuzo Okakura"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-02-01",
+        "description": "The Book of Tea discusses the impact of \"Teaism\" on all aspects of Japanese culture and life. Kakuzo elaborates on the relationship between tea ceremony and Zen and Taoism. He also talks about the tea masters and their contribution to the tea ceremony. Kakuzo spoke English from an early age, and so was able to make his writings accessible to the Western mind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523799072"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523799077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MPJ3jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MPJ3jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MPJ3jwEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MPJ3jwEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Tea_by_Kakuzo_Okakura_World.html?hl=&id=MPJ3jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MPJ3jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Book of Tea discusses the impact of &quot;Teaism&quot; on all aspects of Japanese culture and life. Kakuzo elaborates on the relationship between tea ceremony and Zen and Taoism."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZEj9jwEACAAJ",
+      "etag": "woND1uqwmxc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZEj9jwEACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Tea (1906) by Okakura Kakuzo",
+        "authors": [
+          "Okakura Kakuzo"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-04-04",
+        "description": "Now available in a gorgeous hardcover slipcase edition, this \"object d'art\" will be sure to add grace and elegance to tea shelves, coffee tables and bookshelves. A keepsake enjoyed by tea lovers for over a hundred years, The Book of Tea Classic Edition will enhance your enjoyment and understanding of the seemingly simple act of making and drinking tea. In 1906 in turn-of-the century Boston, a small, esoteric book about tea was written with the intention of being read aloud in the famous salon of Isabella Gardner, Boston's most famous socialite. It was authored by Okakura Kakuzo, a Japanese philosopher, art expert, and curator. Little known at the time, Kakuzo would emerge as one of the great thinkers of the early 20th century, a genius who was insightful, witty-and greatly responsible for bridging Western and Eastern cultures. Okakura had been taught at a young age to speak English and was more than capable of expressing to Westerners the nuances of tea and the Japanese Tea Ceremony. In The Book of Tea Classic Edition he discusses such topics as Zen and Taoism, but also the secular aspects of tea and Japanese life. The book emphasizes how Teaism taught the Japanese many things; most importantly, simplicity. Kakuzo argues that tea-induced simplicity affected the culture, art and architecture of Japan. Nearly a century later, Kakuzo's The Book of Tea Classic Edition is still beloved the world over, making it an essential part of any tea enthusiast's collection. Interwoven with a rich history of Japanese tea and its place in Japanese society is poignant commentary on Asian culture and our ongoing fascination with it, as well as illuminating essays on art, spirituality, poetry, and more. The Book of Tea Classic Edition is a delightful cup of enlightenment from a man far ahead of his time",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153088327X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530883271"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZEj9jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZEj9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZEj9jwEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZEj9jwEACAAJ&dq=Okakura+Kakuz+The+Book+of+Tea&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Tea_1906_by_Okakura_Kakuzo.html?hl=&id=ZEj9jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZEj9jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Book of Tea Classic Edition he discusses such topics as Zen and Taoism, but also the secular aspects of tea and Japanese life. The book emphasizes how Teaism taught the Japanese many things; most importantly, simplicity."
+      }
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dFgbnwEACAAJ",
+      "etag": "D0F32Yl7Gm0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dFgbnwEACAAJ",
+      "volumeInfo": {
+        "title": "1984",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Oberon Books",
+        "publishedDate": "2014-09-02",
+        "description": "April, 1984. Winston Smith thinks a thought, starts a diary, and falls in love. But Big Brother is watching him, and the door to Room 101 can swing open in the blink of an eye. Its ideas have become our ideas, and Orwell's fiction is often said to be our reality. The definitive book of the 20th century is re-examined in a radical new adaptation exploring why Orwell's vision of the future is as relevant as ever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1783190612"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783190614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dFgbnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dFgbnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dFgbnwEACAAJ&dq=George+Orwell+1984&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dFgbnwEACAAJ&dq=George+Orwell+1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=dFgbnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dFgbnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Its ideas have become our ideas, and Orwell&#39;s fiction is often said to be our reality. The definitive book of the 20th century is re-examined in a radical new adaptation exploring why Orwell&#39;s vision of the future is as relevant as ever."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jzEncIezSwkC",
+      "etag": "CgXFl0Hqs4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jzEncIezSwkC",
+      "volumeInfo": {
+        "title": "George Orwell's 1984",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2009",
+        "description": "Examines different aspects of Orwell's anti-utopian classic, with a biographical sketch of the author and critical essays on this work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438114682"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438114680"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Dystopias in literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jzEncIezSwkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jzEncIezSwkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jzEncIezSwkC&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jzEncIezSwkC&dq=George+Orwell+1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_s_1984.html?hl=&id=jzEncIezSwkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/George_Orwell_s_1984-sample-epub.acsm?id=jzEncIezSwkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/George_Orwell_s_1984-sample-pdf.acsm?id=jzEncIezSwkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jzEncIezSwkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Examines different aspects of Orwell&#39;s anti-utopian classic, with a biographical sketch of the author and critical essays on this work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GbxnEQAAQBAJ",
+      "etag": "4S2d1plbDbw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GbxnEQAAQBAJ",
+      "volumeInfo": {
+        "title": "George Orwell: 1984 / Nineteen Eighty-Four (English Edition)",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2025-06-23",
+        "description": "George Orwell’s \"1984\" (first published in 1949) is a groundbreaking dystopian novel set in a totalitarian society ruled by the oppressive Party and its leader, Big Brother. The story follows Winston Smith, a low-ranking Party member who secretly rebels against the regime’s pervasive surveillance, propaganda, and thought control. Through concepts like Newspeak, doublethink, and the infamous slogan \"War is Peace, Freedom is Slavery, Ignorance is Strength,\" Orwell explores themes of government overreach, psychological manipulation, and the erosion of truth. \"1984\" remains a chilling and influential critique of authoritarianism, still widely studied and referenced today. This edition is the English-language hardcover version of Orwell's classic novel. George Orwell. 1984. First published:\"Nineteen Eighty-Four\", Secker and Warburg, London 1949. Neuausgabe, LIWI Literatur- und Wissenschaftsverlag, Göttingen 2025.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753800097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753800090"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GbxnEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GbxnEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GbxnEQAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GbxnEQAAQBAJ&dq=George+Orwell+1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_1984_Nineteen_Eighty_Four.html?hl=&id=GbxnEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/George_Orwell_1984_Nineteen_Eighty_Four-sample-pdf.acsm?id=GbxnEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GbxnEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition is the English-language hardcover version of Orwell&#39;s classic novel. George Orwell. 1984. First published:&quot;Nineteen Eighty-Four&quot;, Secker and Warburg, London 1949."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ET0EEQAAQBAJ",
+      "etag": "6N67Uuy85vE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ET0EEQAAQBAJ",
+      "volumeInfo": {
+        "title": "1984",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Modernista",
+        "publishedDate": "2024",
+        "description": "George Orwell's 1984 is one of the most influential novels of the 20th century: a work of biting political satire, echoing the tumultuous years after World War II. In his previous work, Animal Farm [1945], Orwell had examined the mechanisms of Stalinism through an allegory of animals revolting against their human owner. In 1984 [1949], he extends the view into the future: The country of Oceania has implemented a society of control, hostile to freedom and humanity at all levels, especially in and as language. Constant surveillance prevails - »Big Brother Is Watching you« - and any deviation is ruthlessly punished. Few works of literature have had an impact equalling 1984. Orwell s uncanny ability to predict societal trends makes it as relevant today as when it was first published. GEORGE ORWELL was born in India in 1903, and died in London in 1950. As a journalist, critic, and author, he was a keen observer of his time and its political conditions and consequences.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789180949019"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9180949010"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ET0EEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ET0EEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ET0EEQAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ET0EEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ET0EEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.16,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 6.16,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ET0EEQAAQBAJ&rdid=book-ET0EEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6160000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 6160000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984-sample-epub.acsm?id=ET0EEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984-sample-pdf.acsm?id=ET0EEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ET0EEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "George Orwell&#39;s 1984 is one of the most influential novels of the 20th century: a work of biting political satire, echoing the tumultuous years after World War II. In his previous work, Animal Farm [1945], Orwell had examined the mechanisms ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1aIFEAAAQBAJ",
+      "etag": "yoBqG86EgA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1aIFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "1984 : George Orwell's 1984: A Dystopian Masterpiece",
+        "subtitle": "George Orwell 1984: A Dystopian Masterpiece by a Visionary Author by George Orwell",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "George Orwell 1984: Nineteen Eighty-Four is a groundbreaking dystopian novel by English author George Orwell. Published in 1949, it presents a chilling portrayal of a totalitarian society where individualism is suppressed, surveillance is omnipresent, and truth is manipulated for political control. Often referred to simply as 1984, the book has become a timeless classic and a cautionary tale about the dangers of totalitarianism and the importance of preserving individual freedom. Key Aspects of George Orwell 1984: Nineteen Eighty-Four: Dystopian Society: Orwell creates a haunting vision of a future society ruled by a totalitarian regime known as the Party. The novel explores the complete control exerted by the Party over its citizens, who are constantly monitored, manipulated, and stripped of their individuality and freedom. The depiction of a dystopian world serves as a stark warning about the potential consequences of unchecked governmental power.Surveillance and Manipulation: One of the central themes of the novel is the pervasive surveillance employed by the Party through devices such as telescreens, hidden microphones, and informants. The constant monitoring of its citizens ensures conformity and suppresses any dissent. Orwell's portrayal of this surveillance state raises important questions about privacy, freedom of thought, and the dangers of mass surveillance in modern societies.Exploration of Truth and Reality: In 1984, Orwell introduces the concept of doublethink, where the Party manipulates and controls reality by rewriting history and altering facts. The protagonist, Winston Smith, struggles to maintain his own independent thoughts and seek the truth amid a world dominated by propaganda and distortion. Orwell's exploration of the nature of truth and the power of language to shape perception is both thought-provoking and unsettling. George Orwell 1984: Nineteen Eighty-Four continues to captivate readers with its powerful portrayal of a dystopian society and its profound insights into themes such as government oppression, surveillance, and the manipulation of truth. Orwell's skillful storytelling and his ability to capture the human spirit in the face of adversity make this novel a timeless masterpiece of social science fiction. George Orwell: George Orwell, the pen name of Eric Arthur Blair, was an English writer and journalist known for his dystopian novels, most notably Nineteen Eighty-Four and Animal Farm. Born in 1903, Orwell's works examined the dangers of totalitarianism, political oppression, and the manipulation of truth. His writings, characterized by lucid prose and keen social observation, exposed the dark undercurrents of power and the erosion of individual freedoms. Orwell's legacy as a political visionary and his commitment to defending the principles of democracy and freedom of expression continue to resonate in modern society. His works serve as a warning against the abuse of power and the importance of truth in the face of oppressive regimes.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1aIFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1aIFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1aIFEAAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1aIFEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1aIFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.25,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.25,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1aIFEAAAQBAJ&rdid=book-1aIFEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2250000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2250000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984_George_Orwell_s_1984_A_Dystopian_Ma-sample-epub.acsm?id=1aIFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984_George_Orwell_s_1984_A_Dystopian_Ma-sample-pdf.acsm?id=1aIFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1aIFEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Orwell&#39;s skillful storytelling and his ability to capture the human spirit in the face of adversity make this novel a timeless masterpiece of social science fiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rjVlnBfnJPgC",
+      "etag": "7W7QSm/lWoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rjVlnBfnJPgC",
+      "volumeInfo": {
+        "title": "Nineteen Eighty-four",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Everyman's Library",
+        "publishedDate": "1992",
+        "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780679417392"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0679417397"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 325,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rjVlnBfnJPgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rjVlnBfnJPgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rjVlnBfnJPgC&dq=George+Orwell+1984&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rjVlnBfnJPgC&dq=George+Orwell+1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_four.html?hl=&id=rjVlnBfnJPgC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rjVlnBfnJPgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zCMNEAAAQBAJ",
+      "etag": "5w+ArRF6PS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zCMNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "George Orwell: 1984 (Original English Edition)",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": " eClassica",
+        "publishedDate": "2021-01-01",
+        "description": "London, in the year 1984: The world is divided into three constantly warring superstates – Oceania, Eurasia and Eastasia. In Oceania, of which Britain is a part, the Party’s power is absolute. Every action, word, gesture and thought is monitored under the watchful eye of Big Brother and the Thought Police. In the ›Ministry of Truth‹, the Party’s Propaganda Department, Winston Smith’s job is to edit and rewrite history, to meet the needs of the government. With every lie he writes, Winston grows to hate the Party that persecutes those who dare to commit thoughtcrimes. As Winston falls in love with Julia, they begin to question the system, and expose themselfes to immense danger ... Since its first publication in 1949, George Orwell’s haunting prophecy has been the definitive dystopian novel and one of the most influential works of the 20th century.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zCMNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zCMNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=zCMNEAAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zCMNEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zCMNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.23,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.23,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zCMNEAAAQBAJ&rdid=book-zCMNEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1230000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1230000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/George_Orwell_1984_Original_English_Edit-sample-epub.acsm?id=zCMNEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zCMNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since its first publication in 1949, George Orwell’s haunting prophecy has been the definitive dystopian novel and one of the most influential works of the 20th century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wvJbEAAAQBAJ",
+      "etag": "evqPgPutsic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wvJbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nineteen Eighty-Four",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2021-01-28",
+        "description": "'If you want a picture of the future, imagine a boot stamping on a human face--forever.' 1984 Nineteen Eighty-Four (1949), George Orwell's final novel, was completed in difficult conditions shortly before his early death. It is one of the most influential and widely-read novels of the post-war period, and has been a huge international bestseller over many decades. Continually in print, it has long been controversial, both in its immediate Cold War context and in later history. It is in some ways a realist novel, but in others is more akin to a work of science fiction, a dystopia or a satire. It also has strong affiliations to Gothic in its plotting, motifs and affective states. Full of horror and terror, it contains prophetic dreams and a central character who thinks of himself as a 'monster', a 'ghost' and 'already dead'. Like Frankenstein and Dracula, it is fascinated by the power of a documentary remnant addressed to an unknown reader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192564535"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192564536"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wvJbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wvJbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wvJbEAAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wvJbEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wvJbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.59,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wvJbEAAAQBAJ&rdid=book-wvJbEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3590000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Nineteen_Eighty_Four-sample-epub.acsm?id=wvJbEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Nineteen_Eighty_Four-sample-pdf.acsm?id=wvJbEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wvJbEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;If you want a picture of the future, imagine a boot stamping on a human face--forever.&#39; 1984 Nineteen Eighty-Four (1949), George Orwell&#39;s final novel, was completed in difficult conditions shortly before his early death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mqHIEAAAQBAJ",
+      "etag": "YGjZd1C/pu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mqHIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "1984 (Nineteen Eighty Four by George Orwell)",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Pretorian Media",
+        "publishedDate": "2023-01-23",
+        "description": "\"1984 - the novel marking the end of communism.\" George Orwell's 1984 revolves around Winston Smith, an office worker who performs censorship duties in Oceania's Ministry of Truth as a small cog in the wheel of a monstrous state apparatus. For years, doubts have been gnawing at him about the legitimacy of the system in which even a blink of the eye can cost him his life. The novel begins with the first step towards putting this initially purely intellectual resistance into action: Winston opens a diary. He subsequently falls in love with a young female colleague, and together they begin a love affair that, in the dictatorship that invades every aspect of life, is in itself an act of high treason. Even though they have different views on the society they live in, they are united by the rejection of its narrow moral corset and the desire for individual freedom and, not least, a right to love and feel. While Winston understands HOW the machinery of tyranny works, he does not understand WHY the massive effort of its surveillance and repressive apparatus is undertaken. When they decide to seek contact with the underground opposition and eventually end up in the hands of the repression apparatus of the state, Winston learns the true background of Oceania's society. Until his death, George Orwell was a convinced socialist - all the greater was the effect his work, published in 1949, had on the political left of the time. On the political left, the Soviet Union was seen as the realisation of Marx's ideas, the workers' paradise that would free the enslaved masses from their shackles. Orwell was one of the few leftists of his time who dared to shake this narrative. Under the impression of the undeniable terror of Stalinist rule and its cynical, opportunistic cooperation with fascist and capitalist foreign countries, he criticised the hypocrisy and inhumanities of the real communism with Animal Farm and 1984.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786197642544"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6197642549"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mqHIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mqHIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mqHIEAAAQBAJ&printsec=frontcover&dq=George+Orwell+1984&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mqHIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mqHIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mqHIEAAAQBAJ&rdid=book-mqHIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984_Nineteen_Eighty_Four_by_George_Orwe-sample-epub.acsm?id=mqHIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/1984_Nineteen_Eighty_Four_by_George_Orwe-sample-pdf.acsm?id=mqHIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mqHIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;1984 - the novel marking the end of communism.&quot; George Orwell&#39;s 1984 revolves around Winston Smith, an office worker who performs censorship duties in Oceania&#39;s Ministry of Truth as a small cog in the wheel of a monstrous state apparatus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zh9AAQAAIAAJ",
+      "etag": "vLxl33jpIsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zh9AAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Nineteen Eighty-four",
+        "subtitle": "The Facsimile of the Extant Manuscript",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Houghton Mifflin Harcourt P",
+        "publishedDate": "1984",
+        "description": "For use in schools and libraries only. The great modern classic of negative utopia portrays life in a future in which a totalitarian government watches over all citizens and directs all activities.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105012058728"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 422,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zh9AAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zh9AAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Zh9AAQAAIAAJ&q=George+Orwell+1984&dq=George+Orwell+1984&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Zh9AAQAAIAAJ&dq=George+Orwell+1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_four.html?hl=&id=Zh9AAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zh9AAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only. The great modern classic of negative utopia portrays life in a future in which a totalitarian government watches over all citizens and directs all activities."
+      }
+    }
+  ]
+}

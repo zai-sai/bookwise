@@ -1,0 +1,705 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HaP8EAAAQBAJ",
+      "etag": "UKXoqz7vw2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HaP8EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Hesperus Press",
+        "publishedDate": "2014-05-01",
+        "description": "Journey to Oz with new heroes Cap'n Bill and Trot, who, with the help of the Scarecrow, overthrow the cruel King Krewl of Jinxland Cap'n Bill, a sailor with a wooden peg-leg, and his friend, a little girl named Trot, set out on a calm day in California for a short trip in their rowing boat. Rapidly, however, the weather takes a turn for the worse and an enormous storm develops, washing them overboard. Rescued by mermaids, they are taken to a nearby cave. Thereafter Cap'n Bill and Trot encounter a variety of characters: the strangely shaped, ostrich-like Ork; the Bumpy Man, who deals in sugar and molasses; and Button Bright, a young boy in a sailor's outfit who constantly gets lost. With the aid of some friendly birds and magical berries, the group is eventually carried safely across the deadly desert to Oz. However, things rapidly take a turn for the worse as the motley group finds themselves in Jinxland, a country riven by political intrigue and instability, and currently ruled by the infamous Krewl. Will Glinda be able to help depose the despot Krewl and save the lives of Cap'n Bill and the Princess?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781780942605"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1780942605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HaP8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HaP8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HaP8EAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HaP8EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HaP8EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HaP8EAAAQBAJ&rdid=book-HaP8EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Scarecrow_of_Oz-sample-epub.acsm?id=HaP8EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Scarecrow_of_Oz-sample-pdf.acsm?id=HaP8EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HaP8EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Journey to Oz with new heroes Cap&#39;n Bill and Trot, who, with the help of the Scarecrow, overthrow the cruel King Krewl of Jinxland Cap&#39;n Bill, a sailor with a wooden peg-leg, and his friend, a little girl named Trot, set out on a calm day ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m0zAzQEACAAJ",
+      "etag": "FwOj8PDzyAo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m0zAzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz Illustrated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-08-14",
+        "description": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum. Published on July 16, 1915, it was Baum's personal favorite of the Oz books and tells of Cap'n Bill and Trot journeying to Oz and, with the help of the Scarecrow, overthrowing the cruel King Krewl of Jinxland. Cap'n Bill and Trot (Mayre Griffiths) had previously appeared in two other novels by Baum, The Sea Fairies and Sky Island.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798675183500"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m0zAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m0zAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=m0zAzQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=m0zAzQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_Illustrated.html?hl=&id=m0zAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m0zAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZUXavQEACAAJ",
+      "etag": "ngFqZSO+5SA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUXavQEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz, by L. Frank Baum (1915) (Original Version)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-12-15",
+        "description": "Lyman Frank Baum penned fourteen novels in his famous Oz chronology. The ninth, The Scarecrow of Oz, was published in 1915 and brought Cap'n Bill and Trot to the Land of Oz (the pair had previously appeared in The Sea Fairies and Sky Island), where they joined Button-Bright on an adventure in Jinxland. This volume of Original Oz Stories is formatted not only for ease of reading, but to emulate the textual structure of that original publication",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1522767746"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781522767749"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUXavQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUXavQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZUXavQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZUXavQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_by_L_Frank_Baum_1915.html?hl=&id=ZUXavQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUXavQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume of Original Oz Stories is formatted not only for ease of reading, but to emulate the textual structure of that original publication"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fEQfzgEACAAJ",
+      "etag": "BWuvJf8d2/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fEQfzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz (Annotated)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-12-22",
+        "description": "The Scarecrow of Oz is the ninth book set in the Land of Oz written L. Frank Baum. Published on July 16, 1915, it was Baum's personal favorite of the Oz books and tells of Cap'n Bill and Trot journeying ... Wikipedia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798585353376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fEQfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fEQfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fEQfzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fEQfzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_Annotated.html?hl=&id=fEQfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fEQfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Scarecrow of Oz is the ninth book set in the Land of Oz written L. Frank Baum. Published on July 16, 1915, it was Baum&#39;s personal favorite of the Oz books and tells of Cap&#39;n Bill and Trot journeying ... Wikipedia"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ShMWzgEACAAJ",
+      "etag": "MvExUrt6Bkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ShMWzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz Annotated",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-12-04",
+        "description": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum. Published on July 16, 1915, it was Baum's personal favorite of the Oz books and tells of Cap'n Bill and Trot journeying to Oz and, with the help of the Scarecrow, overthrowing the cruel King Krewl of Jinxland. Cap'n Bill and Trot (Mayre Griffiths) had previously appeared in two other novels by Baum, The Sea Fairies and Sky Island.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798576251650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ShMWzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ShMWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ShMWzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ShMWzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_Annotated.html?hl=&id=ShMWzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ShMWzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XtYqvgAACAAJ",
+      "etag": "AqktF9S6LQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XtYqvgAACAAJ",
+      "volumeInfo": {
+        "title": "Lyman Frank Baum - the Scarecrow of Oz",
+        "authors": [
+          "L. F. Baum"
+        ],
+        "publishedDate": "2016-09-01",
+        "description": "L Frank Baum considered The Scarecrow of Oz to be his best book. It opens with Trot and Cap'n Bill rowing along a shore of the Pacific Ocean, a mighty whirlpool engulfs them and sinks their boat. The old sailorman and the little girl are miraculously saved and regain consciousness to find themselves in a sea cavern. (To this day, Trot asserts she felt mermaid arms about her during those terrible moments under water.) They experience one perilous adventure after another until eventually they make their way to Jinxland and meet the Scarecrow who takes charge of things once Cap'n Bill is transformed into a tiny grasshopper with a wooden leg. Will the Captain remain a grasshopper or will Trot, the Scarecrow, and their friends be able to restore him to his former shape and life? Find out in the exciting conclusion of The Scarecrow of Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153533018X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535330183"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XtYqvgAACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XtYqvgAACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lyman_Frank_Baum_the_Scarecrow_of_Oz.html?hl=&id=XtYqvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XtYqvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "L Frank Baum considered The Scarecrow of Oz to be his best book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MAG2swEACAAJ",
+      "etag": "XPgazSseEFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MAG2swEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz Lyman Frank Baum",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-03-31",
+        "description": "The Army of Children which besieged the Postoffice, conquered the Postmen and delivered to me its imperious Commands, insisted that Trot and Cap'n Bill be admitted to the Land of Oz, where Trot could enjoy the society of Dorothy, Betsy Bobbin and Ozma, while the one- legged sailor-man might become a comrade of the Tin Woodman, the Shaggy Man, Tik-Tok and all the other quaint people who inhabit this wonderful fairyland. It was no easy task to obey this order and land Trot and Cap'n Bill safely in Oz, as you will discover by reading this book. Indeed, it required the best efforts of our dear old friend, the Scarecrow, to save them from a dreadful fate on the journey; but the story leaves them happily located in Ozma's splendid palace and Dorothy has promised me that Button-Bright and the three girls are sure to encounter, in the near future, some marvelous adventures in the Land of Oz, which I hope to be permitted to relate to you in the next Oz Book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1545044252"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545044254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MAG2swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MAG2swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MAG2swEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MAG2swEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_Lyman_Frank_Baum.html?hl=&id=MAG2swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MAG2swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was no easy task to obey this order and land Trot and Cap&#39;n Bill safely in Oz, as you will discover by reading this book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h0KczQEACAAJ",
+      "etag": "KFoGU4A7PqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h0KczQEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz Illustrated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-07-09",
+        "description": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum. Published on July 16, 1915, it was Baum's personal favorite of the Oz books and tells of Cap'n Bill and Trot journeying to Oz and, with the help of the Scarecrow, overthrowing the cruel King Krewl of Jinxland. Cap'n Bill and Trot (Mayre Griffiths) had previously appeared in two other novels by Baum, The Sea Fairies and Sky Island.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798664925302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h0KczQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h0KczQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=h0KczQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=h0KczQEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_Illustrated.html?hl=&id=h0KczQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h0KczQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Scarecrow of Oz is the ninth book set in the Land of Oz written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uxwIzgEACAAJ",
+      "etag": "6OKVuQKs0Hg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uxwIzgEACAAJ",
+      "volumeInfo": {
+        "title": "L Frank Baum - The Scarecrow of Oz",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2020-10-09",
+        "description": "Cap'n Bill and Trot journey to Oz and, with the help of the Scarecrow, the former ruler of Oz, overthrow the villainous King Krewl of Jinxland. Cap'n Bill and Trot had previously appeared in two other novels by Baum, The Sea Fairies and Sky Island. Based in part upon the 1914 silent film, His Majesty, the Scarecrow of Oz. This was allegedly L. Frank Baum's personal favourite Oz book.Includes a biography of the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798695614879"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uxwIzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uxwIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uxwIzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uxwIzgEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Frank_Baum_The_Scarecrow_of_Oz.html?hl=&id=uxwIzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uxwIzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based in part upon the 1914 silent film, His Majesty, the Scarecrow of Oz. This was allegedly L. Frank Baum&#39;s personal favourite Oz book.Includes a biography of the author."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X7G2DAEACAAJ",
+      "etag": "oHTaOi8+K94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X7G2DAEACAAJ",
+      "volumeInfo": {
+        "title": "The Scarecrow of Oz, by L. Frank Baum",
+        "authors": [
+          "L Frank Baum",
+          "John R Ill Neill"
+        ],
+        "publisher": "Palala Press",
+        "publishedDate": "2016-05-09",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1356160921"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781356160921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X7G2DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X7G2DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=X7G2DAEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=X7G2DAEACAAJ&dq=L.+Frank+Baum+The+Scarecrow+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scarecrow_of_Oz_by_L_Frank_Baum.html?hl=&id=X7G2DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X7G2DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    }
+  ]
+}

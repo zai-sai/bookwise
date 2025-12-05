@@ -1,0 +1,691 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "23H0nIJtLEkC",
+      "etag": "OAxhLsOmvqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/23H0nIJtLEkC",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "2000-11-07",
+        "description": "One of Joseph Conrad’s greatest novels, Lord Jim brilliantly combines adventure and analysis. Haunted by the memory of a moment of lost nerve during a disastrous voyage, Jim submits to condemnation by a Court of Inquiry. In the wake of his disgrace he travels to the exotic region of Patusan, and as the agent at this remote trading post comes to be revered as ‘Tuan Jim.’ Here he finds a measure of serenity and respect within himself. However, when a gang of thieves arrives on the island, the memory of his earlier disgrace comes again to the fore, and his relationship with the people of the island is jeopardized. This new Broadview edition is based on the first British edition of 1900, which provides the historical basis for the accompanying critical and contextual discussions. The appendices include a wide variety of Conrad’s source material, documents concerning the scandal of the Jeddah, along with other materials such as a substantial selection of early critical comments.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1551111721"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781551111728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=23H0nIJtLEkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=23H0nIJtLEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=23H0nIJtLEkC&printsec=frontcover&dq=Joseph+Conrad+Lord+Jim&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=23H0nIJtLEkC&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=23H0nIJtLEkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_Jim-sample-epub.acsm?id=23H0nIJtLEkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_Jim-sample-pdf.acsm?id=23H0nIJtLEkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=23H0nIJtLEkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new Broadview edition is based on the first British edition of 1900, which provides the historical basis for the accompanying critical and contextual discussions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jSa7tQEACAAJ",
+      "etag": "pZVp7kymal8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jSa7tQEACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "subtitle": "By Joseph Conrad",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:37031216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 307,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jSa7tQEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jSa7tQEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=jSa7tQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jSa7tQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QUe7tAEACAAJ",
+      "etag": "Lsin4ILqf5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QUe7tAEACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim ; a Tale",
+        "subtitle": "By Joseph Conrad",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:00006602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 451,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QUe7tAEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=QUe7tAEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim_a_Tale.html?hl=&id=QUe7tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUe7tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OV6BswEACAAJ",
+      "etag": "FlVOjpKK2Sw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OV6BswEACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "subtitle": "Joseph Conrad",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-12-07",
+        "description": "Lord Jim by Joseph Conrad. Lord Jim is a novel by Joseph Conrad originally published as a serial in Blackwood's Magazine from October 1899 to November 1900. An early and primary event in the story is the abandonment of a passenger ship in distress by its crew, including a young British seaman named Jim. He is publicly censured for this action and the novel follows his later attempts at coming to terms with himself and his past. When this novel first appeared in book form a notion got about that I had been bolted away with. Some reviewers maintained that the work starting as a short story had got beyond the writer's control. One or two discovered internal evidence of the fact, which seemed to amuse them. They pointed out the limitations of the narrative form. They argued that no man could have been expected to talk all that time, and other men to listen so long. It was not, they said, very credible. After thinking it over for something like sixteen years, I am not so sure about that. Men have been known, both in the tropics and in the temperate zone, to sit up half the night 'swapping yarns'. This, however, is but one yarn, yet with interruptions affording some measure of relief; and in regard to the listeners' endurance, the postulate must be accepted that the story was interesting.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981472320"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981472321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OV6BswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OV6BswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OV6BswEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OV6BswEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=OV6BswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OV6BswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When this novel first appeared in book form a notion got about that I had been bolted away with. Some reviewers maintained that the work starting as a short story had got beyond the writer&#39;s control."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fhn1Yg7nfRkC",
+      "etag": "iQO5mJIRxjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fhn1Yg7nfRkC",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "subtitle": "A Tale",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2007-08-02",
+        "description": "Penguin inaugurates a series of revised editions of Conrad's finest works, with new introductions Conrad's great novel of guilt and redemption follows the first mate on board the Patna, a raw youth with dreams of heroism who, in an act of cowardice, abandons his ship. His unbearable guilt and its consequences are shaped by Conrad into a narrative of immeasurable richness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141441610"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141441615"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fhn1Yg7nfRkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fhn1Yg7nfRkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fhn1Yg7nfRkC&printsec=frontcover&dq=Joseph+Conrad+Lord+Jim&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fhn1Yg7nfRkC&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=fhn1Yg7nfRkC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Lord_Jim-sample-epub.acsm?id=fhn1Yg7nfRkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fhn1Yg7nfRkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Penguin inaugurates a series of revised editions of Conrad&#39;s finest works, with new introductions Conrad&#39;s great novel of guilt and redemption follows the first mate on board the Patna, a raw youth with dreams of heroism who, in an act of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NUFOMQAACAAJ",
+      "etag": "HQ5ARrqWuFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NUFOMQAACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "subtitle": "By Joseph Conrad : Illustrated",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-12-10",
+        "description": "Why buy our paperbacks? Standard Font size of 10 for all books High Quality Paper Fulfilled by Amazon Expedited shipping 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated About Lord Jim: By Joseph Conrad Lord Jim is a novel by Joseph Conrad originally published as a serial in Blackwood's Magazine from October 1899 to November 1900. An early and primary event is the abandonment of a ship in distress by its crew including the young British seaman Jim. He is publicly censured for this action and the novel follows his later attempts at coming to terms with his past. In 1998, the Modern Library ranked Lord Jim 85th on its list of the 100 best English-language novels of the 20th century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540822427"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540822420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NUFOMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NUFOMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NUFOMQAACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NUFOMQAACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=NUFOMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NUFOMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Most of them use low-quality papers &amp; binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K1pVzQEACAAJ",
+      "etag": "bhvPtq6BULs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K1pVzQEACAAJ",
+      "volumeInfo": {
+        "title": "JOSEPH CONRAD - LORD JIM (Illustrated)",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publishedDate": "2019-10-30",
+        "description": "The novel \"Lord Jim\" is recognized as Joseph Conrad's best work. But what does the author think? Here is a quote from his preface to one of the editions of the novel: \" I have been asked at times whether this was not the book of mine I liked best. I am a great foe to favouritism in public life, in private life, and even in the delicate relationship of an author to his works. As a matter of principle I will have no favourites; but I don't go so far as to feel grieved and annoyed by the preference some people give to my Lord Jim''.Pretty illustrations provide you with new impressions from reading this legendary story.Illustrated by Vladislav Trotsenko",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1703309561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781703309560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K1pVzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K1pVzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=K1pVzQEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=K1pVzQEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JOSEPH_CONRAD_LORD_JIM_Illustrated.html?hl=&id=K1pVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K1pVzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel &quot;Lord Jim&quot; is recognized as Joseph Conrad&#39;s best work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XA4RuwEACAAJ",
+      "etag": "kdzmh3fzb1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XA4RuwEACAAJ",
+      "volumeInfo": {
+        "title": "Joseph Conrad, Lord Jim",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-08-22",
+        "description": "Joseph Conrad's Lord Jim, first published in England in 1900, has long been acknowledged as a very difficult book for readers to understand, especially on the first read. However, those who have taken the time to understand the book acknowledge that the effort is worth it. Lord Jim, which Conrad began as a short sketch, grew into a novel that is widely recognized for its modernism-its tendency to buck the conventional narrative trends of its day. The most obvious technique that Conrad used was a shifting form of narration, in which the reader hears a tale first from one narrator, then another, and finally from several disparate accounts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1726078299"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726078290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XA4RuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XA4RuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XA4RuwEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XA4RuwEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joseph_Conrad_Lord_Jim.html?hl=&id=XA4RuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XA4RuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "However, those who have taken the time to understand the book acknowledge that the effort is worth it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9TJipwAACAAJ",
+      "etag": "n3Ml8sQeaxA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9TJipwAACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "authors": [
+          "Joseph Conrad",
+          "Clare West"
+        ],
+        "publishedDate": "1997",
+        "description": "This series of Bookworms offers younger readers the chance to enjoy accessible adaptations of the best classic and modern fiction. Each title is illustrated to engage the reader in the world of the book and help with specific vocabulary. Accompanying exercises make all these titles suitable for use in class or at home.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0194216896"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780194216890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": [
+          "British"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9TJipwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9TJipwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9TJipwAACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9TJipwAACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=9TJipwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9TJipwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This series of Bookworms offers younger readers the chance to enjoy accessible adaptations of the best classic and modern fiction. Each title is illustrated to engage the reader in the world of the book and help with specific vocabulary."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "isHhtAEACAAJ",
+      "etag": "Xefhw/0L9TI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/isHhtAEACAAJ",
+      "volumeInfo": {
+        "title": "Lord Jim",
+        "authors": [
+          "Joseph Conrad"
+        ],
+        "publishedDate": "2017-08-13",
+        "description": "LORD JIM by JOSEPH CONRAD 1857-1924Large Print",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1974505901"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974505906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=isHhtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=isHhtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=isHhtAEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=isHhtAEACAAJ&dq=Joseph+Conrad+Lord+Jim&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lord_Jim.html?hl=&id=isHhtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=isHhtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LORD JIM by JOSEPH CONRAD 1857-1924Large Print"
+      }
+    }
+  ]
+}

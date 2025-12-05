@@ -1,0 +1,670 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FDjtQsXv_JUC",
+      "etag": "SDiuoubrPY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FDjtQsXv_JUC",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1993",
+        "description": "The Moonstone, a priceless yellow diamond, is looted from an Indian temple and maliciously bequeathed to Rachel Verinder.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853260444"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853260445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FDjtQsXv_JUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FDjtQsXv_JUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FDjtQsXv_JUC&printsec=frontcover&dq=Wilkie+Collins+The+Moonstone&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FDjtQsXv_JUC&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=FDjtQsXv_JUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Moonstone-sample-pdf.acsm?id=FDjtQsXv_JUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FDjtQsXv_JUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Moonstone, a priceless yellow diamond, is looted from an Indian temple and maliciously bequeathed to Rachel Verinder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YVe7AAAAQBAJ",
+      "etag": "b2QDWIXsEls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YVe7AAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Broadview Press",
+        "publishedDate": "1999-03-09",
+        "description": "Intrigue, investigations, thievery, drugs and murder all make an appearance in Collins’s classic who-done-it, The Moonstone. Published in serial form in 1868, it was inspired in part by a spectacular murder case widely reported in the early 1860s. Collins’s story revolves around a diamond stolen from a Hindu holy place. On her eighteenth birthday, Rachel Verinder receives the diamond, but by the following morning the stone has been stolen again. As the story unravels through multiple eyewitness accounts, the elderly Sergeant Cuff—with a face “sharp as a hatchet”—looks for the culprit. One of Collins’s best-loved novels, with an exciting plot moved along by deftly-drawn characters and elegant pacing, The Moonstone was also turned into a play by Collins; the play appears as an appendix to this edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781460401347"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1460401344"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 722,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YVe7AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YVe7AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YVe7AAAAQBAJ&printsec=frontcover&dq=Wilkie+Collins+The+Moonstone&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YVe7AAAAQBAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=YVe7AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Moonstone-sample-epub.acsm?id=YVe7AAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Moonstone-sample-pdf.acsm?id=YVe7AAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YVe7AAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of Collins’s best-loved novels, with an exciting plot moved along by deftly-drawn characters and elegant pacing, The Moonstone was also turned into a play by Collins; the play appears as an appendix to this edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yr6EswEACAAJ",
+      "etag": "Wwwkj0RCxhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yr6EswEACAAJ",
+      "volumeInfo": {
+        "title": "Wilkie Collins: The Moonstone",
+        "authors": [
+          "William Stanley BUNNELL"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:559273172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yr6EswEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yr6EswEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilkie_Collins_The_Moonstone.html?hl=&id=yr6EswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yr6EswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LLgFMQAACAAJ",
+      "etag": "94qMdfuozTk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LLgFMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Moonstone. Novel by",
+        "subtitle": "Wilkie Collins ( the First Detective Novel in the English Language.) (Illustrated)",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-28",
+        "description": "The Moonstone (1868) by Wilkie Collins is a 19th-century British epistolary novel, generally considered the first full length detective novel in the English language. The story was originally serialised in Charles Dickens' magazine All the Year Round. The Moonstone and The Woman in White are widely considered Wilkie Collins' best novels. Besides creating many of the ground rules of the detective novel, The Moonstone also reflected Collins' enlightened social attitudes in his treatment of the servants in the novel. Collins adapted The Moonstone for the stage in 1877, but the production was performed for only two months.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540692221"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540692221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LLgFMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LLgFMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LLgFMQAACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LLgFMQAACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone_Novel_by.html?hl=&id=LLgFMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LLgFMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story was originally serialised in Charles Dickens&#39; magazine All the Year Round. The Moonstone and The Woman in White are widely considered Wilkie Collins&#39; best novels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hed9swEACAAJ",
+      "etag": "Jo/AxVlJqgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hed9swEACAAJ",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "subtitle": "By Wilkie Collins - Illustrated",
+        "authors": [
+          "Wilkie Wilkie Collins"
+        ],
+        "publishedDate": "2017-07-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Moonstone by Wilkie Collins The Moonstone (1868) by Wilkie Collins is a 19th-century British epistolary novel, generally considered the first detective novel in the English language. The story was originally serialised in Charles Dickens' magazine All the Year Round. The Moonstone and The Woman in White are considered Wilkie Collins' best novels. Besides creating many of the ground rules of the detective novel, The Moonstone also reflected Collins' enlightened social attitudes in his treatment of the servants in the novel. Collins adapted The Moonstone for the stage in 1877, but the production was performed for only two months.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521914168"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521914168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Hed9swEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Hed9swEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=Hed9swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hed9swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4GwztAEACAAJ",
+      "etag": "3JqVBielGco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4GwztAEACAAJ",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "subtitle": "The Moonstone by Wilkie Collins, the Classic Books",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "2017-07-12",
+        "description": "This classic book is always read again and again.\"What is the classic book?\"\"Why is the classic book?\"READ READ READ.. then you'll know it's so cool.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548779261"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548779269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4GwztAEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4GwztAEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=4GwztAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4GwztAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This classic book is always read again and again.&quot;What is the classic book?&quot;&quot;Why is the classic book?&quot;READ READ READ.. then you&#39;ll know it&#39;s so cool."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0G80uwEACAAJ",
+      "etag": "gcC8ee/aYl8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0G80uwEACAAJ",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "subtitle": "A Romance",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Fractal Press",
+        "publishedDate": "2018-08-26",
+        "description": "The Moonstone: A Romance by Wilkie Collins",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787248380"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787248380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0G80uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0G80uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0G80uwEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0G80uwEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=0G80uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0G80uwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Moonstone: A Romance by Wilkie Collins"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RwUDQQAACAAJ",
+      "etag": "Kmhf0n54iX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RwUDQQAACAAJ",
+      "volumeInfo": {
+        "title": "The Works of Wilkie Collins",
+        "subtitle": "The Moonstone (part 2) : the New Magdalen",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:312611409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RwUDQQAACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RwUDQQAACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Works_of_Wilkie_Collins.html?hl=&id=RwUDQQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RwUDQQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "94i3xAEACAAJ",
+      "etag": "FbfgBJV1AB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/94i3xAEACAAJ",
+      "volumeInfo": {
+        "title": "The Moonstone",
+        "subtitle": "Novel",
+        "authors": [
+          "Wilkie Collins"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-04-15",
+        "description": "The Moonstone (1868) by Wilkie Collins is a 19th-century British epistolary novel. It is generally considered to be the first detective novel, and it established many of the ground rules of the modern detective novel. The story was originally serialised in Charles Dickens' magazine All the Year Round. The Moonstone and The Woman in White are widely considered to be Collins' best novels, and Collins adapted The Moonstone for the stage in 1877, although the production was performed for only two months.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1094642444"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094642444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=94i3xAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=94i3xAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=94i3xAEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=94i3xAEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moonstone.html?hl=&id=94i3xAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=94i3xAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is generally considered to be the first detective novel, and it established many of the ground rules of the modern detective novel. The story was originally serialised in Charles Dickens&#39; magazine All the Year Round."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_ebNjwEACAAJ",
+      "etag": "tWNJEKZ9JXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_ebNjwEACAAJ",
+      "volumeInfo": {
+        "title": "Coins and Medails",
+        "subtitle": "Vente 17 Mai 1847",
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:709692976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_ebNjwEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_ebNjwEACAAJ&dq=Wilkie+Collins+The+Moonstone&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coins_and_Medails.html?hl=&id=_ebNjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_ebNjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story was originally serialised in Charles Dickens&#39; magazine All the Year Round. The Moonstone and The Woman in White are considered Wilkie Collins&#39; best novels."
+      }
+    }
+  ]
+}

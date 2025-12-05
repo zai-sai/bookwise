@@ -1,0 +1,712 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vmzvDQAAQBAJ",
+      "etag": "Z7B3TPNL09M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vmzvDQAAQBAJ",
+      "volumeInfo": {
+        "title": "The White People and Other Weird Stories",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2017-01-26",
+        "description": "Machen's weird tales of the creepy and fantastic finally come to Penguin Classics. With an introduction from S.T. Joshi, editor of American Supernatural Tales, The White People and Other Weird Stories is the perfect introduction to the father of weird fiction. The title story \"The White People\" is an exercise in the bizarre leaving the reader disoriented and on edge. From the first page, Machen turns even fundamental truths upside-down, as his character Ambrose explains, \"there have been those who have sounded the very depths of sin, who all their lives have never done an 'ill deed'\" setting the stage for a tale entirely without logic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241309513"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0241309514"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 587,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vmzvDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vmzvDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vmzvDQAAQBAJ&printsec=frontcover&dq=Arthur+Machen+The+White+People&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vmzvDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vmzvDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vmzvDQAAQBAJ&rdid=book-vmzvDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_White_People_and_Other_Weird_Stories-sample-epub.acsm?id=vmzvDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vmzvDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The title story &quot;The White People&quot; is an exercise in the bizarre leaving the reader disoriented and on edge."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ROMqzgEACAAJ",
+      "etag": "Z95vZVeu5+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ROMqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The White People Illustrated",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2021-01-14",
+        "description": "\"The White People\" is a horror short story by Welsh author Arthur Machen. Written in the late 1890s, it was first published in 1904 in Horlick's Magazine, edited by Machen's friend A. E. Waite, then reprinted in Machen's collection The House of Souls (1906).The story has since been described as an important example of horror fiction, influencing generations of later writers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798595100397"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ROMqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ROMqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ROMqzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ROMqzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People_Illustrated.html?hl=&id=ROMqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ROMqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in the late 1890s, it was first published in 1904 in Horlick&#39;s Magazine, edited by Machen&#39;s friend A. E. Waite, then reprinted in Machen&#39;s collection The House of Souls (1906).The story has since been described as an important ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wFtzzgEACAAJ",
+      "etag": "F9bOVDlfuQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wFtzzgEACAAJ",
+      "volumeInfo": {
+        "title": "The White People",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "Mint Editions",
+        "publishedDate": "2021-05",
+        "description": "The White People (1904) is a short story by Arthur Machen. Originally published in Horlick's Magazine, the story was later printed in The House of Souls (1906), a short story collection. Condemned as decadent and obscene upon publication, Machen's writing earned praise from Oscar Wilde and H. P. Lovecraft. Throughout the years, Machen's work has been referenced and adapted by such figures as Stephen King, Guillermo del Toro, and Josh Malerman for its masterfully unsettling blend of science, myth, and magic. As the sun sets over the lush countryside, Cotgrave and his friend Ambrose discuss the thin boundary that separates sorcery and the sacred. Unable to agree about the nature of good and evil, on what defines a sinner as opposed to a saint, Ambrose offers his comrade a book to borrow. Surprisingly well-kept for its age, the green book accompanies Cotgrave on his journey home, where he opens it to discover a strange, mysterious tale. Its pages contain the diary of a young girl who, encouraged by her nurse, immerses herself in the world of magic. As she grows adept in the ways of witchcraft, the girl begins referring to strange beings and unknown places, all while doing her best to conceal her secret life from friends and family. When he reaches the diary's end, Cotgrave will wish he had never looked past its binding. With a beautifully designed cover and professionally typeset manuscript, this edition of Arthur Machen's The White People is a classic of British horror fiction reimagined for modern readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1513282980"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781513282985"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wFtzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wFtzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=wFtzzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=wFtzzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People.html?hl=&id=wFtzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wFtzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When he reaches the diary&#39;s end, Cotgrave will wish he had never looked past its binding. This edition of Arthur Machen&#39;s The White People is a classic of British horror fiction reimagined for modern readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bDPKzgEACAAJ",
+      "etag": "wUqtYr1nUY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bDPKzgEACAAJ",
+      "volumeInfo": {
+        "title": "The White People (Illustrated Edition)",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2021-08-04",
+        "description": "\"The White People\" is a horror short story by Welsh author Arthur Machen. Written in the late 1890s, it was first published in 1904 in Horlick's Magazine, edited by Machen's friend A. E. Waite, then reprinted in Machen's collection The House of Souls (1906). The story has since been described as an important example of horror fiction, influencing generations of later writers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798549532878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bDPKzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bDPKzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People_Illustrated_Edition.html?hl=&id=bDPKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bDPKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story has since been described as an important example of horror fiction, influencing generations of later writers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vCZrPgAACAAJ",
+      "etag": "8lJyFl8FaUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vCZrPgAACAAJ",
+      "volumeInfo": {
+        "title": "The White People",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2008-12",
+        "description": "Arthur Llewelyn Jones (1863-1947) who wrote under the pen name Arthur Machen was a leading Welsh author. He is best known for his influential supernatural, fantasy, and horror fiction. He is also well known for his leading role in creating the legend of The Angels of Mons (1915). In 1884, he published the pastiche The Anatomy of Tobacco, and secured work with the publisher and bookseller George Redway. Around 1890, Machen began to publish in literary magazines, writing stories influenced by the works of Robert Louis Stevenson, some of which used gothic or fantastic themes. This led to his first major success, The Great God Pan. From the beginning of his literary career, he espoused a mystical belief that the humdrum ordinary world hid a more mysterious and strange world beyond. His gothic and decadent works of the 1890s concluded that the lifting of this veil could lead to madness, sex, or death, and usually a combination of all three. He also wrote The Three Impostors, The Terror, The Inmost Light, The White People, The Novel of the Black Seal, The Novel of the White Powder, The Red Hand, A Fragment of Life, The Shining Pyramid and A New Christmas Carol.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1406574198"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781406574197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vCZrPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vCZrPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vCZrPgAACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vCZrPgAACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People.html?hl=&id=vCZrPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vCZrPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Around 1890, Machen began to publish in literary magazines, writing stories influenced by the works of Robert Louis Stevenson, some of which used gothic or fantastic themes. This led to his first major success, The Great God Pan."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9JLctAEACAAJ",
+      "etag": "JWqa6Tvm8Vs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9JLctAEACAAJ",
+      "volumeInfo": {
+        "title": "The White People",
+        "subtitle": "By Arthur Machen - Illustrated",
+        "authors": [
+          "Arthur Arthur Machen"
+        ],
+        "publishedDate": "2017-07-25",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The White People by Arthur Machen \"The White People\" is a horror story by the Welsh writer Arthur Machen. Plot Summary: A discussion between two men on the nature of evil leads one of them to reveal a mysterious Green Book he possesses. It is a young girl's diary, in which she describes in ingenuous, evocative prose her strange impressions of the countryside in which she lives as well as conversations with her nurse, who initiates her into a secret world of folklore and ritual magic. Throughout, the girl makes cryptic allusions to such topics as \"nymphs\", \"Dôls\", \"voolas,\" \"white, green, and scarlet ceremonies\", \"Aklo letters\", the \"Xu\" and \"Chian\" languages, \"Mao games\", and a game called \"Troy Town\" (the last of which is a reference to actual practices involving labyrinths or labyrinthine dances. The girl's tale gradually develops a mounting atmosphere of suspense, with suggestions of witchcraft, only to break off abruptly just at the point where a supreme revelation seems imminent. In a return to the frame story, the diary's custodian reveals that the girl had \"poisoned herself--in time\", making the analogy of a child finding the key to a locked medicine cabinet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "152193245X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521932452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9JLctAEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9JLctAEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People.html?hl=&id=9JLctAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9JLctAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The White People by Arthur Machen &quot;The White People&quot; is a horror story by the Welsh writer Arthur Machen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_RXpwAEACAAJ",
+      "etag": "ffJof5YHpzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_RXpwAEACAAJ",
+      "volumeInfo": {
+        "title": "The White People",
+        "subtitle": "A Fantasy Horror",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-07-12",
+        "description": "The White People Arthur Machen A Fantasy Horror \"The White People\" is a fantasy-horror short story by the Welsh writer Arthur Machen. Written in the late 1890s, it was first published in Horlick's Magazine—of which Machen's friend A. E. Waite was editor—in 1904, then reprinted in Machen's collection The House of Souls in 1906.A discussion between two men on the nature of evil leads one of them to reveal a mysterious Green Book he possesses. It is a young girl's diary, in which she describes in ingenuous yet evocative prose her strange impressions of the countryside in which she lives, as well as conversations with her nurse, who initiates her into a secret world of folklore and ritual magic. Throughout, she makes cryptic allusions to such topics as \"nymphs\", \"Dôls\", \"voolas,\" \"white, green, and scarlet ceremonies\", \"Aklo letters\", the \"Xu\" and \"Chian\" languages, \"Mao games\", and a game called \"Troy Town\" (the last of which is a reference to actual practices involving labyrinths or labyrinthine dances). The girl's tale gradually develops a mounting atmosphere of suspense, with suggestions of witchcraft, only to break off abruptly just at the point where a supreme revelation seems imminent. In a return to the frame story, the custodian of the diary reveals that the girl had \"poisoned herself—in time\", making the analogy of a child finding the key to a locked medicine cabinet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1500500674"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781500500672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_RXpwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_RXpwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_RXpwAEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_RXpwAEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People.html?hl=&id=_RXpwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_RXpwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The White People Arthur Machen A Fantasy Horror &quot;The White People&quot; is a fantasy-horror short story by the Welsh writer Arthur Machen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rxVZBQAAQBAJ",
+      "etag": "+neml5F/knU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rxVZBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Weiser Book of Horror and the Occult",
+        "subtitle": "Hidden Magic, Occult Truths, and the Stories That Started It All",
+        "authors": [
+          "DuQuette, Lon Milo"
+        ],
+        "publisher": "Weiser Books",
+        "publishedDate": "2014-10-01",
+        "description": "Horror Takes Its Time Looking for a thoughtful fright? Or perhaps a frightful thought? Packed with stories selected by one of today’s leading esoteric scholars, this book will do more than make your toes curl and your skin crawl. These tales reveal hidden truths, inspire forbidden pursuits, and divulge the secrets of magical initiation in the guise of fiction. Covering topics from rituals to hauntings to Satanism, this one-of-a-kind volume includes selections from: Aleister CrowleyAmbrose BierceArthur MachenEdgar Allan PoeRobert W. ChambersRalph Adams CramH.P. LovecraftDion FortuneSir Edward George Bulwer-LyttonBram Stoker As DuQuette writes in his introduction, horror takes its time. It creeps in, seeps in, and lingers. These stories will take you hours to read, but they will stay with you, biting at your heels from the shadows, eternally. Don’t say we didn’t warn you...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781578635726"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1578635721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rxVZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rxVZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rxVZBQAAQBAJ&pg=PA249&dq=Arthur+Machen+The+White+People&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rxVZBQAAQBAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Weiser_Book_of_Horror_and_the_Occult.html?hl=&id=rxVZBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Weiser_Book_of_Horror_and_the_Occult-sample-pdf.acsm?id=rxVZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rxVZBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>WHITE PEOPLE</b> by <b>Arthur Machen</b> Born Arthur Llewelyn Jones (he would later adopt his wife&#39;s maiden name, Machen, to acquire an inheritance) in Caerleon, Monmouthshire (Gwent) Wales, <b>Arthur Machen</b> (1863-1947) is one of the most colorful&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ujANzgEACAAJ",
+      "etag": "e9c9I9yEVjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ujANzgEACAAJ",
+      "volumeInfo": {
+        "title": "The White People Illustrated",
+        "subtitle": "(Penguin Classics)",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-11-15",
+        "description": "How is this book unique? Illustrations included A more well-known story One of the best books to read Extremely well formatted Matte Attractive cover \"\"\"The White People\"\" is a horror short story by Welsh author Arthur Machen. Written in the late 1890s, it was first published in 1904 in Horlick's Magazine, edited by Machen's friend A. E. Waite, then reprinted in Machen's collection The House of Souls (1906). The story has since been described as an important example of horror fiction, influencing generations of later writers.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798565335620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ujANzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ujANzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ujANzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ujANzgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People_Illustrated.html?hl=&id=ujANzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ujANzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Illustrations included A more well-known story One of the best books to read Extremely well formatted Matte Attractive cover &quot;&quot;&quot;The White People&quot;&quot; is a horror short story by Welsh author Arthur Machen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qi64zgEACAAJ",
+      "etag": "e1nx4nlRiek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qi64zgEACAAJ",
+      "volumeInfo": {
+        "title": "The White People Annotated by Arthur Machen",
+        "authors": [
+          "Arthur Machen"
+        ],
+        "publishedDate": "2020-10-06",
+        "description": "The White People\" is a horror short story by Welsh author Arthur Machen. A discussion between two men on the nature of evil leads one of them to reveal a mysterious Green Book he possesses. It is a young girl's diary, in which she describes in ingenuous, evocative prose her strange impressions of the countryside in which she lives as well as conversations with her nurse, who initiates her into a secret world of folklore and black magic. Throughout, the girl makes cryptic allusions to such topics as \"nymphs\", \"Dôls\", \"voolas,\" \"white, green, and scarlet ceremonies\", \"Aklo letters\", the \"Xu\" and \"Chian\" languages, \"Mao games\", and a game called \"Troy Town.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798694463591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Qi64zgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Qi64zgEACAAJ&dq=Arthur+Machen+The+White+People&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_White_People_Annotated_by_Arthur_Mac.html?hl=&id=Qi64zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qi64zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The White People&quot; is a horror short story by Welsh author Arthur Machen."
+      }
+    }
+  ]
+}

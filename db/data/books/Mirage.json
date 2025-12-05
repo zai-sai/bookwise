@@ -1,0 +1,676 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dAoMnwEACAAJ",
+      "etag": "zV6LnyiLS3A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dAoMnwEACAAJ",
+      "volumeInfo": {
+        "title": "More Than a Mirage",
+        "subtitle": "An Interview with Author Perry Brass",
+        "authors": [
+          "T. Laine"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:863247855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dAoMnwEACAAJ&dq=Perry+Brass+Mirage&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dAoMnwEACAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/More_Than_a_Mirage.html?hl=&id=dAoMnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dAoMnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UgkDAwAAQBAJ",
+      "etag": "YVqIJM6DSi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UgkDAwAAQBAJ",
+      "volumeInfo": {
+        "title": "King of Angels",
+        "subtitle": "A Novel about the Genesis of Identity and Belief",
+        "authors": [
+          "Perry Brass"
+        ],
+        "publisher": "Perry  Brass",
+        "publishedDate": "2019-08-06",
+        "description": "1963. John F. Kennedy is president. Civl rights is catching fire, as another community -- of bachelor men -- is emerging as one to be despised or acknowelged. Ann twevl-year-old Benjamin Rotheberg who lives in a marshy suburb of Savannah, Georgia, with \"the most ravishing name in the world,\" the Isle of Hope, with his mother Caroline, a classically beautiful Southern WASP and his magnetic father Robby, a smark dark Sephardic-Jewish salemsan, is trying to figure out who he is ... Benjamin must change idetities from beign a smart, precocious self-aware kid to masquerading and passing as a regular guy from growing into a sexually curious (and possibly gay) young man to expereince a fragile adolescent innocence and attraction to a pretty girl. King of Angels is about many communties coming together in an explosive time -- Southern Jews, African-Americans, Southern Catholics, an emerging gay one, and the secret underground world of boys, their crushes and conflicts, their attachments and hates. It is also about the seductive attractions of self knowledge and the men and women who open our hearts to it, amidst the struggles of the soul itself to bloom in life and even after death. This is Perry Brass's most stirring and emotionally charged novel, set in the hunting coastal South. -- Publisher's description.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781892149145"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1892149141"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UgkDAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UgkDAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UgkDAwAAQBAJ&pg=PA1&dq=Perry+Brass+Mirage&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UgkDAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UgkDAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.14,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 8.14,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UgkDAwAAQBAJ&rdid=book-UgkDAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8140000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 8140000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UgkDAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Perry Brass Mirage</b>, a science fiction novel Works and Other &#39;Smoky George&#39; Stories Circles, the sequel to Mirage Out There: Stories of Private Desires. Horror. And the Afterlife Albert or The Book of Man, the third book in the Mirage&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LDy8CwAAQBAJ",
+      "etag": "n5Nt5EjEIAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LDy8CwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Harvest",
+        "subtitle": "A Novel",
+        "authors": [
+          "Perry Brass"
+        ],
+        "publisher": "Perry  Brass",
+        "publishedDate": "1997",
+        "description": "In a future world where happiness is guaranteed - but at the price of human life - one all-powerful Corporation now runs America. It guarantees health, happiness, and prosperity, but at the destruction of individuality and privacy. And with the sacrifice of vaccos - Corporate cadavers - laboratory-produced human analogues, used for vitally needed organ, tissue, and body part transplants. Chris Turner, once a teenage thief, hustler, and renegade, now the adopted son of a wealthy Corporate leader, will find a vacco, Hart 256043, desperately running for his life. Together, Hart and Chris will bond, and do everything possible for their mutual survival.--From publisher's information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780962712371"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "096271237X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LDy8CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LDy8CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LDy8CwAAQBAJ&pg=PA213&dq=Perry+Brass+Mirage&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LDy8CwAAQBAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Harvest.html?hl=&id=LDy8CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Harvest-sample-pdf.acsm?id=LDy8CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LDy8CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Novel <b>Perry Brass</b>. Other Books by <b>Perry Brass</b> Sex - charge an acclaimed collection of poetry 66 • poetry at its ... <b>Mirage</b> electrifying science fiction On the tribal planet Ki , two men in the spirit of an ancient pact - have been&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vShYfiP_6sAC",
+      "etag": "MPMERStSddQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vShYfiP_6sAC",
+      "volumeInfo": {
+        "title": "LGBT Themes in Science Fiction, Fantasy and Horror",
+        "publisher": "PediaPress",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 141,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vShYfiP_6sAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vShYfiP_6sAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=vShYfiP_6sAC&pg=PA90&dq=Perry+Brass+Mirage&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=vShYfiP_6sAC&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/LGBT_Themes_in_Science_Fiction_Fantasy_a.html?hl=&id=vShYfiP_6sAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/LGBT_Themes_in_Science_Fiction_Fantasy_a-sample-pdf.acsm?id=vShYfiP_6sAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vShYfiP_6sAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Perry Brass Mirage</b> Belhue Gay SF/F Nom605 1991 Jay B. Laws Steam Alyson Gay SF/F Nom605 1991 Jeffrey N. McMa- han Vampires Anonymous Alyson Gay SF/F Nom605 1990 Jewelle Gomez The Gilda Stories Firebrand Lesb. SF/F Won[C]605 1990 B.L.&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ph4EAQAAIAAJ",
+      "etag": "AoJzVqksoYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ph4EAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Christopher Street",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106019730131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Gay liberation movement"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ph4EAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ph4EAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ph4EAQAAIAAJ&q=Perry+Brass+Mirage&dq=Perry+Brass+Mirage&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ph4EAQAAIAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Christopher_Street.html?hl=&id=ph4EAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ph4EAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Mirage</b> . High voltage gay sci- ence fiction . Two <b>MIRAGE PERRY BRASS</b> men from the planet Ki are forced to | Earth where they do some amazing body snatching of their own . $ 12.95 | ( ship . included ) to Belhue Press , P.O. Box 1081&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5LcPAQAAMAAJ",
+      "etag": "wp5kcKcYH/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5LcPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Whitaker's Books in Print",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015045631895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2954,
+        "printType": "BOOK",
+        "categories": [
+          "Bibliography, National"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5LcPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5LcPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5LcPAQAAMAAJ&pg=PA1437&dq=Perry+Brass+Mirage&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5LcPAQAAMAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whitaker_s_Books_in_Print.html?hl=&id=5LcPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5LcPAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OBdlAAAAMAAJ",
+      "etag": "YD1UtnuRGKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OBdlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "What Do I Read Next?",
+        "authors": [
+          "Kristin Ramsdell"
+        ],
+        "publisher": "Gale Cengage",
+        "publishedDate": "1992-10",
+        "description": "Provides synopses for over 1,500 titles of current popular fiction and recommends other books by such criteria as authors, characters portrayed, time period, geographical setting, or genre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0810354063"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780810354067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 712,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OBdlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OBdlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OBdlAAAAMAAJ&q=Perry+Brass+Mirage&dq=Perry+Brass+Mirage&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OBdlAAAAMAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Do_I_Read_Next.html?hl=&id=OBdlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OBdlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Perry Brass</b> , <b>Mirage</b> , 1991 Lauren Wright Douglas , In the Blood , 1989 Nancy Tyler Glenn , Clicking Stones , 1989 Camarin Grae , Stranded , 1991 Robert Leininger , Black Sun , 1991 Lynda Lyons , Priorities , 1990 1181 Roger MacBride&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8WBYAAAAMAAJ",
+      "etag": "qP66V8V9WH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8WBYAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Forthcoming Books",
+        "authors": [
+          "Rose Arny"
+        ],
+        "publishedDate": "2002-02",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015046424373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1372,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8WBYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8WBYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8WBYAAAAMAAJ&pg=PA1039&dq=Perry+Brass+Mirage&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8WBYAAAAMAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Forthcoming_Books.html?hl=&id=8WBYAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8WBYAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a6AOAQAAMAAJ",
+      "etag": "BvHSMhgxbI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a6AOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Small Press",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015081568894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 800,
+        "printType": "BOOK",
+        "categories": [
+          "Book industries and trade"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a6AOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a6AOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=a6AOAQAAMAAJ&pg=RA3-PA83&dq=Perry+Brass+Mirage&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=a6AOAQAAMAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Small_Press.html?hl=&id=a6AOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a6AOAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e_EaAQAAIAAJ",
+      "etag": "e3HlQ+N4xMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e_EaAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Literatussi",
+        "subtitle": "die schwüle Literaturzeitschrift",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016166543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Erotic literature"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e_EaAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e_EaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.co.uk/books?id=e_EaAQAAIAAJ&q=Perry+Brass+Mirage&dq=Perry+Brass+Mirage&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=e_EaAQAAIAAJ&dq=Perry+Brass+Mirage&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Literatussi.html?hl=&id=e_EaAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e_EaAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Perry Brass MIRAGE</b> Tb . , 219 S. , 21,50 Origineller Science - fiction - Roman über ein schwules Paar auf dem Planeten Ki , das in der dortigen Welt sich auf ewig versprochen ist , aber aufgrund politischer Querelen auf die Erde fliehen&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RYlHnP1Jn6AC",
+      "etag": "f8kUdERCOvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RYlHnP1Jn6AC",
+      "volumeInfo": {
+        "title": "The voyage out",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442934283"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "144293428X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 670,
+        "printType": "BOOK",
+        "categories": [
+          "Man-woman relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RYlHnP1Jn6AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RYlHnP1Jn6AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RYlHnP1Jn6AC&printsec=frontcover&dq=Virginia+Woolf+Voyage+Out&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RYlHnP1Jn6AC&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_voyage_out.html?hl=&id=RYlHnP1Jn6AC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_voyage_out-sample-pdf.acsm?id=RYlHnP1Jn6AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RYlHnP1Jn6AC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P_GmPwAACAAJ",
+      "etag": "63oWyN5/UB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P_GmPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publishedDate": "2007-11",
+        "description": "Virginia Woolf (nee Stephen) (1882-1941) was an English novelist and essayist regarded as one of the foremost modernist literary figures of the twentieth century. During the interwar period, Woolf was a significant figure in London literary society and a member of the Bloomsbury Group. Her most famous works include the novels Mrs Dalloway (1925), To the Lighthouse (1927), and Orlando (1928), and the book-length essay A Room of One's Own (1929) with its famous dictum, \"a woman must have money and a room of her own if she is to write fiction. \" Woolf began writing professionally in 1905, initially for the Times Literary Supplement with a journalistic piece about Haworth, home of the Bronte family. Her first novel, The Voyage Out, was published in 1915. She went on to publish novels and essays as a public intellectual to both critical and popular success. Woolf is considered one of the greatest innovators in the English language. In her works she experimented with stream-of-consciousness, the underlying psychological as well as emotional motives of characters, and the various possibilities of fractured narrative and chronology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1406551007"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781406551006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P_GmPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P_GmPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=P_GmPwAACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=P_GmPwAACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out.html?hl=&id=P_GmPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P_GmPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Her most famous works include the novels Mrs Dalloway (1925), To the Lighthouse (1927), and Orlando (1928), and the book-length essay A Room of One&#39;s Own (1929) with its famous dictum, &quot;a woman must have money and a room of her own if she ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RqFjDwAAQBAJ",
+      "etag": "ess5jlR6sGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RqFjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out (The Original 1915 Duckworth & Co., London Edition)",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2013-08-29",
+        "description": "Woolf originally began work on The Voyage Out in 1910 and had finished an early draft by 1912. Yet the novel had a long and difficult gestation and was not published until 1915. It was written during a period in which Woolf was especially psychologically vulnerable. She suffered from periods of depression and at one point attempted suicide. The resultant work contained the seeds of all that would blossom in her later work: the innovative narrative style, the focus on feminine consciousness, sexuality and death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788074843518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8074843513"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RqFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RqFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RqFjDwAAQBAJ&printsec=frontcover&dq=Virginia+Woolf+Voyage+Out&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RqFjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RqFjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RqFjDwAAQBAJ&rdid=book-RqFjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Voyage_Out_The_Original_1915_Duckwor-sample-epub.acsm?id=RqFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Voyage_Out_The_Original_1915_Duckwor-sample-pdf.acsm?id=RqFjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RqFjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Woolf originally began work on The Voyage Out in 1910 and had finished an early draft by 1912. Yet the novel had a long and difficult gestation and was not published until 1915."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JcMrEAAAQBAJ",
+      "etag": "ZRugjStS/cE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JcMrEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2021-04-28",
+        "description": "'The Voyage Out' was Virginia Woolf's first novel. Rachel Vinrace embarks for South America on her father's ship and is launched on a course of self-discovery in a kind of modern mythical voyage. The mismatched jumble of passengers provide Woolf with an opportunity to satirise Edwardian life. The novel introduces Clarissa Dalloway, the central character of Woolf's later novel, Mrs Dalloway. Two of the other characters were modelled after important figures in Woolf's life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753418230"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753418234"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 451,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JcMrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JcMrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JcMrEAAAQBAJ&printsec=frontcover&dq=Virginia+Woolf+Voyage+Out&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JcMrEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JcMrEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JcMrEAAAQBAJ&rdid=book-JcMrEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Voyage_Out-sample-epub.acsm?id=JcMrEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Voyage_Out-sample-pdf.acsm?id=JcMrEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JcMrEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel introduces Clarissa Dalloway, the central character of Woolf&#39;s later novel, Mrs Dalloway. Two of the other characters were modelled after important figures in Woolf&#39;s life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jRR5uwEACAAJ",
+      "etag": "OUNB6cSJV2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jRR5uwEACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out",
+        "subtitle": "A Novel by Virginia Woolf",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publishedDate": "2018-08-31",
+        "description": "The Voyage Out is the First Novel by: Virginia Woolf.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1726313972"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726313971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jRR5uwEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jRR5uwEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out.html?hl=&id=jRR5uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jRR5uwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Voyage Out is the First Novel by: Virginia Woolf.** some customer reviews belong to another editions, not this edition **"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fXot1Kq9rckC",
+      "etag": "S08OmrJVRlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fXot1Kq9rckC",
+      "volumeInfo": {
+        "title": "The Voyage Out (Volume 1 of 2) (EasyRead Super Large 20pt Edition)",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "2005",
+        "description": "This is the story of a young Englishwoman, and her long sea voyage to South America, her engagement, sudden illness and death. Life, in its comfortingly familiar routine and its moments of colourful drama, is ultimately triumphant, even in the face of death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442934337"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442934336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "British"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fXot1Kq9rckC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fXot1Kq9rckC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fXot1Kq9rckC&printsec=frontcover&dq=Virginia+Woolf+Voyage+Out&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fXot1Kq9rckC&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out_Volume_1_of_2_EasyRead_Su.html?hl=&id=fXot1Kq9rckC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Voyage_Out_Volume_1_of_2_EasyRead_Su-sample-pdf.acsm?id=fXot1Kq9rckC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fXot1Kq9rckC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Virginia Woolf&#39;s haunting first novel follows Mr and Mrs Ambrose and their young niece on a sea voyage from London to South America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XLADzgEACAAJ",
+      "etag": "wGJTa1KV6yo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XLADzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out Annotated",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publishedDate": "2020-09-07",
+        "description": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.The first novel by Virginia Woolf, The Voyage Out tells the story of Rachel Vinrace, who embarks for South America on her father's ship, and is launched on a course of self-discovery in a modern version of the mythic voyage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798683752019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XLADzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XLADzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XLADzgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XLADzgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out_Annotated.html?hl=&id=XLADzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XLADzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.The first novel by Virginia Woolf, The Voyage Out tells the story of Rachel Vinrace, who embarks for South America ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jSgPMQAACAAJ",
+      "etag": "f6jw5Zc7HVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jSgPMQAACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out by Virginia Woolf",
+        "authors": [
+          "Virginia Woolf."
+        ],
+        "publishedDate": "2016-12-07",
+        "description": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.Woolf began work on The Voyage Out in 1910 and had finished an early draft by 1912. The novel had a long and difficult gestation and was not published until 1915. It was written during a period in which Woolf was especially psychologically vulnerable. She suffered from periods of depression and at one point attempted suicide. The resultant work contained the seeds of all that would blossom in her later work: the innovative narrative style, the focus on feminine consciousness, sexuality and death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540851761"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540851765"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=jSgPMQAACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=jSgPMQAACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out_by_Virginia_Woolf.html?hl=&id=jSgPMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jSgPMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.Woolf began work on The Voyage Out in 1910 and had finished an early draft by 1912."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1GHXsgEACAAJ",
+      "etag": "Rvpdp/yvWMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1GHXsgEACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out",
+        "authors": [
+          "Virginia Virginia Woolf",
+          "Editorial Editorial Internacional"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-05-17",
+        "description": "The sad overtones of this novel's beginning concern Helen Ambrose's departure from London, where she is leaving her two young children because she and her husband, Ridley Ambrose, are sailing to an unnamed resort on the South American coast, where they will spend the winter season. The omniscient narrator tells the reader that, as they walk through an ugly, industrialized London, Helen's mind-filled with \"misery for her children, the poor, the rain\"-\"was like a wound exposed to dry in the air.\" By the novel's end, this wound will be opened again by the death of Rachel Vinrace. The Ambroses are going to sail on the cargo ship Euphrosyne, owned by Willoughby Vinrace, Helen's brother-in-law, who plans to sail on to the Congo region after allowing the Ambroses to disembark at their resort. Also on board is Vinrace's daughter Rachel, who is, except for her talent as a pianist, a nondescript young woman when Helen meets her, though \"she might be interesting\" if she \"were ever to think, feel, laugh, or express herself,\" Helen thinks. Rachel plans to travel to the Congo with her father-until Helen proposes that her niece stay with her and Ridley at the resort. Rachel hesitantly agrees to Helen's plan, but her father is more enthusiastic because he believes that Helen, his dead wife's sister, could help him by helping Rachel, by \"bringing her out,\" by \"making a woman of her, the kind of woman her mother would have liked her to be....\" (Vinrace intends to go into politics after he returns to London, and he wants to be able to depend upon Rachel to entertain his \"constituents,\" to \"be of great help\" to him; in short, he wants his daughter to be \"a Tory hostess.\") Helen's plan is to help Rachel become a thinking individual. Thus, the literal \"voyage out\" lasts four weeks and ends where Rachel's voyage of individuation toward authentic selfhood begins. Helen, Ridley, and Rachel are at the resort only a short time before the two women become friends with several people staying in a hotel down the hill from the Ambroses' villa; the two most important of these new friends are St. John Hirst, a scholar from Oxford, and his friend Terrence Hewet, an aspiring novelist. Hirst, who perceives most women as \"objects,\" finds unexpected pleasure in talking with Helen, though he finds Rachel annoyingly unthinking and unread. Hewet's relationship with Rachel is based upon an intuitive and emotional, rather than intellectual, understanding, and he spends much time defending Hirst to her, assuaging the pain and anger she feels as a result of various insulting and condescending comments Hirst makes to her, and helping her to look at herself...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "151225441X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781512254419"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1GHXsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1GHXsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=1GHXsgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=1GHXsgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out.html?hl=&id=1GHXsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1GHXsgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The sad overtones of this novel&#39;s beginning concern Helen Ambrose&#39;s departure from London, where she is leaving her two young children because she and her husband, Ridley Ambrose, are sailing to an unnamed resort on the South American coast ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PoKkzgEACAAJ",
+      "etag": "wP+E4OiRvHk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PoKkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Voyage Out Annotated Edition",
+        "authors": [
+          "Virginia Woolf"
+        ],
+        "publishedDate": "2021-08-23",
+        "description": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.The first novel by Virginia Woolf, The Voyage Out tells the story of Rachel Vinrace, who embarks for South America on her father's ship, and is launched on a course of self-discovery in a modern version of the mythic voyage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798462657009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PoKkzgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PoKkzgEACAAJ&dq=Virginia+Woolf+Voyage+Out&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voyage_Out_Annotated_Edition.html?hl=&id=PoKkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PoKkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Voyage Out is the first novel by Virginia Woolf, published in 1915 by Duckworth; and published in the US in 1920 by Doran.The first novel by Virginia Woolf, The Voyage Out tells the story of Rachel Vinrace, who embarks for South America ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m26i-YRQrWoC",
+      "etag": "wNN2jjjw0+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m26i-YRQrWoC",
+      "volumeInfo": {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          "Kathleen Olmstead",
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Sterling Publishing Company, Inc.",
+        "publishedDate": "2006",
+        "description": "An abridged version of the tale of a kind and well-respected doctor who can turn himself into a murderous madman by taking a secret drug he has created.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1402726678"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781402726675"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m26i-YRQrWoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m26i-YRQrWoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=m26i-YRQrWoC&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=m26i-YRQrWoC&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd.html?hl=&id=m26i-YRQrWoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m26i-YRQrWoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An abridged version of the tale of a kind and well-respected doctor who can turn himself into a murderous madman by taking a secret drug he has created."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xZHv4CWgWaEC",
+      "etag": "Lq+75iMqVKc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xZHv4CWgWaEC",
+      "volumeInfo": {
+        "title": "Strange Case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044022665160"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "London (England)"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.9.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xZHv4CWgWaEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xZHv4CWgWaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xZHv4CWgWaEC&printsec=frontcover&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xZHv4CWgWaEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xZHv4CWgWaEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xZHv4CWgWaEC&rdid=book-xZHv4CWgWaEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde.epub?id=xZHv4CWgWaEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde.pdf?id=xZHv4CWgWaEC&hl=&output=pdf&sig=ACfU3U2H_jPgJG7yZEgS9aefoxDIPRzcMQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xZHv4CWgWaEC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IlzsDwAAQBAJ",
+      "etag": "zQHOXey8AjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IlzsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Google Auto-narrated Demo",
+        "publishedDate": "2003",
+        "description": "Dr Jekyll is a well-respected, curious scientist who tries to separate his good characteristics from his evil impulses. Dr Jekyll uses science to explore his alter ego Mr Hyde and attempts to control Mr Hyde's evil urges, even as they grow in intensity.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IlzsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IlzsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=IlzsDwAAQBAJ&printsec=frontcover&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=IlzsDwAAQBAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd.html?hl=&id=IlzsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd-sample-epub.acsm?id=IlzsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd-sample-pdf.acsm?id=IlzsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IlzsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dr Jekyll is a well-respected, curious scientist who tries to separate his good characteristics from his evil impulses."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z3xaxQEACAAJ",
+      "etag": "+MvONjzPNA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z3xaxQEACAAJ",
+      "volumeInfo": {
+        "title": "The Strange Case Of Dr. Jekyll And Mr. Hyde",
+        "subtitle": "Large Print",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-05-16",
+        "description": "Good and evil, right and wrong. Both are seen through the eyes of John Utterson, a lawyer and friend of the scientist Dr. Jekyll. After hearing the alarming account of the horrendous trampling of a small girl \"like some damned juggernaut\" by a violent man named Mr. Hyde, who also holds a connection to the lawyer's dear friend, Utterson's curiosity gets the better of him and he begins to investigate. As he probes further into the events and the hidden life of Mr. Hyde, Utterson slowly uncovers a terrifying and ghastly story. The young Robert Louis Stevenson suffered from repeated nightmares of living a double life, in which by day he worked as a respectable doctor and by night he roamed the back alleys of old-town Edinburgh. In three days of furious writing, he produced a story about his dream existence. His wife found it too gruesome, so he promptly burned the manuscript. In another three days, he wrote it again. The Strange Case of Dr. Jekyll and Mr. Hyde was published as a \"shilling shocker\" in 1886, and became an instant classic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "109868477X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781098684778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z3xaxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z3xaxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=z3xaxQEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=z3xaxQEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Strange_Case_Of_Dr_Jekyll_And_Mr_Hyd.html?hl=&id=z3xaxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z3xaxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His wife found it too gruesome, so he promptly burned the manuscript. In another three days, he wrote it again. The Strange Case of Dr. Jekyll and Mr. Hyde was published as a &quot;shilling shocker&quot; in 1886, and became an instant classic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kMw02HT9QeMC",
+      "etag": "1F/aVtLypx4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kMw02HT9QeMC",
+      "volumeInfo": {
+        "title": "Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Konemann-Ellipsis",
+        "publishedDate": "1995",
+        "description": "Idealistic young scientist Henry Jekyll struggles to unlock the secrets of the soul. Testing chemicals in his lab, he drinks a mixture he hopes will isolate--and eliminate--human evil. Instead it unleashes the dark forces within him, transforming him into the hideous and murderous Mr. Hyde. \"The Strange Case of Dr. Jekyll and Mr. Hyde dramatically brings to life a science-fiction case study of the nature of good and evil and the duality that can exist within one person. Resonant with psychological perception and ethical insight, the book has literary roots in Dostoevsky's \"The Double\" and \"Crime and Punishment. Today Stevenson's novella is recognized as an incisive study of Victorian morality and sexual repression, as well as a great thriller. This collection also includes some of the author's grimmest short fiction: \"Lodging for the Night,\" \"The Suicide Club,\" \"Thrawn Janet,\" \"The Body Snatcher,\" and \"Markheim.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3895080799"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783895080791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kMw02HT9QeMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kMw02HT9QeMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kMw02HT9QeMC&q=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=kMw02HT9QeMC&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_an.html?hl=&id=kMw02HT9QeMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kMw02HT9QeMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection also includes some of the author&#39;s grimmest short fiction: &quot;Lodging for the Night,&quot; &quot;The Suicide Club,&quot; &quot;Thrawn Janet,&quot; &quot;The Body Snatcher,&quot; and &quot;Markheim.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A5bc6EJP6QMC",
+      "etag": "gJ5TJpyk5Ms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A5bc6EJP6QMC",
+      "volumeInfo": {
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "subtitle": "And Other Stories of the Supernatural",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2002-10",
+        "description": "After taking his experimental medicine, a kind and gentle doctor can turn himself into a murderous madman.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0439295750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780439295758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.14.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A5bc6EJP6QMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A5bc6EJP6QMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A5bc6EJP6QMC&printsec=frontcover&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A5bc6EJP6QMC&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dr_Jekyll_and_Mr_Hyde.html?hl=&id=A5bc6EJP6QMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Dr_Jekyll_and_Mr_Hyde-sample-pdf.acsm?id=A5bc6EJP6QMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A5bc6EJP6QMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After taking his experimental medicine, a kind and gentle doctor can turn himself into a murderous madman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EbsrzgEACAAJ",
+      "etag": "1LNLOgexz3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EbsrzgEACAAJ",
+      "volumeInfo": {
+        "title": "Strange Case of Dr Jekyll and Mr Hyde Illustrated",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2021-01-19",
+        "description": "The work is also known as The Strange Case of Jekyll Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll & Hyde.It is about a London legal practitioner named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde. The novella's impact is such that it has become a part of the language, with the phrase \"Jekyll and Hyde\" entering the vernacular to refer to people with an unpredictably dual nature: usually very good, but sometimes shockingly evil",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798597485164"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EbsrzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EbsrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EbsrzgEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EbsrzgEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_Il.html?hl=&id=EbsrzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EbsrzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The work is also known as The Strange Case of Jekyll Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll &amp; Hyde.It is about a London legal practitioner named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Q1uzgEACAAJ",
+      "etag": "+2O819brAaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Q1uzgEACAAJ",
+      "volumeInfo": {
+        "title": "Strange Case of Dr. Jekyll and Mr. Hyde By Robert Louis Stevenson Illustrated (Penguin Classics)",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publishedDate": "2021-05-06",
+        "description": "Strange Case of Dr Jekyll and Mr Hyde is a gothic novella by Scottish author Robert Louis Stevenson, first published in 1886.The work is also known as The Strange Case of Jekyll Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll & Hyde.It is about a London legal practitioner named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde. The novella's impact is such that it has become a part of the language, with the phrase \"Jekyll and Hyde\" entering the vernacular to refer to people with an unpredictably dual nature: usually very good, but sometimes shockingly evil.In this harrowing tale of good and evil, the mild-mannered Dr. Jekyll develops a potion that unleashes his secret, inner persona - the loathsome, twisted Mr. Hyde.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798749884135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Q1uzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Q1uzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0Q1uzgEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0Q1uzgEACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_By.html?hl=&id=0Q1uzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Q1uzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Strange Case of Dr Jekyll and Mr Hyde is a gothic novella by Scottish author Robert Louis Stevenson, first published in 1886.The work is also known as The Strange Case of Jekyll Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll &amp; Hyde.It is ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4X6fQgAACAAJ",
+      "etag": "6iiTnCwPpWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4X6fQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde and Weir of Hermiston",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1987",
+        "description": "Dr. Jekyll and Mr. Hyde is a classic horror tale about the two sides of a man's character come to life. Weir of Herminston is the story of a Scottish father and son.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "019281740X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192817402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Country life"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4X6fQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4X6fQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4X6fQgAACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4X6fQgAACAAJ&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd.html?hl=&id=4X6fQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4X6fQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dr. Jekyll and Mr. Hyde is a classic horror tale about the two sides of a man&#39;s character come to life. Weir of Herminston is the story of a Scottish father and son."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sK3SeTvmm7QC",
+      "etag": "UAkfqf3SkTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sK3SeTvmm7QC",
+      "volumeInfo": {
+        "title": "Strange Case of Dr Jekyll and Mr Hyde and Other Tales",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2006-05-11",
+        "description": "'Instantly the spirit of hell awoke in me and raged...I was suddenly struck through the heart by a cold thrill of terror.' Stevenson's short novel, published in 1886, became an instant classic. It was a Gothic horror that originated in a feverish nightmare, whose hallucinatory setting in the murky back streets of London gripped a nation mesmerized by crime and violence. The respectable doctor's mysterious relationship with his disreputable associate is finally revealed in one of the most original and thrilling endings in English literature. In addition to Jekyll and Hyde, this edition also includes a number of short stories and essays written by Stevenson in the 1880s, minor masterpieces of fiction and comment: 'The Body Snatcher', 'Markheim', and 'Olalla' feature grave-robbing, a sinister double, and degeneracy, while 'A Chapter on Dreams' and 'A Gossip on Romance' discuss artistic creation and the 'romance' form. Appendixes provide extracts from contemporary writings on personality disorder, which set Stevenson's tale in its full historical context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192805973"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192805975"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sK3SeTvmm7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sK3SeTvmm7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sK3SeTvmm7QC&printsec=frontcover&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sK3SeTvmm7QC&dq=Robert+Louis+Stevenson+The+Strange+Case+of+Dr.+Jekyll+and+Mr.+Hyde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_an.html?hl=&id=sK3SeTvmm7QC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_an-sample-pdf.acsm?id=sK3SeTvmm7QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sK3SeTvmm7QC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also provides an up-to-date bibliography and full notes, including details of the initial responses of Stevenson&#39;s contemporaries, such as John Addington Symonds, Gerard Manley Hopkins and Rider Haggard."
+      }
+    }
+  ]
+}

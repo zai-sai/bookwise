@@ -1,0 +1,796 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5tRovgEACAAJ",
+      "etag": "fPaHuicDrSQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5tRovgEACAAJ",
+      "volumeInfo": {
+        "title": "The Complete Life and Adventures of Santa Claus",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Borgo Press",
+        "publishedDate": "2002-05-24",
+        "description": "A human foundling child, adopted by a wood-nymph and raised by the creatures who inhabit a magical forest, grows up to be the immortal Santa Claus.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1587157543"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781587157547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5tRovgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5tRovgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5tRovgEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5tRovgEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Life_and_Adventures_of_Sant.html?hl=&id=5tRovgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5tRovgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also includes Baum&#39;s other Santa Claus story, &quot;A Kidnapped Santa Claus,&quot; a sequel to The Life and Adventures of Santa Claus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yOF0EQAAQBAJ",
+      "etag": "XfKB54StPNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yOF0EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Life and Adventures of Santa Claus",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "문학일독",
+        "publishedDate": "2025-07-30",
+        "description": "The Life and Adventures of Santa Claus by L. Frank Baum is a fantasy tale from the early 20th century that reimagines the origin of Santa Claus. The story begins in the mystical Forest of Burzee, where the wood-nymph Necile finds and raises an abandoned human baby named Claus. Surrounded by immortal beings, Claus grows up learning kindness and magic, but is eventually drawn to the suffering of children in the human world. Moved by compassion, he begins crafting toys to bring joy to young lives. This tale blends myth and morality into a heartwarming account of how generosity and love shaped the legend of Santa Claus.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791174054272"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yOF0EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yOF0EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.co.uk/books?id=yOF0EQAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yOF0EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yOF0EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.09,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 3.66,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yOF0EQAAQBAJ&rdid=book-yOF0EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5090000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3660000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus-sample-epub.acsm?id=yOF0EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus-sample-pdf.acsm?id=yOF0EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yOF0EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Moved by compassion, he begins crafting toys to bring joy to young lives. This tale blends myth and morality into a heartwarming account of how generosity and love shaped the legend of Santa Claus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eZjWDwAAQBAJ",
+      "etag": "UZTEQ8fsOlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZjWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Life and Adventures of Santa Claus by L. Frank Baum - Delphi Classics (Illustrated)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘The Life and Adventures of Santa Claus by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Baum includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Life and Adventures of Santa Claus by L. Frank Baum - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Baum’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788771269"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788771265"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eZjWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eZjWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=eZjWDwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eZjWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eZjWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eZjWDwAAQBAJ&rdid=book-eZjWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus_b-sample-epub.acsm?id=eZjWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus_b-sample-pdf.acsm?id=eZjWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZjWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook features the unabridged text of ‘The Life and Adventures of Santa Claus by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KURQxwEACAAJ",
+      "etag": "WcmQCv7Iy64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KURQxwEACAAJ",
+      "volumeInfo": {
+        "title": "The Life And Adventures Of Santa Claus",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2019-07-08",
+        "description": "This book is a result of an effort made by us towards making a contribution to the preservation and repair of original classic literature. In an attempt to preserve, improve and recreate the original content, we have worked towards: 1. Type-setting & Reformatting: The complete work has been re-designed via professional layout, formatting and type-setting tools to re-create the same edition with rich typography, graphics, high quality images, and table elements, giving our readers the feel of holding a 'fresh and newly' reprinted and/or revised edition, as opposed to other scanned & printed (Optical Character Recognition - OCR) reproductions. 2. Correction of imperfections: As the work was re-created from the scratch, therefore, it was vetted to rectify certain conventional norms with regard to typographical mistakes, hyphenations, punctuations, blurred images, missing content/pages, and/or other related subject matters, upon our consideration. Every attempt was made to rectify the imperfections related to omitted constructs in the original edition via other references. However, a few of such imperfections which could not be rectified due to intentional\\unintentional omission of content in the original edition, were inherited and preserved from the original work to maintain the authenticity and construct, relevant to the work. We believe that this work holds historical, cultural and/or intellectual importance in the literary works community, therefore despite the oddities, we accounted the work for print as a part of our continuing effort towards preservation of literary work and our contribution towards the development of the society as a whole, driven by our beliefs. We are grateful to our readers for putting their faith in us and accepting our imperfections with regard to preservation of the historical content. HAPPY READING!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9353428572"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789353428570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KURQxwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KURQxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=KURQxwEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=KURQxwEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_And_Adventures_Of_Santa_Claus.html?hl=&id=KURQxwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KURQxwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a result of an effort made by us towards making a contribution to the preservation and repair of original classic literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o-08AAAACAAJ",
+      "etag": "CP6s2bCWfzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o-08AAAACAAJ",
+      "volumeInfo": {
+        "title": "Complete Life and Adventures of Santa Claus",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2002-06-01",
+        "description": "L. Frank Baum's wild imagination takes up the Santa Claus story, reinventing it with a new origin myth in line with the Oz fanasies for which Baum is best known.From his humble beginnings as the only human child in an enchanted forest to his ultimate destiny as the immortal being who delivers toys to the children of the world, Santa Claus finds a sympathetic storyteller in Baum.The Life and Adventures of Santa Claus is a must-read for anyone who wants to recapture the childlike essence of Christmas!This edition also includes Baum's other Santa Claus story, \"A Kidnapped Santa Claus,\" a sequel to The Life and Adventures of Santa Claus.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0613797566"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780613797566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=o-08AAAACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=o-08AAAACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Complete_Life_and_Adventures_of_Santa_Cl.html?hl=&id=o-08AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o-08AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "L. Frank Baum&#39;s wild imagination takes up the Santa Claus story, reinventing it with a new origin myth in line with the Oz fanasies for which Baum is best known.From his humble beginnings as the only human child in an enchanted forest to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rl9nCwAAQBAJ",
+      "etag": "Jy86aw7poqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rl9nCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Life and Adventures of Santa Claus",
+        "subtitle": "American Literature",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "VM eBooks",
+        "publishedDate": "2016-01-19",
+        "description": "Table of Contents YOUTH 1. Burzee 2. The Child of the Forest 3. The Adoption 4. Claus 5. The Master Woodsman 6. Claus Discovers Humanity 7. Claus Leaves the Forest MANHOOD 1. The Laughing Valley 2. How Claus Made the First Toy 3. How the Ryls Colored the Toys 4. How Little Mayrie Became Frightened 5. How Bessie Blithesome Came to the Laughing Valley 6. The Wickedness of the Awgwas 7. The Great Battle Between Good and Evil 8. The First Journey with the Reindeer 9. \"Santa Claus!\" 10. Christmas Eve 11. How the First Stockings Were Hung by the Chimneys 12. The First Christmas Tree OLD AGE 1. The Mantle of Immortality 2. When the World Grew Old 3. The Deputies of Santa Claus",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 117,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rl9nCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rl9nCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rl9nCwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rl9nCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rl9nCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.92,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rl9nCwAAQBAJ&rdid=book-rl9nCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1920000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus-sample-epub.acsm?id=rl9nCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Santa_Claus-sample-pdf.acsm?id=rl9nCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rl9nCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Table of Contents YOUTH 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bVpCswEACAAJ",
+      "etag": "bs4A0U+Lwas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bVpCswEACAAJ",
+      "volumeInfo": {
+        "title": "Life and Adventures of Santa Claus",
+        "authors": [
+          "Baum Lyman Frank"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-12-07",
+        "description": "The Life and Adventures of Santa Claus is a 1902 children's book, written by L. Frank Baum and illustrated by Mary Cowles Clark. Lyman Frank Baum (May 15, 1856 - May 6, 1919), better known as L. Frank Baum, was an American author chiefly famous for his children's books, particularly The Wonderful Wizard of Oz and its sequels. He wrote a total of 14 novels in the Oz series, plus 41 other novels, 83 short stories, over 200 poems, and at least 42 scripts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1981468552"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781981468553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bVpCswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bVpCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bVpCswEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=bVpCswEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_and_Adventures_of_Santa_Claus.html?hl=&id=bVpCswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bVpCswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He wrote a total of 14 novels in the Oz series, plus 41 other novels, 83 short stories, over 200 poems, and at least 42 scripts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GJiAC7zIiEQC",
+      "etag": "XCHzGrajnLk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GJiAC7zIiEQC",
+      "volumeInfo": {
+        "title": "The Complete Nonsense of Edward Lear",
+        "authors": [
+          "Edward Lear"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1951-01-01",
+        "description": "Compiles all of the nonsense limericks, songs, poems and stories written by the English poet",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0486201678"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486201672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GJiAC7zIiEQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GJiAC7zIiEQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GJiAC7zIiEQC&pg=PP2&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GJiAC7zIiEQC&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Nonsense_of_Edward_Lear.html?hl=&id=GJiAC7zIiEQC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Complete_Nonsense_of_Edward_Lear-sample-pdf.acsm?id=GJiAC7zIiEQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GJiAC7zIiEQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Baum</b>, <b>L</b>. <b>Frank</b>, THE EMERALD CITY OF Oz. (25681-2) <b>Baum</b>, <b>L</b>. <b>Frank</b>, GLINDA OF Oz. (41018-8) <b>Baum</b>, <b>L</b>. <b>Frank</b>, THE <b>LIFE AND ADVENTURES OF SANTA CLAUS</b> ... <b>FULL</b>-COLOR ILLUSTRATIONS. (41020-X) Eaton, Seymour, THE ROOSEVELT BEARS: THEK TRAVELS AND&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8jerswEACAAJ",
+      "etag": "I8sMn6DCRIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8jerswEACAAJ",
+      "volumeInfo": {
+        "title": "The Life and Adventures of Santa Claus by L. Frank Baum",
+        "authors": [
+          "L. Baum"
+        ],
+        "publishedDate": "2017-12-26",
+        "description": "Have you heard of the great Forest of Burzee? Nurse used to sing of it when I was a child. She sang of the big tree-trunks, standing close together, with their roots intertwining below the earth and their branches intertwining above it; of their rough coating of bark and queer, gnarled limbs; of the bushy foliage that roofed the entire forest, save where the sunbeams found a path through which to touch the ground in little spots and to cast weird and curious shadows over the mosses, the lichens and the drifts of dried leaves.The Forest of Burzee is mighty and grand and awesome to those who steal beneath its shade. Coming from the sunlit meadows into its mazes it seems at first gloomy, then pleasant, and afterward filled with never-ending delights.For hundreds of years it has flourished in all its magnificence, the silence of its inclosure unbroken save by the chirp of busy chipmunks, the growl of wild beasts and the songs of birds.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1982031697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982031695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=8jerswEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=8jerswEACAAJ&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Adventures_of_Santa_Claus_b.html?hl=&id=8jerswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8jerswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Have you heard of the great Forest of Burzee?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WBpiEAAAQBAJ",
+      "etag": "w6L5RqdEpKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WBpiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Life and Adventures of Santa Claus (Musaicum Christmas Specials)",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2020-12-17",
+        "description": "Musaicum Books presents the Musaicum Christmas Specials. We have selected the greatest Christmas novels, short stories and fairy tales for all those who want to keep the spirit of Christmas alive with a heartwarming tale. This children's book classic tells the tale about the boyhood of Santa Claus. In a world full of immortals and mortals, the forest of Burzee received an abandoned infant which is found by the nymphs. And Necile, who wishes, even though it is against the law, to spare the child and raise it as her own. Ak, the Master Woodsman reluctantly allows Necile to take in the baby and name him Claus. As he grows older Claus befriends the creatures of the forest and Ak shows him the children of the world who he has sympathy for. When Claus reaches adulthood he leaves the forest of Burzee and travels to the country called the Laughing Valley…",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4064066385125"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WBpiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WBpiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WBpiEAAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Complete+Life+and+Adventures+of+Santa+Claus&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WBpiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WBpiEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WBpiEAAAQBAJ&rdid=book-WBpiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Life_and_Adventures_of_Santa_Claus_Musai-sample-epub.acsm?id=WBpiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Life_and_Adventures_of_Santa_Claus_Musai-sample-pdf.acsm?id=WBpiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WBpiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This children&#39;s book classic tells the tale about the boyhood of Santa Claus. In a world full of immortals and mortals, the forest of Burzee received an abandoned infant which is found by the nymphs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lT5nswEACAAJ",
+      "etag": "KBj+7fI6K+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lT5nswEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers by James Fenimore Cooper",
+        "authors": [
+          "James Cooper"
+        ],
+        "publishedDate": "2017-07-17",
+        "description": "The Pioneers by James Fenimore Cooper",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548973947"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548973940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lT5nswEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lT5nswEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_by_James_Fenimore_Cooper.html?hl=&id=lT5nswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lT5nswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pioneers by James Fenimore Cooper"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fRhwDwAAQBAJ",
+      "etag": "5El98R3VsL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fRhwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Pioneers",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-09-20",
+        "description": "Reproduction of the original: The Pioneers by James Fenimore Cooper",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783734025167"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3734025168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fRhwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fRhwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fRhwDwAAQBAJ&printsec=frontcover&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fRhwDwAAQBAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers.html?hl=&id=fRhwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pioneers-sample-pdf.acsm?id=fRhwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fRhwDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: The Pioneers by James Fenimore Cooper"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tKpRmAEACAAJ",
+      "etag": "2m0H+HdEoDc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tKpRmAEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers",
+        "authors": [
+          "James Cooper"
+        ],
+        "publishedDate": "2013-02-07",
+        "description": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper. While The Pioneers was published in 1823, before any of the other Leatherstocking Tales, the period it covers makes it the fourth chronologically.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1482388618"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781482388619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tKpRmAEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tKpRmAEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers.html?hl=&id=tKpRmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tKpRmAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZTfnAQAACAAJ",
+      "etag": "bhcK+mWcXKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTfnAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers James Fenimore Cooper",
+        "authors": [
+          "James Cooper"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-03-10",
+        "description": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper. While The Pioneers was published in 1823, before any of the other Leatherstocking Tales, the period of time it covers makes it the fourth chronologically. The story takes place on the rapidly advancing frontier of New York State and features a middle-aged Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton, whose life parallels that of the author's father Judge William Cooper, and Elizabeth Temple (the author's sister Susan Cooper), of Cooperstown. The story begins with an argument between the Judge and the Leatherstocking over who killed a buck, and as Cooper reviews many of the changes to New York's Lake Otsego, questions of environmental stewardship, conservation, and use prevail. The plot develops as the Leatherstocking and Chingachgook begin to compete with the Temples for the loyalties of a mysterious young visitor, \"Oliver Edwards,\" the \"young hunter,\" who eventually marries Elizabeth. Chingachgook dies, exemplifying the vexed figure of the \"dying Indian,\" and Natty vanishes into the sunset. For all its strange twists and turns, 'The Pioneers' may be considered one of the first ecological novels in the United States.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1544601182"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544601182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZTfnAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZTfnAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZTfnAQAACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZTfnAQAACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_James_Fenimore_Cooper.html?hl=&id=ZTfnAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZTfnAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "53cHzgEACAAJ",
+      "etag": "skgQvHi5jgU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/53cHzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers Annotated",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2020-09-25",
+        "description": "The Pioneers, or the Susquehanna's Sources; a Descriptive Tale is a classic novel by American author James Fenimore Cooper. This was written as the first of five novels that became known as the Leatherstocking Tales. The Pioneers, written in 1823, is the fourth book concerning the chronology of the plots of the novels.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798690170301"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=53cHzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=53cHzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=53cHzgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=53cHzgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_Annotated.html?hl=&id=53cHzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=53cHzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This was written as the first of five novels that became known as the Leatherstocking Tales. The Pioneers, written in 1823, is the fourth book concerning the chronology of the plots of the novels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B5zWDwAAQBAJ",
+      "etag": "jyuwc0Ozqqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B5zWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Pioneers by James Fenimore Cooper - Delphi Classics (Illustrated)",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘The Pioneers by James Fenimore Cooper - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of James Fenimore Cooper’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Cooper includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Pioneers by James Fenimore Cooper - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Cooper’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788774000"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788774000"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 619,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B5zWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B5zWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=B5zWDwAAQBAJ&printsec=frontcover&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B5zWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B5zWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 0.74,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B5zWDwAAQBAJ&rdid=book-B5zWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 740000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pioneers_by_James_Fenimore_Cooper_De-sample-epub.acsm?id=B5zWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Pioneers_by_James_Fenimore_Cooper_De-sample-pdf.acsm?id=B5zWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B5zWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook features the unabridged text of ‘The Pioneers by James Fenimore Cooper - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of James Fenimore Cooper’."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p4xqzgEACAAJ",
+      "etag": "ynxo9CQFA9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p4xqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers Illustrated",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-05",
+        "description": "The story takes place on the rapidly advancing frontier of New York State and features an elderly Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton (whose life parallels that of the author's father Judge William Cooper), and Elizabeth Temple (based on the author's sister, Hannah Cooper), daughter of the fictional Templeton. The story begins with an argument between the judge and Leatherstocking over who killed a buck.Through their discussion, Cooper reviews many of the changes to New York's Lake Otsego and its area: questions of environmental stewardship, conservation, and use prevail. Leatherstocking and his closest friend, the Mohican Indian Chingachgook, begin to compete with the Temples for the loyalties of a mysterious young visitor, a \"young hunter\" known as Oliver Edwards. The latter eventually marries Elizabeth Temple. Chingachgook dies, representing European-American fears for the race of \"dying Indians\", who appear to be displaced by settlers. Natty vanishes into the sunset.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798746983978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p4xqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p4xqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=p4xqzgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=p4xqzgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_Illustrated.html?hl=&id=p4xqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p4xqzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story takes place on the rapidly advancing frontier of New York State and features an elderly Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton (whose life parallels that of the author&#39;s father Judge William Cooper), ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SgNszgEACAAJ",
+      "etag": "vrZjWr8I2CE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SgNszgEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers (Leatherstocking Tales 4) By James Fenimore Cooper (Illustrated Edition)",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-05-08",
+        "description": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper. While The Pioneers was published in 1823, before any of the other Leatherstocking Tales, the period of time it covers makes it the fourth chronologically.The story takes place on the rapidly advancing frontier of New York State and features a middle-aged Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton, whose life parallels that of the author's father Judge William Cooper, and Elizabeth Temple (the author's sister Susan Cooper), of Cooperstown. The story begins with an argument between the Judge and the Leatherstocking over who killed a buck, and as Cooper reviews many of the changes to New York's Lake Otsego, questions of environmental stewardship, conservation, and use prevail. The plot develops as the Leatherstocking and Chingachgook begin to compete with the Temples for the loyalties of a mysterious young visitor, \"Oliver Edwards,\" the \"young hunter,\" who eventually marries Elizabeth. Chingachgook dies, exemplifying the vexed figure of the \"dying Indian,\" and Natty vanishes into the sunset. For all its strange twists and turns, 'The Pioneers' may be considered one of the first ecological novels in the United States.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798500731791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SgNszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SgNszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SgNszgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SgNszgEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_Leatherstocking_Tales_4_By.html?hl=&id=SgNszgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SgNszgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story begins with an argument between the Judge and the Leatherstocking over who killed a buck, and as Cooper reviews many of the changes to New York&#39;s Lake Otsego, questions of environmental stewardship, conservation, and use prevail."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sARozQEACAAJ",
+      "etag": "5Y3rCVA5X1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sARozQEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers (Annotated)",
+        "authors": [
+          "James Fenimore Cooper"
+        ],
+        "publishedDate": "2020-03-04",
+        "description": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels American writer James Fenimore Cooper. While...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798621255282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sARozQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sARozQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=sARozQEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=sARozQEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers_Annotated.html?hl=&id=sARozQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sARozQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels American writer James Fenimore Cooper. While..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xn0QtAEACAAJ",
+      "etag": "3YUG/BY6vRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xn0QtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Pioneers",
+        "subtitle": "By James Fenimore Cooper - Illustrated",
+        "authors": [
+          "James Fenimore James Fenimore Cooper"
+        ],
+        "publishedDate": "2017-10-25",
+        "description": "Why buy our paperbacks? Expedited shipping High Quality Paper Made in USA Standard Font size of 10 for all books 30 Days Money Back Guarantee BEWARE of Low-quality sellers Don't buy cheap paperbacks just to save a few dollars. Most of them use low-quality papers & binding. Their pages fall off easily. Some of them even use very small font size of 6 or less to increase their profit margin. It makes their books completely unreadable. How is this book unique? Unabridged (100% Original content) Font adjustments & biography included Illustrated The Pioneers by James Fenimore Cooper The Pioneers is a historical novel by American writer James Fenimore Cooper. It was the first of five novels known as the Leatherstocking Tales. The story takes place on the rapidly advancing frontier of New York State and features an elderly Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton (whose life parallels that of the author's father Judge William Cooper), and Elizabeth Temple (based on the author's sister, Hannah Cooper), daughter of the fictional Templeton. The story begins with an argument between the judge and Leatherstocking over who killed a buck. Through their discussion, Cooper reviews many of the changes to New York's Lake Otsego, questions of environmental stewardship, conservation, and use prevail. Leatherstocking and his closest friend, the Mohican Indian Chingachgook, begin to compete with the Temples for the loyalties of a mysterious young visitor, a \"young hunter\" known as Oliver Edwards. He eventually marries Elizabeth. Chingachgook dies, representing fears of the race of \"dying Indians\", and Natty vanishes into the sunset.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976442486"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976442483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xn0QtAEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xn0QtAEACAAJ&dq=James+Fenimore+Cooper+The+Pioneers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Pioneers.html?hl=&id=xn0QtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xn0QtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Unabridged (100% Original content) Font adjustments &amp; biography included Illustrated The Pioneers by James Fenimore Cooper The Pioneers is a historical novel by American writer James Fenimore Cooper."
+      }
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bbjbDwAAQBAJ",
+      "etag": "oX6OW2iyscc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bbjbDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2020-04-14",
+        "description": "The Land of Oz is in danger when a magic spell falls into the wrong hands in this classic children’s novel by the author of The Wonderful Wizard of Oz. Though Princess Ozma has ruled that no one but the Wizard of Oz and Glinda the Good may practice magic, a boy named Kiki Aru has discovered a powerful magical word—Pyrzqxgl—that only he knows how to pronounce. After transforming himself into a hawk to explore lands beyond Oz, his mischief soon wins him a villainous friend, Ruggedo the Nome, who plans to use Kiki’s power to take over Oz as revenge for his exile. Out to gather provisions for Princess Ozma’s birthday celebrations, Dorothy Gale and the Wizard—along with the Cowardly Lion and the Hungry Tiger—have no idea what dangers lie in store for them. And when Kiki transforms them all, will they be able to stop Ruggedo’s devious plan?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781504062213"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1504062213"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bbjbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bbjbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=bbjbDwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bbjbDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bbjbDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bbjbDwAAQBAJ&rdid=book-bbjbDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Magic_of_Oz-sample-epub.acsm?id=bbjbDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Magic_of_Oz-sample-pdf.acsm?id=bbjbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bbjbDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Land of Oz is in danger when a magic spell falls into the wrong hands in this classic children&#39;s novel by the author of The Wonderful Wizard of Oz. Though Princess Ozma has ruled that no one but the Wizard of Oz and Glinda the Good may ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "phCXvgEACAAJ",
+      "etag": "bpTok9BybUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/phCXvgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "subtitle": "By L. Frank Baum - Illustrated",
+        "authors": [
+          "L. Frank L. Frank Baum"
+        ],
+        "publishedDate": "2017-07-24",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Magic of Oz by L. Frank Baum The Magic of Oz: A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, Together with the Cowardly Lion, the Hungry Tiger and Cap'n Bill, in Their Successful Search for a Magical and Beautiful Birthday Present for Princess Ozma of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521925631"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521925638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=phCXvgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=phCXvgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz.html?hl=&id=phCXvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=phCXvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGkCzgEACAAJ",
+      "etag": "OpaDjs3SM8A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGkCzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "subtitle": "The Oz Books #13 (ANNOTATED AND ILLUSTRATED)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2020-10-03",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.The novel was dedicated to \"the Children of our Soldiers, the Americans and their Allies, with unmeasured Pride and Affection.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798692986214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RGkCzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RGkCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RGkCzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=RGkCzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz.html?hl=&id=RGkCzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGkCzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published on June 7, 1919, one month after the author&#39;s death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.The novel was dedicated to &quot;the Children of our Soldiers ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uTHdzgEACAAJ",
+      "etag": "YLb1y1Q/7CQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uTHdzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "subtitle": "Lyman Frank Baum (Classics, Literature) [Annotated]",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2021-12-13",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798784050175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uTHdzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=uTHdzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz.html?hl=&id=uTHdzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uTHdzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dANkzgEACAAJ",
+      "etag": "WtEevtL/vcQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dANkzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz (Illustrated)",
+        "authors": [
+          "L Frank Baum"
+        ],
+        "publishedDate": "2021-03-29",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798730509573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dANkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dANkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=dANkzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=dANkzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz_Illustrated.html?hl=&id=dANkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dANkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5gBmzgEACAAJ",
+      "etag": "L5JlYygDO4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5gBmzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz Illustrated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-04-11",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798736451135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5gBmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5gBmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5gBmzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=5gBmzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz_Illustrated.html?hl=&id=5gBmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5gBmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R-_EyQEACAAJ",
+      "etag": "snaeW6Md/fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R-_EyQEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "subtitle": "Large Print",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publishedDate": "2019-09-17",
+        "description": "The Magic of Oz: A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, Together with the Cowardly Lion, the Hungry Tiger and Cap'n Bill, in Their Successful Search for a Magical and Beautiful Birthday Present for Princess Ozma of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1693827573"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781693827570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R-_EyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R-_EyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R-_EyQEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=R-_EyQEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz.html?hl=&id=R-_EyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R-_EyQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Magic of Oz: A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, Together with the Cowardly Lion, the Hungry Tiger and Cap&#39;n Bill, in Their Successful Search for a Magical and Beautiful Birthday ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xPppzgEACAAJ",
+      "etag": "J2GSfM+nygE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xPppzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz Annotated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-04-26",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz. The novel was dedicated to \"the Children of our Soldiers, the Americans and their Allies, with unmeasured Pride and Affection.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798745398322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xPppzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xPppzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xPppzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=xPppzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz_Annotated.html?hl=&id=xPppzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xPppzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published on June 7, 1919, one month after the author&#39;s death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz. The novel was dedicated to &quot;the Children of our ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nz0pzgEACAAJ",
+      "etag": "oPDt5+KDpHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nz0pzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz Annotated",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-01-11",
+        "description": "The Magic of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.The novel was dedicated to \"the Children of our Soldiers, the Americans and their Allies, with unmeasured Pride and Affection.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798593155559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nz0pzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nz0pzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nz0pzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nz0pzgEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz_Annotated.html?hl=&id=nz0pzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nz0pzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published on June 7, 1919, one month after the author&#39;s death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.The novel was dedicated to &quot;the Children of our Soldiers ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hpxntwEACAAJ",
+      "etag": "bv7xHDo4KOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hpxntwEACAAJ",
+      "volumeInfo": {
+        "title": "The Magic of Oz",
+        "subtitle": "By L. Frank Baum",
+        "authors": [
+          "L. Baum"
+        ],
+        "publishedDate": "2018-05-09",
+        "description": "The Magic of Oz: A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, Together with the Cowardly Lion, the Hungry Tiger and Cap'n Bill, in Their Successful Search for a Magical and Beautiful Birthday Present for Princess Ozma of Oz is the thirteenth Land of Oz book written by L. Frank Baum. Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1718841663"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718841666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hpxntwEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hpxntwEACAAJ&dq=L.+Frank+Baum+The+Magic+of+Oz&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Oz.html?hl=&id=hpxntwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hpxntwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Magic of Oz: A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, Together with the Cowardly Lion, the Hungry Tiger and Cap&#39;n Bill, in Their Successful Search for a Magical and Beautiful Birthday ..."
+      }
+    }
+  ]
+}

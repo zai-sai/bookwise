@@ -1,0 +1,722 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hVeLEAAAQBAJ",
+      "etag": "qAMuQXF1sgc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hVeLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-09-16",
+        "description": "In \"Martin Chuzzlewit,\" Charles Dickens explores themes of selfishness and selflessness through the journey of its titular character, Martin, who navigates a society rife with hypocrisy and moral folly. The novel employs Dickens's characteristic vivid characterizations and satirical wit, holding a reflective mirror to Victorian England. Through intricate plots and a diverse cast—from the avaricious Pecksniff to the altruistic Mary—Dickens critiques the moral failings of individualism and the consequences of unchecked ambition, all while masterfully weaving social commentary with humorous prose and engaging narratives. Charles Dickens, one of the most celebrated authors of the Victorian era, draws from his personal experiences of hardship and societal critique in crafting \"Martin Chuzzlewit.\" The novel reflects his deepening concern with social reform and human relationships, as well as his evolving narrative techniques, incorporating elements of travel and adventure that mirror his own journeys across America and England. Dickens's keen observations of human nature, coupled with his passionate advocacy for the downtrodden, further illuminate the moral struggles woven throughout the text. For readers seeking a rich tapestry of character and social insight, \"Martin Chuzzlewit\" is a compelling examination of human motives and societal structures that resonates with contemporary issues of morality and ethics. This novel not only entertains but also provokes critical thought about self-interest and compassion, making it essential reading for aficionados of classic literature and those keen to understand Dickens's enduring legacy.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547362319"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 960,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hVeLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hVeLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hVeLEAAAQBAJ&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hVeLEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hVeLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.49,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hVeLEAAAQBAJ&rdid=book-hVeLEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1490000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Martin_Chuzzlewit-sample-epub.acsm?id=hVeLEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Martin_Chuzzlewit-sample-pdf.acsm?id=hVeLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hVeLEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel not only entertains but also provokes critical thought about self-interest and compassion, making it essential reading for aficionados of classic literature and those keen to understand Dickens&#39;s enduring legacy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A2DG7mclawoC",
+      "etag": "es43jziMgzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A2DG7mclawoC",
+      "volumeInfo": {
+        "title": "Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1994",
+        "description": "Old Martin Chuzzlewit, tormented by the greed and selfishness of his family, effectively drives his grandson, young Martin, to undertake a voyage to America. It is a voyage which will have crucial consequences not only for young Martin, but also for his grandfather and his grandfather's servant, Mary Graham with whom young Martin is in love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853262056"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853262050"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 836,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A2DG7mclawoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A2DG7mclawoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A2DG7mclawoC&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A2DG7mclawoC&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Martin_Chuzzlewit.html?hl=&id=A2DG7mclawoC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Martin_Chuzzlewit-sample-pdf.acsm?id=A2DG7mclawoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A2DG7mclawoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Old Martin Chuzzlewit, tormented by the greed and selfishness of his family, effectively drives his grandson, young Martin, to undertake a voyage to America which will have crucial consequences for himself, his grandfather and his ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dw_UDAEACAAJ",
+      "etag": "MkWuWwgFjKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dw_UDAEACAAJ",
+      "volumeInfo": {
+        "title": "Life and Adventures of Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-12",
+        "description": "The Life and Adventures of Martin Chuzzlewit (commonly known as Martin Chuzzlewit) is a novel by Charles Dickens, considered the last of his picaresque novels. It was originally serialised in 1843 and 1844. Dickens thought it to be his best work, [1] but it was one of his least popular novels.Like nearly all of Dickens' novels, Martin Chuzzlewit was released to the public in monthly instalments. Early sales of the monthly parts were disappointing, compared to previous works, so Dickens changed the plot to send the title character to America. This allowed the author to portray the United States (which he had visited in 1842) satirically as a near wilderness with pockets of civilisation filled with deceptive and self-promoting hucksters. The main theme of the novel, according to a preface by Dickens, is selfishness, portrayed in a satirical fashion using all the members of the Chuzzlewit family. The novel is also notable for two of Dickens' great villains, Seth Pecksniff and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend of Dickens.Martin Chuzzlewit has been raised by his grandfather and namesake. Years before, Martin senior took the precaution of raising an orphaned girl, Mary Graham. She is to be his nursemaid, with the understanding that she will be well cared for only as long as Martin senior lives. She thus has strong motivation to promote his well-being, in contrast to his relatives, who only want to inherit his money. However, his grandson Martin falls in love with Mary and wishes to marry her, ruining Martin senior's plans. When Martin refuses to give up the engagement, his grandfather disinherits him. Martin becomes an apprentice to Seth Pecksniff, a greedy architect. Instead of teaching his students, he lives off their tuition fees and has them do draughting work that he passes off as his own. He has two spoiled daughters, nicknamed Cherry and Merry, having been christened as Charity and Mercy. Unbeknown to Martin, Pecksniff has actually taken him on to establish closer ties with the wealthy grandfather, thinking that this will gain Pecksniff a prominent place in the will.oung Martin befriends Tom Pinch, a kind-hearted soul whose late grandmother had given Pecksniff all she had, believing Pecksniff would make an architect and gentleman of him. Pinch is incapable of believing any of the bad things others tell him of Pecksniff, and always defends him vociferously. Pinch works for exploitatively low wages, while believing he is the unworthy recipient of Pecksniff's charity. When Martin senior hears of his grandson's new life, he demands that Pecksniff kick young Martin out. Then, Martin senior moves in and falls under Pecksniff's control. During this time, Pinch falls in love with Mary, but does not declare it, knowing of her attachment to young Martin. One of Martin senior's greedy relatives is his brother, Anthony Chuzzlewit, who is in business with his son, Jonas. Despite considerable wealth, they live miserly, cruel lives, with Jonas constantly berating his father, eager for the old man to die so he can inherit. Anthony dies abruptly and under suspicious circumstances, leaving his wealth to Jonas. Jonas then woos Cherry, whilst arguing constantly with Merry. He then abruptly declares to Pecksniff that he wants to marry Merry, and jilts Cherry - not without demanding an additional 1,000 pounds on top of the 4,000 that Pecksniff had promised him as Cherry's dowry, with the argument that Cherry has better chances for matchmaking.Jonas, meanwhile, becomes entangled with the unscrupulous Montague Tigg and joins in his pyramid scheme-like insurance scam. At the beginning of the book he is a petty thief and hanger-on of a Chuzzlewit relative, Chevy Slyme. Tigg cheats young Martin out of a valuable pocket watch and uses the funds to transform himself into a seemingly fine man called \"Tigg Montague.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533214646"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533214645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 562,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dw_UDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dw_UDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Dw_UDAEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Dw_UDAEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_and_Adventures_of_Martin_Chuzzlewit.html?hl=&id=Dw_UDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dw_UDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is also notable for two of Dickens&#39; great villains, Seth Pecksniff and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend of Dickens.Martin Chuzzlewit has been raised by his grandfather and namesake."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I1E1AQAAMAAJ",
+      "etag": "IsfmYSiDniE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I1E1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Works of Charles Dickens: The life and adventures of Martin Chuzzlewit. 2 v",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:31158013336960"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 610,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I1E1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I1E1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=I1E1AQAAMAAJ&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I1E1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I1E1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=I1E1AQAAMAAJ&rdid=book-I1E1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Charles_Dickens_The_life_an.epub?id=I1E1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Charles_Dickens_The_life_an.pdf?id=I1E1AQAAMAAJ&hl=&output=pdf&sig=ACfU3U1_oMkuoJ63ezpVHwZ91PryXbSTlg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I1E1AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fEMFGarl_TwC",
+      "etag": "YFd30DV391U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fEMFGarl_TwC",
+      "volumeInfo": {
+        "title": "Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2010",
+        "description": "WITH AN INTRODUCTION BY SIMON CALLOWWealthy old Martin Chuzzlewit is surrounded by a host of grasping, unscrupulous relatives and suspects the family vices of selfishness and greed are already showing in his grandson. The younger Martin is therefore cast out upon the world to learn to fend for himself. Apprenticed to the oily hypocrite Peckniff, he meets both the sweet-tempered Tom Pinch and the irrepressible Mark Tapley, with whom he sets forth to America to find his fortune. Dickens created some of his most gleefully repulsive and enduring characters in this tale of corruption and virtue, murder and unrequited love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780099540854"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0099540851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 954,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.17.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fEMFGarl_TwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fEMFGarl_TwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fEMFGarl_TwC&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fEMFGarl_TwC&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Martin_Chuzzlewit.html?hl=&id=fEMFGarl_TwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fEMFGarl_TwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dickens created some of his most gleefully repulsive and enduring characters in this tale of corruption and virtue, murder and unrequited love."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "36E5AAAAMAAJ",
+      "etag": "koqGkojS0P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/36E5AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Works of Charles Dickens ...: Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015067240781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 614,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.15.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=36E5AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=36E5AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=36E5AAAAMAAJ&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=36E5AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=36E5AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=36E5AAAAMAAJ&rdid=book-36E5AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Charles_Dickens_Martin_Chuz.epub?id=36E5AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Works_of_Charles_Dickens_Martin_Chuz.pdf?id=36E5AAAAMAAJ&hl=&output=pdf&sig=ACfU3U00gB1k88tLnOCcqwNcUWeKh39t0A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=36E5AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YA24EAAAQBAJ",
+      "etag": "Yg+wr4LSx9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YA24EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Life and Adventures of Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-04-07",
+        "description": "Reprint of the original, first published in 1871. The publishing house Anatiposi publishes historical books as reprints. Due to their age, these books may have missing pages or inferior quality. Our aim is to preserve these books and make them available to the public so that they do not get lost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783382169121"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3382169126"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YA24EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YA24EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YA24EAAAQBAJ&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YA24EAAAQBAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Adventures_of_Martin_Chuzzl.html?hl=&id=YA24EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Life_and_Adventures_of_Martin_Chuzzl-sample-pdf.acsm?id=YA24EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YA24EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Due to their age, these books may have missing pages or inferior quality. Our aim is to preserve these books and make them available to the public so that they do not get lost."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QWdDAQAAMAAJ",
+      "etag": "aTs3mrekND8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QWdDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Works of Charles Dickens: Martin Chuzzlewit",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112042030707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QWdDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QWdDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=QWdDAQAAMAAJ&printsec=frontcover&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QWdDAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QWdDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QWdDAQAAMAAJ&rdid=book-QWdDAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Works_of_Charles_Dickens_Martin_Chuzzlew.epub?id=QWdDAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QWdDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nfFXzgEACAAJ",
+      "etag": "c1vIUOY36z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nfFXzgEACAAJ",
+      "volumeInfo": {
+        "title": "Life And Adventures Of Martin Chuzzlewit",
+        "subtitle": "With Original Illustrations",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "2021-03-14",
+        "description": "This is a novel written by Charles Dickens and considered as the last of his novels. Though Dickens expected this novel to be a success, it was one among his least popular works. The works mainly depicts about selfishness portrayed in a mocking fashion using the members of the Chuzzlewit family. The novel begins with the time of Martin's grandfather and father. Sr. Martin raises an orphaned girl named Mary and she is to be his nursemaid and all his wealth would be inherited by her, only upon his death. This would make her look after him well, unlike his other family members who are only interested in the money. But Jr. Martin falls in love with Mary and gets adamant in marrying her. At this point, his grandfather disinherits him. This novel had the best villain characters, the Seth Pecksniff and Jonas Chuzzlewit. Pecksniff was Jr. Martin's employer and a greedy architect. He hired Martin only because he though, Martin would inherit his grandfather's wealth. But when Sr. Martin comes to know of his grandson's whereabouts, he comes to put him out and eventually falls under Pecksniff`s control. Meanwhile, Jonas who is Sr. Martins`s brothers son, is also a greed for wealth. He somehow manages his father's death and feels happy to inherit his wealth too. In between he flatters Cherry who is Pecksniff daughter, but declares to marry Merry, who is also another daughter of Pecksniff. Martin meets two good people in his life, Tom Pinch and Mark Tapley. Pinch was met when he was with Pecksniff, who leaves that place and goes to London and gets a good job there. Mark is some one who is already wealthy and content and wants to see how life is in the other side of the coin and thus both Mark and Martin set to United States to seek a fortune. But they almost die because of malaria and Mark finds himself in a scenario that he considers himself to be lucky to be alive. This caring and helping attitude of Mark brings a change in the selfish character of Martin and they return to England to reunite with his grandfather. However his grandfather does not accept him on his return. Martin reunites with Tom Pinch and Pinch finds out that the old Martin Chuzzlewit is his mysterious benefactor and he was pretending with Pecksniff as if in his spell. All of them together, tackle Pecksniff realizing his true character. Once the ordeal was done, old martin reveals that he initially had plans to get Mary and Jr. Martin married, but wanted himself to let out the plan and was shamed when the young Martin declared about their marriage. Martin and his grandfather reunite and get Mary and Jr. Martin marries and lives. However Pinch remains in his unrequited love for Mary for the rest of his life and remains unmarried.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798721678660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 574,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nfFXzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nfFXzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nfFXzgEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nfFXzgEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_And_Adventures_Of_Martin_Chuzzlewit.html?hl=&id=nfFXzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nfFXzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a novel written by Charles Dickens and considered as the last of his novels. Though Dickens expected this novel to be a success, it was one among his least popular works."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "It3jjwEACAAJ",
+      "etag": "QVZyTHsTHEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/It3jjwEACAAJ",
+      "volumeInfo": {
+        "title": "Life and Adventures of Martin Chuzzlewit, by Charles Dickens and Phiz a Novel",
+        "subtitle": "Hablot Knight Browne (10 July 1815 - 8 July 1882) Was an English Artist. Well-Known by His Pen Name, Phiz, He Illustrated Books by Charles Dickens",
+        "authors": [
+          "Charles Dickens",
+          "(Phiz) Hablot Knight Browne"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-06-02",
+        "description": "The Life and Adventures of Martin Chuzzlewit (commonly known as Martin Chuzzlewit) is a novel by Charles Dickens, considered the last of his picaresque novels. It was originally serialised in 1843 and 1844. Dickens thought it to be his best work, but it was one of his least popular novels.Like nearly all of Dickens' novels, Martin Chuzzlewit was released to the public in monthly instalments. Early sales of the monthly parts were disappointing, compared to previous works, so Dickens changed the plot to send the title character to America.This allowed the author to portray the United States (which he had visited in 1842) satirically as a near wilderness with pockets of civilisation filled with deceptive and self-promoting hucksters. The main theme of the novel, according to a preface by Dickens, is selfishness, portrayed in a satirical fashion using all the members of the Chuzzlewit family. The novel is also notable for two of Dickens' great villains, Seth Pecksniff and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend of Dickens.Martin Chuzzlewit has been raised by his grandfather and namesake. Years before, Martin senior took the precaution of raising an orphaned girl, Mary Graham. She is to be his nursemaid, with the understanding that she will be well cared for only as long as Martin senior lives. She thus has strong motivation to promote his well-being, in contrast to his relatives, who only want to inherit his money. However, his grandson Martin falls in love with Mary and wishes to marry her, ruining Martin senior's plans. When Martin refuses to give up the engagement, his grandfather disinherits him. Martin becomes an apprentice to Seth Pecksniff, a greedy architect. Instead of teaching his students, he lives off their tuition fees and has them do draughting work that he passes off as his own. He has two spoiled daughters, nicknamed Cherry and Merry, having been christened as Charity and Mercy. Unbeknown to Martin, Pecksniff has actually taken him on to establish closer ties with the wealthy grandfather, thinking that this will gain Pecksniff a prominent place in the will.Young Martin befriends Tom Pinch, a kind-hearted soul whose late grandmother had given Pecksniff all she had, believing Pecksniff would make an architect and gentleman of him. Pinch is incapable of believing any of the bad things others tell him of Pecksniff, and always defends him vociferously. Pinch works for exploitatively low wages, while believing he is the unworthy recipient of Pecksniff's charity. When Martin senior hears of his grandson's new life, he demands that Pecksniff kick young Martin out. Then, Martin senior moves in and falls under Pecksniff's control. During this time, Pinch falls in love with Mary, but does not declare it, knowing of her attachment to young Martin.oung Martin, meanwhile, has encountered Mark Tapley. Mark is always cheerful, which he decides does not reflect well on him because he is always in happy circumstances and it shows no strength of character to be happy when one has good fortune. He decides he must test his cheerfulness by seeing if he can maintain it in the worst circumstances possible. To this end, he accompanies young Martin when he goes to the United States to seek his fortune. The men attempt to start new lives in a swampy, disease-filled settlement named \"Eden,\" but both nearly die of malaria.....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533580413"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533580412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=It3jjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=It3jjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=It3jjwEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=It3jjwEACAAJ&dq=Charles+Dickens+Martin+Chuzzlewit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_and_Adventures_of_Martin_Chuzzlewit.html?hl=&id=It3jjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=It3jjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is also notable for two of Dickens&#39; great villains, Seth Pecksniff and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend of Dickens.Martin Chuzzlewit has been raised by his grandfather and namesake."
+      }
+    }
+  ]
+}

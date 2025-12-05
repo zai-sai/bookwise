@@ -1,0 +1,662 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "A3l0OnLKrpsC",
+      "etag": "5akqNnM8EnU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A3l0OnLKrpsC",
+      "volumeInfo": {
+        "title": "... Shakespeare's Taming of the Shrew",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89003464856"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A3l0OnLKrpsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A3l0OnLKrpsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A3l0OnLKrpsC&q=William+Shakespeare+The+Taming+of+the+Shrew&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=A3l0OnLKrpsC&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shakespeare_s_Taming_of_the_Shrew.html?hl=&id=A3l0OnLKrpsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A3l0OnLKrpsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0VBkAgAAQBAJ",
+      "etag": "L3Ru0+UGl4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0VBkAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2014-01-20",
+        "description": "As well as the complete script of 'The Taming of the Shrew', readers will find a variety of classroom-tested activities, an eight-page colour section and an enlarged selection of notes including information on characters, performance, history and language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107616899"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107616891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0VBkAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0VBkAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0VBkAgAAQBAJ&printsec=frontcover&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0VBkAgAAQBAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew.html?hl=&id=0VBkAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Taming_of_the_Shrew-sample-pdf.acsm?id=0VBkAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0VBkAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As well as the complete script of &#39;The Taming of the Shrew&#39;, readers will find a variety of classroom-tested activities, an eight-page colour section and an enlarged selection of notes including information on characters, performance, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tm3R0AEACAAJ",
+      "etag": "LOV+v+G6SVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tm3R0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew by William Shakespeare",
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1438354716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Tm3R0AEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Tm3R0AEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew_by_William_Shake.html?hl=&id=Tm3R0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tm3R0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gh9AtoYxobsC",
+      "etag": "tK100sMAp60",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gh9AtoYxobsC",
+      "volumeInfo": {
+        "title": "The Taming of the shrew",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "1896",
+        "description": "Renowned as Shakespeare's most boisterous comedy, \"The Taming of the Shrew\" is the tale of two young men -- the hopeful Lucentio and the worldly Petruchio -- and the two sisters they meet in Padua. Lucentio falls in love with Bianca, the apparently ideal younger daughter of the wealthy Baptista Minola. But before they can marry, Bianca's formidable elder sister, Katherine, must be wed. Petruchio, interested only in the huge dowry, arranges to marry Katherine -- against her will -- and enters into a battle of the sexes that has endured as one of Shakespeare's most enjoyable works.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:602647069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gh9AtoYxobsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gh9AtoYxobsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gh9AtoYxobsC&printsec=frontcover&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gh9AtoYxobsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gh9AtoYxobsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gh9AtoYxobsC&rdid=book-gh9AtoYxobsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Taming_of_the_shrew.epub?id=gh9AtoYxobsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gh9AtoYxobsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Renowned as Shakespeare&#39;s most boisterous comedy, &quot;The Taming of the Shrew&quot; is the tale of two young men -- the hopeful Lucentio and the worldly Petruchio -- and the two sisters they meet in Padua."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0jDUzQEACAAJ",
+      "etag": "fQWrDnmIXjQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0jDUzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew by William Shakespeare Annotated",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2020-07-28",
+        "description": "The Taming of the Shrew is a play within a play by Shakespeare. It's a story told by a man, Sly, in an alehouse in England, and his story is set in Padua, Italy - in a public square, in Baptista's house, and in Lucentio's house. Other scenes take place in Petruchio's country house and on the road between there and Lucentio's house. Read more about The Taming Of The Shrew settings. Date written: 1592 Genre classification: The Taming of the Shrew is a comedy play. Main characters in The Taming of the Shrew: The action revolves around Katherine (Kate), the daughter of Baptista and the older sister of Bianca. Katherine has no suitors because she is not conventionally attractive but more seriously, she is notoriously shrewish, and seems to hate men, which makes it difficult for any man to deal with her. Bianca is sweet natured and beautiful but can't marry until her older sister does.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798670293143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0jDUzQEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0jDUzQEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew_by_William_Shake.html?hl=&id=0jDUzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0jDUzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Taming of the Shrew is a play within a play by Shakespeare."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZOK4ywEACAAJ",
+      "etag": "467TyK+9lFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZOK4ywEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew (Illustrated) by William Shakespeare",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2019-10-20",
+        "description": "The Taming of the Shrew is a comedy by William Shakespeare. It was one of his earlier plays, believed to have been written between 1590 and 1594. The play begins with a framing device in which a drunkard is deceived into thinking he is a nobleman who then watches the \"play\" itself, which depicts a nobleman, Petruchio, who marries an outspoken, intelligent, and bad-tempered shrew named Katherina. Petruchio manipulates and \"tames\" her until she is obedient to his will. The main subplot features the courting of Katherina's more conventional sister Bianca by numerous suitors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1701376318"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781701376311"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZOK4ywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZOK4ywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZOK4ywEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZOK4ywEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew_Illustrated_by_W.html?hl=&id=ZOK4ywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZOK4ywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Taming of the Shrew is a comedy by William Shakespeare."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oFpVyQEACAAJ",
+      "etag": "o02Vr4anJSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oFpVyQEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew",
+        "subtitle": "Brilliant Story ( Annotated ) By William Shakespeare.",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2019-08-27",
+        "description": "Love and marriage are the concerns of Shakespeare's The Taming of the Shrew. Lucentio's marriage to Bianca is prompted by his idealized love of an apparently ideal woman. Petruchio's wooing of Katherine, however, is free of idealism. Petruchio takes money from Bianca's suitors to woo her, since Katherine must marry before her sister by her father's decree; he also arranges the dowry with her father. Petruchio is then ready to marry Katherine, even against her will.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "168890252X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781688902527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oFpVyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oFpVyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=oFpVyQEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=oFpVyQEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew.html?hl=&id=oFpVyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oFpVyQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Love and marriage are the concerns of Shakespeare&#39;s The Taming of the Shrew."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hcw_jgEACAAJ",
+      "etag": "PGcMNfZx+og",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hcw_jgEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2015-09-09",
+        "description": "The Taming of the Shrew is a comedy by William Shakespeare, believed to have been written between 1590 and 1592.The play begins with a framing device, often referred to as the induction,[a] in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself. The nobleman then has the play performed for Sly's diversion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1517267153"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781517267155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hcw_jgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hcw_jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Hcw_jgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Hcw_jgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew.html?hl=&id=Hcw_jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hcw_jgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Taming of the Shrew is a comedy by William Shakespeare, believed to have been written between 1590 and 1592."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EGFyzgEACAAJ",
+      "etag": "H5M9/KDbr74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EGFyzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew",
+        "subtitle": "William Shakespeare (Shakespeare, Literary Criticism) [Annotated]",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2021-05-06",
+        "description": "\"The Taming of the Shrew begins with a framing device, often referred to as the Induction, in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself. The nobleman then has the play performed for Sly's diversion. The main plot depicts the courtship of Petruchio, a gentleman of Verona, and Katherina, the headstrong, obdurate shrew. Initially, Katherina is an unwilling participant in the relationship, but Petruchio tempers her with various psychological torments (the \"\"taming\"\") until she becomes a compliant and obedient bride. The subplot features a competition between the suitors of Katherina's more desirable sister, Bianca.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798749633825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EGFyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EGFyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EGFyzgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EGFyzgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew.html?hl=&id=EGFyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EGFyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Taming of the Shrew begins with a framing device, often referred to as the Induction, in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tM0szgEACAAJ",
+      "etag": "BI/3PrekCvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tM0szgEACAAJ",
+      "volumeInfo": {
+        "title": "The Taming of the Shrew",
+        "subtitle": "William Shakespeare (Drama, Plays, Poetry, Shakespeare, Literary Criticism) [Annotated]",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2021-01-12",
+        "description": "\"The Taming of the Shrew begins with a framing device, often referred to as the Induction, in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself. The nobleman then has the play performed for Sly's diversion. The main plot depicts the courtship of Petruchio, a gentleman of Verona, and Katherina, the headstrong, obdurate shrew. Initially, Katherina is an unwilling participant in the relationship, but Petruchio tempers her with various psychological torments (the \"\"taming\"\") until she becomes a compliant and obedient bride. The subplot features a competition between the suitors of Katherina's more desirable sister, Bianca.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798593966100"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tM0szgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tM0szgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tM0szgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tM0szgEACAAJ&dq=William+Shakespeare+The+Taming+of+the+Shrew&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Taming_of_the_Shrew.html?hl=&id=tM0szgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tM0szgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Taming of the Shrew begins with a framing device, often referred to as the Induction, in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself."
+      }
+    }
+  ]
+}

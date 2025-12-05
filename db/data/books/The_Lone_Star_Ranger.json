@@ -1,0 +1,703 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qufDtAEACAAJ",
+      "etag": "IQFDyWlVtSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qufDtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger",
+        "subtitle": "By Zane Grey - Illustrated",
+        "authors": [
+          "Zane Zane Grey"
+        ],
+        "publishedDate": "2017-03-28",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About The Lone Star Ranger by Zane Grey The Lone Star Ranger is a Western novel published by Zane Grey in 1915. It follows the life of Buck Duane, a man who becomes an outlaw and then redeems himself in the eyes of the law.Buck Duane is the son of a famous outlaw. Though an outlaw is not always a criminal, if the Rangers say he is an outlaw, its just as bad - he's a hunted man. After killing a man, Duane is forced to 'go on the dodge'. Duane turns up at an outlaw's hideout, still revolting at the idea of outlawry. Worse still, all the men he kills haunt him, for years. At the outlaw hideout, he meets a kidnapped, beautiful young woman and desires to see her free.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520810601"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520810607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=qufDtAEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=qufDtAEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger.html?hl=&id=qufDtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qufDtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About The Lone Star Ranger by Zane Grey The Lone Star Ranger is a Western novel published by Zane Grey in 1915."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "APPHDwAAQBAJ",
+      "etag": "njSF5HB3ssE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/APPHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780244249724"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0244249725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=APPHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=APPHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=APPHDwAAQBAJ&printsec=frontcover&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=APPHDwAAQBAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger.html?hl=&id=APPHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lone_Star_Ranger-sample-pdf.acsm?id=APPHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=APPHDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_58sswEACAAJ",
+      "etag": "vG5ffVrAqXE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_58sswEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger Zane Grey",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-02-15",
+        "description": "When he is forced to kill a man after a deadly attack, Buck Duane begins a life on the run while trying to clear his name, and his fortunes are changed by a beautiful woman and a Texas Ranger who offers to pardon him for a price.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1543136923"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543136920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_58sswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_58sswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_58sswEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_58sswEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger_Zane_Grey.html?hl=&id=_58sswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_58sswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When he is forced to kill a man after a deadly attack, Buck Duane begins a life on the run while trying to clear his name, and his fortunes are changed by a beautiful woman and a Texas Ranger who offers to pardon him for a price."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rkW1oQEACAAJ",
+      "etag": "vLUO0WEIkS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rkW1oQEACAAJ",
+      "volumeInfo": {
+        "title": "Lone Star Ranger",
+        "subtitle": "(Zane Grey Classics Collection)",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-08-24",
+        "description": "So it was in him, then—an inherited fighting instinct, a driving intensity to kill. He was the last of the Duanes, that old fighting stock of Texas. But not the memory of his dead father, nor the pleading of his soft-voiced mother, nor the warning of this uncle who stood before him now, had brought to Buck Duane so much realization of the dark passionate strain in his blood. It was the recurrence, a hundred-fold increased in power, of a strange emotion that for the last three years had arisen in him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1500943614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781500943615"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rkW1oQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rkW1oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rkW1oQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rkW1oQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lone_Star_Ranger.html?hl=&id=rkW1oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rkW1oQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "So it was in him, then-an inherited fighting instinct, a driving intensity to kill."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nfG-zQEACAAJ",
+      "etag": "cD2SMoaNZu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nfG-zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger",
+        "subtitle": "(Aberdeen Classics Collection)",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2020-08-05",
+        "description": "So it was in him, then-an inherited fighting instinct, a driving intensity to kill. He was the last of the Duanes, that old fighting stock of Texas. But not the memory of his dead father, nor the pleading of his soft-voiced mother, nor the warning of this uncle who stood before him now, had brought to Buck Duane so much realization of the dark passionate strain in his blood. It was the recurrence, a hundred-fold increased in power, of a strange emotion that for the last three years had arisen in him. \"Yes, Cal Bain's in town, full of bad whisky an' huntin' for you,\" repeated the elder man, gravely. \"It's the second time,\" muttered Duane, as if to himself. \"Son, you can't avoid a meetin'. Leave town till Cal sobers up. He ain't got it in for you when he's not drinkin'.\" \"But what's he want me for?\" demanded Duane. \"To insult me again? I won't stand that twice.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798672234922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nfG-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nfG-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=nfG-zQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=nfG-zQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger.html?hl=&id=nfG-zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nfG-zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "So it was in him, then--an inherited fighting instinct, a driving intensity to kill."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pQqxvwEACAAJ",
+      "etag": "pvnkU9LYhPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pQqxvwEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger",
+        "subtitle": "A Romance of the Border: Classic Western",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2018-12-11",
+        "description": "In Zane Grey's only Western told from the first person perspective, a U.S. Deputy Marshall helps legendary Texas Ranger Vaugn Steele to clean up the lawless town of Fairfield. Though the town's mayor is in cahoots with a band of outlaws, Steele falls in love with his daughter and the Marshall falls in love with his niece. An unusual psychological depth sets this tale apart from the majority of Westerns...Pearl Zane Grey (January 31, 1872 - October 23, 1939) was an American author and dentist best known for his popular adventure novels and stories associated with the Western genre in literature and the arts; he idealized the American frontier. Riders of the Purple Sage (1912) was his best-selling book.Early lifePearl Zane Grey was born January 31, 1872, in Zanesville, Ohio. His birth name may have originated from newspaper descriptions of Queen Victoria's mourning clothes as \"pearl grey.\"He was the fourth of five children born to Alice \"Allie\" Josephine Zane, whose English Quaker immigrant ancestor Robert Zane came to the North American colonies in 1673, and her husband, Lewis M. Gray, a dentist. His family changed the spelling of their last name to \"Grey\" after his birth. Later Grey dropped Pearl and used Zane as his first name. He grew up in Zanesville, a city founded by his maternal great-grandfather Ebenezer Zane, an American Revolutionary War patriot, and from an early age, he was intrigued by history. Grey developed interests in fishing, baseball, and writing, all of which contributed to his writing success. His first three novels recounted the heroism of ancestors who fought in the American Revolutionary War.As a child, Grey frequently engaged in violent brawls, despite (or because of) his father's punishing him with severe beatings. Though irascible and antisocial like his father, Grey was supported by a loving mother and found a father substitute. Muddy Miser was an old man who approved of Grey's love of fishing and writing, and who talked about the advantages of an unconventional life. Despite warnings by Grey's father to steer clear of Miser, the boy spent much time during five formative years in the company of the old man.Grey was an avid reader of adventure stories such as Robinson Crusoe and the Leatherstocking Tales, as well as dime novels featuring Buffalo Bill and \"Deadwood Dick.\" He was enthralled by and crudely copied the great illustrators Howard Pyle and Frederic Remington. He was particularly impressed with Our Western Border, a history of the Ohio frontier that likely inspired his earliest novels. Zane wrote his first story, Jim of the Cave, when he was fifteen. His father tore it to shreds and beat him. Both Zane and his brother Romer were active, athletic boys who were enthusiastic baseball players and fishermen.Due to shame from a severe financial setback in 1889 caused by a poor investment, Lewis Grey moved his family from Zanesville and started again in Columbus, Ohio. While his father struggled to re-establish his dental practice, Zane Grey made rural house calls and performed basic extractions, which his father had taught him. The younger Grey practiced until the state board intervened. His brother Romer earned money by driving a delivery wagon. Grey also worked as a part-time usher in a theater and played summer baseball for the Columbus Capitols, with aspirations of becoming a major leaguer. Eventually, Grey was spotted by a baseball scout and received offers from many colleges. Romer also attracted scouts' attention and went on to have a professional baseball career.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1791552455"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781791552459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pQqxvwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pQqxvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pQqxvwEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pQqxvwEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger.html?hl=&id=pQqxvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pQqxvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Though the town&#39;s mayor is in cahoots with a band of outlaws, Steele falls in love with his daughter and the Marshall falls in love with his niece. An unusual psychological depth sets this tale apart from the majority of Westerns."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZUbBzQEACAAJ",
+      "etag": "qbppXcxigBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUbBzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger Illustrated",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-08-22",
+        "description": "The Lone Star Ranger is a Western newborn posted with the aid of Zane Grey in 1915. The e book takes location within Texas, the Lone Star State, then a number of most important characters are Texas Rangers, a well-known puttie regarding rather succesful rule enactment officers. It follows the life on Buck Duane, a individual who becomes an exclude and below redeems himself into the eyes concerning the law.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798677762758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUbBzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUbBzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZUbBzQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZUbBzQEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger_Illustrated.html?hl=&id=ZUbBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUbBzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The e book takes location within Texas, the Lone Star State, then a number of most important characters are Texas Rangers, a well-known puttie regarding rather succesful rule enactment officers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UbGIEAAAQBAJ",
+      "etag": "VZJbxMbzSz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UbGIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger",
+        "subtitle": "A Romance of the Border",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-09-04",
+        "description": "Zane Grey's 'The Lone Star Ranger' emerges as a seminal work in the Western genre, gracefully embodying the tempestuousness of the Texan borderlands. Grey's narrative, a heartfelt romance nestled in the bosom of treacherous terrains and lawless expanses, reverberates with the timeless themes of redemption and moral conflict. The author's dramatic prose, coupled with his distinctive descriptive power, conjures a rugged landscape where his characters strive against both nature and their own turbulent inclinations. In the literary context, this novel stands as a significant artifact, reflective of early 20th-century American storytelling, and aligns with the period's burgeoning exploration of individualism and frontier mythology. Born in 1872, Zane Grey was a dentist turned prolific writer, profoundly influenced by the American West's mythology. 'The Lone Star Ranger' is a testament to his deep engagement with the frontier spirit and the complexities inherent in the transition from the Wild West to a more structured societal framework. His experiences exploring the American wilderness and his encounters with its lingering outlaws and settlers distinctly shape the rich tapestry of his fiction, imbuing it with authenticity and emotional resonance. 'The Lone Star Ranger' is recommended for those who pine for adventure and yearn to journey through the moral landscapes of early Western Americana. Grey's work invites the reader to traverse the Texas frontier's perilous beauty and to examine the fraught struggle between lawlessness and the relentless pursuit of justice. Ideal for enthusiasts of classic literature and Western lore, this novel is a compelling read that affirms Grey's legacy as a master storyteller of the American experience.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547213581"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 263,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UbGIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UbGIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=UbGIEAAAQBAJ&printsec=frontcover&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UbGIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UbGIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UbGIEAAAQBAJ&rdid=book-UbGIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lone_Star_Ranger-sample-epub.acsm?id=UbGIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Lone_Star_Ranger-sample-pdf.acsm?id=UbGIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UbGIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ideal for enthusiasts of classic literature and Western lore, this novel is a compelling read that affirms Grey&#39;s legacy as a master storyteller of the American experience."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O0WbzgEACAAJ",
+      "etag": "xZ2rmdOtO2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O0WbzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger Annotated",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-08-24",
+        "description": "When he is forced to kill a man after a deadly attack, Buck Duane begins a life on the run while trying to clear his name, and his fortunes are changed by a beautiful woman and a Texas Ranger who offers to pardon him for a price.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798463477026"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O0WbzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O0WbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=O0WbzgEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=O0WbzgEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger_Annotated.html?hl=&id=O0WbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O0WbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When he is forced to kill a man after a deadly attack, Buck Duane begins a life on the run while trying to clear his name, and his fortunes are changed by a beautiful woman and a Texas Ranger who offers to pardon him for a price."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ug3RzgEACAAJ",
+      "etag": "1ZGsR8KDf/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ug3RzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Lone Star Ranger Illustrated Edition",
+        "authors": [
+          "Zane Grey"
+        ],
+        "publishedDate": "2021-10-23",
+        "description": "The Lone Star Ranger is a Western novel published by Zane Grey in 1915. The book takes place in Texas, the Lone Star State, and several main characters are Texas Rangers, a famous band of highly capable law enforcement officers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798752479373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ug3RzgEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ug3RzgEACAAJ&dq=Zane+Grey+The+Lone+Star+Ranger&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lone_Star_Ranger_Illustrated_Edition.html?hl=&id=ug3RzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ug3RzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Lone Star Ranger is a Western novel published by Zane Grey in 1915. The book takes place in Texas, the Lone Star State, and several main characters are Texas Rangers, a famous band of highly capable law enforcement officers."
+      }
+    }
+  ]
+}

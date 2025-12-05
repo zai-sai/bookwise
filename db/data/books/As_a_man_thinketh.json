@@ -1,0 +1,721 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "JGUdEQAAQBAJ",
+      "etag": "7RuaeY5bx58",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JGUdEQAAQBAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "authors": [
+          "James Allen"
+        ],
+        "publisher": "Bu Classics Books",
+        "publishedDate": "2023-10-02",
+        "description": "As a Man Thinketh by James Allen - is a self-help book by James Allen, published in 1903. It was described by Allen as \"... [dealing] with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. I have tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thought-world, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. The price of the book is only one shilling, and it can be carried in the pocket.\"[2] It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.\" Basis of the book: The title is influenced by a verse in the Bible from the Book of Proverbs, chapter 23, verse 7: \"As a man thinketh in his heart, so is he\". The full passage, taken from the King James Version, is as follows: Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats: For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee. The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words. While the passage suggests that one should consider the true motivations of a person who is being uncharacteristically generous before accepting his generosity, the title and content of Allen's work refer to the reader himself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791222454405"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JGUdEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JGUdEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=JGUdEQAAQBAJ&printsec=frontcover&dq=James+Allen+As+a+man+thinketh&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JGUdEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JGUdEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JGUdEQAAQBAJ&rdid=book-JGUdEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/As_a_Man_Thinketh-sample-epub.acsm?id=JGUdEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/As_a_Man_Thinketh-sample-pdf.acsm?id=JGUdEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JGUdEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Basis of the book: The title is influenced by a verse in the Bible from the Book of Proverbs, chapter 23, verse 7: &quot;As a man thinketh in his heart, so is he&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-A-DAAAQBAJ",
+      "etag": "7Ta2gZEKjUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-A-DAAAQBAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "authors": [
+          "James Allen"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2016-05-12",
+        "description": "First published in 1903, James Allen's 'As a Man Thinketh' has never been out of print and continues to find new legions of fans in the digital age. Described by Allen as \"A book that will help you to help yourself,\" it is in many ways the first self-help book. This new edition of 'As a Man Thinketh' includes Allen's essay 'The Way of Peace.'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781365110047"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1365110044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j-A-DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j-A-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=j-A-DAAAQBAJ&printsec=frontcover&dq=James+Allen+As+a+man+thinketh&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=j-A-DAAAQBAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh.html?hl=&id=j-A-DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/As_a_Man_Thinketh-sample-pdf.acsm?id=j-A-DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-A-DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Described by Allen as &quot;A book that will help you to help yourself,&quot; it is in many ways the first self-help book. This new edition of &#39;As a Man Thinketh&#39; includes Allen&#39;s essay &#39;The Way of Peace.&#39;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0ZJmjwEACAAJ",
+      "etag": "nX4RTN5oOKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0ZJmjwEACAAJ",
+      "volumeInfo": {
+        "title": "As You Think",
+        "subtitle": "As a Man Thinketh - Modern English Version",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2006-01-18",
+        "description": "\"As a Man Thinketh\" is a literary essay by James Allen, published in 1903. It was described by Allen as \"... dealing with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thoughtóworld, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523665327"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523665327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0ZJmjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0ZJmjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=0ZJmjwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=0ZJmjwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_You_Think.html?hl=&id=0ZJmjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0ZJmjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D7W_zQEACAAJ",
+      "etag": "jY6v1Y1vgoo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D7W_zQEACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "subtitle": "By James Allen",
+        "authors": [
+          "Skyhigh Publication",
+          "James Allen"
+        ],
+        "publishedDate": "2020-08-09",
+        "description": "As a Man Thinketh is a self-help book by James Allen, published in 1903. It was described by Allen as \"... [dealing] with the power of thought, and particularly with the use and application of thought to happy and beautiful issues",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798673696811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D7W_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D7W_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=D7W_zQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=D7W_zQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh.html?hl=&id=D7W_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D7W_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a Man Thinketh is a self-help book by James Allen, published in 1903. It was described by Allen as &quot;... [dealing] with the power of thought, and particularly with the use and application of thought to happy and beautiful issues"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U9E3jwEACAAJ",
+      "etag": "C1p4kgQsT00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U9E3jwEACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "subtitle": "Of James Allen, in Rhyme",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publishedDate": "2009-01-07",
+        "description": "\"As a Man Thinketh\" is a literary essay by James Allen, published in 1903. It was described by Allen as \"... dealing with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thoughtóworld, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523666072"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523666072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U9E3jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U9E3jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=U9E3jwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=U9E3jwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh.html?hl=&id=U9E3jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U9E3jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r5TZvQEACAAJ",
+      "etag": "xF72Zr990yE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r5TZvQEACAAJ",
+      "volumeInfo": {
+        "title": "As Man Thinketh",
+        "authors": [
+          "James Allen"
+        ],
+        "publishedDate": "2018-07-08",
+        "description": "As a Man Thinketh is a self-help book by James Allen, published in 1903. It was described by Allen as \"... [dealing] with the power of thought, and particularly .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717701221"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717701220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r5TZvQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=r5TZvQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_Man_Thinketh.html?hl=&id=r5TZvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r5TZvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a Man Thinketh is a self-help book by James Allen, published in 1903. It was described by Allen as &quot;... [dealing] with the power of thought, and particularly ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pI_ytQEACAAJ",
+      "etag": "RYf+KLpnNKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pI_ytQEACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publishedDate": "2018-04-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "151543141X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781515431411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pI_ytQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pI_ytQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pI_ytQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pI_ytQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh.html?hl=&id=pI_ytQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pI_ytQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here is the definitive edition of As a Man Thinketh. In addition to James&#39; masterful text, this volume contains essays from international bestsellers Orison Swett Marden and Robert Collier."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TNJqvQEACAAJ",
+      "etag": "AgToO/Xagw4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TNJqvQEACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh - James Allen",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2006-01-15",
+        "description": "\"As a Man Thinketh\" is a literary essay by James Allen, published in 1903. It was described by Allen as \"... dealing with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thought�world, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523642890"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523642892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TNJqvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TNJqvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=TNJqvQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=TNJqvQEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh_James_Allen.html?hl=&id=TNJqvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TNJqvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4jkwjwEACAAJ",
+      "etag": "F9BChy7yMnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4jkwjwEACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh James Allan",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publishedDate": "2009-01-07",
+        "description": "\"As a Man Thinketh\" is a literary essay by James Allen, published in 1903. It was described by Allen as \"... dealing with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thoughtóworld, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1523690747"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781523690749"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4jkwjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4jkwjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4jkwjwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4jkwjwEACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh_James_Allan.html?hl=&id=4jkwjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4jkwjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W-9VvgAACAAJ",
+      "etag": "i1rhMqRS6GE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W-9VvgAACAAJ",
+      "volumeInfo": {
+        "title": "As a Man Thinketh by James Allen",
+        "authors": [
+          "Associate Professor of Philosophy James Allen",
+          "James Allen"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-08",
+        "description": "\"As a Man Thinketh\" is a literary essay by James Allen, published in 1903. It was described by Allen as \"... dealing with the power of thought, and particularly with the use and application of thought to happy and beautiful issues. Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises. It shows how, in his own thought-world, each man holds the key to every condition, good or bad, that enters into his life, and that, by working patiently and intelligently upon his thoughts, he may remake his life, and transform his circumstances. It was also described by Allen as \"A book that will help you to help yourself\", \"A pocket companion for thoughtful people\", and \"A book on the power and right application of thought.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536968285"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536968286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W-9VvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W-9VvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=W-9VvgAACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=W-9VvgAACAAJ&dq=James+Allen+As+a+man+thinketh&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/As_a_Man_Thinketh_by_James_Allen.html?hl=&id=W-9VvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W-9VvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has tried to make the book simple, so that all can easily grasp and follow its teaching, and put into practice the methods which it advises."
+      }
+    }
+  ]
+}

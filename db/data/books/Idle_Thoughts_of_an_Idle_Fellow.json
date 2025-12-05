@@ -1,0 +1,676 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PU5OwQEACAAJ",
+      "etag": "24HFSmJ8/5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PU5OwQEACAAJ",
+      "volumeInfo": {
+        "title": "The Idle Thoughts of an Idle Fellow",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "2017-08-11",
+        "description": "The Idle Thoughts of an Idle Fellow - A book for an idle holiday. Vol. 1 is an unchanged, high-quality reprint of the original edition of 1890. Hansebooks is editor of the literature on different topic areas such as research and science, travel and expeditions, cooking and nutrition, medicine, and other genres. As a publisher we focus on the preservation of historical literature. Many works of historical writers and scientists are available today as antiques only. Hansebooks newly publishes these books and contributes to the preservation of literature which has become rare and historical knowledge for the future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3337292097"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783337292096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PU5OwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PU5OwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=PU5OwQEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=PU5OwQEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Idle_Thoughts_of_an_Idle_Fellow.html?hl=&id=PU5OwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PU5OwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many works of historical writers and scientists are available today as antiques only. Hansebooks newly publishes these books and contributes to the preservation of literature which has become rare and historical knowledge for the future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i1Q7TS-F5ZsC",
+      "etag": "TbitZuXPmfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i1Q7TS-F5ZsC",
+      "volumeInfo": {
+        "title": "The Idle Thoughts of An Idle Fellow (EasyRead Super Large 18pt Edition)",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442914018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442914017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i1Q7TS-F5ZsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i1Q7TS-F5ZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=i1Q7TS-F5ZsC&printsec=frontcover&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=i1Q7TS-F5ZsC&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Idle_Thoughts_of_An_Idle_Fellow_Easy.html?hl=&id=i1Q7TS-F5ZsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Idle_Thoughts_of_An_Idle_Fellow_Easy-sample-pdf.acsm?id=i1Q7TS-F5ZsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i1Q7TS-F5ZsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "agBawAEACAAJ",
+      "etag": "VChymVqOAlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/agBawAEACAAJ",
+      "volumeInfo": {
+        "title": "Idle Thoughts of an Idle Fellow",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "2018-09-10",
+        "description": "Idle Thoughts of an Idle FellowBy Jerome Klapka JeromeJerome Klapka Jerome (May 2, 1859 - June 14, 1927) was an English author, best known for the humorous travelogue Three Men in a Boat.Jerome was born in Walsall, at that time part of the county of Staffordshire, where there is now a museum in his honour, and was brought up in poverty in London.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1726460401"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726460408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=agBawAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=agBawAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=agBawAEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=agBawAEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idle_Thoughts_of_an_Idle_Fellow.html?hl=&id=agBawAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=agBawAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow By Jerome Klapka Jerome Jerome Klapka Jerome (May 2, 1859 - June 14, 1927) was an English author, best known for the humorous travelogue Three Men in a Boat."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tdhYjwEACAAJ",
+      "etag": "yS/IRSA9TP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tdhYjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Idle Thoughts of an Idle Fellow",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-02-15",
+        "description": "Jerome K. Jerome was an English writer best known for his humorous writing, and his most famous work is the comic travelogue Three Men in a Boat, which details a boating holiday on the River Thames. Three Men on the Bummel is a humorous sequel to Three Men in a Boat as the same three characters go on a bicycle tour through the German Black Forest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1530060230"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781530060238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tdhYjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tdhYjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tdhYjwEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tdhYjwEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Idle_Thoughts_of_an_Idle_Fellow.html?hl=&id=tdhYjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tdhYjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jerome K. Jerome was an English writer best known for his humorous writing, and his most famous work is the comic travelogue Three Men in a Boat, which details a boating holiday on the River Thames."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_gj4swEACAAJ",
+      "etag": "e2jUxhNh7Z4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_gj4swEACAAJ",
+      "volumeInfo": {
+        "title": "Idle Thoughts of an Idle Fellow by Jerome Klapka Jerome Unabridged 1886 Original",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publishedDate": "2017-07-31",
+        "description": "Idle Thoughts of an Idle Fellow by Jerome Klapka Jerome Unabridged 1886 Original",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1974074722"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974074723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_gj4swEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_gj4swEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idle_Thoughts_of_an_Idle_Fellow_by_Jerom.html?hl=&id=_gj4swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_gj4swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow by Jerome Klapka Jerome Unabridged 1886 Original"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A7IVAAAAYAAJ",
+      "etag": "WDFfN5cIf+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A7IVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Idle Thoughts of an Idle Fellow",
+        "subtitle": "A Book for an Idle Holiday",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN6HRS"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "English essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A7IVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A7IVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=A7IVAAAAYAAJ&printsec=frontcover&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A7IVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A7IVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=A7IVAAAAYAAJ&rdid=book-A7IVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/The_Idle_Thoughts_of_an_Idle_Fellow.epub?id=A7IVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A7IVAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bg9rzgEACAAJ",
+      "etag": "cv887/edeIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bg9rzgEACAAJ",
+      "volumeInfo": {
+        "title": "Idle Thoughts of an Idle Fellow (ILLUSTRATED)",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "2021-04-29",
+        "description": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome. It was the author's second published book and it helped establish him as a leading English humorist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798746260031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bg9rzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bg9rzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Bg9rzgEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Bg9rzgEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idle_Thoughts_of_an_Idle_Fellow_ILLUSTRA.html?hl=&id=Bg9rzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bg9rzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome. It was the author&#39;s second published book and it helped establish him as a leading English humorist."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7of1swEACAAJ",
+      "etag": "x0LUjVP2kdk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7of1swEACAAJ",
+      "volumeInfo": {
+        "title": "Idle Thoughts of an Idle Fellow Jerome Klapka Jerome",
+        "authors": [
+          "Jerome K. Jerome"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-03-30",
+        "description": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome. It was the author's second published book and it helped establish him as a leading English humorist. While widely considered one of Jerome's better works, and in spite of using the same style as Three Men in a Boat, it was never as popular as the latter. A second \"Idle Thoughts\" book, The Second Thoughts of An Idle Fellow, was published in 1898.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1545044635"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545044636"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7of1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7of1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7of1swEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7of1swEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idle_Thoughts_of_an_Idle_Fellow_Jerome_K.html?hl=&id=7of1swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7of1swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I3fezgEACAAJ",
+      "etag": "fZAgblXRMEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I3fezgEACAAJ",
+      "volumeInfo": {
+        "title": "Idle Thoughts of an Idle Fellow Jerome Klapka Jerome Illustrated",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "2021-12-26",
+        "description": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome. It was the author's second published book and it helped establish him as a leading English humorist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798790314803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=I3fezgEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=I3fezgEACAAJ&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idle_Thoughts_of_an_Idle_Fellow_Jerome_K.html?hl=&id=I3fezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I3fezgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow, published in 1886, is a collection of humorous essays by Jerome K. Jerome. It was the author&#39;s second published book and it helped establish him as a leading English humorist."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "60cXAAAAYAAJ",
+      "etag": "du7I9u6myAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/60cXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Second Thoughts of an Idle Fellow",
+        "authors": [
+          "Jerome Klapka Jerome"
+        ],
+        "publishedDate": "1899",
+        "description": "Idle Thoughts of an Idle Fellow is a collection of humorous essays by Jerome K. Jerome. The essays cover a range of topics from \"On Being in Love\" to \"On Furnished Apartments\" to \"On Getting on in the World\". Jerome established himself as one of England's favorite wits with his comic novel Three Men in a Boat.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1HFF"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "English literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=60cXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=60cXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=60cXAAAAYAAJ&printsec=frontcover&dq=Jerome+Klapka+J+Idle+Thoughts+of+an+Idle+Fellow&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=60cXAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=60cXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=60cXAAAAYAAJ&rdid=book-60cXAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.uk/books/download/Second_Thoughts_of_an_Idle_Fellow.epub?id=60cXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.uk/books/download/Second_Thoughts_of_an_Idle_Fellow.pdf?id=60cXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3h--lsudjhyWJvD5DjZrQfEUJtXQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=60cXAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Idle Thoughts of an Idle Fellow is a collection of humorous essays by Jerome K. Jerome. The essays cover a range of topics from &quot;On Being in Love&quot; to &quot;On Furnished Apartments&quot; to &quot;On Getting on in the World&quot;."
+      }
+    }
+  ]
+}

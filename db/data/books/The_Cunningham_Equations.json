@@ -1,0 +1,719 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6z1T_AxtSNIC",
+      "etag": "6NQo3a8MAoU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6z1T_AxtSNIC",
+      "volumeInfo": {
+        "title": "The Cunningham Equations",
+        "authors": [
+          "G. C. Edmondson",
+          "C. M. Kotlan"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "1986",
+        "description": "\"Blaise Cunningham was a Nobel-Prize winner, the world's foremost expert in artificial intelligence and one of the best computer programmers alive. He was also a falling-down drunk whose only friends were an intelligent computer, a good woman, a bad scientist, and a frisky puppy named Dobie. But Cunningham had plenty of enemies, including a couple of would-be dognappers. They wanted Dobie, and Cunningham didn't know why. He was afraid they'd kill the puppy, and he couldn't allow that. Even a drunk has to have some principles. It was a while before Cunningham realized that he was just a pawn in a game where science was warring for men's souls and thousands of lives had already been sacrificed!\"--Page 4 of cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0345330374"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345330376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6z1T_AxtSNIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6z1T_AxtSNIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6z1T_AxtSNIC&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6z1T_AxtSNIC&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cunningham_Equations.html?hl=&id=6z1T_AxtSNIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6z1T_AxtSNIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>G. C. Edmondson</b>, C. M. Kotlan. Max&#39;s pale German face turned the color of used brick . The lab door opened , admitting a tall blond man with the perennial stoop of those who feel too skinny for their height . He started toward Esther&#39;s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BcPrAAAAMAAJ",
+      "etag": "tm34Q3f48DA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BcPrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Science Fiction, Fantasy, & Horror",
+        "publishedDate": "1987",
+        "description": "A comprehensive bibliography of books and short fiction published in the English language.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000015300867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BcPrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BcPrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=BcPrAAAAMAAJ&pg=PA47&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=BcPrAAAAMAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_Fantasy_Horror.html?hl=&id=BcPrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BcPrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DOBaAAAAYAAJ",
+      "etag": "92wFKhx715c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DOBaAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Analog Science Fiction/science Fact",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000030377950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1188,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DOBaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DOBaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=DOBaAAAAYAAJ&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=DOBaAAAAYAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Analog_Science_Fiction_science_Fact.html?hl=&id=DOBaAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DOBaAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Equations</b> , <b>G. C.</b> Ed- mondson and C. M. Kotlan , Ballantine / Del Rey , $ 2.95 , 295 pp . The Kundalini <b>Equation</b> ... <b>Edmondson&#39;s</b> and C. M. Kot- lan&#39;s The <b>Cunningham Equations</b> . Blaise <b>Cunningham</b> is the 29 - year - old Nobel Prize&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ZpsBgAAQBAJ",
+      "etag": "9pRRhTeDTls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ZpsBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Science Fact and Science Fiction",
+        "subtitle": "An Encyclopedia",
+        "authors": [
+          "Brian Stableford"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2006-09-06",
+        "description": "Science fiction is a literary genre based on scientific speculation. Works of science fiction use the ideas and the vocabulary of all sciences to create valid narratives that explore the future effects of science on events and human beings. Science Fact and Science Fiction examines in one volume how science has propelled science-fiction and, to a lesser extent, how science fiction has influenced the sciences. Although coverage will discuss the science behind the fiction from the Classical Age to the present, focus is naturally on the 19th century to the present, when the Industrial Revolution and spectacular progress in science and technology triggered an influx of science-fiction works speculating on the future. As scientific developments alter expectations for the future, the literature absorbs, uses, and adapts such contextual visions. The goal of the Encyclopedia is not to present a catalog of sciences and their application in literary fiction, but rather to study the ongoing flow and counterflow of influences, including how fictional representations of science affect how we view its practice and disciplines. Although the main focus is on literature, other forms of science fiction, including film and video games, are explored and, because science is an international matter, works from non-English speaking countries are discussed as needed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135923747"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135923744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 756,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ZpsBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ZpsBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9ZpsBgAAQBAJ&pg=PA208&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 40.49,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 30.39,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9ZpsBgAAQBAJ&rdid=book-9ZpsBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40490000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 30390000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Science_Fact_and_Science_Fiction-sample-pdf.acsm?id=9ZpsBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ZpsBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>G. C. Edmondson</b> and C. M. Kotlan&#39;s trilogy , The <b>Cunningham Equations</b> ( 1986 ) , The Black Magician ( 1986 ) , and Maximum Effort ( 1987 ) . Greg Bear&#39;s Blood Music ( 1985 ) and Paul Preuss &#39; Human Error ( 1985 ) offered more realis&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yEgkAQAAIAAJ",
+      "etag": "Zv0Bw8XyjYk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yEgkAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Science Fiction and Fantasy Book Review Index",
+        "subtitle": "SFFBRI.",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106020263197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yEgkAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yEgkAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yEgkAQAAIAAJ&pg=PA18&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=yEgkAQAAIAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_and_Fantasy_Book_Review.html?hl=&id=yEgkAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yEgkAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LskbAQAAIAAJ",
+      "etag": "diTUyefAQtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LskbAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Science Fiction & Fantasy Book Review Annual",
+        "authors": [
+          "Robert A. Collins",
+          "Robert Latham"
+        ],
+        "publisher": "Greenwood Publishing Group",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0887362494"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780887362491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LskbAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LskbAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=LskbAQAAIAAJ&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=LskbAQAAIAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_Fantasy_Book_Review_Annu.html?hl=&id=LskbAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LskbAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Cunningham Equations</b> , The ( <b>G.C. Edmondson</b> &amp; C.M. Kotlan ) , 163 Curse of Frankenstein ( film ) , 416 Cyborg : Isaac Asimov&#39;s Robot City ( Wiliam F. Wu ) , 259 , 352 D &quot; Daddy&#39;s Big Girl &quot; ( Ursula K. Le- Guin ) , 20 Daggerspell&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "amAqAQAAIAAJ",
+      "etag": "Nz0BcmiiiA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/amAqAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Fantasy Review",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004729112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=amAqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=amAqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=amAqAQAAIAAJ&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=amAqAQAAIAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_Review.html?hl=&id=amAqAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=amAqAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Cunningham Equations</b> by <b>G. C. EDMONDSON</b> and C. M. KOTLAN ( 0-345-33037-4 , $ 2.95 ) . When Nobel- Prize winner Blaise <b>Cunningham</b> , expert in artificial intelligence and drunken dis- grace , loses his puppy to dognappers he realizes he&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_1gjAQAAIAAJ",
+      "etag": "qotqwAOHtew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_1gjAQAAIAAJ",
+      "volumeInfo": {
+        "title": "St. James Guide to Science Fiction Writers",
+        "authors": [
+          "Jay P. Pederson"
+        ],
+        "publisher": "Detroit, MI : St. James Press",
+        "publishedDate": "1996",
+        "description": "Concise discussions of the lives and principal works of prominent science-fiction authors, written by subject experts.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106014434788"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1212,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_1gjAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_1gjAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_1gjAQAAIAAJ&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_1gjAQAAIAAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_James_Guide_to_Science_Fiction_Writer.html?hl=&id=_1gjAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_1gjAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jay P. Pederson. <b>EDMONDSON</b>. ,. <b>G.C.</b>. Pseudonyms : John Cleve ; Kelly P. Gast ... <b>Cunningham</b> ; Time Ship ; Spaceways ) The Ship That Sailed the Time Stream ... <b>Equations</b> , with C.M. Kotlan . New York , Ballantine , 1986 . The Black&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rhNjDwAAQBAJ",
+      "etag": "QfNEe/IDap4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rhNjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Antique Trader Book Collector's Price Guide",
+        "authors": [
+          "Richard Russell"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2006-07-05",
+        "description": "This new edition of Antique Trader Book Collector's Price Guide provides readers with the information and values to carve a niche for themselves in a market where rare first editions of Jane Austen's Emma and J.K. Rowling's Harry Potter and the Philosophers Stone recently sold at auction for 254,610 dollars and 40,355 dollars respectively. Organized in 13 categories, including Americana, banned, paranormal and mystery, this guide discusses identifying and grading books, and provides collectors with details for identifying and assessing books in 8,000 listings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440225062"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440225060"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 865,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rhNjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rhNjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rhNjDwAAQBAJ&pg=PT845&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rhNjDwAAQBAJ&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antique_Trader_Book_Collector_s_Price_Gu.html?hl=&id=rhNjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Antique_Trader_Book_Collector_s_Price_Gu-sample-epub.acsm?id=rhNjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rhNjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Richard Russell. <b>Edmondson</b>, <b>G.C.</b> and C.M. Kotlan. The <b>Cunningham Equations</b>. Del Rey. Both first and second printings are marked “First Edition.” The True first edition has “<b>Edmondson</b>” misspelled “Edmundson” many times (about 140)&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r7vbZx4bPqAC",
+      "etag": "j7U0q3wJ6yw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r7vbZx4bPqAC",
+      "volumeInfo": {
+        "title": "Contemporary Authors New Revision",
+        "authors": [
+          "Pamela Dear"
+        ],
+        "publisher": "Contemporary Authors New Revis",
+        "publishedDate": "2000-06",
+        "description": "This volume of Contemporary Authors(R) New Revision Series brings you up-to-date information on approximately 250 writers. Editors have scoured dozens of leading journals, magazines, newspapers and online sources in search of the latest news and criticism. Writers appearing in this volume include: Gail Anderson-Dargatz Valerie Martin Isidore Okpewho Philip Roth",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0787632120"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780787632120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r7vbZx4bPqAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r7vbZx4bPqAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=r7vbZx4bPqAC&q=G.+C.+Edmondson+The+Cunningham+Equations&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=r7vbZx4bPqAC&dq=G.+C.+Edmondson+The+Cunningham+Equations&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Authors_New_Revision.html?hl=&id=r7vbZx4bPqAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r7vbZx4bPqAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>G. C. Edmondson</b> wrote a number of science fiction novels marked by their entertaining sense of adventure . Among his ... <b>Cunningham Equations</b> , The Black Magician , and Maximum Effort , <b>Edmondson</b> and co- author C. M. Kotlan follow&nbsp;..."
+      }
+    }
+  ]
+}

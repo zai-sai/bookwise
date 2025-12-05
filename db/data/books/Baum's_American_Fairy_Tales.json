@@ -1,0 +1,732 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_11dEQAAQBAJ",
+      "etag": "VDbpiSzNUtg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_11dEQAAQBAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Otbebookpublishing",
+        "publishedDate": "2023-04-06",
+        "description": "American Fairy Tales is a collection of short stories by L. Frank Baum, the author of the \"Oz\" series. The book includes twelve original fairy tales that are set in America and feature a range of memorable characters, from wicked witches to clever animals. One of the most well-known stories in the collection is \"The Wizard of Oz,\" which tells the story of a young girl named Dorothy who is swept away to a magical land by a tornado. Other stories include \"The Box of Robbers,\" which follows a group of robbers who are outwitted by a group of dolls, and \"The Capture of Father Time,\" which tells the story of a group of children who capture Father Time in order to prolong their summer vacation. Another popular story is \"The Girl Who Owned a Bear,\" which follows a young girl named Mary who inherits a bear from her grandfather. Despite warnings from her family, Mary and the bear become fast friends, and she soon discovers that the bear has magical powers that she can use to help those in need. Each of the stories in \"American Fairy Tales\" has its own unique charm and message, and together they create a whimsical and magical world that readers of all ages will enjoy. Baum's skillful storytelling and vivid descriptions bring the characters and settings to life, and the book remains a beloved classic of American literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783988262622"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3988262625"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_11dEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_11dEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_11dEQAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_11dEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_11dEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.69,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 1.69,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_11dEQAAQBAJ&rdid=book-_11dEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1690000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1690000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_11dEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Fairy Tales is a collection of short stories by L. Frank Baum, the author of the &quot;Oz&quot; series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RVYaAwAAQBAJ",
+      "etag": "RxJ2OIB6kzc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RVYaAwAAQBAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales (美國童話故事選集)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Hyweb Technology Co. Ltd.",
+        "publishedDate": "2011-10-15",
+        "description": "Lyman Frank Baum (May 15, 1856 – May 6, 1919) was an American author of children's books, best known for writing The Wonderful Wizard of Oz. He wrote thirteen novel sequels, nine other fantasy novels, and a host of other works (55 novels in total, plus four \"lost\" novels, 83 short stories, over 200 poems, an unknown number of scripts, and many miscellaneous writings), and made numerous attempts to bring his works to the stage and screen. His works predicted such century-later commonplaces as television, augmented reality, laptop computers (The Master Key), wireless telephones (Tik-Tok of Oz), women in high risk, action-heavy occupations (Mary Louise in the Country), and the ubiquity of advertising on clothing (Aunt Jane's Nieces at Work).-wikipedia",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RVYaAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RVYaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=RVYaAwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RVYaAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RVYaAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 7.31,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RVYaAwAAQBAJ&rdid=book-RVYaAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 7310000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/American_Fairy_Tales_%E7%BE%8E%E5%9C%8B%E7%AB%A5%E8%A9%B1%E6%95%85%E4%BA%8B-sample-epub.acsm?id=RVYaAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/American_Fairy_Tales_%E7%BE%8E%E5%9C%8B%E7%AB%A5%E8%A9%B1%E6%95%85%E4%BA%8B-sample-pdf.acsm?id=RVYaAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RVYaAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lyman Frank Baum (May 15, 1856 – May 6, 1919) was an American author of children&#39;s books, best known for writing The Wonderful Wizard of Oz. He wrote thirteen novel sequels, nine other fantasy novels, and a host of other works (55 novels ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "98abzQEACAAJ",
+      "etag": "xMdc1OKCExY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/98abzQEACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales - L. FRANK BAUM",
+        "subtitle": "Classic Edition",
+        "publishedDate": "2020-06-27",
+        "description": "American Fairy Tales is the title of a collection of twelve fantasy stories by L. Frank Baum, published in 1901. American Fairy Tales by L. Frank Baum, the creator of Oz, is exactly what its title describes. The European fairy tale tradition is so strong that few associate \"fairy tale\" with American stories and storytellers, despite the rich and enduring output of their most successful creator, L. Frank Baum. Author of the much-loved Oz books, L. Frank Baum transforms the familiar with his magical mix of humor and enchantment. Most of the twelve stories in this delightful collection are set in America where, so it seems, modern fairies, knooks, and ryls are always causing the most astonishing things to happen! These tales will enchant both young and old.When American Fairy Tales first appeared, Baum's reputation as a storyteller had already been established by The Wonderful Wizard of Oz, written in 1900. The twelve stories in this collection were originally syndicated weekly in at least five newspapers during the first half of 1901. The first book edition, which this facsimile reprints, came out later that year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798657510492"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=98abzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=98abzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=98abzQEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=98abzQEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales_L_FRANK_BAUM.html?hl=&id=98abzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=98abzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The twelve stories in this collection were originally syndicated weekly in at least five newspapers during the first half of 1901. The first book edition, which this facsimile reprints, came out later that year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k80sDwAAQBAJ",
+      "etag": "9utodgHAWWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k80sDwAAQBAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2017-08-15",
+        "description": "American Fairy Tales is the title of a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year. This volume contains12 Fairy Tales from the author of the Wizard of Oz series of books.Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tales, avoiding the usual violence and roman often found in these sort of stories. L. Frank Baum was doing well in 1901, better than ever before in his life. He had written two popular books, Father Goose: His Book and The Wonderful Wizard of Oz, and was determined to capitalize on this success. In addition to American Fairy Tales, Baum's Dot and Tot of Merryland and The Master Key appeared in 1901. Publisher George M. Hill sold the serialization rights to the twelve stories in AFT to five major newspapers, the Pittsburgh Dispatch, the Boston Post, the Cincinnati Enquirer, the St. Louis Republic, and The Chicago Chronicle. The stories appeared between March 3 and May 19, 1901; the book followed in October. The Box Of Robbers (excerpt) No one intended to leave Martha alone that afternoon, but it happened that everyone was called away, for one reason or another. Mrs. McFarland was attending the weekly card party held by the Women's Anti-Gambling League. Sister Nell's young man had called quite unexpectedly to take her for a long drive. Papa was at the office, as usual. It was Mary Ann's day out. As for Emeline, she certainly should have stayed in the house and looked after the little girl; but Emeline had a restless nature. \"Would you mind, miss, if I just crossed the alley to speak a word to Mrs. Carleton's girl?\" she asked Martha. \"'Course not,\" replied the child. \"You'd better lock the back door, though, and take the key, for I shall be upstairs.\" \"Oh, I'll do that, of course, miss,\" said the delighted maid, and ran away to spend the afternoon with her friend, leaving Martha quite alone in the big house, and locked in, into the bargain. The little girl read a few pages in her new book, sewed a few stitches in her embroidery and started to \"play visiting\" with her four favorite dolls. Then she remembered that in the attic was a doll's playhouse that hadn't been used for months, so she decided she would dust it and put it in order. Filled with this idea, the girl climbed the winding stairs to the big room under the roof. It was well lighted by three dormer windows and was warm and pleasant. Around the walls were rows of boxes and trunks, piles of old carpeting, pieces of damaged furniture, bundles of discarded clothing and other odds and ends of more or less value. Every well-regulated house has an attic of this sort, so I need not describe it. The doll's house had been moved, but after a search Martha found it away over in a corner near the big chimney. She drew it out and noticed that behind it was a black wooden chest which Uncle Walter had sent over from Italy years and years ago—before Martha was born, in fact. Mamma had told her about it one day; how there was no key to it, because Uncle Walter wished it to remain unopened until he returned home; and how this wandering uncle, who was a mighty hunter, had gone into Africa to hunt elephants and had never been heard from afterwards... - - - - Lyman Frank Baum (May 15, 1856 – May 6, 1919), better known as L. Frank Baum, was an American author chiefly famous for his children's books, particularly The Wonderful Wizard of Oz and its sequels. He wrote a total of 14 novels in the Oz series, plus 41 other novels, 83 short stories, over 200 poems, and at least 42 scripts. He made numerous attempts to bring his works to the stage and the nascent medium of film; the 1939 adaptation of the first Oz book would become a landmark of 20th century cinema. His works anticipated such century-later commonplaces as television, augmented reality, laptop computers (The Master Key), wireless telephones (Tik-Tok of Oz), women in high-risk and action-heavy occupations (Mary Louise in the Country), and the ubiquity of advertising on clothing (Aunt Jane's Nieces at Work).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781387089376"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1387089374"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k80sDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k80sDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=k80sDwAAQBAJ&printsec=frontcover&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=k80sDwAAQBAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales.html?hl=&id=k80sDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/American_Fairy_Tales-sample-pdf.acsm?id=k80sDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k80sDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume contains12 Fairy Tales from the author of the Wizard of Oz series of books.Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tales, avoiding the usual violence and roman often found in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tIKmswEACAAJ",
+      "etag": "mFud2f47gB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tIKmswEACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales",
+        "subtitle": "By Lyman Frank Baum - Illustrated",
+        "authors": [
+          "Lyman Frank Lyman Frank Baum"
+        ],
+        "publishedDate": "2017-04-23",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About American Fairy Tales by Lyman Frank Baum American Fairy Tales is the title of a collection of twelve fantasy stories by Lyman Frank Baum. Lyman Frank Baum was doing well in 1901, better than ever before in his life. He had written two popular books, Father Goose: His Book and The Wonderful Wizard of Oz, and was determined to capitalize on this success. In addition to American Fairy Tales, Baum's Dot and Tot of Merryland and The Master Key appeared in 1901. Two of the stories, \"The Enchanted Types\" and \"The Dummy That Lived,\" employ knooks and ryls, the fairies that Baum would use in The Life and Adventures of Santa Claus the next year, 1902. \"The Dummy That Lived\" depends upon the idea of a department-store mannequin brought to life, an early expression of an idea that would be re-used by many later writers in television and films.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1521093474"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781521093474"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tIKmswEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tIKmswEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales.html?hl=&id=tIKmswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tIKmswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hvscMQAACAAJ",
+      "etag": "Jh5wD28fly0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hvscMQAACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales by L. Frank Baum.",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-14",
+        "description": "American Fairy Tales by L. Frank Baum. American Fairy Tales is the title of a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1540390489"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781540390486"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hvscMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hvscMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hvscMQAACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hvscMQAACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales_by_L_Frank_Baum.html?hl=&id=hvscMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hvscMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Fairy Tales by L. Frank Baum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ywNCDQEACAAJ",
+      "etag": "e2zQOKf3rto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ywNCDQEACAAJ",
+      "volumeInfo": {
+        "title": "L. Frank Baum",
+        "subtitle": "American Fairy Tales",
+        "authors": [
+          "L. Frank Baum"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-07-04",
+        "description": "American Fairy Tales is a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year. CONTENTS The Box of Robbers The Glass Dog The Queen of Quok The Girl Who Owned a Bear The Enchanted Types The Laughing Hippopotamus The Magic Bon Bons The Capture of Father Time The Wonderful Pump The Dummy That Lived The King of the Polar Bears The Mandarin and the Butterfly",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1535093986"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781535093989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ywNCDQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ywNCDQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ywNCDQEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ywNCDQEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Frank_Baum.html?hl=&id=ywNCDQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ywNCDQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Fairy Tales is a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GGl3zgEACAAJ",
+      "etag": "ny2ZIGN+djo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GGl3zgEACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales Lyman Frank Baum",
+        "subtitle": "(illustrated Edition)",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-06-03",
+        "description": "12 Fairy Tales from the author of the Wizard of Oz series of books. Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tale, avoiding the usual violence and roman often found in these sort of stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798514458233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GGl3zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GGl3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GGl3zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GGl3zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales_Lyman_Frank_Baum.html?hl=&id=GGl3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GGl3zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "12 Fairy Tales from the author of the Wizard of Oz series of books. Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tale, avoiding the usual violence and roman often found in these sort of stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7FN_zgEACAAJ",
+      "etag": "WpRzBo8aroE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7FN_zgEACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales",
+        "subtitle": "Illustrated Edition",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-06-13",
+        "description": "American Fairy Tales is the title of a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798519818155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7FN_zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7FN_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=7FN_zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=7FN_zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales.html?hl=&id=7FN_zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7FN_zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Fairy Tales is the title of a collection of twelve fantasy stories by L. Frank Baum, published in 1901 by the George M. Hill Company, the firm that issued The Wonderful Wizard of Oz the previous year"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tzh_zgEACAAJ",
+      "etag": "TlncoQsXg2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tzh_zgEACAAJ",
+      "volumeInfo": {
+        "title": "American Fairy Tales Lyman Frank Baum",
+        "subtitle": "Illustrated Edition",
+        "authors": [
+          "Lyman Frank Baum"
+        ],
+        "publishedDate": "2021-06-08",
+        "description": "12 Fairy Tales from the author of the Wizard of Oz series of books. Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tale, avoiding the usual violence and roman often found in these sort of stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798517151797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tzh_zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tzh_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Tzh_zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Tzh_zgEACAAJ&dq=L.+Frank+Baum+Baum%27s+American+Fairy+Tales&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Fairy_Tales_Lyman_Frank_Baum.html?hl=&id=Tzh_zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tzh_zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "12 Fairy Tales from the author of the Wizard of Oz series of books. Inspired by Lang and the Brothers Grimm, Baum sought to create an American type of fairy tale, avoiding the usual violence and roman often found in these sort of stories."
+      }
+    }
+  ]
+}
