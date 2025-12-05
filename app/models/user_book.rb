@@ -4,7 +4,7 @@ class UserBook < ApplicationRecord
 
   # Active record method, allows UserBook to inherit attributes from Book
   # Can only be used on models with belongs_to (inherit from parent)
-  delegate :title, :description, :author, :image_link, to: :book
+  delegate :title, :author, :description, :image_link, to: :book
 
   # enum convert status values into numbers.
     # So our database: the status column hold an integter (0, 1, or 2)

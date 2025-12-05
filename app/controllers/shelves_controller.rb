@@ -1,8 +1,8 @@
 class ShelvesController < ApplicationController
   skip_before_action :authenticate_user!, only: [ :index ]
   def index
-    @shelves = Shelf.all
-    @shelf_books = current_user
+    @shelves = Shelf.where(user: current_user)
+    @user_books = UserBook.where(user: current_user)
   end
 
   def new
