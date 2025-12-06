@@ -10,59 +10,59 @@
 require "open-uri"
 require "nokogiri"
 require "json"
-require "faker"
-# books = []
 
-# limit = 1000
-# offset = 0
+def build_book_csv
+  books = []
 
-# # subjects = ["fantasy", "science fiction", "horror", "mystery", "thriller", "romance", "biography", "history", "travel", "food", "art", "music", "film", "tv", "theater", "dance", "fashion", "architecture", "design", "architecture", "design", "architecture", "design"]
-# subjects = ["fantasy"]
-# subjects.each do |subject|
-#   running = true
-#   while running
-#     url = "https://openlibrary.org/subjects/#{subject}.json?limit=#{limit}&offset=#{offset}"
+  limit = 1000
+  offset = 0
+  # subjects = ["fantasy", "science fiction", "horror", "mystery", "thriller", "romance", "biography", "history", "travel", "food", "art", "music", "film", "tv", "theater", "dance", "fashion", "architecture", "design", "architecture", "design", "architecture", "design"]
+  subjects = ["fantasy"]
+  subjects.each do |subject|
+    running = true
+    while running
+      url = "https://openlibrary.org/subjects/#{subject}.json?limit=#{limit}&offset=#{offset}"
 
-#     result = JSON.parse(URI.open(url).read)
-#     if result["works"].empty?
-#       running = false
-#     end
-#     result["works"].each do |work|
-#       books << {
-#         title: work["title"],
-#         author: work["authors"].first.nil? ? "" : work["authors"].first["name"],
-#         subject: work["subject"],
-#         url: "https://openlibrary.org/" + work["key"] + ".json"
-#       }
-#     end
-#     offset += limit
-#     puts "Offset: #{offset}"
-#     puts "Links: #{books.size}"
-#     puts "--------------------------------"
-#   end
+      result = JSON.parse(URI.open(url).read)
+      if result["works"].empty?
+        running = false
+      end
+      result["works"].each do |work|
+        books << {
+          title: work["title"],
+          author: work["authors"].first.nil? ? "" : work["authors"].first["name"],
+          subject: work["subject"],
+          url: "https://openlibrary.org/" + work["key"] + ".json"
+        }
+      end
+      offset += limit
+      puts "Offset: #{offset}"
+      puts "Links: #{books.size}"
+      puts "--------------------------------"
+    end
 
-#   CSV.open("openlibrary_#{subject}.csv", "w") do |csv|
-#     csv << books.first.keys
-#     books.each do |book|
-#       csv << book.values
-#     end
-#   end
-# end
+    CSV.open("openlibrary_#{subject}.csv", "w") do |csv|
+      csv << books.first.keys
+      books.each do |book|
+        csv << book.values
+      end
+    end
+  end
+end
 
-def seed_from_apis
+def seed_from_openlib_and_gbooks
   puts "Creating Books"
   books = []
 
   limit = 25
-  # subjects_done = ["nonfiction", "romance", "scifi", "horror", "mystery", "thriller", "fantasy", "literature", "history", "travel"]
   subjects = ["nonfiction", "romance", "scifi", "horror", "mystery", "thriller", "fantasy", "literature", "history", "travel"]
   subjects.each do |subject|
-    if File.exist?("db/data/genres/#{subject}.json")
-      result = JSON.parse(File.read("db/data/genres/#{subject}.json"))
+    if File.exist?("db/data/openlib_gbooks/genres/#{subject}.json")
+      result = JSON.parse(File.read("db/data/openlib_gbooks/genres/#{subject}.json"))
     else
       url_OL = "https://openlibrary.org/subjects/#{subject}.json?limit=#{limit}"
       result = JSON.parse(URI.open(url_OL).read)
-      File.write("db/data/genres/#{subject}.json", JSON.pretty_generate(result))
+      File.write("db/data/openlib_gbooks/genres/#{subject}.json", JSON.pretty_generate(result))
       p "Found #{result["works"].length} results for #{subject}"
     end
     result["works"].each do |work|
@@ -83,17 +83,17 @@ def seed_from_apis
     Encoding::Converter.new("utf-8", "ascii").primitive_convert(author, clean_author)
     Encoding::Converter.new("utf-8", "ascii").primitive_convert(title, clean_title)
     book_title_name = book[:title].gsub(" ", "_")
-    if File.exist?("db/data/books/#{book_title_name}.json")
-      result = JSON.parse(File.read("db/data/books/#{book_title_name}.json"))
+    if File.exist?("db/data/openlib_gbooks/books/#{book_title_name}.json")
+      result = JSON.parse(File.read("db/data/openlib_gbooks/books/#{book_title_name}.json"))
     else
       url = "https://www.googleapis.com/books/v1/volumes?q=#{clean_author.gsub(" ", "+")} #{clean_title.gsub(" ", "+")}"
       result = JSON.parse(URI.open(url).read)
-      File.write("db/data/books/#{book_title_name}.json", JSON.pretty_generate(result))
+      File.write("db/data/openlib_gbooks/books/#{book_title_name}.json", JSON.pretty_generate(result))
       sleep 5
     end
   end
 
-  book_files = Dir.glob(Rails.root.join("db/data/books/*.json"))
+  book_files = Dir.glob(Rails.root.join("db/data/openlib_gbooks/books/*.json"))
   book_files.each do |file|
     book_file_result = JSON.parse(File.read(file))
     items = book_file_result["items"]
@@ -130,7 +130,7 @@ end
 
 def create_user_with_books
   puts "Creating user..."
-  user = User.create!(username: "spongebob", email: "example@example.com", password: "password")
+  user = User.create!(username: "booklover", email: "example@example.com", password: "password")
 
   puts "Creating user's shelves and books..."
   ["Fantastic Fantasy", "Murder Club"].each do |shelf_name|
@@ -144,5 +144,5 @@ def create_user_with_books
   puts "Done!"
 end
 
-seed_from_apis
+seed_from_openlib_and_gbooks
 create_user_with_books
