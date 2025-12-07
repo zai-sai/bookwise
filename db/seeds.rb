@@ -10,8 +10,23 @@
 require "open-uri"
 require "nokogiri"
 require "json"
+require "net/http"
 
-def build_book_csv
+def generate_from_faker
+  image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder.png"
+  100.times do
+    Book.create!(
+      title: Faker::Book.title,
+      author: Faker::Book.author,
+      # genre: Faker::Book.genre,
+      description: "A great #{Faker::Book.genre} book",
+      image_link:
+    )
+  end
+
+end
+
+def make_csv_from_open_library
   books = []
 
   limit = 1000
@@ -50,7 +65,7 @@ def build_book_csv
   end
 end
 
-def seed_from_openlib_and_gbooks
+def seed_from_openlib_gbooks_api
   puts "Creating Books"
   books = []
 
@@ -114,18 +129,109 @@ def seed_from_openlib_and_gbooks
   puts "Books done!"
 end
 
-def generate_from_faker
-  image_link = "https://rhbooks.com.ng/wp-content/uploads/2022/03/book-placeholder.png"
-  100.times do
-    Book.create!(
-      title: Faker::Book.title,
-      author: Faker::Book.author,
-      # genre: Faker::Book.genre,
-      description: "A great #{Faker::Book.genre} book",
-      image_link:
+def make_jsons_from_hardcover_api
+  # url for the api
+  url = "https://api.hardcover.app/v1/graphql"
+
+  # lists I want to download from
+  list_ids = [83230, 96, 28242, 83400]
+  list_ids.each do |list_id|
+
+    # make the query using GraphQL lang, add the list_id
+    query_string = <<~GRAPHQL
+      query GetListBooks {
+        lists(where: {id: {_eq: #{list_id}}}) {
+          name
+          books_count
+          list_books {
+            book {
+              id
+              title
+              contributions {
+                author {
+                  name
+                }
+              }
+              description
+              images {
+                url
+              }
+              taggings(limit: 10, distinct_on: tag_id) {
+                tag {
+                  tag
+                }
+              }
+            }
+          }
+        }
+      }
+    GRAPHQL
+    # convert the query into a hash
+    query_hash = { query: query_string.strip } # 'variables: {}' can be added here to pass types safely
+    # turn the hash into a JSON string
+    query_json = JSON.generate(query_hash)
+
+    # turn the api URL into a URI object, to be used in the post request
+    uri = URI.parse(url)
+
+    # make the request using Net::HTTP.post(uri, request_body(my query in json format), headers)
+    response = Net::HTTP.post(
+      uri,
+      query_json,
+      'Content-Type' => 'application/json',
+      'Accept' => 'application/graphql-response+json', # Recommended header
+      'Authorization' => HARDCOVER_KEY,
+      'User-Agent' => 'BookwiseListFetcher/1.0 (Contact: zainab@zaisai.co.uk)'
     )
+
+    # turn each list into a json
+    result = JSON.parse(response.body)
+    File.write("db/data/hardcover/lists/list_id_#{list_id}.json", JSON.pretty_generate(result))
   end
 
+  # take each list.json and create all the book.json files
+  list_files = Dir.glob(Rails.root.join("db/data/hardcover/lists/*.json"))
+  list_files.each do |file|
+    list_file_result = JSON.parse(File.read(file))
+    list_books = list_file_result["data"]["lists"][0]["list_books"]
+    list_books.each do |book|
+      book_file_title = book["book"]["title"].gsub(/[\/\s]/, '_')
+      unless File.exist?("db/data/hardcover/books/#{book_file_title}.json")
+        File.write("db/data/hardcover/books/#{book_file_title}.json", JSON.pretty_generate(book))
+      end
+    end
+  end
+end
+
+# def seed_tags_hardcover_api
+  # add method here
+# end
+
+def seed_books_hardcover_api
+  puts "Creating Books"
+
+  book_files = Dir.glob(Rails.root.join("db/data/hardcover/books/*.json"))
+  book_files.each do |file|
+    book_file_result = JSON.parse(File.read(file))
+
+    book_title = book_file_result["book"]["title"]
+    book_author = book_file_result["book"]["contributions"][0]["author"]["name"]
+    book_description = book_file_result["book"]["description"]
+    book_image_link = book_file_result["book"]["images"][0]["url"]
+
+    book_tags = []
+    tags_array = book_file_result["book"]["taggings"]
+    tags_array.each do |tag_node|
+      tag_name = tag_node["tag"]["tag"].downcase
+      unless book_tags.include?(tag_name)
+        book_tags << tag_name
+      end
+    end
+
+    Book.create(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
+  end
+
+  puts "Books done!"
 end
 
 def create_user_with_books
@@ -144,5 +250,6 @@ def create_user_with_books
   puts "Done!"
 end
 
-seed_from_openlib_and_gbooks
+# seed_tags_hardcover_api
+seed_books_hardcover_api
 create_user_with_books
