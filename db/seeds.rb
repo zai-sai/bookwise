@@ -228,7 +228,7 @@ def seed_books_hardcover_api
       end
     end
 
-    Book.create(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
+    Book.create!(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
   end
 
   puts "Books done!"
