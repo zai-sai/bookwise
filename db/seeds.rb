@@ -239,7 +239,7 @@ def create_user_with_books
   user = User.create!(username: "booklover", email: "example@example.com", password: "password")
 
   puts "Creating user's shelves and books..."
-  ["Fantastic Fantasy", "Murder Club"].each do |shelf_name|
+  ["Fantastic Fantasy", "Untitled Shelf"].each do |shelf_name|
     shelf = Shelf.create!(user: user, name: shelf_name)
     (5..10).to_a.sample.times do
       user_book = UserBook.create!(book: Book.all.sample, user: user, status: ["read", "unread"].sample)
