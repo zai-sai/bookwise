@@ -16,7 +16,6 @@
       </div>
       <h5 class="card-title"><%= book.title %></h5>
       <p><strong>Author:</strong> <%= book.author %></p>
-      <p><strong>Description:</strong> <%= book.description %></p>
       <% user_book = current_user.user_books.find_by(book_id: book.id) %>
 
       <% if current_user.books.include?(book) && user_book %>
@@ -49,7 +48,26 @@
             </div>
           <% end %>
         </div>
+               <div class="book-reading-status">
+          <%= form_with model: user_book,
+                        url: user_book_path(user_book),
+                        method: :patch,
+                        class: "w-100" do |f| %>
+            <%= f.hidden_field :book_id, value: book.id %>
+
+            <div class="d-flex justify-content-evenly">
+              <div class="col-auto">
+                <%= f.select :status, [["Read", "read"], ["Unread", "unread"]],
+                            class: "form-select",
+                            style: "width: 13ch;" %>
+                <%= f.submit "Save", class: "btn btn-primary btn-sm rounded-pill mt-2 mb-2" %>
+              </div>
+              </div>
+            <% end %>
+              </div>
+
       <% end %>
+      <p><strong>Description:</strong> <%= book.description %></p>
       <div class="d-flex justify-content-center gap-3">
         <%= link_to "Buy this book",
           "https://uk.bookshop.org/beta-search?keywords=#{book.title}",
