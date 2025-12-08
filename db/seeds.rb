@@ -220,8 +220,8 @@ def seed_tags_hardcover_api
     end
   end
 
-  all_tags.each do |tag|
-    Tag.create!(name: tag)
+  all_tags.each do |tag_name|
+    Tag.create!(name: tag_name)
   end
 
   puts "Tags done!"
@@ -249,8 +249,8 @@ def seed_books_hardcover_api
     end
 
     new_book = Book.create!(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
-    book_tags.each do |book_tag|
-      tag = BookTag.find_by(name: book_tag)
+    book_tags.each do |tag_name|
+      tag = Tag.find_by(name: tag_name)
       BookTag.create!(book: new_book, tag: tag)
     end
 
