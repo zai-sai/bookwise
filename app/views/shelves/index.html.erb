@@ -11,7 +11,7 @@
           <% if @user_books.any? %>
             <% @user_books.each do |user_book| %>
               <div class="flex-shrink-0">
-                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
                   <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" height="200px" class="shadow-sm rounded-3">
                 </button>
               </div>
@@ -31,11 +31,12 @@
           <% if shelf.shelf_books.any? %>
             <% shelf.shelf_books.each do |shelf_book| %>
               <div class="flex-shrink-0">
-                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
                   <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" height="200px" class="shadow-sm rounded-3">
                 </button>
               </div>
               <%= render "books/modal", book: shelf_book.book %>
+
             <% end %>
           <% else %>
             <p class="lead">This shelf is currently empty.</p>

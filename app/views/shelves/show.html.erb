@@ -44,7 +44,7 @@
           <% end %>
 
 
-          <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+          <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
             <img src="<%= shelf_book.image_link %>"
                 alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>"
                 height="300px"
