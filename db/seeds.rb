@@ -275,6 +275,6 @@ def create_user_with_books
   puts "Done!"
 end
 
-# seed_tags_hardcover_api
+seed_tags_hardcover_api
 seed_books_hardcover_api
 create_user_with_books
