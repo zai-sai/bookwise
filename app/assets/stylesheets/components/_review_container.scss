@@ -1,0 +1,16 @@
+.reviews-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dccff3;
+}
+
+
+.review-container {
+  width: 100%;
+  text-align: center;
+  height: 300px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}

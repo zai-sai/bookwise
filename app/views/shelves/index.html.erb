@@ -2,8 +2,8 @@
 <%# <% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf", "The Last Shelf"] %>
 <%# <% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
 
-<div class="container py-3">
-  <% if current_user %>
+<% if current_user %>
+  <div class="container py-3">
     <%= render "shared/search_bar" %>
 
     <div class="mb-2">
@@ -48,7 +48,7 @@
       <% end %>
     </div>
 
-  <% else %>
-    <%= render "pages/welcome_page" %>
-  <% end %>
-</div>
+  </div>
+<% else %>
+  <%= render "pages/welcome_page" %>
+<% end %>
