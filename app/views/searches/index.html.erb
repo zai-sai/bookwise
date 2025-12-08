@@ -26,16 +26,16 @@
             </div>
           </div>
 
-          <div class="col-7 h-100 px-0">
-            <div class="d-flex flex-column">
+          <div class="col-7 h-100 px-0 d-flex flex-column test-border">
+            <div class="flex-grow-4 flex-shrink-4 overflow-hidden test-border">
               <h5 class="mb-1"><%= "#{book.title[..50]}#{"..." if book.title[51]}" %></h5>
               <h6 class="mb-1"><%= book.author %></h6>
-              <p class="mb-1"><%= "#{book.description[..100]}#{"..." if book.description[101]}" unless book.description.nil? %></p>
-              <div class="d-flex overflow-x-scroll scroll-hide flex-nowrap py-1">
-                <% book.tags.each do |tag| %>
-                  <span class="badge rounded-pill text-bg-primary me-1"><%= tag.name %></span>
-                <% end %>
-              </div>
+            </div>
+            <p class="mb-1 flex-grow-6 flex-shrink-6 test-border overflow-hidden"><%= "#{book.description[..100]}#{"..." if book.description[101]}" unless book.description.nil? %></p>
+            <div class="flex-grow-2 flex-shrink-2 d-flex overflow-x-scroll scroll-hide flex-nowrap py-1 test-border">
+              <% book.tags.each do |tag| %>
+                <span class="badge rounded-pill text-bg-primary me-1"><%= tag.name %></span>
+              <% end %>
             </div>
           </div>
 
