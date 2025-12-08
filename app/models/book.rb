@@ -16,7 +16,7 @@ class Book < ApplicationRecord
   private
 
   def set_embedding
-    embedding = RubyLLM.embed("Title: #{title}. Author: #{author}. Description: #{description}")
+    embedding = RubyLLM.embed("Title: #{title}. Author: #{author}. Tags: #{tags.pluck(:name).join(", ")}. Description: #{description}. ")
     update(embedding: embedding.vectors)
   end
 end
