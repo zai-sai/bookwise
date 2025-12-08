@@ -26,12 +26,12 @@
 
       <h5 class="card-title"><%= book.title %></h5>
       <p><strong>Author:</strong> <%= book.author %></p>
-      <p><strong>Description:</strong> <%= book.description %></p>
+
 
       <% user_book = current_user.user_books.find_by(book_id: book.id) %>
 
       <% if current_user.books.include?(book) && user_book %>
-        <div class="book-reading-dates">
+        <div class="book-reading-dates mt-3">
           <%= form_with model: user_book,
                         url: user_book_path(user_book),
                         method: :patch,
@@ -60,7 +60,7 @@
             </div>
           <% end %>
         </div>
-        <div class="book-reading-status">
+        <div class="book-reading-status mt-2">
           <%= form_with model: user_book,
                         url: user_book_path(user_book),
                         method: :patch,
@@ -69,18 +69,15 @@
 
             <div class="d-flex justify-content-evenly">
               <div class="col-auto">
-                <%= f.label :status, "Status" %>
-              </div>
-              <div class="col-auto">
                 <%= f.select :status, [["Read", "read"], ["Unread", "unread"]]%>
-              </div>
-              <div class="col-auto">
                 <%= f.submit "Save", class: "btn btn-primary btn-sm rounded-pill" %>
               </div>
               </div>
             <% end %>
               </div>
       <% end %>
+      <p><strong>Description:</strong> <%= book.description %></p>
+
 
       <div class="d-flex justify-content-center gap-3">
         <%= link_to "Buy this book",
