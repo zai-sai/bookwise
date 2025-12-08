@@ -26,7 +26,7 @@
                 <p><%= user_book.book.description %></p>
               </div>
               <div class="col-2">
-                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal"></i>
+                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= user_book.book_id %>"></i>
               </div>
             </div>
           </button>
@@ -40,9 +40,9 @@
             </div>
           </div>
         </div>
+      </div>
 
-
-        <div class="modal fade" id="addToShelfModal" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
+        <div class="modal fade" id="addToShelfModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
