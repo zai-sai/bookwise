@@ -2,6 +2,8 @@ class Book < ApplicationRecord
   has_many :user_books
   has_many :book_tags
   has_many :tags, through: :book_tags
+  has_neighbors :embedding
+  after_create :set_embedding
 
   include PgSearch::Model
 
@@ -10,4 +12,11 @@ class Book < ApplicationRecord
     using: {
       tsearch: { prefix: true }  # allows searching with partial words
     }
+
+  private
+
+  def set_embedding
+    embedding = RubyLLM.embed("Title: #{title}. Author: #{author}. Tags: #{tags.pluck(:name).join(", ")}. Description: #{description}. ")
+    update(embedding: embedding.vectors)
+  end
 end
