@@ -92,9 +92,9 @@
                 </h4>
               </div>
             <% end %>
-
-
+              <%= link_to 'Create new shelf', new_shelf_path(book_id: book.id), class: "btn btn-primary btn-create" %>
           </div>
+
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary rounded-pill" data-bs-dismiss="modal">Close</button>
           </div>

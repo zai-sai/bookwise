@@ -1,0 +1,60 @@
+// Bookshelf drop-down navbar styling:
+
+.shelf-ellipsis-icon {
+  font-size: 1.75rem;
+  cursor: pointer;
+}
+
+.shelf-dropdown-menu {
+  padding: 0.75rem 1rem;
+  min-width: 220px;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.shelf-dropdown-menu .dropdown-item {
+  padding: 0.6rem 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+// "Edit my bookshelf" mode styling:
+
+// Wobble animation using @keyframes:
+@keyframes wobble {
+  0%   { transform: rotate(-2deg); }
+  50%  { transform: rotate(2deg); }
+  100% { transform: rotate(-2deg); }
+}
+
+.book-cover-wrapper {
+  position: relative;
+}
+
+// When the Stimulus controller adds .editing, wobble the image:
+.book-cover-wrapper.editing img {
+  animation: wobble 0.25s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
+// Delete button on each wobbling book cover - hidden by default:
+.delete-book-btn {
+  display: none;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 5;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  padding: 6px 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+// Showing that delete button when in edit mode
+.book-cover-wrapper.editing .delete-book-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
