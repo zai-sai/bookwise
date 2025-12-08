@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm sticky-top">
   <div class="container-fluid">
 
-    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#dropdownModal">
       <i class="fa-solid fa-bars fa-lg"></i>
     </button>
 
@@ -12,12 +12,11 @@
     <div></div>
   </div>
 </nav>
-
-<div class="modal modal-sm fade align-items-start justify-content-start" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal modal-sm fade align-items-start justify-content-start" id="dropdownModal" tabindex="-1" aria-labelledby="dropdownModalLabel" aria-hidden="true">
   <div class="modal-dialog mt-3 ms-3">
     <div class="modal-content" style="height: 95dvh;">
       <div class="modal-header">
-        <h1 class="modal-title fs-5 text-primary" id="exampleModalLabel">
+        <h1 class="modal-title fs-5 text-primary" id="dropdownModalLabel">
           <% if current_user %>
             Hi <%= current_user.username %>!
           <% else %>

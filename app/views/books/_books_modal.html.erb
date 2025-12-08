@@ -1,0 +1,82 @@
+<div class="bookcard">
+  <button
+    type="button"
+    class="close-icon btn-close"
+    data-bs-dismiss="modal"
+    aria-label="Close">
+  </button>
+
+  <div class="card w-100">
+    <div class="mt-3 book-cover">
+      <%= image_tag book.image_link,
+                    class: "",
+                    alt: "Book Cover For #{book.title}" %>
+    </div>
+
+    <div class="card-body">
+      <div class="d-flex justify-content-between">
+        <div class="pb-2 rating">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+      </div>
+
+      <h5 class="card-title"><%= book.title %></h5>
+      <p><strong>Author:</strong> <%= book.author %></p>
+      <p><strong>Description:</strong> <%= book.description %></p>
+
+      <% user_book = current_user.user_books.find_by(book_id: book.id) %>
+
+      <% if current_user.books.include?(book) && user_book %>
+        <div class="book-reading-dates">
+          <%= form_with model: user_book,
+                        url: user_book_path(user_book),
+                        method: :patch,
+                        class: "w-100" do |f| %>
+            <%= f.hidden_field :book_id, value: book.id %>
+
+            <div class="d-flex justify-content-evenly">
+              <div class="col-auto">
+                <%= f.label :date_started, "Start" %>
+                <%= f.date_field :date_started,
+                                 class: "form-control form-control-sm",
+                                 style: "width: 13ch;" %>
+              </div>
+
+              <div class="col-auto">
+                <%= f.label :date_finished, "End" %>
+                <%= f.date_field :date_finished,
+                                 class: "form-control form-control-sm",
+                                 style: "width: 13ch;" %>
+              </div>
+
+              <div class="col-auto" style="align-self: end;">
+                <%= f.submit "Save",
+                             class: "btn btn-primary btn-sm rounded-pill" %>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+
+      <div class="d-flex justify-content-center gap-3">
+        <%= link_to "Buy this book",
+                    "https://uk.bookshop.org/beta-search?keywords=#{ERB::Util.url_encode(book.title)}",
+                    target: "_blank",
+                    class: "btn btn-outline-primary" %>
+
+        <% unless current_user.books.include?(book) %>
+          <%= button_to add_to_library_user_books_path,
+              turbo_method: :post,
+              params: { book_id: book },
+              class: "btn btn-primary" do %>
+            Add to Library
+          <% end %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
