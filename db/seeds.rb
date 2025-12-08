@@ -204,7 +204,7 @@ def make_jsons_from_hardcover_api
 end
 
 def seed_tags_hardcover_api
-  puts "Creating Tags"
+  puts "Creating tags..."
   book_files = Dir.glob(Rails.root.join("db/data/hardcover/books/*.json"))
   all_tags = []
 
@@ -224,11 +224,11 @@ def seed_tags_hardcover_api
     Tag.create!(name: tag_name)
   end
 
-  puts "Tags done!"
+  puts "#{Tag.count} Tags done!"
 end
 
 def seed_books_hardcover_api
-  puts "Creating Books"
+  puts "Creating books..."
 
   book_files = Dir.glob(Rails.root.join("db/data/hardcover/books/*.json"))
   book_files.each do |file|
@@ -256,7 +256,7 @@ def seed_books_hardcover_api
 
   end
 
-  puts "Books done!"
+  puts "#{Book.count} Books done!"
 end
 
 def create_user_with_books
@@ -272,7 +272,7 @@ def create_user_with_books
     end
   end
 
-  puts "Done!"
+  puts "User done!"
 end
 
 seed_tags_hardcover_api
