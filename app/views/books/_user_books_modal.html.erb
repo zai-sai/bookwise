@@ -1,18 +1,9 @@
 <div class="bookcard">
-  <button
-    type="button"
-    class="close-icon btn-close"
-    data-bs-dismiss="modal"
-    aria-label="Close">
-  </button>
-
+  <button type="button" class="close-icon btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
   <div class="card w-100">
     <div class="mt-3 book-cover">
-      <%= image_tag book.image_link,
-                    class: "",
-                    alt: "Book Cover For #{book.title}" %>
+      <%= image_tag book.image_link, class: "", alt: "Book Cover For #{book.title}" %>
     </div>
-
     <div class="card-body">
       <div class="d-flex justify-content-between">
         <div class="pb-2 rating">
@@ -23,11 +14,8 @@
           <i class="fa-regular fa-star"></i>
         </div>
       </div>
-
       <h5 class="card-title"><%= book.title %></h5>
       <p><strong>Author:</strong> <%= book.author %></p>
-      <p><strong>Description:</strong> <%= book.description %></p>
-
       <% user_book = current_user.user_books.find_by(book_id: book.id) %>
 
       <% if current_user.books.include?(book) && user_book %>
@@ -60,16 +48,37 @@
             </div>
           <% end %>
         </div>
-      <% end %>
+               <div class="book-reading-status">
+          <%= form_with model: user_book,
+                        url: user_book_path(user_book),
+                        method: :patch,
+                        class: "w-100" do |f| %>
+            <%= f.hidden_field :book_id, value: book.id %>
 
+            <div class="d-flex justify-content-evenly">
+              <div class="col-auto">
+                <%= f.select :status, [["Read", "read"], ["Unread", "unread"]],
+                            class: "form-select",
+                            style: "width: 13ch;" %>
+                <%= f.submit "Save", class: "btn btn-primary btn-sm rounded-pill mt-2 mb-2" %>
+              </div>
+              </div>
+            <% end %>
+              </div>
+
+      <% end %>
+      <p><strong>Description:</strong> <%= book.description %></p>
       <div class="d-flex justify-content-center gap-3">
         <%= link_to "Buy this book",
-                    "https://uk.bookshop.org/beta-search?keywords=#{ERB::Util.url_encode(book.title)}",
-                    class: "btn btn-outline-primary" %>
-
-        <%# TODO: Add correct path for "add to library" -> add_to_library_user_books_path %>
+          "https://uk.bookshop.org/beta-search?keywords=#{book.title}",
+          class: "btn btn-outline-primary", target: "_blank" %>
         <% unless current_user.books.include?(book) %>
-          <%= link_to "Add to library", "shelf_path", class: "btn btn-primary" %>
+          <%= button_to add_to_library_user_books_path,
+                        turbo_method: :post,
+                        params: { book_id: book },
+                        class: "btn btn-primary" do %>
+            Add to Library
+          <% end %>
         <% end %>
       </div>
     </div>

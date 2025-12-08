@@ -26,31 +26,23 @@
                 <p><%= user_book.book.description %></p>
               </div>
               <div class="col-2">
-                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal"></i>
+                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= user_book.book_id %>"></i>
               </div>
             </div>
           </button>
         </div>
 
-        <div class="modal fade" id="bookCardModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h1 class="modal-title fs-5" id="bookCardModalLabel">Modal title</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                <%= render "books/book_logged_in", book: user_book.book %>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-              </div>
+      <div class="modal fade" id="bookCardModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <%= render "books/user_books_modal", book: user_book.book %>
             </div>
           </div>
         </div>
+      </div>
 
-
-        <div class="modal fade" id="addToShelfModal" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
+        <div class="modal fade" id="addToShelfModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">

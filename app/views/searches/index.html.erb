@@ -15,20 +15,32 @@
     <% @books.each do |book| %>
 
 
-    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card">
       <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id %>">
         <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
           <div class="col-4 h-100">
-            <div class="shadow rounded-3 h-100">
-              <p>Book cover</p>
+            <div class="shadow rounded-3 h-100 w-100 border">
+              <%= image_tag book.image_link,
+                    class: "object-fit-cover h-100 w-100",
+                    alt: "Book Cover For #{book.title}" %>
             </div>
           </div>
-          <div class="col-6 h-100 py-3">
-            <h4><%= book.title %></h4>
-            <h4><%= book.author %></h4>
-            <p><%= book.description %></p>
+
+          <div class="col-7 h-100 px-0 d-flex flex-column test-border">
+            <div class="flex-grow-4 flex-shrink-4 overflow-hidden test-border">
+              <h5 class="mb-1"><%= "#{book.title[..50]}#{"..." if book.title[51]}" %></h5>
+              <h6 class="mb-1"><%= book.author %></h6>
+            </div>
+            <p class="mb-1 flex-grow-6 flex-shrink-6 test-border overflow-hidden"
+              data-book-card-target="description"><%= "#{book.description[..150]}#{"..." if book.description[151]}" unless book.description.nil? %></p>
+            <div class="d-flex overflow-x-scroll scroll-hide flex-nowrap py-1 test-border">
+              <% book.tags.each do |tag| %>
+                <span class="badge rounded-pill text-bg-primary me-1"><%= tag.name %></span>
+              <% end %>
+            </div>
           </div>
-          <div class="col-2">
+
+          <div class="col-1 px-0">
             <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= book.id %>"></i>
           </div>
         </div>
@@ -40,15 +52,14 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <% if current_user %>
-            <%= render "books/book_logged_in", book: book %>
+            <%= render "books/user_books_modal", book: book %>
           <% else %>
-            <%= render "books/book_logged_out", book: book %>
+            <%= render "books/books_modal", book: book %>
           <% end %>
 
         </div>
       </div>
     </div>
-
 
     <div class="modal fade" id="addToShelfModal<%= book.id %>" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
       <div class="modal-dialog">

@@ -8,11 +8,11 @@
   <div class="d-flex flex-wrap">
     <% @books.each do |book| %>
       <div class="">
-        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id%>">
           <img src="<%= book.image_link %>" alt="Book cover for <%= book.title %> by <%= book.author %>" height="300px" class="shadow-sm rounded-3">
         </button>
+        <%= render "books/modal", book: book %>
       </div>
-      <%= render "books/modal", book: book %>
     <% end %>
   </div>
 
