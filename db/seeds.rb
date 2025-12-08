@@ -203,9 +203,29 @@ def make_jsons_from_hardcover_api
   end
 end
 
-# def seed_tags_hardcover_api
-  # add method here
-# end
+def seed_tags_hardcover_api
+  puts "Creating Tags"
+  book_files = Dir.glob(Rails.root.join("db/data/hardcover/books/*.json"))
+  all_tags = []
+
+  book_files.each do |file|
+    book_file_result = JSON.parse(File.read(file))
+    tags_array = book_file_result["book"]["taggings"]
+
+    tags_array.each do |tag_node|
+      tag_name = tag_node["tag"]["tag"].downcase
+      unless all_tags.include?(tag_name)
+        all_tags << tag_name
+      end
+    end
+  end
+
+  all_tags.each do |tag|
+    Tag.create!(name: tag)
+  end
+
+  puts "Tags done!"
+end
 
 def seed_books_hardcover_api
   puts "Creating Books"
@@ -228,7 +248,12 @@ def seed_books_hardcover_api
       end
     end
 
-    Book.create!(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
+    new_book = Book.create!(title: book_title, author: book_author, description: book_description, image_link: book_image_link)
+    book_tags.each do |book_tag|
+      tag = BookTag.find_by(name: book_tag)
+      BookTag.create!(book: new_book, tag: tag)
+    end
+
   end
 
   puts "Books done!"
