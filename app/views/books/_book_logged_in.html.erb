@@ -60,6 +60,26 @@
             </div>
           <% end %>
         </div>
+        <div class="book-reading-status">
+          <%= form_with model: user_book,
+                        url: user_book_path(user_book),
+                        method: :patch,
+                        class: "w-100" do |f| %>
+            <%= f.hidden_field :book_id, value: book.id %>
+
+            <div class="d-flex justify-content-evenly">
+              <div class="col-auto">
+                <%= f.label :status, "Status" %>
+              </div>
+              <div class="col-auto">
+                <%= f.select :status, [["Read", "read"], ["Unread", "unread"]]%>
+              </div>
+              <div class="col-auto">
+                <%= f.submit "Save", class: "btn btn-primary btn-sm rounded-pill" %>
+              </div>
+              </div>
+            <% end %>
+              </div>
       <% end %>
 
       <div class="d-flex justify-content-center gap-3">
@@ -67,7 +87,6 @@
                     "https://uk.bookshop.org/beta-search?keywords=#{ERB::Util.url_encode(book.title)}",
                     class: "btn btn-outline-primary" %>
 
-        <%# TODO: Add correct path for "add to library" -> add_to_library_user_books_path %>
         <% unless current_user.books.include?(book) %>
           <%= link_to "Add to library", "shelf_path", class: "btn btn-primary" %>
         <% end %>
