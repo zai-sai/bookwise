@@ -1,23 +1,62 @@
-<div class="px-3">
+<div class="px-3" data-controller="bookshelf">
 
   <div class="d-flex align-items-center justify-content-between m-4">
-    <h1><%= @shelf.name %></h1>
+    <div>
+      <!-- Default view of the bookshelf title -->
+      <h1 class="mb-0" data-bookshelf-target="titleView">
+        <%= @shelf.name %>
+      </h1>
+
+      <!-- Inline edit form (shown only when user clicks "edit my bookshelf") -->
+      <%= simple_form_for @shelf,
+            url: shelf_path(@shelf),
+            method: :patch,
+            html: {
+              class: "d-flex align-items-center gap-2 mt-2 d-none",
+              data: { bookshelf_target: "titleForm" }
+            } do |f| %>
+
+        <%= f.input :name,
+                    label: false,
+                    input_html: { class: "form-control form-control-lg" } %>
+
+        <!-- This button both saves the updated name of shelf and exits edit mode via page reload -->
+        <%= f.button :submit, "I'm done editing",
+                     class: "btn btn-primary btn-md ms-auto" %>
+      <% end %>
+
+    </div>
     <%= render "shelf_actions", shelf: @shelf  %>
   </div>
 
   <div class="d-flex flex-wrap">
-  <% if @shelf_books.any? %>
-    <% @shelf_books.each do |shelf_book| %>
-      <div class="">
-        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
-          <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" height="300px" class="shadow-sm rounded-3">
-        </button>
-      </div>
-      <%= render "books/modal", book: shelf_book.book %>
+    <% if @shelf_books.any? %>
+      <% @shelf_books.each do |shelf_book| %>
+        <div class="book-cover-wrapper m-2" data-bookshelf-target="book">
+
+          <!-- DELETE BOOK BUTTON (shows only via CSS when a user clicks "edit my bookshelf") -->
+          <%= button_to shelf_book_path(shelf_book),
+              method: :delete,
+              data: { turbo_confirm: "Delete this book from your shelf?" },
+              form: { class: "delete-book-form" },
+              class: "delete-book-btn" do %>
+            <i class="fa-solid fa-minus"></i>
+          <% end %>
+
+
+          <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal">
+            <img src="<%= shelf_book.image_link %>"
+                alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>"
+                height="300px"
+                class="shadow-sm rounded">
+          </button>
+        </div>
+
+        <%= render "books/modal", book: shelf_book.book %>
+      <% end %>
+    <% else %>
+      <p class="lead">This shelf is currently empty.</p>
     <% end %>
-  <% else %>
-    <p class="lead">This shelf is currently empty.</p>
-  <% end %>
   </div>
 
 </div>
