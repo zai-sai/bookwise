@@ -8,12 +8,18 @@
           <p class="mb-0">Add to this bookshelf</p>
           <% end %>
       </li>
+
       <li>
-        <%= link_to edit_shelf_path(shelf), class: "dropdown-item d-flex gap-2 align-items-center" do %>
+        <button
+          type="button"
+          class="dropdown-item d-flex gap-2 align-items-center"
+          data-action="click->bookshelf#enterEdit"
+        >
           <i class="fa-regular fa-pen-to-square"></i>
           <p class="mb-0">Edit this bookshelf</p>
-          <% end %>
+        </button>
       </li>
+
       <li>
         <%= link_to shelf_path(shelf),
               data: { turbo_method: :delete,
@@ -24,4 +30,4 @@
           <% end %>
       </li>
     </ul>
-  </div>
+</div>

@@ -12,6 +12,16 @@ class ShelvesController < ApplicationController
   def create
     @shelf = Shelf.new(shelf_params)
     @shelf.user = current_user
+    if params[:book_id].present?
+      @book = Book.find(params[:book_id])
+      user_books = UserBook.where(user: current_user)
+      if user_books.include?(book: @book)
+        @user_book = user_books.find(book: @book)
+      else
+        @user_book = UserBook.new(book: @book, user: current_user)
+      end
+      @shelf.shelf_books.build(user_book: @user_book)
+    end
     if @shelf.save
       redirect_to shelf_path(@shelf), status: :see_other, notice: "#{@shelf.name} successfully created!"
     else
@@ -31,7 +41,7 @@ def add_to_collection
   # end
   shelf_book = ShelfBook.new(user_book: user_book, shelf: shelf)
   if shelf_book.save
-    render notice: "Book added successfully!"
+    redirect_to shelf_path(shelf), notice: "#{book.title} added successfully!"
   else
     render error: "Sorry, unable to add book."
   end
