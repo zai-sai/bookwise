@@ -52,15 +52,14 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <% if current_user %>
-            <%= render "books/book_logged_in", book: book %>
+            <%= render "books/user_books_modal", book: book %>
           <% else %>
-            <%= render "books/book_logged_out", book: book %>
+            <%= render "books/books_modal", book: book %>
           <% end %>
 
         </div>
       </div>
     </div>
-
 
     <div class="modal fade" id="addToShelfModal<%= book.id %>" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
       <div class="modal-dialog">
