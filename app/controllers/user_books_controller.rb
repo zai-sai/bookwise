@@ -23,7 +23,7 @@ class UserBooksController < ApplicationController
     user_books = UserBook.where(user: current_user)
     if user_books.include?(book: @book)
       flash[:notice] = "This books is already part of your library!"
-      # WHERE DO WE GO HERE?
+
     else
       @user_book = UserBook.new(book: @book, user: current_user)
       if user_book.save
@@ -31,7 +31,7 @@ class UserBooksController < ApplicationController
         redirect_to user_books_path
       else
         flash[:alert] = "Sorry, unable to add this book to your library."
-        # WHERE DO WE GO HERE?
+
       end
     end
   end
