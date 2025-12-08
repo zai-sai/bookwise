@@ -1,0 +1,56 @@
+/* Generic centered box (can use anywhere) */
+.home-center {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-box {
+  width: 600px;
+  padding: 2rem;
+  border-radius: 12px;
+  background: #dccff3;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Login section layout */
+.login-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 3rem;
+  background: #ebe0fd;
+  border-radius: 16px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+  max-width: 900px;
+  width: 100%;
+}
+
+/* Left side: owl */
+.login-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-owl {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+/* Right side: text + buttons */
+.login-right {
+  flex: 1;
+  max-width: 400px;
+}
