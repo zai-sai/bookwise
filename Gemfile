@@ -81,3 +81,4 @@ gem "ostruct"
 gem "csv"
 
 gem "neighbor"
+gem "ruby_llm"
