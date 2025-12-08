@@ -10,8 +10,8 @@ $headings-font-family:   $headers-font;
 $font-size-base:         1rem;
 
 // General Colors
-$primary:       $indigo-600;
-$secondary:     $indigo-400;
+$primary:       $indigo-400;
+$secondary:     $indigo-600;
 $info:          $blue;
 
 $success:       $teal;
@@ -33,10 +33,24 @@ $border-radius-lg:            .25rem;
 $border-radius-xl:            .5rem;
 $border-radius-xxl:           1rem;
 
-$aspect-ratios: (
-  "1x1": 100%,
-  "4x3": calc(3 / 4 * 100%),
-  "16x9": calc(9 / 16 * 100%),
-  "21x9": calc(9 / 21 * 100%),
-  "2x3": calc(3 / 2 * 100%),
+// Bootstrap text - Display utility class
+// changed font sizes to be same as Heading sizes
+$display-font-sizes: (
+  1: $font-size-base * 2.5,
+  2: $font-size-base * 2,
+  3: $font-size-base * 1.75,
+  4: $font-size-base * 1.5,
+  5: $font-size-base * 1.25,
+  6: $font-size-base
 );
+
+// Bootstrap text - Display utility class
+// original sizes below
+// $display-font-sizes: (
+//   1: 5rem,
+//   2: 4.5rem,
+//   3: 4rem,
+//   4: 3.5rem,
+//   5: 3rem,
+//   6: 2.5rem
+// ) !default;
