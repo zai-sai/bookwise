@@ -178,6 +178,8 @@ GEM
     minitest (5.26.2)
     msgpack (1.8.0)
     mutex_m (0.3.0)
+    neighbor (0.6.0)
+      activerecord (>= 7.1)
     net-imap (0.5.12)
       date
       net-protocol
@@ -355,6 +357,7 @@ DEPENDENCIES
   font-awesome-sass (~> 6.1)
   importmap-rails
   jbuilder
+  neighbor
   ostruct
   pg (~> 1.1)
   pg_search

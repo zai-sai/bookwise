@@ -79,3 +79,5 @@ end
 # Added to silence gem warnings in the terminal
 gem "ostruct"
 gem "csv"
+
+gem "neighbor"
