@@ -1,7 +1,3 @@
-<%# to make home page work for now %>
-<%# <% @shelves = ["All books", "Read", "Unread", "My epic novels shelf", "The Fifth Shelf", "Another shelf", "The Last Shelf"] %>
-<%# <% @shelf_books = [0,1,2,3,4,5,6,7,8,9,10,11,12] %>
-
 <% if current_user %>
   <div class="container py-3">
     <%= render "shared/search_bar" %>
@@ -10,14 +6,20 @@
       <p><%= link_to 'Create new shelf', new_shelf_path, class: "btn btn-primary btn-create" %></p>
       <h2 class="mb-3">Your shelves</h2>
       <h3><%= link_to "My Library", user_books_path %></h3>
-        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3">
+        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
           <% if @user_books.any? %>
             <% @user_books.each do |user_book| %>
-              <div class="flex-shrink-0">
-                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
-                  <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" height="200px" class="shadow-sm rounded-3">
-                </button>
+              <div class="d-flex flex-column align-items-center">
+                <div class="book-cover-wrapper m-2">
+                  <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
+                    <div class="book-shell">
+                      <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" class="book-cover">
+                    </div>
+                  </button>
+                </div>
+                <div class="bookshelf-shelves">
+                </div>
               </div>
               <%= render "books/modal", book: user_book.book %>
             <% end %>
@@ -30,17 +32,24 @@
 
       <% @shelves.each do |shelf| %>
         <h3><%= link_to shelf.name, shelf_path(shelf) %></h3>
-        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3">
+        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
           <% if shelf.shelf_books.any? %>
             <% shelf.shelf_books.each do |shelf_book| %>
-              <div class="flex-shrink-0">
-                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
-                  <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" height="200px" class="shadow-sm rounded-3">
-                </button>
-              </div>
-              <%= render "books/modal", book: shelf_book.book %>
+              <div class="d-flex flex-column align-items-center">
 
+                <div class="book-cover-wrapper m-3">
+                  <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
+                    <div class="book-shell">
+                      <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" class="book-cover">
+                    </div>
+                  </button>
+                </div>
+                <div class="bookshelf-shelves">
+                </div>
+                <%= render "books/modal", book: shelf_book.book %>
+
+              </div>
             <% end %>
           <% else %>
             <p class="lead">This shelf is currently empty.</p>
