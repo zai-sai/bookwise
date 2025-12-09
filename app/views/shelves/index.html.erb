@@ -14,6 +14,13 @@
                 <div class="book-cover-wrapper m-2">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
                     <div class="book-shell">
+                      <% if user_book.status == "read" %>
+                        <div class="position-relative">
+                          <div class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                            <i class="fa-solid fa-circle-check fa-xl text-success"></i>
+                          </div>
+                        </div>
+                      <% end %>
                       <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" class="book-cover">
                     </div>
                   </button>
@@ -41,6 +48,13 @@
                 <div class="book-cover-wrapper m-3">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
                     <div class="book-shell">
+                      <% if shelf_book.status == "read" %>
+                        <div class="position-relative">
+                          <div class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                            <i class="fa-solid fa-circle-check fa-xl text-success"></i>
+                          </div>
+                        </div>
+                      <% end %>
                       <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" class="book-cover">
                     </div>
                   </button>

@@ -38,18 +38,23 @@
       <% @user_books.each do |user_book| %>
 
 
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
           <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book.id %>">
             <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
-              <div class="col-4 h-100">
-                <div class="shadow rounded-3 h-100 w-100 border">
+              <div class="col-4 h-100 ps-0">
+                <div class="shadow rounded-3 h-100 w-100 border position-relative">
+                  <% if user_book.status == "read"%>
+                    <div class="bg-light border border-top-0 rounded-bottom-3 p-1 position-absolute top-0 end-5">
+                      <i class="fa-solid fa-circle-check fa-lg text-success"></i>
+                    </div>
+                  <% end %>
                   <%= image_tag user_book.book.image_link,
                         class: "object-fit-cover h-100 w-100",
-                        alt: "Book Cover For #{user_book.book.title}" %>
+                        alt: "Book Cover For #{user_book.book.title} by #{user_book.book.author}" %>
                 </div>
               </div>
 
-              <div class="col-7 h-100 px-0 d-flex flex-column test-border">
+              <div class="col-7 h-100 px-0 py-3 d-flex flex-column test-border">
                 <div class="flex-grow-4 flex-shrink-4 overflow-hidden test-border">
                   <h5 class="mb-1"><%= "#{user_book.book.title[..50]}#{"..." if user_book.book.title[51]}" %></h5>
                   <h6 class="mb-1"><%= user_book.book.author %></h6>
@@ -63,7 +68,7 @@
                 </div>
               </div>
 
-              <div class="col-1 px-0">
+              <div class="col-1 px-1">
                 <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= user_book.book.id %>"></i>
               </div>
             </div>
