@@ -3,7 +3,6 @@ class UserBooksController < ApplicationController
     @current_query = params[:query]
     @shelves = current_user.shelves
     @user_books = current_user.user_books
-    @featured_shelves = @shelves.limit(6)
     if @current_query.present?
       @book_ids = @user_books.map { |ub| ub.book.id }
       @books = Book.where(id: @book_ids)

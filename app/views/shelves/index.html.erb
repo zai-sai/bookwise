@@ -4,38 +4,33 @@
 
     <div class="mb-2">
       <p><%= link_to 'Create new shelf', new_shelf_path, class: "btn btn-primary rounded-pill btn-create" %></p>
-      <h2 class="mb-3">Your shelves</h2>
+
       <h3><%= link_to "My Library", user_books_path %></h3>
-        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
-
-          <% if @user_books.any? %>
-            <% @user_books.each do |user_book| %>
-              <div class="d-flex flex-column align-items-center">
-                <div class="book-cover-wrapper m-2">
-                  <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
-                    <div class="book-shell">
-                      <% if user_book.status == "read" %>
-                        <div class="position-relative">
-                          <div class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
-                            <i class="fa-solid fa-circle-check fa-xl text-success"></i>
-                          </div>
-                        </div>
-                      <% end %>
-                      <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" class="book-cover">
-                    </div>
-                  </button>
-                </div>
-                <div class="bookshelf-shelves">
-                </div>
+      <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+        <% if @user_books.any? %>
+          <% @user_books.each do |user_book| %>
+            <div class="d-flex flex-column align-items-center">
+              <div class="book-cover-wrapper m-2">
+                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
+                  <div class="book-shell position-relative">
+                    <% if user_book.status == "read" %>
+                      <div style="z-index: 100;" class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                        <i class="fa-solid fa-circle-check fa-xl text-success"></i>
+                      </div>
+                    <% end %>
+                    <img src="<%= user_book.image_link %>" alt="Book cover for <%= user_book.title %> by <%= user_book.author %>" class="book-cover">
+                  </div>
+                </button>
               </div>
-              <%= render "books/modal", book: user_book.book %>
-            <% end %>
-          <% else %>
-            <p class="lead">Your Library is currently empty.</p>
+              <div class="bookshelf-shelves">
+              </div>
+            </div>
+            <%= render "books/modal", book: user_book.book %>
           <% end %>
-
-        </div>
-
+        <% else %>
+          <p class="lead">Your Library is currently empty.</p>
+        <% end %>
+      </div>
 
       <% @shelves.each do |shelf| %>
         <h3><%= link_to shelf.name, shelf_path(shelf) %></h3>
@@ -47,12 +42,10 @@
 
                 <div class="book-cover-wrapper m-3">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
-                    <div class="book-shell">
+                    <div class="book-shell position-relative">
                       <% if shelf_book.status == "read" %>
-                        <div class="position-relative">
-                          <div class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
-                            <i class="fa-solid fa-circle-check fa-xl text-success"></i>
-                          </div>
+                        <div style="z-index: 100;" class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                          <i class="fa-solid fa-circle-check fa-xl text-success"></i>
                         </div>
                       <% end %>
                       <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" class="book-cover">
