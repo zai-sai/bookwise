@@ -73,7 +73,7 @@
       <p><strong>Description:</strong> <%= book.description %></p>
       <div class="d-flex justify-content-center gap-3">
         <%= link_to "Buy this book",
-          "https://uk.bookshop.org/beta-search?keywords=#{book.title}",
+          "https://uk.bookshop.org/beta-search?keywords=#{book.title}%20#{ERB::Util.url_encode(book.author)}",
           class: "btn btn-outline-primary mb-3", target: "_blank" %>
         <% unless current_user.books.include?(book) %>
           <%= button_to add_to_library_user_books_path,
