@@ -15,18 +15,21 @@
     <% @books.each do |book| %>
 
 
-    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card">
       <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id %>">
         <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
-          <div class="col-4 h-100">
-            <div class="shadow rounded-3 h-100 w-100 border">
+          <div class="col-4 h-100 ps-0">
+            <div class="shadow rounded-3 h-100 w-100 border position-relative">
+              <% if current_user.user_books.find_by(book: book).present? %>
+                <div class="bg-light border border-top-0 rounded-bottom-3 px-2 pb-1 position-absolute top-0 end-5"><i class="fa-solid fa-bookmark fa-xl text-warning"></i></div>
+              <% end %>
               <%= image_tag book.image_link,
                     class: "object-fit-cover h-100 w-100",
-                    alt: "Book Cover For #{book.title}" %>
+                    alt: "Book Cover For #{book.title} by #{book.author}" %>
             </div>
           </div>
 
-          <div class="col-7 h-100 px-0 d-flex flex-column test-border">
+          <div class="col-7 h-100 px-0 py-3 d-flex flex-column test-border">
             <div class="flex-grow-4 flex-shrink-4 overflow-hidden test-border">
               <h5 class="mb-1"><%= "#{book.title[..50]}#{"..." if book.title[51]}" %></h5>
               <h6 class="mb-1"><%= book.author %></h6>
@@ -40,7 +43,7 @@
             </div>
           </div>
 
-          <div class="col-1 px-0">
+          <div class="col-1 px-1">
             <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= book.id %>"></i>
           </div>
         </div>

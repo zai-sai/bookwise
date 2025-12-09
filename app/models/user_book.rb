@@ -2,6 +2,9 @@ class UserBook < ApplicationRecord
   belongs_to :book
   belongs_to :user
 
+  has_many :shelf_books
+  has_many :shelves, through: :shelf_books
+
   # Active record method, allows UserBook to inherit attributes from Book
   # Can only be used on models with belongs_to (inherit from parent)
   delegate :title, :author, :description, :image_link, :tag, to: :book
