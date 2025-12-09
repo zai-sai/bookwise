@@ -57,6 +57,10 @@ export default class extends Controller {
       this.readBooksTarget.classList.add("active");
       this.readBooksTarget.setAttribute("aria-pressed", "true");
 
+      // Be safe - remove active from Unread Books
+      this.unreadBooksTarget.classList.remove("active");
+      this.unreadBooksTarget.setAttribute("aria-pressed", "false");
+
       this.showReadBooks();
     } else if (this.unreadBooksTarget.classList.contains("active")) {
       // => Unread Books -> Read Books
@@ -65,6 +69,10 @@ export default class extends Controller {
 
       this.readBooksTarget.classList.add("active");
       this.readBooksTarget.setAttribute("aria-pressed", "true");
+
+      // Be safe - remove active from All Books
+      this.allBooksTarget.classList.remove("active");
+      this.allBooksTarget.setAttribute("aria-pressed", "false");
 
       this.showReadBooks();
     } else {
@@ -82,6 +90,10 @@ export default class extends Controller {
       this.unreadBooksTarget.classList.add("active");
       this.unreadBooksTarget.setAttribute("aria-pressed", "true");
 
+      // Be safe - remove active from Read Books
+      this.readBooksTarget.classList.remove("active");
+      this.readBooksTarget.setAttribute("aria-pressed", "false");
+
       this.showUnreadBooks();
     } else if (this.readBooksTarget.classList.contains("active")) {
       // => Read Books -> Unread Books
@@ -90,6 +102,10 @@ export default class extends Controller {
 
       this.unreadBooksTarget.classList.add("active");
       this.unreadBooksTarget.setAttribute("aria-pressed", "true");
+
+      // Be safe - remove active from All Books
+      this.allBooksTarget.classList.remove("active");
+      this.allBooksTarget.setAttribute("aria-pressed", "false");
 
       this.showUnreadBooks();
     } else {
