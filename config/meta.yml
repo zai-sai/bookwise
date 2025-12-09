@@ -1,0 +1,6 @@
+ # config/meta.yml
+ meta_product_name: "Bookwise"
+ meta_title: "Bookwise - the app for readers!"
+ meta_description: "Curate your to-be-read lists with custom filtering and personalised suggestions" #feel free to edit this
+ meta_image: "/bookwise_coverimage.png" # should exist in `app/assets/images/`
+#  twitter_account: "@product_twitter_account" # required for Twitter Cards
