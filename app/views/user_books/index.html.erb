@@ -12,25 +12,40 @@
 
     <div class="mb-2 row">
       <% @user_books.each do |user_book| %>
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-user-books-index-target="book" data-status="<%= user_book.status %>">
-          <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book_id %>">
+
+
+        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
+          <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book.id %>">
             <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
               <div class="col-4 h-100">
-                <div class="shadow rounded-3 h-100">
-                  <p>Book cover</p>
+                <div class="shadow rounded-3 h-100 w-100 border">
+                  <%= image_tag user_book.book.image_link,
+                        class: "object-fit-cover h-100 w-100",
+                        alt: "Book Cover For #{user_book.book.title}" %>
                 </div>
               </div>
-              <div class="col-6 h-100 py-3">
-                <h4><%= user_book.book.title %></h4>
-                <h4><%= user_book.book.author %></h4>
-                <p><%= user_book.book.description %></p>
+
+              <div class="col-7 h-100 px-0 d-flex flex-column test-border">
+                <div class="flex-grow-4 flex-shrink-4 overflow-hidden test-border">
+                  <h5 class="mb-1"><%= "#{user_book.book.title[..50]}#{"..." if user_book.book.title[51]}" %></h5>
+                  <h6 class="mb-1"><%= user_book.book.author %></h6>
+                </div>
+                <p class="mb-1 flex-grow-6 flex-shrink-6 test-border overflow-hidden"
+                  data-book-card-target="description"><%= "#{user_book.book.description[..150]}#{"..." if user_book.book.description[151]}" unless user_book.book.description.nil? %></p>
+                <div class="d-flex overflow-x-scroll scroll-hide flex-nowrap py-1 test-border">
+                  <% user_book.book.tags.each do |tag| %>
+                    <span class="badge rounded-pill text-bg-primary me-1"><%= tag.name %></span>
+                  <% end %>
+                </div>
               </div>
-              <div class="col-2">
-                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= user_book.book_id %>"></i>
+
+              <div class="col-1 px-0">
+                <i class="fa-solid fa-circle-plus fa-2xl" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= user_book.book.id %>"></i>
               </div>
             </div>
           </button>
         </div>
+
 
       <div class="modal fade" id="bookCardModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
         <div class="modal-dialog">
