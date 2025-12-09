@@ -2,8 +2,9 @@ class UserBooksController < ApplicationController
   def index
     @current_query = params[:query]
     @shelves = current_user.shelves
+    @user_books = current_user.user_books
+    @featured_shelves = @shelves.limit(6)
     if @current_query.present?
-      @user_books = current_user.user_books
       @book_ids = @user_books.map { |ub| ub.book.id }
       @books = Book.where(id: @book_ids)
       @books = @books.search_by_title_and_author(@current_query)
@@ -20,7 +21,7 @@ class UserBooksController < ApplicationController
   def update
     @user_book = current_user.user_books.find(params[:id])
     if @user_book.update(user_book_params)
-      redirect_to user_books_path
+      redirect_to request.referrer
     else
       render :edit, status: :unprocessable_entity
     end
@@ -37,7 +38,7 @@ class UserBooksController < ApplicationController
       @user_book = UserBook.new(book: @book, user: current_user)
       if user_book.save
         flash[:notice] = "Book added successfully!"
-        redirect_to user_books_path
+        redirect_to request.referrer
       else
         flash[:alert] = "Sorry, unable to add this book to your library."
 
