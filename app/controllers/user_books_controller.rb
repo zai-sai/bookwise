@@ -20,7 +20,7 @@ class UserBooksController < ApplicationController
   def update
     @user_book = current_user.user_books.find(params[:id])
     if @user_book.update(user_book_params)
-      redirect_to user_books_path
+      redirect_to request.referrer
     else
       render :edit, status: :unprocessable_entity
     end
@@ -37,7 +37,7 @@ class UserBooksController < ApplicationController
       @user_book = UserBook.new(book: @book, user: current_user)
       if user_book.save
         flash[:notice] = "Book added successfully!"
-        redirect_to user_books_path
+        redirect_to request.referrer
       else
         flash[:alert] = "Sorry, unable to add this book to your library."
 
