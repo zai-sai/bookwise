@@ -1,0 +1,43 @@
+.review-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  min-height: 200px;
+  border-radius: 24px;
+  background:
+    linear-gradient(white, white) padding-box,
+    linear-gradient(to right, rgb(196, 121, 196), rgb(127, 84, 127)) border-box;
+  box-shadow: rgba(0, 0, 0, 10%) 5px 5px 20px 0;
+}
+
+/* Top text centered */
+.review-text {
+  text-align: center;
+  margin-bottom: 1rem;
+
+  p {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+}
+
+/* Bottom row: stars + name */
+.review-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Stars on the left */
+.review-rating i {
+  margin-right: 4px;
+  color: #f5c542; /* gold stars */
+}
+
+/* Name bottom right */
+.review-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-left: auto;    /* pushes it to the right */
+}

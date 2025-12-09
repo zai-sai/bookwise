@@ -21,8 +21,8 @@
         <h2 class="mb-4">Welcome to Bookwise</h2>
 
         <div class="d-flex flex-column gap-3">
-          <%= link_to "Log in", new_user_session_path, class: "btn btn-primary btn-lg" %>
-          <%= link_to "Sign up", new_user_registration_path, class: "btn btn-outline-dark btn-lg" %>
+          <%= link_to "Log in", new_user_session_path, class: "btn btn-primary rounded-pill btn-md" %>
+          <%= link_to "Sign up", new_user_registration_path, class: "btn btn-outline-dark rounded-pill btn-md" %>
         </div>
       </div>
 
@@ -39,37 +39,163 @@
   <div class="review-container">
       <div class="carousel basic">
         <div class="review-group">
-           <div class="review-card shadow-sm mx-auto">
-            <p>"Bookwise made me excited to read again."</p>
-            <span>- Alex</span>
+          <div class="review-card shadow-sm mx-auto">
+            <div class="review-text">
+              <p>"Bookwise helped me rebuild my reading habit one page at a time."</p>
+            </div>
+
+            <div class="review-footer">
+              <div class="review-rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <span class="review-name">— Olivia</span>
+            </div>
           </div>
 
           <div class="review-card shadow-sm mx-auto">
-            <p>"The owl is so cute, I love it."</p>
-            <span>- Maya</span>
+            <div class="review-text">
+              <p>"The interface is beautiful. It makes tracking books actually fun."</p>
+            </div>
+
+            <div class="review-footer">
+              <div class="review-rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star-half-stroke"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <span class="review-name">— Daniel</span>
+            </div>
           </div>
 
           <div class="review-card shadow-sm mx-auto">
-            <p>"Super clean design. Easy to use."</p>
-            <span>- Liam</span>
+            <div class="review-text">
+              <p>"I finally stopped buying duplicate books. This saved me money."</p>
+            </div>
+
+            <div class="review-footer">
+              <div class="review-rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <span class="review-name">— Harper</span>
+            </div>
           </div>
         </div>
+
         <div class="review-group">
            <div class="review-card shadow-sm mx-auto">
-            <p>"Bookwise made me excited to read again."</p>
-            <span>- Alex</span>
-          </div>
+              <div class="review-text">
+                <p>"The reading streak feature keeps me motivated every night."</p>
+              </div>
+
+              <div class="review-footer">
+                <div class="review-rating">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star-half-stroke"></i>
+                </div>
+                <span class="review-name">— Ethan</span>
+              </div>
+            </div>
+
+            <div class="review-card shadow-sm mx-auto">
+              <div class="review-text">
+                <p>"Beautifully organised shelves. It feels like my digital library."</p>
+              </div>
+
+              <div class="review-footer">
+                <div class="review-rating">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-regular fa-star"></i>
+                </div>
+                <span class="review-name">— Sophia</span>
+              </div>
+            </div>
 
           <div class="review-card shadow-sm mx-auto">
-            <p>"The owl is so cute, I love it."</p>
-            <span>- Maya</span>
-          </div>
+            <div class="review-text">
+              <p>"I love the owl mascot. It makes the app feel welcoming."</p>
+            </div>
 
-          <div class="review-card shadow-sm mx-auto">
-            <p>"Super clean design. Easy to use."</p>
-            <span>- Liam</span>
+            <div class="review-footer">
+              <div class="review-rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <span class="review-name">— Mila</span>
+            </div>
           </div>
         </div>
+
+        <div class="review-group">
+           <div class="review-card shadow-sm mx-auto">
+              <div class="review-text">
+                <p>"Syncing my reading notes has never been easier. It's a game changer."</p>
+              </div>
+
+              <div class="review-footer">
+                <div class="review-rating">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star-half-stroke"></i>
+                  <i class="fa-regular fa-star"></i>
+                </div>
+                <span class="review-name">— Noah</span>
+              </div>
+            </div>
+
+            <div class="review-card shadow-sm mx-auto">
+              <div class="review-text">
+                <p>"Super smooth experience. I organise my reading life with zero stress."</p>
+              </div>
+
+              <div class="review-footer">
+                <div class="review-rating">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-regular fa-star"></i>
+                </div>
+                <span class="review-name">— Ava</span>
+              </div>
+            </div>
+
+            <div class="review-card shadow-sm mx-auto">
+              <div class="review-text">
+                <p>"Finally an app that actually helps me finish the books I start."</p>
+              </div>
+
+              <div class="review-footer">
+                <div class="review-rating">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-regular fa-star"></i>
+                </div>
+                <span class="review-name">— Lucas</span>
+              </div>
+            </div>
+          </div>
       </div>
   </div>
 </section>
