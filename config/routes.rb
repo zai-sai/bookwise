@@ -3,6 +3,10 @@ Rails.application.routes.draw do
   match "/404", to: "errors#not_found", via: :all
   match "/500", to: "errors#internal_server_error", via: :all
 
+  # To make the tests on kitt happy
+  get "/404", to: "errors#not_found"
+  get "/500", to: "errors#internal_server_error"
+
   devise_for :users
 
   root to: "shelves#index", as: :home
