@@ -29,4 +29,12 @@ class UserBook < ApplicationRecord
   scope :unread, -> { where(status: 0) }
   scope :read, -> { where(status: 1) }
   scope :in_progress, -> { where(status: 2) }
+
+  include PgSearch::Model
+
+  pg_search_scope :search_by_title_and_author,
+  against: [:title, :author],
+  using: {
+    tsearch: { prefix: true }  # allows searching with partial words
+  }
 end

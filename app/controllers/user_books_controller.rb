@@ -1,8 +1,17 @@
 class UserBooksController < ApplicationController
   def index
+    @current_query = params[:query]
     @shelves = current_user.shelves
     @user_books = current_user.user_books
     @featured_shelves = @shelves.limit(6)
+    if @current_query.present?
+      @book_ids = @user_books.map { |ub| ub.book.id }
+      @books = Book.where(id: @book_ids)
+      @books = @books.search_by_title_and_author(@current_query)
+      @user_books = current_user.user_books.select {|ub| @books.include?(ub.book) }
+    else
+      @user_books = current_user.user_books
+    end
   end
 
   def edit
