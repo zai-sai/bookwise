@@ -15,7 +15,7 @@ $secondary:     $indigo-600;
 $info:          $blue;
 
 $success:       $teal;
-$warning:       $yellow;
+$warning:       $orange-400;
 $danger:        $red-400;
 
 $light:         $gray-100;
@@ -54,3 +54,13 @@ $display-font-sizes: (
 //   5: 3rem,
 //   6: 2.5rem
 // ) !default;
+
+$position-values: (
+  0: 0,
+  5: 5%,
+  10: 10%,
+  50: 50%,
+  90: 90%,
+  95: 95%,
+  100: 100%
+);

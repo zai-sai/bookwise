@@ -8,7 +8,7 @@ class SearchesController < ApplicationController
     if @api_key.present?
       if @current_query.present?
         embed_query = RubyLLM.embed(@current_query)
-        Book.nearest_neighbors(:embedding, embed_query.vectors, distance: "euclidean").first(2)
+        Book.nearest_neighbors(:embedding, embed_query.vectors, distance: "euclidean").first(10)
       else
         Book.all
       end
