@@ -12,7 +12,9 @@
 
     <div class="mb-2 row">
       <% @user_books.each do |user_book| %>
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card">
+
+
+        <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 200px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
           <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book.id %>">
             <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
               <div class="col-4 h-100">
@@ -45,15 +47,15 @@
         </div>
 
 
-        <div class="modal fade" id="bookCardModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <%= render "books/user_books_modal", book: user_book.book %>
-              </div>
+      <div class="modal fade" id="bookCardModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="bookCardModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <%= render "books/user_books_modal", book: user_book.book %>
             </div>
           </div>
         </div>
+      </div>
 
         <div class="modal fade" id="addToShelfModal<%= user_book.book_id %>" tabindex="-1" aria-labelledby="addToShelfModalLabel" aria-hidden="true">
           <div class="modal-dialog">
