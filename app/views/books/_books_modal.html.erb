@@ -64,7 +64,7 @@
 
       <div class="d-flex justify-content-center gap-3">
         <%= link_to "Buy this book",
-                    "https://uk.bookshop.org/beta-search?keywords=#{ERB::Util.url_encode(book.title)}",
+                    "https://uk.bookshop.org/beta-search?keywords=#{ERB::Util.url_encode(book.title)}%20#{ERB::Util.url_encode(book.author)}",
                     target: "_blank",
                     class: "btn btn-outline-primary" %>
 
