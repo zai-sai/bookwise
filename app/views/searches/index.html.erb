@@ -21,7 +21,12 @@
           <div class="col-4 h-100 ps-0">
             <div class="shadow rounded-3 h-100 w-100 border position-relative">
               <% if current_user.user_books.find_by(book: book).present? %>
-                <div class="bg-light border border-top-0 rounded-bottom-3 px-2 pb-1 position-absolute top-0 end-5"><i class="fa-solid fa-bookmark fa-xl text-warning"></i></div>
+                <div class="bg-light border border-top-0 rounded-bottom-3 px-1 pb-1 position-absolute top-0 end-5">
+                  <% if current_user.user_books.find_by(book: book).status == "read"%>
+                    <i class="fa-solid fa-circle-check fa-lg text-success"></i>
+                  <% end %>
+                  <i class="fa-solid fa-bookmark fa-xl text-warning"></i>
+                </div>
               <% end %>
               <%= image_tag book.image_link,
                     class: "object-fit-cover h-100 w-100",
