@@ -1,6 +1,33 @@
 .reviews-title {
   width: 100%;
-  background-color: #dccff3;
+  background:
+    linear-gradient(45deg,white,rgb(101, 42, 250)) padding-box,
+    linear-gradient(45deg,rgb(196, 121, 196),rgb(127, 84, 127)) border-box;
   padding: 10px;
   border-bottom: 1px double black;
+}
+
+.bling-text {
+  background: linear-gradient(
+    90deg,
+    white 0%,
+    white 40%,
+    gold 50%,     /* thin purple shine */
+    white 60%,
+    white 100%
+  );
+  background-size: 300%;
+  font-weight: bold;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 14s ease-in-out infinite;
+}
+
+@keyframes shine {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 300%;
+  }
 }
