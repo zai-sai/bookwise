@@ -1,8 +1,7 @@
 .login-page {
+  height: fit-content;
   position: relative;
-  min-height: 100vh;
-  overflow: hidden;
-  width: 100%;
+  max-height: 500px;
 }
 
 .video-bg {
@@ -10,6 +9,8 @@
   inset: 0;
   z-index: 0;
   overflow: hidden;
+  max-height: 500px;
+  // transform: translate(0, 78px);
 }
 
 .video-bg video {
@@ -23,10 +24,4 @@
   inset: 0;
   background: rgba(0, 0, 0, 0.35);
   z-index: 1;
-}
-
-/* then make sure .login-wrapper has z-index above video */
-.login-wrapper {
-  position: relative;
-  z-index: 2;
 }
