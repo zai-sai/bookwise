@@ -5,11 +5,13 @@
     <h1>Bookwise Book Directory</h1>
   </div>
 
-  <div class="d-flex flex-wrap">
+  <div class="d-flex flex-wrap align-items-center justify-content-center">
     <% @books.each do |book| %>
-      <div class="">
+      <div class="book-cover-wrapper m-3">
         <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id%>">
-          <img src="<%= book.image_link %>" alt="Book cover for <%= book.title %> by <%= book.author %>" height="300px" class="shadow-sm rounded-3">
+          <div class="book-shell">
+            <img src="<%= book.image_link %>" alt="Book cover for <%= book.title %> by <%= book.author %>" class="book-cover">
+          </div>
         </button>
         <%= render "books/modal", book: book %>
       </div>
