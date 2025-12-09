@@ -1,7 +1,22 @@
-<%= link_to "Back", :back, class: "btn btn-sm btn-outline-primary m-4"%>
-<div class="container py-3" data-controller="user-books-index">
-  <h1 class="text-center" data-user-books-index-target="title123">~ My Books ~</h1>
-
+<%= link_to "Back", :back, class: "btn btn-sm btn-outline-primary mt-4 ms-4"%>
+<div class="container py-3 pt-0" data-controller="user-books-index">
+  <div>
+    <h1 class="text-center">My shelves</h1>
+  </div>
+   <div class="shelves-grid">
+      <!-- first 5 shelves -->
+      <% @featured_shelves.each do |shelf| %>
+        <div class="shelf-card">
+          <%= link_to shelf_path(shelf), class: "shelf-card-link" do %>
+            <h3 class="mb-1"><%= shelf.name %></h3>
+            <p class="mb-0 text-muted">
+              <%= pluralize(shelf.shelf_books.count, "book") %>
+            </p>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  <h1 class="text-center mt-5" data-user-books-index-target="title123">~ My Books ~</h1>
     <div class="row">
       <div class="col-12 py-3">
         <button type="button" class="btn btn-outline-primary active rounded-pill" data-bs-toggle="button" aria-pressed="true" data-user-books-index-target="allBooks" data-action="click->user-books-index#showAllBooks">All books</button>

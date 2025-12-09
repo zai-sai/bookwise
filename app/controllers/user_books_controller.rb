@@ -2,6 +2,7 @@ class UserBooksController < ApplicationController
   def index
     @shelves = current_user.shelves
     @user_books = current_user.user_books
+    @featured_shelves = @shelves.limit(6)
   end
 
   def edit

@@ -11,7 +11,6 @@
   box-shadow: rgba(0, 0, 0, 10%) 5px 5px 20px 0;
 }
 
-/* Top text centered */
 .review-text {
   text-align: center;
   margin-bottom: 1rem;
@@ -22,22 +21,20 @@
   }
 }
 
-/* Bottom row: stars + name */
+
 .review-footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-/* Stars on the left */
 .review-rating i {
   margin-right: 4px;
-  color: #f5c542; /* gold stars */
+  color: #f5c542;
 }
 
-/* Name bottom right */
 .review-name {
   font-weight: 600;
   font-size: 0.95rem;
-  margin-left: auto;    /* pushes it to the right */
+  margin-left: auto;
 }
