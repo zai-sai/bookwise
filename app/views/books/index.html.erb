@@ -9,18 +9,17 @@
   <div class="d-flex flex-wrap align-items-center justify-content-center">
     <% @books.each do |book| %>
       <div class="d-flex flex-column align-items-center">
-
         <div class="book-cover-wrapper m-3">
           <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id%>">
             <div class="book-shell">
               <img src="<%= book.image_link %>" alt="Book cover for <%= book.title %> by <%= book.author %>" class="book-cover">
             </div>
           </button>
-          <%= render "books/modal", book: book %>
         </div>
         <div class="bookshelf-shelves">
         </div>
       </div>
+      <%= render "books/modal", book: book %>
     <% end %>
   </div>
 
