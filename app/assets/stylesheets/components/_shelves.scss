@@ -4,7 +4,7 @@
   border-radius: 6px;
   overflow: hidden;
   position: relative;
-  background: #f3f3f3;
+  // background: #f3f3f3;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -27,15 +27,6 @@
   background: #BA8C63; /* front face color */
   transform-style: preserve-3d;
   perspective: 500px;
-
-}
-
-.bookshelf-shelves::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  height: 1px;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 1);
 }
 
 .bookshelf-shelves::before {
@@ -48,5 +39,4 @@
   background: #BA8C63; /* top face - slightly lighter */
   transform-origin: bottom;
   transform: rotateX(70deg) translateX(-50%); /* angle it back */
-
  }
