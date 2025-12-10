@@ -5,13 +5,19 @@
     <%= render "shared/search_bar", placeholder: "Find books in our book directory" %>
 
     <div class="mb-2">
-      <%= link_to new_shelf_path, class: "btn btn-primary rounded-pill" do %>
-        New Shelf
-        <i class="fa-solid fa-circle-plus fa-lg ms-1"></i>
-      <% end %>
+      <div class="d-flex justify-content-between align-items-center mb-3">
+        <h1 class="m-0">
+          <%= link_to "My Library", user_books_path, class: "btn btn-light btn-lg" %>
+        </h1>
 
-      <h1><%= link_to "My Library", user_books_path, class:"btn btn-primary" %></h1>
-      <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+        <%= link_to new_shelf_path, class: "btn btn-outline rounded-pill btn-m d-flex align-items-center" do %>
+          New Shelf
+          <i class="fa-solid fa-circle-plus fa-lg ms-2"></i>
+        <% end %>
+
+      </div>
+
+      <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-5 ps-4">
         <% if @user_books.any? %>
           <% @user_books.each do |user_book| %>
             <div class="d-flex flex-column align-items-center">
@@ -39,8 +45,9 @@
 
       <% @shelves.each do |shelf| %>
         <% if shelf.name.present? %>
-          <h3><%= link_to shelf.name, shelf_path(shelf), class:"btn btn-primary"%></h3>
-          <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+          <div class="mb-5">
+          <h3><%= link_to shelf.name, shelf_path(shelf), class:"btn btn-light btn-lg"%></h3>
+            <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
             <% if shelf.shelf_books.any? %>
               <% shelf.shelf_books.each do |shelf_book| %>
@@ -68,6 +75,7 @@
               <p class="lead">This shelf is currently empty.</p>
             <% end %>
           </div>
+        </div>
         <% end %>
       <% end %>
     </div>
