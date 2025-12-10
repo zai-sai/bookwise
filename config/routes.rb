@@ -26,7 +26,7 @@ Rails.application.routes.draw do
   end
 
   resources :books, only: [:index, :show]
-  resources :user_books, only: [:index, :edit, :update, :destroy], path: "my_books" do
+  resources :user_books, only: [:index, :edit, :update, :destroy, :patch], path: "my_books" do
     collection do
       post :add_to_library
     end
