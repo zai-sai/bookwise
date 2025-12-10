@@ -32,6 +32,8 @@ class UserBook < ApplicationRecord
   scope :read, -> { where(status: 1) }
   scope :in_progress, -> { where(status: 2) }
 
+  default_scope { order(created_at: :desc) }
+
   include PgSearch::Model
 
   pg_search_scope :search_by_title_and_author,
