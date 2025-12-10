@@ -17,7 +17,7 @@
 
       </div>
 
-      <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+      <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-5 ps-4">
         <% if @user_books.any? %>
           <% @user_books.each do |user_book| %>
             <div class="d-flex flex-column align-items-center">
@@ -45,6 +45,7 @@
 
       <% @shelves.each do |shelf| %>
         <% if shelf.name.present? %>
+          <div class="mb-5">
           <h3><%= link_to shelf.name, shelf_path(shelf), class:"btn btn-light btn-lg"%></h3>
             <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
@@ -74,6 +75,7 @@
               <p class="lead">This shelf is currently empty.</p>
             <% end %>
           </div>
+        </div>
         <% end %>
       <% end %>
     </div>
