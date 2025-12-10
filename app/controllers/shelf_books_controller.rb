@@ -9,7 +9,7 @@ class ShelfBooksController < ApplicationController
     @shelf_book = ShelfBook.find(params[:id])
     @shelf = @shelf_book.shelf
     @shelf_book.destroy
-    redirect_to @shelf, notice: "Book successfully removed from your shelf!", status: :see_other
+    redirect_to shelf_path(@shelf), notice: "Book successfully removed from your shelf!", status: :see_other
   end
 
   private
