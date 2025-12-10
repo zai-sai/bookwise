@@ -1,9 +1,8 @@
  <% content_for :meta_title, "Bookwise | #{@shelf.name}" %>
 
-
 <div class="px-3" data-controller="bookshelf">
 
-  <%= link_to "Back", :back, class: "btn btn-sm btn-outline-primary ml-4 mt-4"%>
+  <%= link_to "Back to all shelves", :home, class: "btn btn-sm btn-outline-primary ml-4 mt-4"%>
   <%= render "local_search_bar", placeholder: "Find a book on your shelf" %>
 
 <div class="container">
