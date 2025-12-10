@@ -12,4 +12,6 @@ class ShelfBook < ApplicationRecord
     tsearch: { prefix: true }  # allows searching with partial words
   }
 
+  default_scope { order(created_at: :desc) }
+
 end
