@@ -1,46 +1,77 @@
- <% content_for :meta_title, "Bookwise | #{@shelf.name}" %>
+<% content_for :meta_title, "Bookwise | #{@shelf.name}" %>
 
 <div class="px-3" data-controller="bookshelf">
 
   <%= link_to "Back to all shelves", :home, class: "btn btn-sm btn-outline-primary ml-4 mt-4"%>
   <%= render "local_search_bar", placeholder: "Find a book on your shelf" %>
 
-<div class="container">
-  <div class="d-flex align-items-center justify-content-between m-4">
-    <div>
-      <!-- Default view of the bookshelf title -->
-      <h1 class="mb-0" data-bookshelf-target="titleView">
-        <%= @shelf.name %>
-      </h1>
+  <div class="container">
+    <div class="d-flex align-items-center justify-content-between m-4">
+      <div>
+        <!-- Default view of the bookshelf title -->
+        <h1 class="mb-0" data-bookshelf-target="titleView">
+          <%= @shelf.name %>
+        </h1>
 
-      <!-- Inline edit form (shown only when user clicks "edit my bookshelf") -->
-      <%= simple_form_for @shelf,
-            url: shelf_path(@shelf),
-            method: :patch,
-            html: {
-              class: "d-flex align-items-center gap-2 mt-2 d-none",
-              data: { bookshelf_target: "titleForm" }
-            } do |f| %>
+        <!-- Inline edit form (shown only when user clicks "edit my bookshelf") -->
+        <%= simple_form_for @shelf,
+              url: shelf_path(@shelf),
+              method: :patch,
+              html: {
+                class: "d-flex align-items-center gap-2 mt-2 d-none",
+                data: { bookshelf_target: "titleForm" }
+              } do |f| %>
 
-        <%= f.input :name,
-                    label: false,
-                    input_html: { class: "form-control form-control-lg" } %>
+          <%= f.input :name,
+                      label: false,
+                      input_html: { class: "form-control form-control-lg" } %>
 
-        <!-- This button both saves the updated name of shelf and exits edit mode via page reload -->
-        <%= f.button :submit, "I'm done editing",
-                     class: "btn btn-primary btn-md ms-auto" %>
-      <% end %>
+          <!-- This button both saves the updated name of shelf and exits edit mode via page reload -->
+          <%= f.button :submit, "I'm done editing",
+                       class: "btn btn-primary btn-md ms-auto" %>
+        <% end %>
+      </div>
 
+      <!-- Mobile view only: existing ellipsis dropdown -->
+      <div class="d-md-none">
+        <%= render "shelf_actions", shelf: @shelf  %>
+      </div>
+
+      <!-- Desktop view: inline shelf action buttons -->
+      <div class="shelf-actions-desktop d-none d-md-flex align-items-center gap-2 ms-auto">
+        <%= link_to searches_path,
+            class: "btn btn-outline-primary btn-md d-flex align-items-center gap-2 shelf-action-btn" do %>
+          <i class="fa-solid fa-circle-plus"></i>
+          <span>Add</span>
+        <% end %>
+
+        <button
+          type="button"
+          class="btn btn-outline-secondary btn-md d-flex align-items-center gap-2 shelf-action-btn"
+          data-action="click->bookshelf#enterEdit"
+        >
+          <i class="fa-regular fa-pen-to-square"></i>
+          <span>Edit</span>
+        </button>
+
+        <%= link_to shelf_path(@shelf),
+            data: {
+              turbo_method: :delete,
+              turbo_confirm: "Are you sure you'd like to delete this bookshelf?"
+            },
+            class: "btn btn-outline-danger btn-md d-flex align-items-center gap-2 shelf-action-btn" do %>
+          <i class="fa-solid fa-trash-can"></i>
+          <span>Delete</span>
+        <% end %>
+      </div>
     </div>
-    <%= render "shelf_actions", shelf: @shelf  %>
-  </div>
 
-  <!-- Book shelf container -->
-  <div class="d-flex flex-wrap align-items-center justify-content-center">
-    <% if @shelf_books.any? %>
-      <% @shelf_books.each do |shelf_book| %>
-        <div class="d-flex flex-column align-items-center">
-          <div class="book-cover-wrapper m-3" data-bookshelf-target="book">
+    <!-- Book shelf container -->
+    <div class="d-flex flex-wrap align-items-center justify-content-center">
+      <% if @shelf_books.any? %>
+        <% @shelf_books.each do |shelf_book| %>
+          <div class="d-flex flex-column align-items-center">
+            <div class="book-cover-wrapper m-3" data-bookshelf-target="book">
 
               <!-- DELETE BOOK BUTTON (shows only via CSS when a user clicks "edit my bookshelf") -->
               <%= button_to shelf_book_path(shelf_book),
@@ -51,30 +82,30 @@
                 <i class="fa-solid fa-minus"></i>
               <% end %>
 
-            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
-              <div class="book-shell">
-                <% if shelf_book.status == "read" %>
-                  <div class="position-relative">
-                    <div style="z-index: 100;" class="remove-tick bg-light border rounded-circle position-absolute p-1 top-0 end-0">
-                      <i class="fa-solid fa-circle-check fa-xl text-success "></i>
+              <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
+                <div class="book-shell">
+                  <% if shelf_book.status == "read" %>
+                    <div class="position-relative">
+                      <div style="z-index: 100;" class="remove-tick bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                        <i class="fa-solid fa-circle-check fa-xl text-success "></i>
+                      </div>
                     </div>
-                  </div>
-                <% end %>
-                <img src="<%= shelf_book.image_link %>"
-                    alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>"
-                    class="book-cover">
-              </div>
-            </button>
+                  <% end %>
+                  <img src="<%= shelf_book.image_link %>"
+                      alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>"
+                      class="book-cover">
+                </div>
+              </button>
+            </div>
+            <div class="bookshelf-shelves">
+            </div>
           </div>
-          <div class="bookshelf-shelves">
-          </div>
-        </div>
-        <%= render "books/modal", book: shelf_book.book %>
+          <%= render "books/modal", book: shelf_book.book %>
+        <% end %>
+      <% else %>
+        <p class="lead">This shelf is currently empty.</p>
       <% end %>
-    <% else %>
-      <p class="lead">This shelf is currently empty.</p>
-    <% end %>
-  </div>
+    </div>
 
-</div>
+  </div>
 </div>
