@@ -10,7 +10,7 @@
           <%= link_to "My Library", user_books_path, class: "btn btn-light btn-lg" %>
         </h1>
 
-        <%= link_to new_shelf_path, class: "btn btn-info rounded-pill btn-sm d-flex align-items-center" do %>
+        <%= link_to new_shelf_path, class: "btn btn-outline rounded-pill btn-m d-flex align-items-center" do %>
           New Shelf
           <i class="fa-solid fa-circle-plus fa-lg ms-2"></i>
         <% end %>
@@ -46,7 +46,7 @@
       <% @shelves.each do |shelf| %>
         <% if shelf.name.present? %>
           <h3><%= link_to shelf.name, shelf_path(shelf), class:"btn btn-light btn-lg"%></h3>
-          <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+            <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
             <% if shelf.shelf_books.any? %>
               <% shelf.shelf_books.each do |shelf_book| %>
