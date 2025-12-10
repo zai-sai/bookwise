@@ -1,4 +1,7 @@
 .edit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 550px;
   margin: 40px auto;
   background: $white;
