@@ -1,6 +1,6 @@
 class Book < ApplicationRecord
-  has_many :user_books
-  has_many :book_tags
+  has_many :user_books, dependent: :destroy
+  has_many :book_tags, dependent: :destroy
   has_many :tags, through: :book_tags
   has_neighbors :embedding
   after_create :set_embedding
