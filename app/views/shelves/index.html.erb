@@ -5,9 +5,9 @@
     <%= render "shared/search_bar", placeholder: "Find books in our book directory" %>
 
     <div class="mb-2">
-      <p><%= link_to 'Create new shelf', new_shelf_path, class: "btn btn-primary rounded-pill btn-create" %></p>
+      <p><%= link_to 'New shelf +', new_shelf_path, class: "btn btn-primary rounded-pill btn-create" %></p>
 
-      <h3><%= link_to "My Library", user_books_path %></h3>
+      <h1><%= link_to "My Library", user_books_path, class:"btn btn-primary" %></h1>
       <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
         <% if @user_books.any? %>
           <% @user_books.each do |user_book| %>
@@ -34,38 +34,39 @@
         <% end %>
       </div>
 
-      <% @shelves.each do |shelf| %>
-        <h3><%= link_to shelf.name, shelf_path(shelf) %></h3>
-        <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
+        <% @shelves.each do |shelf| %>
+          <% if shelf.name.present? %>
+            <h3><%= link_to shelf.name, shelf_path(shelf), class:"btn btn-primary"%></h3>
+            <div class="d-flex flex-nowrap overflow-x-scroll scroll-hide mb-3 ps-4">
 
-          <% if shelf.shelf_books.any? %>
-            <% shelf.shelf_books.each do |shelf_book| %>
-              <div class="d-flex flex-column align-items-center">
+              <% if shelf.shelf_books.any? %>
+                <% shelf.shelf_books.each do |shelf_book| %>
+                  <div class="d-flex flex-column align-items-center">
 
-                <div class="book-cover-wrapper m-3">
-                  <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
-                    <div class="book-shell position-relative">
-                      <% if shelf_book.status == "read" %>
-                        <div style="z-index: 100;" class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
-                          <i class="fa-solid fa-circle-check fa-xl text-success"></i>
+                    <div class="book-cover-wrapper m-3">
+                      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= shelf_book.book.id %>">
+                        <div class="book-shell position-relative">
+                          <% if shelf_book.status == "read" %>
+                            <div style="z-index: 100;" class="bg-light border rounded-circle position-absolute p-1 top-0 end-0">
+                              <i class="fa-solid fa-circle-check fa-xl text-success"></i>
+                            </div>
+                          <% end %>
+                          <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" class="book-cover">
                         </div>
-                      <% end %>
-                      <img src="<%= shelf_book.image_link %>" alt="Book cover for <%= shelf_book.title %> by <%= shelf_book.author %>" class="book-cover">
+                      </button>
                     </div>
-                  </button>
-                </div>
-                <div class="bookshelf-shelves">
-                </div>
-                <%= render "books/modal", book: shelf_book.book %>
+                    <div class="bookshelf-shelves">
+                    </div>
+                    <%= render "books/modal", book: shelf_book.book %>
 
-              </div>
-            <% end %>
-          <% else %>
-            <p class="lead">This shelf is currently empty.</p>
+                  </div>
+                <% end %>
+              <% else %>
+                <p class="lead">This shelf is currently empty.</p>
+              <% end %>
+            </div>
           <% end %>
-
-        </div>
-      <% end %>
+        <% end %>
     </div>
 
   </div>
