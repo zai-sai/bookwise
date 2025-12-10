@@ -1,22 +1,22 @@
 <nav class="navbar navbar-expand-sm sticky-top">
   <div class="container-fluid">
 
-    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#dropdownModal">
-      <i class="fa-solid fa-bars fa-xl"></i>
-    </button>
+    <%= link_to searches_path, class: "btn" do %>
+      <i class="fa-solid fa-magnifying-glass fa-xl"></i>
+    <% end %>
 
     <%= link_to home_path, class: "navbar-brand d-flex" do %>
       <%= image_tag "dewey_bg-transparent.png", alt: "Dewey the Owl", style: "max-height:50px", class: "me-2" %>
       <h1>BOOKWISE</h1>
     <% end %>
 
-    <%= link_to searches_path, class: "btn" do %>
-      <i class="fa-solid fa-magnifying-glass fa-xl"></i>
-    <% end %>
+    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#dropdownModal">
+      <i class="fa-solid fa-bars fa-xl"></i>
+    </button>
   </div>
 </nav>
-<div class="modal modal-sm fade align-items-start justify-content-start" id="dropdownModal" tabindex="-1" aria-labelledby="dropdownModalLabel" aria-hidden="true">
-  <div class="modal-dialog mt-3 ms-3">
+<div class="modal modal-sm fade align-items-start justify-content-end" id="dropdownModal" tabindex="-1" aria-labelledby="dropdownModalLabel" aria-hidden="true">
+  <div class="modal-dialog mt-3 me-3">
     <div class="modal-content" style="height: 95dvh;">
       <div class="modal-header">
         <h1 class="modal-title fs-5 text-primary" id="dropdownModalLabel">
