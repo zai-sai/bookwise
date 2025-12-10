@@ -68,3 +68,11 @@ $position-values: (
   95: 95%,
   100: 100%
 );
+
+.flex-grow-2 { flex-grow: 2; }
+.flex-grow-4 { flex-grow: 4; }
+.flex-grow-6 { flex-grow: 6; }
+
+.flex-shrink-2 { flex-shrink: 2; }
+.flex-shrink-4 { flex-shrink: 4; }
+.flex-shrink-6 { flex-shrink: 6; }

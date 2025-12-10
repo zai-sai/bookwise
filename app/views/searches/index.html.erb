@@ -17,7 +17,7 @@
 
     <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card">
       <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= book.id %>">
-        <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
+        <div class="bg-white shadow rounded-3 h-100 row justify-content-between align-items-center">
           <div class="col-4 h-100 ps-0">
             <div class="shadow rounded-3 h-100 w-100 border position-relative">
               <% if current_user.user_books.find_by(book: book).present? %>
@@ -49,7 +49,7 @@
           </div>
 
           <div class="col-1 px-1">
-            <i class="fa-solid fa-circle-plus fa-2xl" style="color: #8540f5;" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= book.id %>"></i>
+            <i class="fa-solid fa-circle-plus fa-2xl text-primary" data-bs-toggle="modal" data-bs-target="#addToShelfModal<%= book.id %>"></i>
           </div>
         </div>
       </button>
@@ -73,17 +73,17 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h1 class="modal-title fs-5" id="addToShelfModalLabel">Which shelf do you want to add this book to?</h1>
+            <h3 class="modal-title" id="addToShelfModalLabel">Which shelf do you want to add this book to?</h3>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-          <div class="modal-body">
+          <div class="modal-body bg-light">
             <div class="rounded-3 p-3 mb-3">
               <h4 class="m-0 text-center text-dark-emphasis d-flex justify-content-between">My Library
                 <%= button_to add_to_library_user_books_path,
                               method: :post,
                               params: { book_id: book },
                               class: "p-0 border-0 bg-transparent w-100" do %>
-                  <i class="fa-solid fa-circle-plus fa-lg" style="color: #8540f5;"></i>
+                  <i class="fa-solid fa-circle-plus fa-lg text-primary"></i>
                 <% end %>
               </h4>
             </div>
@@ -94,14 +94,14 @@
                                 method: :post,
                                 params: { shelf_id: shelf, book_id: book },
                                 class: "p-0 border-0 bg-transparent w-100" do %>
-                    <i class="fa-solid fa-circle-plus fa-lg" style="color: #8540f5;"></i>
+                    <i class="fa-solid fa-circle-plus fa-lg text-primary"></i>
                   <% end %>
                 </h4>
               </div>
             <% end %>
-            <%= link_to "New shelf +",
+            <%= link_to "New Shelf",
                 new_shelf_path(book_id: book.id),
-                class: "btn btn-primary rounded-pill d-flex justify-content-center align-items-center"
+                class: "btn btn-primary btn-lg rounded-pill"
             %>
           </div>
 

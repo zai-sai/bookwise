@@ -2,14 +2,17 @@
   <div class="container-fluid">
 
     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#dropdownModal">
-      <i class="fa-solid fa-bars fa-lg"></i>
+      <i class="fa-solid fa-bars fa-xl"></i>
     </button>
 
-    <%= link_to home_path, class: "navbar-brand" do %>
+    <%= link_to home_path, class: "navbar-brand d-flex" do %>
+      <%= image_tag "dewey_bg-transparent.png", alt: "Dewey the Owl", style: "max-height:50px", class: "me-2" %>
       <h1>BOOKWISE</h1>
     <% end %>
 
-    <div></div>
+    <%= link_to searches_path, class: "btn" do %>
+      <i class="fa-solid fa-magnifying-glass fa-xl"></i>
+    <% end %>
   </div>
 </nav>
 <div class="modal modal-sm fade align-items-start justify-content-start" id="dropdownModal" tabindex="-1" aria-labelledby="dropdownModalLabel" aria-hidden="true">

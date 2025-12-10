@@ -30,10 +30,11 @@ $black:    #000000;
 $red-400: #e35d6a;
 $red-500: $red;
 
-$indigo-100: #e0cffc;
-$indigo-200: #c29ffa;
-$indigo-300: #a370f7;
-$indigo-400: #8540f5;
+$indigo-50:  #eddfff;
+$indigo-100: #e0cdfe;
+$indigo-200: #c19bfe;
+$indigo-300: #a26afd;
+$indigo-400: #8338fd;
 $indigo-500: $indigo;
 $indigo-600: #520dc2;
 $indigo-700: #3d0a91;
@@ -45,3 +46,20 @@ $orange-200: #fecba1;
 $orange-300: #feb272;
 $orange-400: #fd9843;
 $orange-500: $orange;
+$orange-600: #e86b02;
+$orange-700: #c15902;
+$orange-800: #9a4702;
+$orange-900: #602c01;
+
+
+$sand: #ba8c63;
+$wood: #85542a;
+
+
+$mauve: #cb72cb;
+$plum: #8f448f;
+$plumdigo: #8c2ad1;
+
+$bg-gradient: linear-gradient($white, $indigo-100);
+$border-gradient: linear-gradient(to right, $mauve, $plumdigo);
+$shelf-gradient: linear-gradient(0deg, $sand, $wood);
