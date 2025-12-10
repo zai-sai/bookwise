@@ -28,19 +28,15 @@ class UserBooksController < ApplicationController
 
   def add_to_library
     book = Book.find(params[:book_id])
-    user_book = current_user.user_books.find_or_create_by(book: book)
-    user_books = UserBook.where(user: current_user)
-    if user_books.include?(book: @book)
+    if UserBook.find_by(book: book, user: current_user).present?
       flash[:notice] = "This books is already part of your library!"
-
     else
-      @user_book = UserBook.new(book: @book, user: current_user)
+      user_book = UserBook.new(book: book, user: current_user)
       if user_book.save
         flash[:notice] = "Book added successfully!"
         redirect_to request.referrer
       else
         flash[:alert] = "Sorry, unable to add this book to your library."
-
       end
     end
   end
