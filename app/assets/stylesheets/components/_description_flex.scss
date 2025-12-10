@@ -1,0 +1,30 @@
+.description-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.dewey-logo {
+  width: 220px;
+  max-width: 100%;
+}
+
+.description-content {
+  flex: 1;
+}
+
+.description-list {
+  margin: 1rem 0;
+  padding-left: 1.2rem;
+  font-size: 1.1rem;
+}
+
+.description-text {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #444;
+}
