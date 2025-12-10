@@ -10,7 +10,7 @@
     <div class="shelves-grid">
       <!-- first 5 shelves -->
       <% @shelves.each do |shelf| %>
-        <div class="shelf-card">
+        <div class="shadow shelf-card">
           <%= link_to shelf_path(shelf), class: "shelf-card-link" do %>
             <h3 class="mb-1"><%= shelf.name %></h3>
             <p class="mb-0 text-muted">
