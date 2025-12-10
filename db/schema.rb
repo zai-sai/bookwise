@@ -24,8 +24,15 @@ ActiveRecord::Schema[7.1].define(version: 2025_12_08_155237) do
     t.index ["tag_id"], name: "index_book_tags_on_tag_id"
   end
 
-# Could not dump table "books" because of following StandardError
-#   Unknown type 'vector' for column 'embedding'
+  create_table "books", force: :cascade do |t|
+    t.string "title", null: false
+    t.string "author", null: false
+    t.text "description"
+    t.string "image_link"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.vector "embedding", limit: 1536
+  end
 
   create_table "shelf_books", force: :cascade do |t|
     t.bigint "user_book_id", null: false
