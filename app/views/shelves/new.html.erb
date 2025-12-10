@@ -8,14 +8,12 @@
       <div class="m-2">
         <% if params[:book_id].present? %>
           <%= simple_form_for @shelf, url: shelves_path(book_id: params[:book_id]) do |f| %>
-            <%= f.error_notification %>
             <%= f.input :name %>
             <%= f.submit "Create shelf", class:"btn btn-primary" %>
           <% end %>
 
         <% else %>
           <%= simple_form_for @shelf do |f| %>
-            <%= f.error_notification %>
             <%= f.input :name %>
             <div class="d-flex justify-content-center">
               <%= f.submit "Create shelf", class:"btn btn-primary rounded-pill" %>

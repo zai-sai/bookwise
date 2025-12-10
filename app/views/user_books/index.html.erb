@@ -1,6 +1,6 @@
 <% content_for :meta_title, "Bookwise | My Library " %>
 
-<div class="container py-3">
+<div class="container py-5">
   <div>
     <h1 class="text-center pb-2">My Library</h1>
   </div>
@@ -11,7 +11,7 @@
       <% @shelves.each do |shelf| %>
         <div class="shadow shelf-card">
           <%= link_to shelf_path(shelf), class: "shelf-card-link" do %>
-            <h3 class="mb-1"><%= shelf.name %></h3>
+            <h4 class="mb-0"><%= shelf.name %></h4>
             <p class="mb-0 text-muted">
               <%= pluralize(shelf.shelf_books.count, "book") %>
             </p>
@@ -102,7 +102,7 @@
                                     method: :post,
                                     params: { shelf_id: shelf, book_id: user_book.book },
                                     class: "p-0 border-0 bg-transparent w-100" do %>
-                        <i class="fa-solid fa-circle-plus fa-lg" style="color: #8540f5;"></i>
+                        <i class="fa-solid fa-circle-plus fa-lg text-primary"></i>
                       <% end %>
                     </h4>
                   </div>
