@@ -43,7 +43,7 @@
       <% unless @user_books.present? %>
         <h2 class="text-center mt-5">~ No Books in My Library ~</h2>
       <% end %>
-      <% @user_books.each do |user_book| %>
+        <% @user_books.each do |user_book| %>
 
 
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
