@@ -1,15 +1,23 @@
 .book-shell {
+  display: inline-block;
   width: 180px;
   height: 280px;
   border-radius: 6px;
   overflow: hidden;
   position: relative;
   background: $light;
-  // background: #f3f3f3;
   box-shadow: 10px 10px 20px #00000080;
+  transform: translateY(0);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.book-shell:hover {
+  transform: translateY(-14px) scale(1.03);
+  box-shadow: 0 18px 30px rgba(0, 0, 0, 0.25);
 }
 
 .book-shell-sm {
+  display: inline-block;
   width: 135px;
   height: 200px;
   border-radius: 6px;
@@ -17,6 +25,13 @@
   position: relative;
   background: $light;
   box-shadow: 10px 10px 20px #00000080;
+  transform: translateY(0);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.book-shell-sm:hover {
+  transform: translateY(-14px) scale(1.03);
+  box-shadow: 0 18px 30px rgba(0, 0, 0, 0.25);
 }
 
 .book-cover {

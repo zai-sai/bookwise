@@ -5,7 +5,9 @@
     <h1 class="text-center pb-2">My Library</h1>
   </div>
   <div class="container pb-4">
+    <% if @shelves.present? %>
     <h2>My Shelves</h2>
+    <% end %>
     <div class="shelves-grid">
       <!-- first 5 shelves -->
       <% @shelves.each do |shelf| %>
@@ -35,8 +37,13 @@
       </div>
     </div>
 
+
+
     <div class="mb-2 row">
-      <% @user_books.each do |user_book| %>
+      <% unless @user_books.present? %>
+        <h2 class="text-center mt-5">~ No Books in My Library ~</h2>
+      <% end %>
+        <% @user_books.each do |user_book| %>
 
 
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
