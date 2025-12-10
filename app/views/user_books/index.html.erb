@@ -41,7 +41,7 @@
 
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-3" style="height: 250px" data-controller="book-card" data-user-books-index-target="book" data-status="<%= user_book.status %>">
           <button type="button" class="btn h-100 w-100" data-bs-toggle="modal" data-bs-target="#bookCardModal<%= user_book.book.id %>">
-            <div class="shadow rounded-3 h-100 row justify-content-between align-items-center">
+            <div class="bg-white shadow rounded-3 h-100 row justify-content-between align-items-center">
               <div class="col-4 h-100 ps-0">
                 <div class="shadow rounded-3 h-100 w-100 border position-relative">
                   <% if user_book.status == "read"%>

@@ -1,4 +1,4 @@
-.app-background-color {
-  background:
-    linear-gradient(155deg,white,#e0cffc) padding-box,
+body {
+  background: linear-gradient(155deg, $orange-100, $indigo-50, $orange-100);
+  min-height: 100vh;
 }

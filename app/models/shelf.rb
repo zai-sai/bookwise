@@ -4,5 +4,5 @@ class Shelf < ApplicationRecord
   has_many :user_books, through: :shelf_books
   has_many :books, through: :shelf_books
 
-  validates :name, presence: { message: "You must give your shelf a name" }
+  validates :name, presence: true
 end
