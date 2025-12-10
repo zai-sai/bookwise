@@ -33,7 +33,11 @@ class ShelvesController < ApplicationController
 def add_to_collection
   shelf = Shelf.find(params[:shelf_id])
   book = Book.find(params[:book_id])
-  user_book = current_user.user_books.find_or_create_by(book: book)
+  if UserBook.find_by(book: book, user: current_user).present?
+    user_book = UserBook.find_by(book: book, user: current_user)
+  else
+    user_book = UserBook.create(book: book, user: current_user)
+  end
   shelf_book = ShelfBook.new(user_book: user_book, shelf: shelf)
   if shelf_book.save
     redirect_to shelf_path(shelf), notice: "#{book.title} added successfully!"
