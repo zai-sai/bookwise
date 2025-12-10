@@ -1,9 +1,7 @@
 .edit-container {
   max-width: 550px;
   margin: 40px auto;
-  background:
-    linear-gradient(white, white) padding-box,
-    linear-gradient(to right, rgb(196, 121, 196), rgb(127, 84, 127)) border-box;
+  background: $white;
   border: 2px solid transparent;
   padding: 2rem 2.5rem;
   border-radius: 16px;
@@ -18,7 +16,7 @@
 
 .pending-confirm {
   background: #fff5d6;
-  border-left: 4px solid #ffcc00;
+  border-left: 4px solid $yellow;
   padding: 10px;
   border-radius: 6px;
   font-size: 0.9rem;
@@ -29,5 +27,5 @@
 }
 
 hr {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid $light;
 }

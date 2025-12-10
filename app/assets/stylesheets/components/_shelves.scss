@@ -4,8 +4,8 @@
   border-radius: 6px;
   overflow: hidden;
   position: relative;
-  background: #f3f3f3;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  background: $light;
+  box-shadow: 10px 10px 20px #00000080;
 }
 
 .book-shell-sm {
@@ -14,8 +14,8 @@
   border-radius: 6px;
   overflow: hidden;
   position: relative;
-  background: #f3f3f3;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  background: $light;
+  box-shadow: 10px 10px 20px #00000080;
 }
 
 .book-cover {
@@ -34,7 +34,8 @@
   width: 110%;
   height: 0px;
   transform: translateY(-1px);
-  background: #BA8C63; /* front face color */
+  // background: #BA8C63; /* front face color */
+  background: $sand;
   transform-style: preserve-3d;
   perspective: 500px;
 
@@ -45,7 +46,7 @@
   position: absolute;
   top: 0;
   height: 1px;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 1);
+  box-shadow: 0px 4px 20px $black;
 }
 
 .bookshelf-shelves::before {
@@ -55,8 +56,8 @@
   left: 50%;
   width: 111%;
   height: 120px; /* depth of the shelf */
-  background: #BA8C63; /* top face - slightly lighter */
+  // background: #BA8C63; /* top face - slightly lighter */
+  background: $shelf-gradient;
   transform-origin: bottom;
   transform: rotateX(70deg) translateX(-50%); /* angle it back */
-
- }
+}

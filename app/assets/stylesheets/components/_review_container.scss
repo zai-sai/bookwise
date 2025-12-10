@@ -2,11 +2,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background:
-    linear-gradient(45deg,#e0cffc,#c29ffa) padding-box,
-    linear-gradient(45deg,#e0cffc,#a370f7) border-box;
+  background: $white;
+    // linear-gradient(45deg,#e0cffc,#c29ffa) padding-box,
+    // linear-gradient(45deg,#e0cffc,#a370f7) border-box;
 }
-
 
 .review-container {
   width: 100%;
@@ -15,4 +14,33 @@
   margin: 10px;
   display: flex;
   justify-content: center;
+}
+
+.reviews-title {
+  width: 100%;
+}
+
+.bling-text {
+  background: linear-gradient(
+    90deg,
+    black 0%,
+    black 40%,
+    $primary 50%,
+    black 60%,
+    black 100%
+  );
+  background-size: 300%;
+  font-weight: bold;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 15s ease-in-out infinite;
+}
+
+@keyframes shine {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 300%;
+  }
 }
