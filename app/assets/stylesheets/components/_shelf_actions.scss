@@ -32,12 +32,14 @@
   position: relative;
   margin-bottom: 0.5rem !important;
   padding-bottom: 0 !important;
+  z-index: 3;
 }
 
-// When the Stimulus controller adds .editing, wobble the image:
-.book-cover-wrapper.editing img {
+// When the Stimulus controller adds .editing, wobble the book:
+.book-cover-wrapper.editing {
   animation: wobble 0.25s ease-in-out infinite;
   transform-origin: center bottom;
+  z-index: 3;
 }
 
 // Delete button on each wobbling book cover - hidden by default:
@@ -59,4 +61,22 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  position: fixed;
+}
+
+.delete-book-btn:after {
+  content: "";
+  position: absolute;
+  left: 55px;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  background: #e83474;
+  /*Other styles*/
+}
+
+
+// Hiding the green tick when in edit mode
+.book-cover-wrapper.editing .remove-tick {
+  display: none;
 }
