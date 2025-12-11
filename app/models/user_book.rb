@@ -5,7 +5,7 @@ class UserBook < ApplicationRecord
   has_many :shelf_books
   has_many :shelves, through: :shelf_books
 
-  validates :book, uniqueness: true
+  validates :book, uniqueness: { scope: :user }
 
   # Active record method, allows UserBook to inherit attributes from Book
   # Can only be used on models with belongs_to (inherit from parent)
