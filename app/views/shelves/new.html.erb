@@ -9,7 +9,7 @@
         <% if params[:book_id].present? %>
           <%= simple_form_for @shelf, url: shelves_path(book_id: params[:book_id]) do |f| %>
             <%= f.input :name %>
-            <%= f.submit "Create shelf", class:"btn btn-primary" %>
+            <%= f.submit "Build shelf", class:"btn btn-primary" %>
           <% end %>
 
         <% else %>
