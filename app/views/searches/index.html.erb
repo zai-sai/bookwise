@@ -3,7 +3,7 @@
 
   <div class="mb-2 pt-3">
     <% if @current_query.blank? %>
-    <h5 class="text-left">No results found. Type a keyword to search for a book.</h5>
+    <h5 class="text-left">Type a keyword to search for a book.</h5>
     <% else %>
     <h5 class="text-left">Search Results - <strong><%= @current_query.capitalize %></strong></h5>
     <% end %>
