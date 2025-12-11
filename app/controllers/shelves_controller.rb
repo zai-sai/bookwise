@@ -15,11 +15,10 @@ class ShelvesController < ApplicationController
     @shelf.user = current_user
     if params[:book_id].present?
       @book = Book.find(params[:book_id])
-      user_books = UserBook.where(user: current_user)
-      if user_books.include?(book: @book)
-        @user_book = user_books.find(book: @book)
+      if UserBook.find_by(book: @book, user: current_user).present?
+        @user_book = UserBook.find_by(book: @book, user: current_user)
       else
-        @user_book = UserBook.new(book: @book, user: current_user)
+        @user_book = UserBook.create(book: @book, user: current_user)
       end
       @shelf.shelf_books.build(user_book: @user_book)
     end
